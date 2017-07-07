@@ -1,6 +1,6 @@
 {
   "copyright_text": "Standard YouTube License",
-  "description": "Nesta palestra veremos procedimentos de instalação do SDK e NDK Android, como também a Apresentação dos principais métodos para captura de imagens na plataforma Android para posterior processamento. Exemplos com código fonte de aplicativos de realidade aumentada em celulares Android, demonstração de todo potencial da tecnologia Webtop da Motorola presente no celular Atrix e demonstração da biblioteca de visão computacional openCV nesta plataforma.",
+  "description": "Nesta palestra veremos procedimentos de instala\u00e7\u00e3o do SDK e NDK Android, como tamb\u00e9m a Apresenta\u00e7\u00e3o dos principais m\u00e9todos para captura de imagens na plataforma Android para posterior processamento. Exemplos com c\u00f3digo fonte de aplicativos de realidade aumentada em celulares Android, demonstra\u00e7\u00e3o de todo potencial da tecnologia Webtop da Motorola presente no celular Atrix e demonstra\u00e7\u00e3o da biblioteca de vis\u00e3o computacional openCV nesta plataforma.",
   "duration": 1793,
   "id": 2,
   "language": "por",
@@ -14,8 +14,12 @@
   ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/wdCNqoHz2uU/maxresdefault.jpg",
-  "title": "Android e Visão Computacional",
+  "title": "Android e Vis\u00e3o Computacional",
   "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=E8NXU7WesU"
+    },
     {
       "type": "ogv",
       "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR6-2013/CPBR6-2013-android-e-visao-computacional.ogv"
@@ -23,10 +27,6 @@
     {
       "type": "webm",
       "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR6-2013/CPBR6-2013-android-e-visao-computacional.ogv"
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/watch?v=E8NXU7WesU"
     }
   ]
 }
