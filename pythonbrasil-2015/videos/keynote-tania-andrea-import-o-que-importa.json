@@ -15,7 +15,10 @@
   "speakers": [
     "Tania Andrea"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/D3Lpl_K3438/maxresdefault.jpg",
   "title": "Keynote - Import o que importa",
   "videos": [

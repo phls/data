@@ -14,7 +14,10 @@
   "speakers": [
     "David Beazley"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/ZzfHjytDceU/maxresdefault.jpg",
   "title": "Keynote -  Topics of Interest (Python Asyncio)",
   "videos": [

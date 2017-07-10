@@ -14,7 +14,10 @@
   "speakers": [
     "Raphael Passini"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/GON4A3YtWEw/maxresdefault.jpg",
   "title": "Trilha Iniciante | Design Patterns e Python",
   "videos": [

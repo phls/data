@@ -14,7 +14,10 @@
   "speakers": [
     "Leandro Mendes Ferreira"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/-D1gVybvH4U/maxresdefault.jpg",
   "title": "Trilha Pydata | Data Warehouse em NoSQL, Cassandra, Spark e Python",
   "videos": [

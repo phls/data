@@ -10,7 +10,10 @@
   "speakers": [
     "Marco Andr\u00e9 Lopes Mendes"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/qVM3jT-z9DE/hqdefault.jpg",
   "title": "Por que Python?",
   "videos": [

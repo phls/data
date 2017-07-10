@@ -8,7 +8,10 @@
   "related_urls": [],
   "slug": "abertura",
   "speakers": [],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/siNRBCUL9BI/hqdefault.jpg",
   "title": "Python brasil [6] Cerimonia de abertura & infra-estrutura",
   "videos": [

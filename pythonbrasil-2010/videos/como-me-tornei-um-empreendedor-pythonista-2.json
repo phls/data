@@ -10,7 +10,10 @@
   "speakers": [
     "Osvaldo Santana Neto"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/GQYarT98BQU/hqdefault.jpg",
   "title": "Como me tornei um empreendedor pythonista",
   "videos": [

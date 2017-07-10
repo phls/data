@@ -5,6 +5,10 @@
   "speakers": [
     "Andre Macdowell"
   ],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/Htaz5Hpv04o/hqdefault.jpg",
   "title": "Mock Away! Uma an\u00e1lise de a escrita de testes de unidade e mocks para algumas ferramentas e frameworks conhecidos",
   "videos": [

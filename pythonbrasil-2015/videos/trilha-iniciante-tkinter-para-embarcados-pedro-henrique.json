@@ -14,7 +14,10 @@
   "speakers": [
     "Pedro Henrique"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/nr6G5o65Zg8/maxresdefault.jpg",
   "title": "Trilha Iniciante | Tkinter para embarcados",
   "videos": [

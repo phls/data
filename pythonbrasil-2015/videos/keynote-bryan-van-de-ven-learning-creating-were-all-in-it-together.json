@@ -14,7 +14,10 @@
   "speakers": [
     "Bryan Van de Ven"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/fuZI5sJQSkU/maxresdefault.jpg",
   "title": "Keynote - Learning == Creating (We're All in it Together)",
   "videos": [

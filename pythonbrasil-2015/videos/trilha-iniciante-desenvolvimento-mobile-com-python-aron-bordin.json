@@ -14,7 +14,10 @@
   "speakers": [
     "Aron Bordin"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/AGd-ShGf5eI/maxresdefault.jpg",
   "title": "Trilha Iniciante | Desenvolvimento mobile com Python",
   "videos": [

@@ -5,6 +5,10 @@
   "speakers": [
     "Sam Agnew"
   ],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/qQrQcyDZydY/hqdefault.jpg",
   "title": "Keynote: Hacking a gameboy with Python",
   "videos": [

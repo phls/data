@@ -14,7 +14,10 @@
   "speakers": [
     "Felipe Volpone"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/wdCNqoHz2uU/maxresdefault.jpg",
   "title": "Trilha Web | Metaprograma\u00e7\u00e3o em Python: metaclass e decorators",
   "videos": [

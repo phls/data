@@ -10,7 +10,10 @@
   "speakers": [
     "Luciana Tricai Cavaline"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/v0EcmI_0YL4/hqdefault.jpg",
   "title": "TI em sa\u00fade  um v\u00e1cuo de mercado e porque Pythonistas j\u00e1 saem na frente",
   "videos": [

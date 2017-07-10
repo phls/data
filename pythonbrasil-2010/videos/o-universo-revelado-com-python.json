@@ -10,7 +10,10 @@
   "speakers": [
     "Eduardo dos Santos Pereira"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/y1qfijZOhF0/hqdefault.jpg",
   "title": "O Universo revelado com Python",
   "videos": [

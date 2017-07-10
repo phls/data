@@ -14,7 +14,10 @@
   "speakers": [
     "Gabriela Dias"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/Llz92eVThMo/maxresdefault.jpg",
   "title": "Trilha Pydata | BeavOps : Como o Python ajudou a integrar o mundo DevOps",
   "videos": [

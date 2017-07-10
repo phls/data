@@ -14,7 +14,10 @@
   "speakers": [
     "Renato Oliveira"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/fPjbaVc2JBE/maxresdefault.jpg",
   "title": "Trilha Iniciante - Testes Pythonicos com Py.test",
   "videos": [

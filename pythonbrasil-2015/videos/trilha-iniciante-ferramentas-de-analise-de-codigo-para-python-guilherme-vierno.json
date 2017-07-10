@@ -14,7 +14,10 @@
   "speakers": [
     "Guilherme Vierno"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/G302G93iRw0/maxresdefault.jpg",
   "title": "Trilha Iniciante | Ferramentas de an\u00e1lise de c\u00f3digo para Python",
   "videos": [

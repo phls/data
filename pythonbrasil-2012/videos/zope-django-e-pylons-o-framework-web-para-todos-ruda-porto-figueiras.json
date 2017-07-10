@@ -5,6 +5,10 @@
   "speakers": [
     "Rud\u00e1 P. Filgueiras"
   ],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/YiGeET-oL4Q/hqdefault.jpg",
   "title": "Zope + Django + Pylons = Pyramid - O framework web para todos",
   "videos": [

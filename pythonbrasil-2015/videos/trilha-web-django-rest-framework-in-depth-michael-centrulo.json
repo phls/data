@@ -14,7 +14,10 @@
   "speakers": [
     "Michael Centrulo"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/f0TIU15ltkk/maxresdefault.jpg",
   "title": "Trilha Web | Django REST Framework in-depth",
   "videos": [

@@ -5,6 +5,10 @@
   "speakers": [
     "Tarek Ziad\u00e9"
   ],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/lVkGxWeEb64/hqdefault.jpg",
   "title": "[Keynote] Python Packaging",
   "videos": [

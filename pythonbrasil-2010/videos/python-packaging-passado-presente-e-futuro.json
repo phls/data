@@ -10,7 +10,10 @@
   "speakers": [
     "Hugo Lopes Tavares"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/B0BDYi0jU9k/hqdefault.jpg",
   "title": "Python Packaging  Passado, Presente e Futuro",
   "videos": [

@@ -14,7 +14,10 @@
   "speakers": [
     "Julio Melanda"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/UFt9pFIpy_E/maxresdefault.jpg",
   "title": "Trilha Iniciante | Games com Python",
   "videos": [

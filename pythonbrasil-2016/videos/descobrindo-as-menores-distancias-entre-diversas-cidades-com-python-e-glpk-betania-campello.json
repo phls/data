@@ -5,6 +5,10 @@
   "speakers": [
     "Betania Campello"
   ],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/mthquDwpBmk/hqdefault.jpg",
   "title": "Descobrindo as menores dist\u00e2ncias entre diversas cidades com Python e GLPK",
   "videos": [

@@ -14,7 +14,10 @@
   "speakers": [
     "Ugo de Lima Pozo"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/MBdeXoAZEes/maxresdefault.jpg",
   "title": "Trilha Carreira | Anubis - Python na C\u00e2mara Municipal de S\u00e3o Paulo",
   "videos": [

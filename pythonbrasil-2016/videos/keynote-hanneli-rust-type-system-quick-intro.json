@@ -5,6 +5,10 @@
   "speakers": [
     "Hanneli Tavante"
   ],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/kP5olvIlTmc/hqdefault.jpg",
   "title": "Keynote: Rust Type System - Quick intro",
   "videos": [

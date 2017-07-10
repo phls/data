@@ -5,6 +5,10 @@
   "speakers": [
     "Bernardo Fontes"
   ],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/Um2pu_XtR-4/hqdefault.jpg",
   "title": "Crawleando a Web Feito Gente Grande Com o Scrapy",
   "videos": [

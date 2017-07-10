@@ -14,7 +14,10 @@
   "speakers": [
     "Gabriel Moreira"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/6d5DPPqg_lw/maxresdefault.jpg",
   "title": "Trilha Pydata | Python for Data Science",
   "videos": [

@@ -14,7 +14,10 @@
   "speakers": [
     "Ervilis Viana"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/d0BqimhY_OE/maxresdefault.jpg",
   "title": "Trilha Carreira | Escale c\u00f3digo e n\u00e3o servidores",
   "videos": [

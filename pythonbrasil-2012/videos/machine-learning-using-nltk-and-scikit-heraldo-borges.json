@@ -5,6 +5,10 @@
   "speakers": [
     "Heraldo Borges"
   ],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/NaR2ETXH5vc/hqdefault.jpg",
   "title": "Machine Learning using NLTK and SCIKIT",
   "videos": [

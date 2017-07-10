@@ -5,6 +5,10 @@
   "speakers": [
     "Nicolle Cysneiros"
   ],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/PB4u4YZYx14/hqdefault.jpg",
   "title": "Graph Databases: Discutindo o Relacionamento dos seus Dados com Python",
   "videos": [

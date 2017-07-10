@@ -14,7 +14,10 @@
   "speakers": [
     "Iuri de Silvio"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/N5GerhvrSCo/maxresdefault.jpg",
   "title": "Trilha Web | Funkload: Quanto a sua aplica\u00e7\u00e3o web aguenta?",
   "videos": [

@@ -14,7 +14,10 @@
   "speakers": [
     "Luciano Ramalho"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/ksHpv8selV4/maxresdefault.jpg",
   "title": "Trilha Pydata | Girando pratos: concorr\u00eancia moderna em Python",
   "videos": [

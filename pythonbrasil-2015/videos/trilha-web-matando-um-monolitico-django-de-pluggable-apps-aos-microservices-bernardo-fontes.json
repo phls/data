@@ -15,7 +15,10 @@
   "speakers": [
     "Bernardo Fontes"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/x8wOAAJdcnw/maxresdefault.jpg",
   "title": "Trilha Web | Matando um Monol\u00edtico Django: de Pluggable Apps aos Microservices",
   "videos": [

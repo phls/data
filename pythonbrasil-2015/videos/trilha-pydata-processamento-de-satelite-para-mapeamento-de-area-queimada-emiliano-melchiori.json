@@ -14,7 +14,10 @@
   "speakers": [
     "Emiliano Melchiori"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/_URMylKV6t0/maxresdefault.jpg",
   "title": "Trilha Pydata | Processamento de sat\u00e9lite para mapeamento de \u00e1rea queimada",
   "videos": [

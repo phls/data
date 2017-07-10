@@ -15,7 +15,10 @@
   "speakers": [
     "Caio Carrara"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/ucfWmCxSx3s/maxresdefault.jpg",
   "title": "Trilha Carreira | Python Guerrilha - levando alegria para ambientes burocr\u00e1ticos",
   "videos": [

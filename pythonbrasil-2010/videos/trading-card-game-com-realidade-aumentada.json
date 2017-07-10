@@ -10,7 +10,10 @@
   "speakers": [
     "Thiago Malheiros Porcino"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/qEbyyAqJgng/hqdefault.jpg",
   "title": "Trading Card Game com Realidade Aumentada",
   "videos": [

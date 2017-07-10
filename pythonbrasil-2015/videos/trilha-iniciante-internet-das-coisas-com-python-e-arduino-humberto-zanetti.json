@@ -14,7 +14,10 @@
   "speakers": [
     "Humberto Zanetti"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/zjv2svGmj1A/maxresdefault.jpg",
   "title": "Trilha Iniciante | Internet das Coisas com Python e Arduino",
   "videos": [

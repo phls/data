@@ -14,7 +14,10 @@
   "speakers": [
     "Tony Lampada"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/GVfISJ3l50c/maxresdefault.jpg",
   "title": "Trilha Carreira | Conselhos de arquitetura e qualidade",
   "videos": [

@@ -10,7 +10,10 @@
   "speakers": [
     "Leah Culver"
   ],
-  "tags": [],
+  "tags": [
+    "Python",
+    "Python Brasil"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/YNLm_ym2QxM/hqdefault.jpg",
   "title": "Keynote  The Zen of Startups",
   "videos": [
