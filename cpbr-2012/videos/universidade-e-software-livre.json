@@ -1,0 +1,45 @@
+{
+  "id": 16,
+  "copyright_text": "CC BY",
+  "language": "por",
+  "duration": 5187,
+  "recorded": "2012-02-11",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/universidade-e-software-livre"
+  ],
+  "slug": "universidade-e-software-livre",
+  "speakers": [
+    "Jansen Sena",
+    "José Honorato F. Nunes",
+    "Marcos Sunye",
+    "Pedro Antonio Dourado de Rezende",
+    "Rodrigo Padula de Oliveira"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "São Paulo",
+    "Universidades",
+    "Educação"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/universidade-e-software-livre.jpg",
+  "title": "Painel: Universidade e Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=woSjgLHwPP4"
+    },
+    {
+      "size": 512620863,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-universidade-e-software-livre.ogv"
+    },
+    {
+      "size": 181518060,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-universidade-e-software-livre.webm"
+    }
+  ],
+  "description": "Compartilhar conhecimento é o lema do movimento Software Livre, então nada mais natural do que levar esta filosofia a outras áreas. Se pesquisadores fossem movidos pelo chamado princípio hacker de criação, onde todas as descobertas são compartilhadas com a comunidade como forma de disseminar o saber e fomentar a pesquisa, a comunidade acadêmica não traria mais benefícios à sociedade?"
+}

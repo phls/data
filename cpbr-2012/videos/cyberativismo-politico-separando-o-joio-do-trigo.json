@@ -1,0 +1,47 @@
+{
+  "id": 5,
+  "copyright_text": "CC BY",
+  "language": "por",
+  "duration": 7064,
+  "recorded": "2012-02-08",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/cyberativismo-politico-separando-o-joio-do-trigo"
+  ],
+  "slug": "cyberativismo-politico-separando-o-joio-do-trigo",
+  "speakers": [
+    "Alberto J. Azevedo",
+    "Anchises M. G. de Paula",
+    "Kul Wadhwa",
+    "Marcelo D'Elia Branco",
+    "Pedro Antonio Dourado de Rezende",
+    "Sérgio Amadeu da Silveira"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "São Paulo",
+    "Painel",
+    "Hackerativismo",
+    "Hacker"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/cyberativismo-politico-separando-o-joio-do-trigo.jpg",
+  "title": "Painel: cyberativismo político - separando o joio do trigo",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=myPKuHIRfXY"
+    },
+    {
+      "size": 951649483,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-cyberativismo-politico-separando-o-joio-do-trigo.ogv"
+    },
+    {
+      "size": 299619951,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-cyberativismo-politico-separando-o-joio-do-trigo.webm"
+    }
+  ],
+  "description": "Manchete em todos os jornais: hacker invade computadores, rouba senhas de banco e é preso. Será que foi um hacker mesmo? Será que seu objetivo era apenas roubar? Mais uma manchete: hackers derrubam o sistema da Visa em protesto pela libertação de Julian Assange. Novamente: foram hackers? Contra o que, exatamente, se está protestanto? Entenda o que está em jogo e o que não aparece na mídia sobre essas ações de \"hackers\"."
+}

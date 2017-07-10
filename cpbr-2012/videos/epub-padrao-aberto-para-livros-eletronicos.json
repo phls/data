@@ -1,0 +1,41 @@
+{
+  "id": 7,
+  "copyright_text": "CC BY",
+  "language": "por",
+  "duration": 5052,
+  "recorded": "2012-02-09",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/epub-padrao-aberto-para-livros-eletronicos"
+  ],
+  "slug": "epub-padrao-aberto-para-livros-eletronicos",
+  "speakers": [
+    "Jomar dos Santos Silva - Homembit"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "São Paulo",
+    "Electronic Publication",
+    "ePub"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/epub-padrao-aberto-para-livros-eletronicos.jpg",
+  "title": "ePub: padrão aberto para livros eletrônicos",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=FKXENlc9oEo"
+    },
+    {
+      "size": 494996952,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-epub-padrao-aberto-para-livros-eletronicos.ogv"
+    },
+    {
+      "size": 181622814,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-epub-padrao-aberto-para-livros-eletronicos.webm"
+    }
+  ],
+  "description": "Livros eletrônicos estão se popularizando com extrema rapidez no mercado, impulsionados pelas vendas crescentes de tablets (como o Galaxy Tab, iPad e Xoom), além dos tradicionais leitores de e-book como o Kindle da Amazon ou o Nook da Barnes & Noble. As possibilidades abertas pelo formato Epub, criado pelo International Digital Publishing Forum, são muitas. Hoje, qualquer pessoa pode tanto criar um programa para ler livros eletrônicos como criar seu próprio livro on-line. Tudo indica que o novo padrão internacional de e-books veio para ficar."
+}

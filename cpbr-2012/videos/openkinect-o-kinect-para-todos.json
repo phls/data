@@ -1,0 +1,42 @@
+{
+  "id": 13,
+  "copyright_text": "CC BY",
+  "language": "por",
+  "duration": 2911,
+  "recorded": "2012-02-07",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/openkinect-e-openni-o-kinect-para-todos"
+  ],
+  "slug": "openkinect-o-kinect-para-todos",
+  "speakers": [
+    "Gustavo Jordan Castro Brasil"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "São Paulo",
+    "Openkinect",
+    "Kinect",
+    "Xbox"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/openkinect-o-kinect-para-todos.jpg",
+  "title": "OpenKinect e OpenNI, o Kinect para todos",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=jzRN0epvIzE"
+    },
+    {
+      "size": 272450678,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-openkinect-o-kinect-para-todos.ogv"
+    },
+    {
+      "size": 97642876,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-openkinect-o-kinect-para-todos.webm"
+    }
+  ],
+  "description": "O hardware do incrível Xbox Kinect, ganhou uma comunidade aberta e entusiasmada. Suas interfaces gestuais com Software Livre são a sensação do dispositivo. Uma atividade que inclui informações sobre o funcionamento do driver, comparações de características com outros frameworks e desenvolvimento para detecção de gestos com a OpenNI. Conheça e faça parte dessa divertida empreitada."
+}

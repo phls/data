@@ -1,0 +1,44 @@
+{
+  "id": 9,
+  "copyright_text": "CC BY",
+  "language": "por",
+  "duration": 1773,
+  "recorded": "2012-02-09",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/hackerspaces-e-a-cultura-hacker"
+  ],
+  "slug": "hackerspaces-e-a-cultura-hacker",
+  "speakers": [
+    "Rodrigo pitanga Rodrigues da Silva",
+    "Felipe juca Sanches"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "São Paulo",
+    "Hackerspace",
+    "Hacker",
+    "Garoa",
+    "Garoa Hacker Clube"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/hackerspaces-e-a-cultura-hacker.jpg",
+  "title": "Hackerspaces e a cultura hacker",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=ds58orZJRL0"
+    },
+    {
+      "size": 265504246,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-hackerspaces-e-a-cultura-hacker.ogv"
+    },
+    {
+      "size": 133433347,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-hackerspaces-e-a-cultura-hacker.webm"
+    }
+  ],
+  "description": "Essa palestra explora alguns modelos de hackerspaces, as particularidades de seus processos embrionários, além de apresentar soluções simples para a resolução de problemas recorrentes na criação e manutenção desses espaços - as Hackerspace Design Patterns, com foco nas experiências do Garoa Hacker Clube. Esperamos que o relato de nossa experiência sirva de inspiração para a criação de espaços similares no Brasil e na América Latina."
+}

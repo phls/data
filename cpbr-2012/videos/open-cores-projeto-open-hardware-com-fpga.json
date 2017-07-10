@@ -1,0 +1,42 @@
+{
+  "id": 11,
+  "copyright_text": "CC BY",
+  "language": "por",
+  "duration": 2786,
+  "recorded": "2012-02-12",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/opencores-projeto-openhardware-com-fpga"
+  ],
+  "slug": "open-cores-projeto-open-hardware-com-fpga",
+  "speakers": [
+    "Lucas Teske"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "São Paulo",
+    "Open core",
+    "Open hardware",
+    "FPGA"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/open-cores-projeto-open-hardware-com-fpga.jpg",
+  "title": "Open cores: projeto open hardware com FPGA",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=FQFl4qxC1Y4"
+    },
+    {
+      "size": 469893775,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-open-cores-projeto-open-hardware-com-fpga.ogv"
+    },
+    {
+      "size": 149353246,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-open-cores-projeto-open-hardware-com-fpga.webm"
+    }
+  ],
+  "description": "Um conceito não tão conhecido mas que tem um potêncial muito grande, o Open Core é um desenvolvimento de Hardware Livre com FPGA. FPGA é um sistema acima de um microprocessador, onde você pode criar um programa que rode em tempo real e sem atrasos totalmente dedicado. Quer saber mais de como isso é possível? Esta palestra mostrará o que são OpenCores."
+}

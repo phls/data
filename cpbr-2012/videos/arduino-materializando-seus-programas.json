@@ -1,0 +1,40 @@
+{
+  "id": 2,
+  "copyright_text": "CC BY",
+  "language": "por",
+  "duration": 2021,
+  "recorded": "2012-02-08",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/arduino-materializando-seus-programas"
+  ],
+  "slug": "arduino-materializando-seus-programas",
+  "speakers": [
+    "Radamés Ajna"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "São Paulo",
+    "Arduino"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/arduino-materializando-seus-programas.jpg",
+  "title": "Arduino - materializando seus programas",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=_XM16RoCpPI"
+    },
+    {
+      "size": 209386946,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-arduino-materializando-seus-programas.ogv"
+    },
+    {
+      "size": 66531363,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-arduino-materializando-seus-programas.webm"
+    }
+  ],
+  "description": "O Arduino permite que você consiga desenvolver aplicações que vão muito além dos limites de um monitor ou outros recursos tradicionais. Nesta apresentação irei mostrar como utilizar esta ferramenta que se tornou uma febre mundial e como ela esta sendo utilizando em diversos campos das novas mídias."
+}

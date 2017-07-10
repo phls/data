@@ -1,0 +1,44 @@
+{
+  "id": 10,
+  "copyright_text": "CC BY",
+  "language": "por",
+  "duration": 1256,
+  "recorded": "2012-02-10",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/inclusao-digital-integrada-manutencao-e-monitoramento"
+  ],
+  "slug": "inclusao-digital-integrada",
+  "speakers": [
+    "Marcos Sunye"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "São Paulo",
+    "C3SL",
+    "UFPR",
+    "Universidade Federal do Paraná",
+    "Departamento de Informática",
+    "DInf"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/inclusao-digital-integrada.jpg",
+  "title": "Inclusao digital integrada",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=-wUbbguJumg"
+    },
+    {
+      "size": 269458817,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-inclusao-digital-integrada.ogv"
+    },
+    {
+      "size": 126028928,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-inclusao-digital-integrada.webm"
+    }
+  ],
+  "description": "A palestra aborda a questao da integracao das iniciativas de inclusao digital do governo federal, mostrando como é possivel a gestao integrada e compartilhada atarvés de um sistema escalavel de monitoramento e uma distribuição adaptavel de sistema operacional."
+}
