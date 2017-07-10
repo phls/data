@@ -1,25 +1,26 @@
 {
-  "id": 6,
   "copyright_text": "CC BY",
-  "language": "por",
+  "description": "Apresenta\u00e7\u00e3o de teor t\u00e9cnico sobre o WordPress como plataforma de desenvolvimento escal\u00e1vel e apropriado para grandes audi\u00eancias. Discuss\u00e3o das funcionalidades das \u00faltimas vers\u00f5es, do processo de integra\u00e7\u00e3o entre as diferentes \u00e1reas de desenvolvimento e an\u00e1lise de alguns casos de sucesso que buscam a desestigmatiza\u00e7\u00e3o deste software como \u201csomente voltado para blogs\u201d.",
   "duration": 2926,
+  "id": 6,
+  "language": "por",
   "recorded": "2012-02-11",
   "related_urls": [
     "http://slcampusparty.com.br/blog/desenvolvendo-com-wordpress-uma-plataforma-robusta-para-grandes-audiencias"
   ],
   "slug": "desenvolvendo-com-wordpress-uma-plataforma-robusta-para-grandes-audiencias",
   "speakers": [
-    "Vinícius Massuchetto"
+    "Vin\u00edcius Massuchetto"
   ],
   "tags": [
     "CPBR5",
     "Campus Party Brasil",
     "Software Livre",
-    "São Paulo",
+    "S\u00e3o Paulo",
     "WordPress"
   ],
   "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/desenvolvendo-com-wordpress-uma-plataforma-robusta-para-grandes-audiencias.jpg",
-  "title": "Desenvolvendo com WordPress: uma plataforma robusta para grandes audiências",
+  "title": "Desenvolvendo com WordPress: uma plataforma robusta para grandes audi\u00eancias",
   "videos": [
     {
       "type": "youtube",
@@ -35,6 +36,5 @@
       "type": "webm",
       "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-desenvolvendo-com-wordpress-uma-plataforma-robusta-para-grandes-audiencias.webm"
     }
-  ],
-  "description": "Apresentação de teor técnico sobre o WordPress como plataforma de desenvolvimento escalável e apropriado para grandes audiências. Discussão das funcionalidades das últimas versões, do processo de integração entre as diferentes áreas de desenvolvimento e análise de alguns casos de sucesso que buscam a desestigmatização deste software como \“somente voltado para blogs\”."
+  ]
 }

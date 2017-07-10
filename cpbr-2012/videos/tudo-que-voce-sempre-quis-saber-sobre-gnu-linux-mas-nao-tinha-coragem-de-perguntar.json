@@ -1,8 +1,9 @@
 {
-  "id": 15,
   "copyright_text": "CC BY",
-  "language": "por",
+  "description": "Quer saber o que \u00e9, afinal, GNU/Linux? Um palestra introdut\u00f3ria sobre software livre, explicando conceitos, hist\u00f3ria, personalidades e filosofia, para n\u00e3o restar nenhuma d\u00favida - apenas a vontade de saber mais.",
   "duration": 3340,
+  "id": 15,
+  "language": "por",
   "recorded": "2012-02-11",
   "related_urls": [
     "http://slcampusparty.com.br/blog/tudo-que-voce-sempre-quis-saber-sobre-gnulinux-mas-nao-tinha-coragem-de-perguntar"
@@ -15,13 +16,13 @@
     "CPBR5",
     "Campus Party Brasil",
     "Software Livre",
-    "São Paulo",
+    "S\u00e3o Paulo",
     "GNU/Linux",
     "GNU",
     "Linux"
   ],
   "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/tudo-que-voce-sempre-quis-saber-sobre-gnu-linux-mas-nao-tinha-coragem-de-perguntar.jpg",
-  "title": "Tudo que você sempre quis saber sobre GNU/Linux mas não tinha coragem de perguntar",
+  "title": "Tudo que voc\u00ea sempre quis saber sobre GNU/Linux mas n\u00e3o tinha coragem de perguntar",
   "videos": [
     {
       "type": "youtube",
@@ -37,6 +38,5 @@
       "type": "webm",
       "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-tudo-que-voce-sempre-quis-saber-sobre-gnu-linux-mas-nao-tinha-coragem-de-perguntar.webm"
     }
-  ],
-  "description": "Quer saber o que é, afinal, GNU/Linux? Um palestra introdutória sobre software livre, explicando conceitos, história, personalidades e filosofia, para não restar nenhuma dúvida - apenas a vontade de saber mais."
+  ]
 }

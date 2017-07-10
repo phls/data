@@ -1,8 +1,9 @@
 {
-  "id": 17,
   "copyright_text": "CC BY",
-  "language": "por",
+  "description": "Partindo de sua experi\u00eancia e seus pr\u00f3prios m\u00e9todos de trabalho, pixel ir\u00e1 apresentar o modo como prepara e realiza suas apresenta\u00e7\u00f5es, partindo desde a prepara\u00e7\u00e3o de conte\u00fado, at\u00e9 a edi\u00e7\u00e3o ao vivo de imagens. Ele ir\u00e1 abordar pesquisa de conte\u00fado, \u00e9cnicas e interfaces de controle para performance, com foco no software livre LiVES.",
   "duration": 2848,
+  "id": 17,
+  "language": "por",
   "recorded": "2012-02-09",
   "related_urls": [
     "http://slcampusparty.com.br/blog/vjing-com-software-livre"
@@ -15,7 +16,7 @@
     "CPBR5",
     "Campus Party Brasil",
     "Software Livre",
-    "São Paulo",
+    "S\u00e3o Paulo",
     "LiVES",
     "VJ"
   ],
@@ -36,6 +37,5 @@
       "type": "webm",
       "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/CPBR5-2012/CPBR5-2012-vjing-com-softwares-livres.webm"
     }
-  ],
-  "description": "Partindo de sua experiência e seus próprios métodos de trabalho, pixel irá apresentar o modo como prepara e realiza suas apresentações, partindo desde a preparação de conteúdo, até a edição ao vivo de imagens. Ele irá abordar pesquisa de conteúdo, écnicas e interfaces de controle para performance, com foco no software livre LiVES."
+  ]
 }
