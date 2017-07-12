@@ -1,0 +1,40 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Entenda como criar sites din\u00e2micos sem precisar de programador ou web designer, utilizando o Joomla. H\u00e1 muitas vantagens e desvantagens a ser consideradas antes de escolher come\u00e7ar um projeto com esta ferramenta. Nesta palestra, voc\u00ea entender\u00e1 todos os passos para come\u00e7ar a criar sites com esta poderosa ferramenta.",
+  "duration": 3539,
+  "id": 40,
+  "language": "por",
+  "recorded": "2013-07-20",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/criando-sites-dinamicos-com-joomla-vantagens-e-desvantagens"
+  ],
+  "slug": "criando-sites-dinamicos-com-joomla",
+  "speakers": [
+    "Jennifer Payne"
+  ],
+  "tags": [
+    "CPRecife2",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "Joomla"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/criando-sites-dinamicos-com-joomla.jpg",
+  "title": "Criando sites din\u00e2micos com Joomla",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=j6QhWwj0D3g"
+    },
+    {
+      "size": 389654440,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife2-2013/cprecife2-2013-criando-sites-dinamicos-com-joomla.ogv"
+    },
+    {
+      "size": 133284732,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife2-2013/cprecife2-2013-criando-sites-dinamicos-com-joomla.webm"
+    }
+  ]
+}
