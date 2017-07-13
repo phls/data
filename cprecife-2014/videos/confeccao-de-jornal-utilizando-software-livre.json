@@ -1,6 +1,6 @@
 {
   "copyright_text": "CC BY",
-  "description": "Veja o passo a passo da confecção do jornal O Estudante, utilizando somente ferramentas livres ou abertas como Scribus, Latex e vim. Saiba também como espalhar a ideia de um jornal universitário na sua faculdade.",
+  "description": "Veja o passo a passo da confec\u00e7\u00e3o do jornal O Estudante, utilizando somente ferramentas livres ou abertas como Scribus, Latex e vim. Saiba tamb\u00e9m como espalhar a ideia de um jornal universit\u00e1rio na sua faculdade.",
   "duration": 3690,
   "id": 45,
   "language": "por",
@@ -25,7 +25,7 @@
     "O Estudante"
   ],
   "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/confeccao-de-jornal-utilizando-software-livre.jpg",
-  "title": "Confecção de jornal utilizando software livre: o caso do jornal universitário O Estudante",
+  "title": "Confec\u00e7\u00e3o de jornal utilizando software livre: o caso do jornal universit\u00e1rio O Estudante",
   "videos": [
     {
       "type": "youtube",

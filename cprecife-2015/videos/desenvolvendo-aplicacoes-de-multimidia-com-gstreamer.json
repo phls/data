@@ -1,6 +1,6 @@
 {
   "copyright_text": "CC BY",
-  "description": "GStreamer é um framework multimídia usado por várias aplicações de áudio e vídeo. Seu sistema de plugins permite desenvolver aplicações de forma simples e flexível. Nessa palestra irei mostrar os conceitos básicos do framework e como prototipar e desenvolver aplicações multimídia usando GStreamer e Python.",
+  "description": "GStreamer \u00e9 um framework multim\u00eddia usado por v\u00e1rias aplica\u00e7\u00f5es de \u00e1udio e v\u00eddeo. Seu sistema de plugins permite desenvolver aplica\u00e7\u00f5es de forma simples e flex\u00edvel. Nessa palestra irei mostrar os conceitos b\u00e1sicos do framework e como prototipar e desenvolver aplica\u00e7\u00f5es multim\u00eddia usando GStreamer e Python.",
   "duration": 3148,
   "id": 58,
   "language": "por",
@@ -21,7 +21,7 @@
     "Python"
   ],
   "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/desenvolvendo-aplicacoes-de-multimidia-com-gstreamer.jpg",
-  "title": "Desenvolvendo aplicações de multimídia com GStreamer",
+  "title": "Desenvolvendo aplica\u00e7\u00f5es de multim\u00eddia com GStreamer",
   "videos": [
     {
       "type": "youtube",
