@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O mercado musical ainda é fortemente dominado por tecnologias proprietárias e na formação musical quando se volta à tecnologias de composição de partituras, as escolas não oportunizam aos alunos conhecer opções que lhe deem liberdade de escolha, e indiretamente conduze-os no caminho da ilegalidade por não poderem pagar os preços abusivos de tais softwares. Como solução a este problema, iremos apresentar o Software Livre de notação musical (composição de partituras) Musescore, uma opção livre de alto nível que atende além das necessidades nesta área e compete de igual pra igual às opções proprietárias pagas. Iremos mostrar funcionalidades de modo que qualquer usuário, músico ou não poderá praticar e dar asas à sua imaginação.",
+  "duration": 2754,
+  "id": 47,
+  "language": "por",
+  "recorded": "2014-07-24",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-recife-2014/talk/notas-musicais-com-software-livre-cprecife3",
+    "http://slcampusparty.com.br/blog/ferramentas-livres-para-cloud-computing-infraestrutura-plataforma-software-e-banco-de-dados"
+  ],
+  "slug": "notas-musicais-com-software-livre",
+  "speakers": [
+    "João Almeida"
+  ],
+  "tags": [
+    "CPRecife3",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "Música",
+    "Musescore"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/notas-musicais-com-software-livre.jpg",
+  "title": "Notas musicais com Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=OZV3Z0atoN4"
+    },
+    {
+      "size": 194743615,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife3-2014/cprecife3-2014-notas-musicais-com-software-livre.ogv"
+    },
+    {
+      "size": 79684533,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife3-2014/cprecife3-2014-notas-musicais-com-software-livre.webm"
+    }
+  ]
+}

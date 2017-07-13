@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O inotify (inode notify) faz parte do Linux e é responsável por fazer o kernel observar os filesystems em operação, avisando aos programas sobre alterações ocorridas. Um exemplo disso é quando copiamos um arquivo via shell e o mesmo é mostrado, imediatamente, em um programa gráfico de gerenciamento de arquivos, como o Dolphin (KDE) ou o Nautilus (Gnome). Esse programa gráfico sempre será avisado sobre essas alterações, em tempo real, pelo Kernel Linux (ação do inotify). Assim como os arquivos, diretórios também poderão ser monitorados. Nesta palestras, serão mostrados vários programas e técnicas baseados em inotify. Assim, algumas operações de administração de sistemas e de segurança de rede que poderão ser realizadas. São exemplos: observação de invasões em redes de computadores, obtendo alertas em tempo real, criando-se algo em torno de um elemento verificador de integridade; backup instantâneo de arquivos, sempre que os mesmos forem alterados; remoção de dumps de bancos de dados, imediatamente após o backup para um servidor específico; criação de um sistema de DHCP primário e secundário, similar ao que ocorre com o DNS.",
+  "duration": 3529,
+  "id": 59,
+  "language": "por",
+  "recorded": "2015-07-25",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-recife-2015/talk/inotify-observando-arquivos-decisoes-seguranca-tempo-real"
+  ],
+  "slug": "inotify-observando-e-tomando-decisoes-de-seguranca-em-tempo-real",
+  "speakers": [
+    "João Eriberto Mota Filho"
+  ],
+  "tags": [
+    "CPRecife4",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "inotify",
+    "inode notify"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/inotify-observando-e-tomando-decisoes-de-seguranca-em-tempo-real.jpg",
+  "title": "Inotify: observando seus arquivos e tomando decisões de segurança em tempo real.",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=vbigbb4-Q9Q"
+    },
+    {
+      "size": 517512627,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife4-2015/cprecife4-2015-inotify-observando-e-tomando-decisoes-de-seguranca-em-tempo-real.ogv"
+    },
+    {
+      "size": 218/590954,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife4-2015/cprecife4-2015-inotify-observando-e-tomando-decisoes-de-seguranca-em-tempo-real.webm"
+    }
+  ]
+}

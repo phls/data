@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Os protesto de junho do ano passado mostraram ao Brasil o que muitos países já tinham descoberto desde as revoltas na Tunísia em 2011: está se consolidando um novo tipo de movimento social, interconectado e global, que nasce nas redes sociais e a partir delas transborda para as ruas. Estas revoltas interconectadas (que tiveram outra manifestação marcante em 2013 na Turquia, na forma do #OccupyGezi) trazem uma série de traços comuns, além de um modelo de auto-organização típico das sociedades em rede. Os países podem ser distantes entre si, com conjunturas políticas e sociais bastante distintas. Mas os protestos que começaram em 2011 inauguraram uma nova forma de comportamento político. “Quatro anos de Revoltas Interconectadas – de Túnis ao Brasil“ - será o tema do diálogo que acontece na Campus Party Recife com o profissional de tecnologia da informação e comunicação e ativista do software livre Marcelo Branco. Será a partir da troca de ideias entre diferentes atores das movimentações locais que se pode construir o grande mosaico global que nos permita entender como essas ações são irmanadas entre si.",
+  "duration": 2007,
+  "id": 49,
+  "language": "por",
+  "recorded": "2014-07-24",
+  "related_urls": [
+    "https://campuse.ro/events/campus-party-recife-2014/talk/quatro-anos-de-revoltas-interconectadas-de-tunis-ao-brasil-cpre3",
+    "http://slcampusparty.com.br/blog/palestra-quatro-anos-de-revoltas-interconectadas-de-tunis-ao-brasil"
+  ],
+  "slug": "quatro-anos-de-revoltas-interconectadas",
+  "speakers": [
+    "Marcelo Branco"
+  ],
+  "tags": [
+    "CPRecife3",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "Tunísia",
+    "Turquia",
+    "OccupyGezi"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/quatro-anos-de-revoltas-interconectadas.jpg",
+  "title": "Quatro anos de revoltas interconectadas – de Túnis ao Brasil",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=XKQvzAQH8o8"
+    },
+    {
+      "size": 182688923,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife3-2014/cprecife3-2014-quatro-anos-de-revoltas-interconectadas.ogv"
+    },
+    {
+      "size": 80526372,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife3-2014/cprecife3-2014-quatro-anos-de-revoltas-interconectadas.webm"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O GUID Partition Table (GPT) é um novo modelo de tabela de partição de disco, que faz parte do padrão UEFI, desenvolvido inicialmente pela Intel, como substituição à BIOS tradicional em PC. O GPT é uma realidade atual e emergente, uma vez que o antigo MBR possui limitações e, juntamente com o sistema BIOS tradicional, só permite a utilização de discos de até 2 TB, contra 9 ZB do GPT. A palestra mostrará os detalhes técnicos sobre o GPT, bem como a sua gerência e utilização máquinas com GNU/Linux.",
+  "duration": 2790,
+  "id": 52,
+  "language": "por",
+  "recorded": "2013-02-02",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/gpt-domine-a-nova-geracao-de-tabela-de-particoes-de-disco",
+    "http://slcampusparty.com.br/blog/gpt-domine-a-nova-geracao-de-tabela-de-particoes-de-disco"
+  ],
+  "slug": "gpt-domine-a-nova-geracao-de-tabela-de-particoes-de-disco",
+  "speakers": [
+    "João Eriberto Mota Filho"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "GUID Partition Table (GPT)",
+    "UEFI",
+    "BIOS",
+    "Partição"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/gpt-domine-a-nova-geracao-de-tabela-de-particoes-de-disco.jpg",
+  "title": "GPT: domine a nova geração de tabela de partições de disco",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=mh5RE8Hl48s"
+    },
+    {
+      "size": 218671555,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-gpt-domine-a-nova-geracao-de-tabela-de-particoes-de-disco.ogv"
+    },
+    {
+      "size": 69652774,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-gpt-domine-a-nova-geracao-de-tabela-de-particoes-de-disco.webm"
+    }
+  ]
+}

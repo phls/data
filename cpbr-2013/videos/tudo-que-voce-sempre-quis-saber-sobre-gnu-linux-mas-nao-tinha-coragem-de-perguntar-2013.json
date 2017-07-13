@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Quer saber o que é, afinal, GNU/Linux? Um palestra introdutória sobre software livre, explicando conceitos, história, personalidades e filosofia, para não restar nenhuma dúvida - apenas a vontade de saber mais.",
+  "duration": 3795,
+  "id": 51,
+  "language": "por",
+  "recorded": "2013-02-02",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/tudo-que-voce-sempre-quis-saber-sobre-gnulinux-mas-nao-tinha-coragem-de-perguntar",
+    "http://slcampusparty.com.br/blog/tudo-que-voce-sempre-quis-saber-sobre-gnu-linux-mas-nao-tinha-coragem-de-perguntar"
+  ],
+  "slug": "tudo-que-voce-sempre-quis-saber-sobre-gnu-linux-mas-nao-tinha-coragem-de-perguntar-2013",
+  "speakers": [
+    "Rubens Queiroz de Almeida"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "GNU/Linux"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/tudo-que-voce-sempre-quis-saber-sobre-gnu-linux-mas-nao-tinha-coragem-de-perguntar-2013.jpg",
+  "title": "Tudo que você sempre quis saber sobre GNU/Linux mas não tinha coragem de perguntar (2013)",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=ixYLd8P_Syw"
+    },
+    {
+      "size": 37596752,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-tudo-que-voce-sempre-quis-saber-sobre-gnu-linux-mas-nao-tinha-coragem-de-perguntar.ogv"
+    },
+    {
+      "size": 115412077,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-tudo-que-voce-sempre-quis-saber-sobre-gnu-linux-mas-nao-tinha-coragem-de-perguntar.webm"
+    }
+  ]
+}
