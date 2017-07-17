@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A privacidade em nossa sociedade n\u00e3o \u00e9 mais um direito, \u00e9 um privil\u00e9gio! Em um mundo cada vez mais conectado, grandes corpora\u00e7\u00f5es ou hackers an\u00f4nimos far\u00e3o de tudo para conseguir suas informa\u00e7\u00f5es. Esta palestra aborda problemas relacionados \u00e0 seguran\u00e7a de dados, vazamento de informa\u00e7\u00f5es e cyberbullying. Ser\u00e3o apresentadas t\u00e9cnicas e solu\u00e7\u00f5es livres para ambientes de comunica\u00e7\u00e3o seguros (e-mail e mensagens instant\u00e2neas), e tecnologias existentes para seguran\u00e7a de comunica\u00e7\u00f5es.",
+  "duration": 3016,
+  "id": 61,
+  "language": "por",
+  "recorded": "2017-06-16",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasilia-2017/talk/como-mandar-nudes-em-seguranca-v30-como-viver-em-uma-sociedade-sem-privacidade-digital"
+  ],
+  "slug": "como-mandar-nudes-em-seguranca-v30-como-viver-em-uma-sociedade-sem-privacidade-digital",
+  "speakers": [
+    "Christiane Borges Santos"
+  ],
+  "tags": [
+    "CPBSB",
+    "Campus Party Bras\u00edlia",
+    "Software Livre",
+    "Bras\u00edlia",
+    "Vigil\u00e2ncia",
+    "Privacidade",
+    "Seguran\u00e7a de dados",
+    "Cyberbullying"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/como-mandar-nudes-em-seguranca-v30-como-viver-em-uma-sociedade-sem-privacidade-digital.jpg",
+  "title": "Como mandar Nudes em seguran\u00e7a?! - V3.0: Como viver em uma sociedade sem privacidade digital?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=YE_qtNiR27A"
+    },
+    {
+      "size": 377523871,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbsb1-2017/cpbsb1-2017-como-mandar-nudes-em-seguranca-v30-como-viver-em-uma-sociedade-sem-privacidade-digital.ogv"
+    },
+    {
+      "size": 150942342,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbsb1-2017/cpbsb1-2017-como-mandar-nudes-em-seguranca-v30-como-viver-em-uma-sociedade-sem-privacidade-digital.webm"
+    }
+  ]
+}

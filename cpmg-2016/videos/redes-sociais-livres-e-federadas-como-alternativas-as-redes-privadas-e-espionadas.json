@@ -1,0 +1,49 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Essa palestra abordar\u00e1 as m\u00eddias sociais livres e federadas desenvolvidas por comunidades de software livre ao redor do mundo e que s\u00e3o alternativas \u00e0s m\u00eddias privadas. Em tempos de falta de privacidade em redes onde voc\u00ea \u00e9 o produto e todos s\u00e3o espionados, \u00e9 importante conhecer alternativas como o Diaspora, Hubzilla, GNU Social, pump.io, e Noosfero, que s\u00e3o softwares que voc\u00ea mesmo pode instalar no seu servidor, usar livremente e se conectar a outras redes. As caracter\u00edsticas de cada m\u00eddia, suas vantagens e desvantagens ser\u00e3o apresentadas.",
+  "duration": 2030,
+  "id": 63,
+  "language": "por",
+  "recorded": "2016-11-10",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-minas-gerais-2016/talk/redes-sociais-livres-e-federadas-como-alternativas-as-redes-privadas-e-espionadas"
+  ],
+  "slug": "redes-sociais-livres-e-federadas-como-alternativas-as-redes-privadas-e-espionadas",
+  "speakers": [
+    "Paulo Henrique de Lima Santana"
+  ],
+  "tags": [
+    "CPMG",
+    "Campus Party Minas Gerais",
+    "Software Livre",
+    "Minas Gerais",
+    "Belo Horizonte",
+    "Redes sociais",
+    "M\u00eddias sociais",
+    "Diaspora",
+    "Hubzilla",
+    "GNU Social",
+    "Pump.io",
+    "Noosfero",
+    "Espionagem",
+    "Privacidade"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/redes-sociais-livres-e-federadas-como-alternativas-as-redes-privadas-e-espionadas.jpg",
+  "title": "Redes sociais livres e federadas como alternativas \u00e0s redes privadas e espionadas",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=kcLTWlw_FOc"
+    },
+    {
+      "size": 356913576,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpmg1-2016/cpmg1-2016-redes-sociais-livres-e-federadas-como-alternativas-as-redes-privadas-e-espionadas.ogv"
+    },
+    {
+      "size": 128561733,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpmg1-2016/cpmg1-2016-redes-sociais-livres-e-federadas-como-alternativas-as-redes-privadas-e-espionadas.webm"
+    }
+  ]
+}
