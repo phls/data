@@ -1,0 +1,45 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Este painel ter\u00e1 o formato de retrospectiva no qual cada convidado apresenta sua quest\u00e3o sobre o tema e logo ap\u00f3s iniciamos um debate com intera\u00e7\u00e3o do p\u00fablico presente, para entender o que est\u00e1 sendo feito e o que podemos fazer para o fortalecimento do apoio \u00e0 produ\u00e7\u00e3o de Software Livre no Brasil, em especial, dentro dos Governos.",
+  "duration": 5457,
+  "id": 112,
+  "language": "por",
+  "recorded": "2014-02-01",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/painel-governos-e-software-livre-investindo-dinheiro-publico-em-tecnologias-abertas",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-governos-e-software-livre-investindo-dinheiro-publico-em-tecnologias-abertas"
+  ],
+  "slug": "governos-e-software-livre-investindo-dinheiro-publico-em-tecnologias",
+  "speakers": [
+    "Everton Melo",
+    "Klaibson Natal Ribeiro Borges",
+    "Luis Felipe Coimbra Costa",
+    "Paulo Henrique de Lima Santana",
+    "Sergio Mauro Santos Filho"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/governos-e-software-livre-investindo-dinheiro-publico-em-tecnologias.jpg",
+  "title": "Painel: Governos e software livre - investindo dinheiro p\u00fablico em tecnologias abertas",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=eJEXpRkbyNc"
+    },
+    {
+      "size": 1088696184,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-governos-e-software-livre-investindo-dinheiro-publico-em-tecnologias.ogv"
+    },
+    {
+      "size": 270512960,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-governos-e-software-livre-investindo-dinheiro-publico-em-tecnologias.webm"
+    }
+  ]
+}

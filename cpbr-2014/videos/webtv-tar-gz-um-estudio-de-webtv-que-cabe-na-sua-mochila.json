@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A proposta da palestra \u00e9 compartilhar experi\u00eancias de planejamento, constru\u00e7\u00e3o e possibilidades de configura\u00e7\u00f5es de um est\u00fadio de WebTV livre, a partir dos recursos materiais e l\u00f3gicos necess\u00e1rios, bem como de equipamentos compactos e vers\u00e1teis, de maneira que caibam numa mochila. Dentre as possibilidades potenciais de aplica\u00e7\u00e3o est\u00e3o a configura\u00e7\u00e3o de est\u00fadios de grava\u00e7\u00e3o de programas de v\u00eddeo e de transmiss\u00e3o ao vivo de eventos pela internet. Para cada uma das configura\u00e7\u00f5es, ser\u00e3o apresentados os softwares livres envolvidos no respectivo processo, seja o de grava\u00e7\u00e3o, capta\u00e7\u00e3o de \u00e1udio, edi\u00e7\u00e3o ou transmiss\u00e3o em tempo real.",
+  "duration": 2179,
+  "id": 105,
+  "language": "por",
+  "recorded": "2014-02-01",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-webtv.tar.gz-um-estudio-de-webtv-que-cabe-na-sua-mochila",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-webtvtargz-um-estudio-de-webtv-que-cabe-na-sua-mochila"
+  ],
+  "slug": "webtv-tar-gz-um-estudio-de-webtv-que-cabe-na-sua-mochila",
+  "speakers": [
+    "Eduardo Lucas"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "WebTV livre"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/webtv-tar-gz-um-estudio-de-webtv-que-cabe-na-sua-mochila.jpg",
+  "title": "webtv.tar.gz - um est\u00fadio de WebTV que cabe na sua mochila",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=myyjJvGF9DI"
+    },
+    {
+      "size": 161175346,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-webtv-tar-gz-um-estudio-de-webtv-que-cabe-na-sua-mochila.ogv"
+    },
+    {
+      "size": 63832218,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-webtv-tar-gz-um-estudio-de-webtv-que-cabe-na-sua-mochila.webm"
+    }
+  ]
+}

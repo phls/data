@@ -1,0 +1,48 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Empres\u00e1rios, profissionais e empreendedores debatem o mercado de software livre no Brasil, suas experi\u00eancias e expectativas sobre novos rumos e oportunidades de neg\u00f3cio com Software Livre. A din\u00e2mica deste painel \u00e9 interagir com o p\u00fablico presente, tirando d\u00favidas de como \u00e9 poss\u00edvel ganhar dinheiro com software livre ou como iniciar seu pr\u00f3prio neg\u00f3cio.",
+  "duration": 5032,
+  "id": 110,
+  "language": "por",
+  "recorded": "2014-01-29",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/painel-e-possivel-empreender-e-ganhar-dinheiro-com-software-livre",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-e-possivel-empreender-e-ganhar-dinheiro-com-software-livre"
+  ],
+  "slug": "eh-possivel-empreender-e-ganhar-dinheiro-com-software-livre",
+  "speakers": [
+    "Fabio Pires",
+    "Jeison Frasson",
+    "Marcelo Marques",
+    "Marcio Junior Vieira",
+    "Paulo Henrique de Lima Santana"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "Utah Networxs",
+    "4Linux",
+    "Ambiente Livre"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/eh-possivel-empreender-e-ganhar-dinheiro-com-software-livre.jpg",
+  "title": "Painel: \u00c9 poss\u00edvel empreender e ganhar dinheiro com software livre?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=EBVpJYpXxOc"
+    },
+    {
+      "size": 723908947,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-eh-possivel-empreender-e-ganhar-dinheiro-com-software-livre.ogv"
+    },
+    {
+      "size": 237069394,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-eh-possivel-empreender-e-ganhar-dinheiro-com-software-livre.webm"
+    }
+  ]
+}

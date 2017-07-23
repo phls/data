@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Rob\u00f3tica educacional corresponde a uma aplica\u00e7\u00e3o da tecnologia na educa\u00e7\u00e3o em que o ambiente de aprendizagem valoriza o planejamento, pesquisa, interesse, motiva\u00e7\u00e3o e coopera\u00e7\u00e3o entre os alunos, atrav\u00e9s de uma rica experi\u00eancia interdisciplinar, uma vez que envolve diferentes \u00e1reas de conhecimento e pessoas na resolu\u00e7\u00e3o de problemas. A Rob\u00f3tica Educacional Livre, parte para solu\u00e7\u00f5es livres em substitui\u00e7\u00e3o aos produtos comerciais, o que vamos apresentar \u00e9 a possibilidade do uso de Hardware e Softwares Livres como base para a programa\u00e7\u00e3o e aprendizado dentro das escolas.",
+  "duration": 2997,
+  "id": 105,
+  "language": "por",
+  "recorded": "2014-01-30",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-robotica-educacional-com-software-e-hardware-livre-na-escola",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-robotica-educacional-com-software-e-hardware-livre-na-escola"
+  ],
+  "slug": "robotica-educacional-com-software-e-hardware-livre-na-escola",
+  "speakers": [
+    "Giany Abreu",
+    "Sergio Gra\u00e7as"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "Hardware Livre",
+    "S\u00e3o Paulo",
+    "Rob\u00f3tica",
+    "Rob\u00f3tica Educacional Livre"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/robotica-educacional-com-software-e-hardware-livre-na-escola.jpg",
+  "title": "Rob\u00f3tica educacional com software e hardware livre na escola",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=vb3sCQ7IcvE"
+    },
+    {
+      "size": 367118382,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-robotica-educacional-com-software-e-hardware-livre-na-escola.ogv"
+    },
+    {
+      "size": 126616403,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-robotica-educacional-com-software-e-hardware-livre-na-escola.webm"
+    }
+  ]
+}

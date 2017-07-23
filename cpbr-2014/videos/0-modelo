@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "",
+  "duration": 2430,
+  "id": 11,
+  "language": "por",
+  "recorded": "2014-01-29",
+  "related_urls": [
+    "h",
+    "h"
+  ],
+  "slug": "c",
+  "speakers": [
+    "Thiago",
+    "Thiago",
+    "Thiago",
+    "Thiago"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel"
+  ],
+  "thumbnail_url": "h",
+  "title": "Painel: ",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "h"
+    },
+    {
+      "size": 2,
+      "type": "ogg",
+      "url": "h"
+    },
+    {
+      "size": 7,
+      "type": "webm",
+      "url": "h"
+    }
+  ]
+}

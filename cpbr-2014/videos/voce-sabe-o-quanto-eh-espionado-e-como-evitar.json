@@ -1,0 +1,51 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Hackers, crackers e anonymous v\u00e3o debater as t\u00e9cnicas e ferramentas utilizadas pela Ag\u00eancia de Seguran\u00e7a Nacional (NSA, em ingl\u00eas) dos Estados Unidos para espionagem eletr\u00f4nica. Apresentando caminhos e ou alternativas de como escapar do PRISM e das ciladas web, fornecendo dicas de como minimizar os riscos e fortalecer a seguran\u00e7a pessoal ou de todas as informa\u00e7\u00f5es armazenadas em seu computador.",
+  "duration": 5557,
+  "id": 120,
+  "language": "por",
+  "recorded": "2014-01-30",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/painel-voce-sabe-o-quanto-e-espionado-e-como-evitar",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-voce-sabe-o-quanto-e-espionado-e-como-evitar"
+  ],
+  "slug": "voce-sabe-o-quanto-eh-espionado-e-como-evitar",
+  "speakers": [
+    "Anahuac de Paula Gil",
+    "Gilberto Sudr\u00e9",
+    "Gustavo Gobi Martinelli",
+    "Paulo Henrique de Lima Santana",
+    "Silvio Rhatto"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "Espionagem",
+    "Privacidade",
+    "PRISM",
+    "NSA",
+    "Criptografia",
+    "Hacker"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/voce-sabe-o-quanto-eh-espionado-e-como-evitar-cpbr7.jpg",
+  "title": "Painel: Voc\u00ea sabe o quanto \u00e9 espionado? E como evitar?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=WXi8WjubhKQ"
+    },
+    {
+      "size": 869608752,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-voce-sabe-o-quanto-eh-espionado-e-como-evitar.ogv"
+    },
+    {
+      "size": 310004930,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-voce-sabe-o-quanto-eh-espionado-e-como-evitar.webm"
+    }
+  ]
+}
