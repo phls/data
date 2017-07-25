@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Veremos nesta apresenta\u00e7\u00e3o a arquitetura da solu\u00e7\u00e3o Brasileira Certiface que combate a fraude utilizando a tecnologia de Biometria Facial. Essa solu\u00e7\u00e3o \u00e9 baseada em arquitetura Intel dos servidores aos tablets, atrav\u00e9s de vis\u00e3o computacional e processamento de imagem com recursos intel como TBB, IPP e MKL junto a bibliotecas openCV e outros recursos de computa\u00e7\u00e3o de alta performance.",
+  "duration": 2980,
+  "id": 237,
+  "language": "por",
+  "recorded": "2015-02-04",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/combate-fraude-biometria-facial-cpbr8"
+  ],
+  "slug": "combate-a-fraude-com-biometria-facial",
+  "speakers": [
+    "Alessandro de Oliveira Faria - Cabelo"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Certiface",
+    "Biometria Facial",
+    "openCV"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/combate-a-fraude-com-biometria-facial.jpg",
+  "title": "Combate \u00e0 fraude com biometria facial",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=HQ52nxyG76Q"
+    },
+    {
+      "size": 248977523,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-combate-a-fraude-com-biometria-facial.ogv"
+    },
+    {
+      "size": 123090280,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-combate-a-fraude-com-biometria-facial.webm"
+    }
+  ]
+}

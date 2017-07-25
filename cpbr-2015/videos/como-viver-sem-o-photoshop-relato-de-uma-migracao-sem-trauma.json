@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "At\u00e9 chegar ao uso do Photoshop e a migra\u00e7\u00e3o para o uso do Gimp (GNU Image Manipulation Program), solu\u00e7\u00e3o gr\u00e1fica livre alternativa ao Adobe Photoshop\u00ae na produ\u00e7\u00e3o de ilustra\u00e7\u00f5es digitais para as editoras de revistas nacionais, mercado ainda fortemente dominado pelo uso de softwares propriet\u00e1rios. Trabalhando atualmente com softwares livres, mantendo o mesmo padr\u00e3o de qualidade no desenvolvimento do seu trabalho como ilustrador editorial, mostra o uso do software livre como \u00f3tima alternativa, buscando quebrar este paradigma de photoshops e corels. Tem como finalidade estimular o uso crescente dos softwares livres, tecnologias e padr\u00f5es abertos, a difus\u00e3o da filosofia de compartilhamento e cria\u00e7\u00e3o colaborativa. Almeja fomentar uma discuss\u00e3o sobre a utiliza\u00e7\u00e3o de softwares livres para ilustra\u00e7\u00e3o, um convite aos profissionais do meio para que experimentem estas ferramentas e ajudem a aprimor\u00e1-las.",
+  "duration": 2849,
+  "id": 236,
+  "language": "por",
+  "recorded": "2015-02-05",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/como-viver-sem-o-photoshop-relato-de-uma-migracao-sem-traumas-cpbr8"
+  ],
+  "slug": "como-viver-sem-o-photoshop-relato-de-uma-migracao-sem-trauma",
+  "speakers": [
+    "Elias de Carvalho Silveira"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Photoshop",
+    "Gimp"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/como-viver-sem-o-photoshop-relato-de-uma-migracao-sem-trauma.jpg",
+  "title": "Como viver sem o Photoshop - relato de uma migra\u00e7\u00e3o sem traumas",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=l9LZBlCBmIw"
+    },
+    {
+      "size": 643122155,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-como-viver-sem-o-photoshop-relato-de-uma-migracao-sem-trauma.ogv"
+    },
+    {
+      "size": 163485045,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-como-viver-sem-o-photoshop-relato-de-uma-migracao-sem-trauma.webm"
+    }
+  ]
+}
