@@ -9,7 +9,7 @@
     "http://slcampusparty.com.br/blog/palestra-webtv-livre-como-fazer",
     "http://campuse.ro/events/campus-party-brasil-2015/talk/webtv-livre-como-fazer-cpbr8"
   ],
-  "slug": "web-tv-livre-como-fazer",
+  "slug": "webtv-livre-como-fazer",
   "speakers": [
     "Eduardo Lucas"
   ],
@@ -22,7 +22,7 @@
     "TV",
     "TV Esp\u00edrito Livre"
   ],
-  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/web-tv-livre-como-fazer.jpg",
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/webtv-livre-como-fazer.jpg",
   "title": "WebTV Livre: como fazer",
   "videos": [
     {
@@ -32,12 +32,12 @@
     {
       "size": 336538002,
       "type": "ogg",
-      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-web-tv-livre-como-fazer.ogv"
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-webtv-livre-como-fazer.ogv"
     },
     {
       "size": 128206563,
       "type": "webm",
-      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-web-tv-livre-como-fazer.webm"
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-webtv-livre-como-fazer.webm"
     }
   ]
 }
