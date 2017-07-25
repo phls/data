@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Com o popular boom dos drones no mundo inteiro, surgiram v\u00e1rios tipos de constru\u00e7\u00e3o, controladoras e projetos. Mas existem solu\u00e7\u00f5es no nosso mundo do Software Livre? Quais s\u00e3o elas, e como funciona um drone, e como contribuir para a comunidade OpenSource de drones.",
+  "duration": 3050,
+  "id": 129,
+  "language": "por",
+  "recorded": "2015-02-04",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-drones-no-mundo-software-livre",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/drones-no-mundo-software-livre-cpbr8"
+  ],
+  "slug": "drones-no-mundo-do-software-livre",
+  "speakers": [
+    "Lucas Teske"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Drone"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/drones-no-mundo-do-software-livre.jpg",
+  "title": "Drones no mundo Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=g0-vrFR2Kn4"
+    },
+    {
+      "size": 360279476,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-drones-no-mundo-do-software-livre.ogv"
+    },
+    {
+      "size": 155637036,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-drones-no-mundo-do-software-livre.webm"
+    }
+  ]
+}

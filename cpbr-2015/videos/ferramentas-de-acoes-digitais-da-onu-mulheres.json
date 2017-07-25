@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Apresenta\u00e7\u00e3o das ferramentas de a\u00e7\u00f5es digitais de comunica\u00e7\u00e3o da ONU Mulheres: o aplicativo Clique 180 e o projeto O Valente n\u00e3o \u00e9 Violento, que tem a\u00e7\u00f5es em diversas plataformas de m\u00eddia digital como site, fanpage, canal do youtube.",
+  "duration": 1751,
+  "id": 204,
+  "language": "por",
+  "recorded": "2015-02-06",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/ferramentas-de-acoes-digitais-da-onu-mulheres-cpbr8"
+  ],
+  "slug": "erramentas-de-acoes-digitais-da-onu-mulheres",
+  "speakers": [
+    "Amanda Kamanchek Lemos",
+    "Bruno Cared"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Mulheres",
+    "ONU",
+    "Ass\u00e9dio"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/ferramentas-de-acoes-digitais-da-onu-mulheres.jpg",
+  "title": "Ferramentas de a\u00e7\u00f5es digitais da ONU Mulheres",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=02XEhBbWJ1I"
+    },
+    {
+      "size": 174738110,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-ferramentas-de-acoes-digitais-da-onu-mulheres.ogv"
+    },
+    {
+      "size": 68813811,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-ferramentas-de-acoes-digitais-da-onu-mulheres.webm"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O isolamento de comunidades ribeirinhas da Amaz\u00f4nia e a dificuldade de acesso a diversos bens, servi\u00e7os e outros direitos ainda s\u00e3o constantes no Brasil. Mas uma iniciativa hacker busca reduzir a dist\u00e2ncia entre moradores dos rios e conect\u00e1-los com as inova\u00e7\u00f5es tecnol\u00f3gicas e sociais. Proposto pela Casa de Cultura Digital do Par\u00e1, a a\u00e7\u00e3o, que utiliza uma embarca\u00e7\u00e3o e por isso ganhou o nome de Barco Hacker, empreende expedi\u00e7\u00f5es rumo a ilhas e munic\u00edpios da Amaz\u00f4nia com o objetivo de disseminar webcidadania.",
+  "duration": 2503,
+  "id": 125,
+  "language": "por",
+  "recorded": "2015-02-05",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-barco-hacker-uma-nova-gestao-cultural-e-tecnologica-nos-rios-da-amazonia.",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/barco-hacker-cpbr8"
+  ],
+  "slug": "barco-hacker-uma-nova-gestao-cultura-tecnologica-nos-rios-amazonas",
+  "speakers": [
+    "Kamila Brito"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Hacker",
+    "Casa de Cultura Digital do Par\u00e1",
+    "Amaz\u00f4nia"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/barco-hacker-uma-nova-gestao-cultura-tecnologica-nos-rios-amazonas.jpg",
+  "title": "Barco Hacker: uma nova gest\u00e3o cultural e tecnol\u00f3gica nos rios da Amaz\u00f4nia",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Mluw7MLBmmM"
+    },
+    {
+      "size": 335869168,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-barco-hacker-uma-nova-gestao-cultura-tecnologica-nos-rios-amazonas.ogv"
+    },
+    {
+      "size": 117641052,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-barco-hacker-uma-nova-gestao-cultura-tecnologica-nos-rios-amazonas.webm"
+    }
+  ]
+}

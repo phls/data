@@ -1,0 +1,47 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Houve os cavaleiros que lutaram para defender a terra, e os nerds que desenvolveram softwares livres para a libertar e entender o c\u00e9u. Estes softwares tem ajudado a mapear e entender o c\u00e9u, incluindo seus astros e a influencia que exercem em nossa vida. Neste painel, vamos falar sobre os principais softwares livres utilizados no campo da Astronomia, Astrologia, e da sua relev\u00e2ncia no setor Espacial e Astrof\u00edsica. Ser\u00e3o apresentados cases e simula\u00e7\u00f5es, com um t\u00f3pico especial sobre C\u00e9u e \u00c1gua. Prepare-se para elevar o Cosmo!!",
+  "duration": 1444,
+  "id": 124,
+  "language": "por",
+  "recorded": "2015-02-04",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-a-tecnologia-que-libertou-o-ceu-e-a-terra",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/a-tecnologia-que-libertou-o-ceu-e-a-terra/"
+  ],
+  "slug": "a-tecnologia-que-libertou-o-ceu-e-a-terra",
+  "speakers": [
+    "Karen Oswald",
+    "Luiz Henrique Rauber Rodrigues"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Stellarium",
+    "WinStars",
+    "Celestia",
+    "TerraView",
+    "WinOrbit",
+    "Worldwide Telescope"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/a-tecnologia-que-libertou-o-ceu-e-a-terra.jpg",
+  "title": "A tecnologia que libertou o c\u00e9u e a terra",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=3C2UfkeX_Ko"
+    },
+    {
+      "size": 169539295,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-a-tecnologia-que-libertou-o-ceu-e-a-terra.ogv"
+    },
+    {
+      "size": 59499936,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-a-tecnologia-que-libertou-o-ceu-e-a-terra.webm"
+    }
+  ]
+}

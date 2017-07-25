@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Com os Single Board Computers, conectados a Internet e novas APIs para controle de portas e interruptores digitais e anal\u00f3gicos menos complexas e ao mesmo tempo poderosas, novas maquinas aut\u00f4nomas podem ser constru\u00eddas e voc\u00ea pode come\u00e7ar a ganhar dinheiro com elas - vendendo produtos ou servi\u00e7os. Nesta palestra vamos ver exemplos algumas maquinas com RaspberryPi, controladas com softwares feitos em Java e conversando com aplica\u00e7\u00f5es server-side feito em PHP e com wearables Android.",
+  "duration": 2880,
+  "id": 205,
+  "language": "por",
+  "recorded": "2015-02-05",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/como-construir-maquina-de-fazer-dinheiro-com-internet-das-coisas-cpbr8/"
+  ],
+  "slug": "como-construir-uma-maquina-de-fazer-dinheiro-com-internet-das-coisas",
+  "speakers": [
+    "Jefferson Prestes"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "IoT",
+    "Neg\u00f3cios",
+    "Internet das coisas",
+    "RaspberryPi",
+    "Single Board Computers"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/como-construir-uma-maquina-de-fazer-dinheiro-com-internet-das-coisas.jpg",
+  "title": "Como construir maquina de fazer dinheiro com Internet das Coisas",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=02XEhBbWJ1I"
+    },
+    {
+      "size": 410553210,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-como-construir-uma-maquina-de-fazer-dinheiro-com-internet-das-coisas.ogv"
+    },
+    {
+      "size": 137633826,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-como-construir-uma-maquina-de-fazer-dinheiro-com-internet-das-coisas.webm"
+    }
+  ]
+}

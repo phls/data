@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O uso das redes de computadores em ambientes corporativos e educacionais se faz cada vez mais presente. Para que se mantenha um ambiente produtivo em funcionamento, torna-se necess\u00e1rio monitorar a rede, fazer seu gerenciamento e administra\u00e7\u00e3o. Analisadores de tr\u00e1fego e ferramentas de ger\u00eancia de redes podem ser provavelmente ferramentas indispens\u00e1veis para administradores de redes que queiram uma an\u00e1lise mais detalhada sobre o que trafega em suas redes e como proteger sua informa\u00e7\u00e3o.",
+  "duration": 2031,
+  "id": 127,
+  "language": "por",
+  "recorded": "2015-02-04",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-conhecendo-sua-rede-utilizando-ferramentas-livres",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/conhecendo-sua-rede-utilizando-ferramentas-livres-cpbr8/"
+  ],
+  "slug": "conhecendo-sua-rede-utilizando-ferramentas-livres",
+  "speakers": [
+    "Christiane Borges Santos"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Wireshark",
+    "Rede de computadores"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/conhecendo-sua-rede-utilizando-ferramentas-livres.jpg",
+  "title": "Conhecendo sua rede utilizando ferramentas livres",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=OPuc14omDcY"
+    },
+    {
+      "size": 186605986,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-conhecendo-sua-rede-utilizando-ferramentas-livres.ogv"
+    },
+    {
+      "size": 72926700,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-conhecendo-sua-rede-utilizando-ferramentas-livres.webm"
+    }
+  ]
+}

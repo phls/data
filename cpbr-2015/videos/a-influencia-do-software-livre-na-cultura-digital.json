@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Apresentar um breve hist\u00f3rico dos antecedentes do movimento do software livre de maneira a compreender melhor seus pilares. Entender como o movimento do software livre colaborou para o crescimento da Internet e tamb\u00e9m se beneficiou deste. Compreender como os valores do software livre deram origem e influenciaram outros movimentos que hoje se convenciona a chamar genericamente de Cultura Digital.",
+  "duration": 3410,
+  "id": 121,
+  "language": "por",
+  "recorded": "2015-02-07",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-a-influencia-do-software-livre-na-cultura-digital-ou-porque-o-software-livre-continuara-a-ser-relevante",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/a-influencia-do-software-livre-na-cultura-digital-ou-porque-o-software-livre-continuara-a-ser-relevante-cpbr8"
+  ],
+  "slug": "a-influencia-do-software-livre-na-cultura-digital",
+  "speakers": [
+    "Kemel Zaidan"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Cultura digital"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/a-influencia-do-software-livre-na-cultura-digital.jpg",
+  "title": "A influ\u00eancia do Software Livre na Cultura Digital (ou porque o software livre continuar\u00e1 a ser relevante)",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=QJVDGfUKxsw"
+    },
+    {
+      "size": 408636200,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-a-influencia-do-software-livre-na-cultura-digital.ogv"
+    },
+    {
+      "size": 144236223,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-a-influencia-do-software-livre-na-cultura-digital.webm"
+    }
+  ]
+}

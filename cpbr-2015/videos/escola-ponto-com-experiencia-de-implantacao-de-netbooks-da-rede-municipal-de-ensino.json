@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Apresenta\u00e7\u00e3o dos processos de implanta\u00e7\u00e3o do Programa Escola.com, que disponibiliza netbooks para os alunos do 4o e 5o do ensino fundamental- s\u00e9ries iniciais com uso de software livre na rede municipal de educa\u00e7\u00e3o de Cascavel - PR.",
+  "duration": 3217,
+  "id": 131,
+  "language": "por",
+  "recorded": "2015-02-05",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-escola.com-experiencia-de-implantacao-de-netbooks-da-rede-municipal-de-cascavel-com-software-livre",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/Escolacom-experiencia-implantacao-netbooks-cpbr8"
+  ],
+  "slug": "escola-ponto-com-experiencia-de-implantacao-de-netbooks-da-rede-municipal-de-ensino",
+  "speakers": [
+    "Jocemar do Nascimento"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Cascavel",
+    "Educa\u00e7\u00e3o",
+    "Escola.com"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/escola-ponto-com-experiencia-de-implantacao-de-netbooks-da-rede-municipal-de-ensino.jpg",
+  "title": "Escola.com: experiencia de implanta\u00e7\u00e3o de netbooks da rede municipal de Cascavel com Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=rp3PPFLfkRY"
+    },
+    {
+      "size": 448872435,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-escola-ponto-com-experiencia-de-implantacao-de-netbooks-da-rede-municipal-de-ensino.ogv"
+    },
+    {
+      "size": 171126631,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-escola-ponto-com-experiencia-de-implantacao-de-netbooks-da-rede-municipal-de-ensino.webm"
+    }
+  ]
+}

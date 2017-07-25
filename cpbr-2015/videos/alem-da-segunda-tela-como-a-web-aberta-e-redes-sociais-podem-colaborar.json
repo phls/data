@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A Web invade nossos espa\u00e7os \u2014 primeiro com o protagonista usu\u00e1rio, por meio da segunda tela \u2014 mas com o potencial de um novo protagonista: o ambiente social. As TVs j\u00e1 n\u00e3o mais s\u00e3o vistas como sistemas de broadcast centralizados. Elas tornam-se janelas que cruzam barreiras culturais e criam maior transpar\u00eancia aos espa\u00e7os. Agora, conectam informa\u00e7\u00f5es em tempo real e assim tornam-se reflexos da sociedade, para benef\u00edcio dos ambientes; e o potencial de potencializar as contribui\u00e7\u00f5es sociais. Ser\u00e3o explorados aspectos como a evolu\u00e7\u00e3o dos sistemas de Web TV, solu\u00e7\u00f5es abertas de segunda tela; e ainda as oportunidades que surgem quando as redes sociais s\u00e3o integradas nos espa\u00e7os por meio de TVs de alta defini\u00e7\u00e3o. A palestra explora aspectos de intera\u00e7\u00e3o usu\u00e1rio-computador e como os recursos da Web evoluem criando novos mecanismos de participa\u00e7\u00e3o entre as pessoas \u2014 de forma a contribuir com o desenvolvimento social nos espa\u00e7os f\u00edsicos das comunidades.",
+  "duration": 2930,
+  "id": 122,
+  "language": "por",
+  "recorded": "2015-02-05",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-alem-da-segunda-tela-como-a-web-aberta-e-redes-sociais-podem-colaborar-nos-ambientes",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/alem-da-segunda-tela-como-a-web-aberta-e-redes-sociais-podem-colaborar-nos-ambientes-cpbr8"
+  ],
+  "slug": "alem-da-segunda-tela-como-a-web-aberta-e-redes-sociais-podem-colaborar",
+  "speakers": [
+    "Marcio dos Santos Galli"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "TV"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/alem-da-segunda-tela-como-a-web-aberta-e-redes-sociais-podem-colaborar.jpg",
+  "title": "Al\u00e9m da segunda tela - como a web aberta e redes sociais podem colaborar nos ambientes",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=OzWcTwYhacw"
+    },
+    {
+      "size": 285461288,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-alem-da-segunda-tela-como-a-web-aberta-e-redes-sociais-podem-colaborar.ogv"
+    },
+    {
+      "size": 110114782,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-alem-da-segunda-tela-como-a-web-aberta-e-redes-sociais-podem-colaborar.webm"
+    }
+  ]
+}

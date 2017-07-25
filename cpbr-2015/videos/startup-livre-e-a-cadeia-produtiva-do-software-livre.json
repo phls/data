@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Palestra sobre a cadeia produtiva do Software Livre",
+  "duration": 2070,
+  "id": 200,
+  "language": "por",
+  "recorded": "2015-02-07",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/painel-startup-livre-e-a-cadeia-produtiva-do-software-livre",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/startup-livre-e-a-cadeia-produtiva-do-software-livre-cpbr8"
+  ],
+  "slug": "startup-livre-e-a-cadeia-produtiva-do-software-livre",
+  "speakers": [
+    "Nick Vidal"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Startup",
+    "Empreendedorismo"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/startup-livre-e-a-cadeia-produtiva-do-software-livre.jpg",
+  "title": "Startup Livre e a cadeia produtiva do Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=rqfWjW4I9XM"
+    },
+    {
+      "size": 201534337,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-startup-livre-e-a-cadeia-produtiva-do-software-livre.ogv"
+    },
+    {
+      "size": 70021690,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-startup-livre-e-a-cadeia-produtiva-do-software-livre.webm"
+    }
+  ]
+}
