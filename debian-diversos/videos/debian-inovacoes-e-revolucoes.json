@@ -1,0 +1,35 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O Projeto Debian está em constante evolução, há várias frentes de trabalho para melhorar seus componentes internos (infraestrutura do projeto) e as ferramentas usadas por seus usuários. Muitas dessas inovações/revoluções/melhorias não recebem atenção nas suas fases iniciais ou acabam não sendo conhecidas (mesmo que seja usadas diariamente). A ideia é apresentar alguns destes tópicos como: MultiArch, CUT/Rolling, MultiKernel (Hurd/FreeBSD), DebDelta, jigdo, dak, britney, EDOS, BTS e PTS.",
+  "duration": 2747,
+  "id": 226,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2012-curitiba/debian-inovacoes-revolucoes.pdf"
+  ],
+  "slug": "debian-inovacoes-e-revolucoes",
+  "speakers": [
+    "Felipe Augusto van de Wiel"
+  ],
+  "tags": [
+    "FISL",
+    "Fórum Internacional Software Livre",
+    "FISL12",
+    "Debian",
+    "Porto Alegre"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/debian-inovacoes-e-revolucoes.jpg",
+  "title": "Debian: inovações e revoluções",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=qSnZzU87xbw"
+    },
+    {
+      "size": 347365414,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/debian-inovacoes-e-revolucoes.ogv"
+    }
+  ]
+}
