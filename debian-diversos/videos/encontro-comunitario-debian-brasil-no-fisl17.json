@@ -1,6 +1,6 @@
 {
   "copyright_text": "CC BY",
-  "description": "O encontro da comunidade Debian no FISL, tem por objetivo divulgar os trabalho desenvolvido pela comunidade Debian no Brasil. Apresentamos onde a comunidade Debian está atualmente e para onde está indo, as formas distintas de como contribuir para comunidade Debian Brasil e o projeto Debian. Principais objetivos: incentivar mais pessoas a contribuir com o projeto, integrar colaboradores e usuários e trocar conhecimentos.",
+  "description": "O encontro da comunidade Debian no FISL, tem por objetivo divulgar os trabalho desenvolvido pela comunidade Debian no Brasil. Apresentamos onde a comunidade Debian est\u00e1 atualmente e para onde est\u00e1 indo, as formas distintas de como contribuir para comunidade Debian Brasil e o projeto Debian. Principais objetivos: incentivar mais pessoas a contribuir com o projeto, integrar colaboradores e usu\u00e1rios e trocar conhecimentos.",
   "duration": 5262,
   "id": 229,
   "language": "por",
@@ -12,18 +12,18 @@
   ],
   "slug": "encontro-comunitario-debian-brasil-no-fisl17",
   "speakers": [
-    "Vários"
+    "V\u00e1rios"
   ],
   "tags": [
     "FISL",
-    "Fórum Internacional Software Livre",
+    "F\u00f3rum Internacional Software Livre",
     "FISL17",
     "Debian",
     "Porto Alegre",
-    "Encontro comunitário"
+    "Encontro comunit\u00e1rio"
   ],
   "thumbnail_url": "http://debianbrasil.org.br/thumbnails/0158/9941/debian-FISL17-08_display.jpg",
-  "title": "Encontro Comunitário Debian Brasil no FISL15",
+  "title": "Encontro Comunit\u00e1rio Debian Brasil no FISL15",
   "videos": [
     {
       "type": "youtube",

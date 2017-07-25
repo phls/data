@@ -1,6 +1,6 @@
 {
   "copyright_text": "CC BY",
-  "description": "Programação do encontro comunitário: Apresentação dos objetivos dos Grupos de Usuários Debian (GUD); Articulação de grupos Estaduais de usuários Debian; Planejamento sobre o site de comunidade e do wiki; Planos de contingência para os sites comunidade e wiki; Planejamento da linha de atuação até o próximo FISL15.",
+  "description": "Programa\u00e7\u00e3o do encontro comunit\u00e1rio: Apresenta\u00e7\u00e3o dos objetivos dos Grupos de Usu\u00e1rios Debian (GUD); Articula\u00e7\u00e3o de grupos Estaduais de usu\u00e1rios Debian; Planejamento sobre o site de comunidade e do wiki; Planos de conting\u00eancia para os sites comunidade e wiki; Planejamento da linha de atua\u00e7\u00e3o at\u00e9 o pr\u00f3ximo FISL15.",
   "duration": 5978,
   "id": 228,
   "language": "por",
@@ -11,18 +11,18 @@
   ],
   "slug": "encontro-comunitario-debian-brasil-no-fisl15",
   "speakers": [
-    "André Felipe Machado"
+    "Andr\u00e9 Felipe Machado"
   ],
   "tags": [
     "FISL",
-    "Fórum Internacional Software Livre",
+    "F\u00f3rum Internacional Software Livre",
     "FISL15",
     "Debian",
     "Porto Alegre",
-    "Encontro comunitário"
+    "Encontro comunit\u00e1rio"
   ],
   "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/encontro-comunitario-debian-brasil-no-fisl15.jpg",
-  "title": "Encontro Comunitário Debian Brasil no FISL15",
+  "title": "Encontro Comunit\u00e1rio Debian Brasil no FISL15",
   "videos": [
     {
       "type": "youtube",
