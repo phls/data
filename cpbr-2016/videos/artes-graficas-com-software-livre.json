@@ -1,0 +1,38 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Aprenda a trabalhar com Softwares Livres para tratar e recortar fotos, fazer layouts de p\u00e1ginas e composi\u00e7\u00e3o gr\u00e1fica. Vamos falar de cores, conhecer t\u00e9cnicas de design, vetoriza\u00e7\u00e3o, alinhamentos e diagrama\u00e7\u00e3o.",
+  "duration": 4301,
+  "id": 208,
+  "language": "por",
+  "recorded": "2016-01-29",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/workshop/artes-graficas-com-software-livre-1"
+  ],
+  "slug": "artes-graficas-com-software-livre",
+  "speakers": [
+    "Barbara Samel Rocha Tostes"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Oficina",
+    "Gr\u00e1fica",
+    "Gimp",
+    "Inkscape"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/artes-graficas-com-software-livre.jpg",
+  "title": "Artes gr\u00e1ficas com Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/cb8VQeFF9OU?t=24m"
+    },
+    {
+      "size": 1906952645,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-artes-graficas-com-software-livre.ogv"
+    }
+  ]
+}

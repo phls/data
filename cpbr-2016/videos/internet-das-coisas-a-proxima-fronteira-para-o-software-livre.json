@@ -1,0 +1,38 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A Internet das Coisas \u00e9 a nova revolu\u00e7\u00e3o na Ind\u00fastria de tecnologia, e durante a apresenta\u00e7\u00e3o vamos mostrar porque a Internet das Coisas chegou justamente agora e qual \u00e9 o papel do Software Livre e de C\u00f3digo Aberto neste novo mundo de dispositivos inteligentes conectados.",
+  "duration": 2980,
+  "id": 224,
+  "language": "por",
+  "recorded": "2016-01-27",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/talk/internet-das-coisas-a-proxima-fronteira-para-o-software-livre"
+  ],
+  "slug": "internet-das-coisas-a-proxima-fronteira-para-o-software-livre",
+  "speakers": [
+    "Jomar Silva"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Intel",
+    "IoT",
+    "Internet das coisas",
+    "C\u00f3digo aberto"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/internet-das-coisas-a-proxima-fronteira-para-o-software-livre.jpg",
+  "title": "Internet das Coisas - a pr\u00f3xima fronteira para o Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/SA5NrpsQ42w?t=4h22m30s"
+    },
+    {
+      "size": 322845769,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-internet-das-coisas-a-proxima-fronteira-para-o-software-livre.ogv"
+    }
+  ]
+}

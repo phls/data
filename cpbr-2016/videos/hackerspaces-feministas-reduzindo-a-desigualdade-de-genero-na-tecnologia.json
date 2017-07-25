@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Esta palestra ir\u00e1 apresentar um panorama geral dos hackerspaces no mundo, dando enfoque especial \u00e0s iniciativas de hackerspaces feministas, focados em fomentar uma maior participa\u00e7\u00e3o de mulheres no campo das tecnologias da informa\u00e7\u00e3o. Tamb\u00e9m ir\u00e1 apresentar em detalhes as a\u00e7\u00f5es do coletivo brasileiro MariaLab, um espa\u00e7o criado por mulheres e para mulheres, no qual elas n\u00e3o sejam minoria. Um coletivo voltado para o empoderamento, aprendizado e ensino de tecnologia, por meio de pr\u00e1ticas inclusivas e colaborativas. A grande maioria dos hackerspaces no Brasil e no mundo, embora sejam receptivos com as mulheres, n\u00e3o s\u00f3 t\u00eam uma maioria de frequentadores masculina como, por conta disso, acabam causando inseguran\u00e7a e desconforto para as mulheres poderem errar e aprender sem medo. Por meio da cria\u00e7\u00e3o de espa\u00e7os n\u00e3o necessariamente exclusivos a mulheres, mas que estejam atentos tamb\u00e9m \u00e0s demandas espec\u00edficas de um coletivo inclusivo a minorias como pessoas trans* ou pessoas de cor, hackerspaces feministas est\u00e3o buscando diminuir a grande desigualdade de g\u00eanero ainda existente na ci\u00eancia e na tecnologia. Por fim, ser\u00e3o tamb\u00e9m sugeridas nesta apresetan\u00e7\u00e3o formas de mulheres se organizarem em coletivos similares em suas cidades, por meio do engajamento de rede, listas de discuss\u00e3o, e outros meios.",
+  "duration": 2129,
+  "id": 221,
+  "language": "por",
+  "recorded": "2016-01-28",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/talk/hackerspaces-feministas-reduzindo-a-desigualdade-de-genero-na-tecnologia"
+  ],
+  "slug": "hackerspaces-feministas-reduzindo-a-desigualdade-de-genero-na-tecnologia",
+  "speakers": [
+    "Carine Gomes Roos",
+    "Vanessa Martinez Tonini"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Hackerspace",
+    "MariaLab",
+    "Feminismo",
+    "G\u00eanero",
+    "Inclus\u00e3o",
+    "Mulheres"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/hackerspaces-feministas-reduzindo-a-desigualdade-de-genero-na-tecnologia.jpg",
+  "title": "Hackerspaces feministas: reduzindo a desigualdade de g\u00eanero na tecnologia",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/AT8x0MQ8ofU?t=6h"
+    },
+    {
+      "size": 776444965,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-hackerspaces-feministas-reduzindo-a-desigualdade-de-genero-na-tecnologia.ogv"
+    }
+  ]
+}

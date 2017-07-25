@@ -1,0 +1,38 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Nesta oficina interativa ser\u00e1 demonstrado diversas maneiras de monitoramento do seu acesso \u00e0 internet e o funcionamento da rede Tor para manter sua privacidade. Terminaremos com uma adapta\u00e7\u00e3o da brincadeira Cripto Santa - amigue secreto com entrega de presentes totalmente an\u00f4nima usando o mecanismo de Onion Routing.",
+  "duration": 2439,
+  "id": 211,
+  "language": "por",
+  "recorded": "2016-01-28",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/workshop/criptosanta-entendendo-navegacao-anonima"
+  ],
+  "slug": "criptosanta-entendendo-navegacao-anonima",
+  "speakers": [
+    "Carine Gomes Roos",
+    "Vanessa Martinez Tonini"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Oficina",
+    "Tor",
+    "Privacidade"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/criptosanta-entendendo-navegacao-anonima.jpg",
+  "title": "CriptoSanta: entendendo navega\u00e7\u00e3o an\u00f4nima",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/AT8x0MQ8ofU?t=6h53m"
+    },
+    {
+      "size": 915713633,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-criptosanta-entendendo-navegacao-anonima.ogv"
+    }
+  ]
+}
