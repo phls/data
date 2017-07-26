@@ -1,0 +1,40 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Controles de vers\u00e3o s\u00e3o vitais para o Desenvolvimento de Software. Dentre muitas abordagens e proposta conhecidas, o GIT tem popularizado-se sobremaneira, sendo excentricamente pragm\u00e1tico, tornando-se assim uma poderosa ferramenta.",
+  "duration": 3013,
+  "id": 243,
+  "language": "por",
+  "recorded": "2015-04-25",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2015-curitiba"
+  ],
+  "slug": "git-esse-cara-eh-fera",
+  "speakers": [
+    "Matheus Gontijo"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2015",
+    "Curitiba",
+    "Software Livre",
+    "Git"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2015-git-esse-cara-eh-fera.jpg",
+  "title": "GIT, esse cara \u00e9 fera!",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=BOB95XjhqJc"
+    },
+    {
+      "size": 374585865,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-git-esse-cara-eh-fera.ogv"
+    },
+    {
+      "size": 249362481,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-git-esse-cara-eh-fera.webm"
+    }
+  ]
+}

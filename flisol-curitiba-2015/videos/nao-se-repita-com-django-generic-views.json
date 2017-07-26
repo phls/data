@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Um dos frameworks de desenvolvimento de maior sucesso nos dias de hoje, o Django, conta com in\u00fameras facilidades para atender a filosofia: n\u00e3o seja repetitivo. Da sigla em ingl\u00eas DRY, Do not Repeat Yourself, o termo \u00e9 usado para indicar que n\u00e3o se deve ficar refazendo o mesmo trabalho in\u00fameras vezes. Nesse sentido existem as vis\u00f5es gen\u00e9ricas, em ingl\u00eas GenericViews. Elas servem para economizar o trabalho de ter que criar formul\u00e1rios cria\u00e7\u00e3o, altera\u00e7\u00e3o e remo\u00e7\u00e3o de registros, listagens, entre outros. A palestra apresentar\u00e1 na pr\u00e1tica como criar algumas vis\u00f5es gen\u00e9ricas para um pequeno sistema modelo.",
+  "duration": 3518,
+  "id": 245,
+  "language": "por",
+  "recorded": "2015-04-25",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2015-curitiba"
+  ],
+  "slug": "nao-se-repita-com-django-generic-views",
+  "speakers": [
+    "Ramiro Batista da Luz"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2015",
+    "Curitiba",
+    "Software Livre",
+    "Python",
+    "Django",
+    "Framework"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2015-nao-se-repita-com-django-generic-views.jpg",
+  "title": "N\u00e3o se repita - com Django Generic Views",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=yyXkRIgeZgo"
+    },
+    {
+      "size": 442680495,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-nao-se-repita-com-django-generic-views.ogv"
+    },
+    {
+      "size": 160386491,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-nao-se-repita-com-django-generic-views.webm"
+    }
+  ]
+}

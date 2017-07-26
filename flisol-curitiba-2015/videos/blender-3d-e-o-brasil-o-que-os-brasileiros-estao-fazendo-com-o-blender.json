@@ -1,0 +1,40 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O objetivo da palestra \u00e9 apresentar casos de sucesso de brasileiros que usam o Blender em seus of\u00edcios com sucesso.",
+  "duration": 2206,
+  "id": 238,
+  "language": "por",
+  "recorded": "2015-04-25",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2015-curitiba"
+  ],
+  "slug": "blender-3d-e-o-brasil-o-que-os-brasileiros-estao-fazendo-com-o-blender",
+  "speakers": [
+    "Gustavo Mattos"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2015",
+    "Curitiba",
+    "Software Livre",
+    "Blender"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2015-blender-3d-e-o-brasil-o-que-os-brasileiros-estao-fazendo-com-o-blender.jpg",
+  "title": "Blender 3D e o Brasil, o que os brasileiros est\u00e3o fazendo com o Blender",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Vd11ZN2v0kk"
+    },
+    {
+      "size": 423350454,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-blender-3d-e-o-brasil-o-que-os-brasileiros-estao-fazendo-com-o-blender.ogv"
+    },
+    {
+      "size": 132164102,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-blender-3d-e-o-brasil-o-que-os-brasileiros-estao-fazendo-com-o-blender.webm"
+    }
+  ]
+}

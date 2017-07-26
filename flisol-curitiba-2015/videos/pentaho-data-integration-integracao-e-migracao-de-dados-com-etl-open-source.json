@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O Kettle, tamb\u00e9m conhecido como Pentaho Data Integration \u00e9 uma ferramenta de ETL Open Source. A mesma faz parte da su\u00edte de Pentaho Business Intelligence para integra\u00e7\u00e3o de dados e migra\u00e7\u00e3o de dados. A fun\u00e7\u00e3o de um ETL \u00e9 o processo de Extra\u00e7\u00e3o de dados, Transforma\u00e7\u00e3o e Carga conforme regras de neg\u00f3cios para um Data Mart ou um Data Warehouse, contudo, ETL pode ser aplicado a um processo de carga de qualquer base de dados.",
+  "duration": 2980,
+  "id": 247,
+  "language": "por",
+  "recorded": "2015-04-25",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2015-curitiba"
+  ],
+  "slug": "pentaho-data-integration-integracao-e-migracao-de-dados-com-etl-open-source",
+  "speakers": [
+    "Marcio Junior Vieira"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2015",
+    "Curitiba",
+    "Software Livre",
+    "Pentaho",
+    "ETL Open Source"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2015-pentaho-data-integration-integracao-e-migracao-de-dados-com-etl-open-source.jpg",
+  "title": "Pentaho Data Integration - integra\u00e7\u00e3o e migra\u00e7\u00e3o de dados com ETL Open Source",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=vsPnXMMxMW4"
+    },
+    {
+      "size": 341779268,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-pentaho-data-integration-integracao-e-migracao-de-dados-com-etl-open-source.ogv"
+    },
+    {
+      "size": 132222767,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-pentaho-data-integration-integracao-e-migracao-de-dados-com-etl-open-source.webm"
+    }
+  ]
+}

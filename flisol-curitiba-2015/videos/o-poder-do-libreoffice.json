@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O que \u00e9 LibreOffice, origem do LibreOffice, porque usar LibreOffice, funcionalidades da suite, plano de vers\u00f5es, ambiente operacional, formatos de arquivos, gera\u00e7\u00e3o pdf, arquivos ODF, assinatura digital, importa\u00e7\u00e3o de v\u00e1rios tipos de arquivos incluindo Microsoft Office, OpenXML, ODF, Corel e Visio, vers\u00f5es em Windows, Mac OS, Linux, Android e Cloud, novidades do LibreOffice, certifica\u00e7\u00f5es profissionais, comunidade LibreOffice e futuro do LibreOffice.",
+  "duration": 3381,
+  "id": 246,
+  "language": "por",
+  "recorded": "2015-04-25",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2015-curitiba"
+  ],
+  "slug": "o-poder-do-libreoffice",
+  "speakers": [
+    "Vit\u00f3rio Furusho"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2015",
+    "Curitiba",
+    "Software Livre",
+    "LibreOffice",
+    "ODF"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2015-o-poder-do-libreoffice.jpg",
+  "title": "O poder do LibreOffice",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Q5E5ki5RIXg"
+    },
+    {
+      "size": 622708721,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-o-poder-do-libreoffice.ogv"
+    },
+    {
+      "size": 172073008,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-o-poder-do-libreoffice.webm"
+    }
+  ]
+}

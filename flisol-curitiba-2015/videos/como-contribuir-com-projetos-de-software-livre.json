@@ -1,0 +1,39 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Contribuir com projetos de software livre \u00e9 uma atividade que pode trazer conhecimento, criar oportunidades, resolver os seus problemas com software al\u00e9m de trazer satisfa\u00e7\u00e3o de contribuir para o movimento de software livre. Muitas pessoas possuem interesse em contribuir, mas tem dificuldade de come\u00e7ar. Essa palestra tenta dar um empurr\u00e3ozinho, tanto em motiva\u00e7\u00e3o quanto com dicas de por onde come\u00e7ar.",
+  "duration": 2552,
+  "id": 239,
+  "language": "por",
+  "recorded": "2015-04-25",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2015-curitiba"
+  ],
+  "slug": "como-contribuir-com-projetos-de-software-livre",
+  "speakers": [
+    "Luciana Fujii Pontello"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2015",
+    "Curitiba",
+    "Software Livre"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2015-como-contribuir-com-projetos-de-software-livre.jpg",
+  "title": "Como contribuir com projetos de Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=LTchzB355Zc"
+    },
+    {
+      "size": 576942991,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-como-contribuir-com-projetos-de-software-livre.ogv"
+    },
+    {
+      "size": 160889964,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-como-contribuir-com-projetos-de-software-livre.webm"
+    }
+  ]
+}

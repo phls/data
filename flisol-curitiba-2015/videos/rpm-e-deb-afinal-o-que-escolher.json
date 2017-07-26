@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Semelhan\u00e7as e diferen\u00e7as entre os dois sistemas de pacotes. Pontos altos e fracos, a fim de facilitar a escolha de distribui\u00e7\u00e3o feita de acordo com o sistema de pacotes.",
+  "duration": 1732,
+  "id": 249,
+  "language": "por",
+  "recorded": "2015-04-25",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2015-curitiba"
+  ],
+  "slug": "rpm-e-deb-afinal-o-que-escolher",
+  "speakers": [
+    "Marjorie Roberta dos Santos Rosa"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2015",
+    "Curitiba",
+    "Software Livre",
+    "RPM",
+    "DEB",
+    "Empacotamento",
+    "Distribui\u00e7\u00e3o"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2015-rpm-e-deb-afinal-o-que-escolher.jpg",
+  "title": "RPM e DEB - afinal, o que escolher?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=gbCEmoN1UK4"
+    },
+    {
+      "size": 156411465,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-rpm-e-deb-afinal-o-que-escolher.ogv"
+    },
+    {
+      "size": 61301919,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-rpm-e-deb-afinal-o-que-escolher.webm"
+    }
+  ]
+}
