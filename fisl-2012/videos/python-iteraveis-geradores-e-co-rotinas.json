@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2012-07-27",
+  "slug": "python-iteraveis-geradores-e-co-rotinas",
+  "speakers": [
+    "Luciano Ramalho"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 13",
+    "Python, Ruby e Perl"
+  ],
+  "title": "Python: iter\u00e1veis, geradores e co-rotinas",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41f/sala41f-high-201207271757.ogg"
+    }
+  ]
+}
