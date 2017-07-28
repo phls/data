@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2013-07-05",
+  "slug": "escreva-sua-app-android-sem-gastar-energia",
+  "speakers": [
+    "George Henrique Silva"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 14",
+    "Mobile"
+  ],
+  "title": "Escreva sua app Android sem gastar energia",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307051501.ogg"
+    }
+  ]
+}

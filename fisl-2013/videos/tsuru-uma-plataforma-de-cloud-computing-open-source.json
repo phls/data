@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2013-07-04",
+  "slug": "tsuru-uma-plataforma-de-cloud-computing-open-source",
+  "speakers": [
+    "Andrews Patrick Rocha Medina",
+    "Francisco Souza"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Tsuru: uma plataforma de cloud computing open source",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307041900.ogg"
+    }
+  ]
+}
