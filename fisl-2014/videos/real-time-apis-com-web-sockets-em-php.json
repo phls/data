@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2014-05-10",
+  "slug": "real-time-apis-com-web-sockets-em-php",
+  "speakers": [
+    "Ricardo Coelho"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 15",
+    "PHP e Java"
+  ],
+  "title": "Real-time APIs com Web Sockets em PHP",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405101700.ogv"
+    }
+  ]
+}
