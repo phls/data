@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2011-07-02",
+  "slug": "the-magic-of-hot-streaming-replication",
+  "speakers": [
+    "Bruce Momjian"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 12",
+    "Ger\u00eancia de Conte\u00fado"
+  ],
+  "title": "The Magic of Hot Streaming Replication",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201107020900.ogv"
+    }
+  ]
+}

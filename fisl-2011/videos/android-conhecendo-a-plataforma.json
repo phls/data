@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2011-07-01",
+  "slug": "android-conhecendo-a-plataforma",
+  "speakers": [
+    "Alessandro de Oliveria Faria"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 12",
+    "Outras linguagens"
+  ],
+  "title": "Android: Conhecendo a plataforma.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41c/sala41c-high-201107011400.ogv"
+    }
+  ]
+}
