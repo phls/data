@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2014-05-09",
+  "slug": "practical-optimization-of-mysql",
+  "speakers": [
+    "Peter Zaitsev"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 15",
+    "Gerenciamento de Dados"
+  ],
+  "title": "Practical Optimization of MySQL",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41a/sala41a-high-201405091402.ogv"
+    }
+  ]
+}

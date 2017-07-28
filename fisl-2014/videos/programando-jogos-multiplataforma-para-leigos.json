@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2014-05-08",
+  "slug": "programando-jogos-multiplataforma-para-leigos",
+  "speakers": [
+    "Lucas R. Martins"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 15",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Programando Jogos Multiplataforma - Para Leigos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405081202.ogv"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2014-05-10",
+  "slug": "nginx-o-motor-da-sua-aplicacao-web",
+  "speakers": [
+    "Ernani Azevedo"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 15",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "NGiNX, o motor da sua aplica\u00e7\u00e3o web",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405101502.ogv"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2014-05-07",
+  "slug": "encontro-comunitario-debian-brasil-no-fisl-15",
+  "speakers": [
+    "Andr\u00e9 Felipe Machado"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 15",
+    "Eventos Comunit\u00e1rios"
+  ],
+  "title": "Encontro Comunit\u00e1rio Debian Brasil no FISL 15",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405070915.ogv"
+    }
+  ]
+}
