@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2012-07-27",
+  "slug": "simplificando-o-desenvolvimento-de-jogos-com-a-box2d-e-o-mapeditor",
+  "speakers": [
+    "RAGNER NASCIMENTO MAGALHAES"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 13",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Simplificando o desenvolvimento de jogos com  a Box2D e o Mapeditor",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41d/sala41d-high-201207271157.ogg"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2012-07-26",
+  "slug": "testando-aplicacoes-django",
+  "speakers": [
+    "Francisco Souza"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 13",
+    "Python, Ruby e Perl"
+  ],
+  "title": "Testando aplica\u00e7\u00f5es Django",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41b/sala41b-high-201207261058.ogg"
+    }
+  ]
+}
