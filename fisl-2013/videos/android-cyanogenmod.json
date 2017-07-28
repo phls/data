@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2013-07-05",
+  "slug": "android-cyanogenmod",
+  "speakers": [
+    "Lu\u00eds Humberto Teixeira Borba"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 14",
+    "Mobile"
+  ],
+  "title": "Android CyanogenMod",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40t/sala40t-high-201307051801.ogg"
+    }
+  ]
+}

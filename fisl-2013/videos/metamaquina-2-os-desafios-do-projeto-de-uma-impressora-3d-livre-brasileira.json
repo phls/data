@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2013-07-03",
+  "slug": "metamaquina-2-os-desafios-do-projeto-de-uma-impressora-3d-livre-brasileira",
+  "speakers": [
+    "Felipe Sanches",
+    "Rodrigo R. Silva"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 14",
+    "Hardware"
+  ],
+  "title": "Metam\u00e1quina 2: os desafios do projeto de uma impressora 3D livre brasileira",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41e/sala41e-high-201307031007.ogg"
+    }
+  ]
+}

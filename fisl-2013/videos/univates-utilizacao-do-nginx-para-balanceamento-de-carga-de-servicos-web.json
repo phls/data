@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2013-07-04",
+  "slug": "univates-utilizacao-do-nginx-para-balanceamento-de-carga-de-servicos-web",
+  "speakers": [
+    "Marcelo Job Leindecker",
+    "Armando Taffarel Neto",
+    "Tiago Giovanaz da Silva"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 14",
+    "Casos de sucesso"
+  ],
+  "title": "UNIVATES: UTILIZA\u00c7\u00c3O DO NGINX PARA BALANCEAMENTO DE CARGA DE SERVI\u00c7OS WEB",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307041501.ogg"
+    }
+  ]
+}

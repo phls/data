@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2013-07-06",
+  "slug": "mapeando-e-desenvolvendo-aplicacoes-para-dispostivos-moveis-foco-no-sms",
+  "speakers": [
+    "dalton martins",
+    "Gustavo Ganan",
+    "Mariana Manfredi",
+    "Viviane Melo de Mendon\u00e7a",
+    "Felipe Cabral"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 14",
+    "Mobile"
+  ],
+  "title": "Mapeando e desenvolvendo aplicacoes para dispostivos moveis: foco no SMS",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307061602.ogg"
+    }
+  ]
+}

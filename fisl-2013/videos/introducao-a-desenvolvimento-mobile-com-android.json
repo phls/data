@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "",
+  "recorded": "2013-07-03",
+  "slug": "introducao-a-desenvolvimento-mobile-com-android",
+  "speakers": [
+    "leandro marques",
+    "maxwell marques",
+    "Aline de Campos"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 14",
+    "Mobile"
+  ],
+  "title": "Introdu\u00e7\u00e3o a Desenvolvimento Mobile com Android",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40a/sala40a-high-201307031901.ogg"
+    }
+  ]
+}
