@@ -1,0 +1,28 @@
+{
+  "description": "O Encontro da comunidade Debian no FISL, tem por objetivo divulgar os trabalho desenvolvido pela comunidade Debian no Brasil. Apresentamos onde a comunidade Debian est\u00e1 atualmente e para onde est\u00e1 indo, as formas distintas de como contribuir para comunidade Debian Brasil e o projeto Debian. Principais objetivos: incentivar mais pessoas a contribuir com o projeto, integrar colaboradores e usu\u00e1rios e trocar conhecimentos.",
+  "duration": 0,
+  "language": "",
+  "recorded": "2016-07-16",
+  "slug": "encontro-da-comunidade-debian",
+  "speakers": [
+    "Giovani Augusto Ferreira",
+    "Lucas Castro",
+    "Lucas Albuquerque Medeiros de Moura",
+    "Luciano Prestes Cavalcanti",
+    "Daniel Lenharo de Souza",
+    "Thadeu Lima de Souza Cascardo",
+    "Paulo Henrique de Lima Santana"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 17",
+    "Encontros Comunit\u00e1rios - Principal"
+  ],
+  "title": "Encontro da comunidade Debian",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41e/sala41e-high-201607161105.ogv"
+    }
+  ]
+}
