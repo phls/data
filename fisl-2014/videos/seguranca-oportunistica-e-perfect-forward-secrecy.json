@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-09",
   "slug": "seguranca-oportunistica-e-perfect-forward-secrecy",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "criptoparty"
   ],
   "title": "Seguran\u00e7a oportun\u00edstica e Perfect Forward Secrecy",

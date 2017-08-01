@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2013-07-04",
   "slug": "seguranca-em-php-o-que-voce-precisa-saber",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 14",
+    "FISL14",
     "PHP e Java"
   ],
   "title": "Seguran\u00e7a em PHP: O que voc\u00ea precisa saber",

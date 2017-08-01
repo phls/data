@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2011-07-02",
   "slug": "integrando-bases-de-dados-com-software-livre",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 12",
+    "FISL12",
     "Gerenciamento de Dados"
   ],
   "title": "Integrando Bases de Dados Com Software Livre",

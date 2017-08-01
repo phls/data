@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2011-07-01",
   "slug": "openjdk-when-and-how-to-contribute-to-the-java-se-reference-implementation",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 12",
+    "FISL12",
     "PHP e Java"
   ],
   "title": "OpenJDK \u2013 When and How to Contribute to the Java SE Reference Implementation",

@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2011-06-30",
   "slug": "intranet-caixa-construindo-uma-intranet-corporativa-utilizando-plone",
   "speakers": [
@@ -10,7 +10,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 12",
+    "FISL12",
     "Python, Ruby e Perl"
   ],
   "title": "Intranet CAIXA - Construindo uma Intranet Corporativa utilizando Plone",

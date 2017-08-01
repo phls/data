@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-10",
   "slug": "openstack-gt-cloud-computing-at-your-fingertips",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "T\u00f3picos Emergentes"
   ],
   "title": "Openstack =&gt; Cloud computing at your fingertips!",

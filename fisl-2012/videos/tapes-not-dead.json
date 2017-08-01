@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2012-07-26",
   "slug": "tapes-not-dead",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 13",
+    "FISL13",
     "Kernel, Sistemas de Arquivos e Sistemas Operacionais"
   ],
   "title": "Tape's Not Dead",

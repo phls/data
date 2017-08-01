@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-10",
   "slug": "yocto-project-reduzindo-time-to-market-do-seu-proximo-produto",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "Hardware, Sistemas Embarcados e Rob\u00f3tica"
   ],
   "title": "Yocto Project: reduzindo \"time to market\" do seu pr\u00f3ximo produto",

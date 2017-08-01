@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2011-06-29",
   "slug": "jruby-produtividade-e-performance-na-jvm",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 12",
+    "FISL12",
     "Outras linguagens"
   ],
   "title": "JRuby - Produtividade e Performance na JVM",

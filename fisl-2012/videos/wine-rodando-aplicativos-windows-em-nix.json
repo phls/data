@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2012-07-26",
   "slug": "wine-rodando-aplicativos-windows-em-nix",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 13",
+    "FISL13",
     "Desktop e Distribui\u00e7\u00f5es"
   ],
   "title": "Wine - Rodando aplicativos Windows em *nix",

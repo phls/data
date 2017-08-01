@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2011-07-02",
   "slug": "alta-disponibilidade-de-servidores-web-utilizando-as-facilidades-da-nuvem",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 12",
+    "FISL12",
     "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
   ],
   "title": "Alta Disponibilidade de Servidores WEB utilizando as facilidades da Nuvem",

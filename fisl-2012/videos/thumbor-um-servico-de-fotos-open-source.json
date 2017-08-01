@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2012-07-28",
   "slug": "thumbor-um-servico-de-fotos-open-source",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 13",
+    "FISL13",
     "Python, Ruby e Perl"
   ],
   "title": "Thumbor um servi\u00e7o de fotos open-source",

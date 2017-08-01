@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2012-07-27",
   "slug": "novo-expresso30-arquitetura-orientada-a-servicos-com-zend-e-extjs",
   "speakers": [
@@ -10,7 +10,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 13",
+    "FISL13",
     "Ferramentas, Metodologias e Padr\u00f5es"
   ],
   "title": "Novo Expresso30, Arquitetura Orientada a Servi\u00e7os com Zend e ExtJs;",

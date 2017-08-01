@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2013-07-05",
   "slug": "debian-med-project",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 14",
+    "FISL14",
     "Sa\u00fade"
   ],
   "title": "Debian Med project",

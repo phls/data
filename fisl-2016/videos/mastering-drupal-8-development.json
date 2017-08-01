@@ -1,7 +1,7 @@
 {
   "description": "- Introduccion al Desarrollo de Drupal 8\n- Introducci\u00f3n de como usar el projecto Drupal Console para acelerar el proceso de desarrollo en Drupal, sin necesidad de tener experiencia previa.",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2016-07-15",
   "slug": "mastering-drupal-8-development",
   "speakers": [
@@ -9,8 +9,8 @@
   ],
   "tags": [
     "FISL",
-    "FISL 17",
-    "Desenvolvimento - Ger\u00eancia de Conte\u00fado / CMS"
+    "FISL17",
+    "Ger\u00eancia de Conte\u00fado / CMS"
   ],
   "title": "Mastering Drupal 8 Development",
   "videos": [

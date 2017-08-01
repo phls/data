@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2011-06-29",
   "slug": "vpro-meego-creating-bridges-from-netbook-to-cloud-administration",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 12",
+    "FISL12",
     "MeeGo Day"
   ],
   "title": "vPro & Meego: Creating bridges from netbook to Cloud Administration",

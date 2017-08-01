@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2013-07-03",
   "slug": "emscripten-compilando-de-varias-linguagens-para-javascript",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 14",
+    "FISL14",
     "Openweb"
   ],
   "title": "Emscripten: compilando de v\u00e1rias linguagens para JavaScript",

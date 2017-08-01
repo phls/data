@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-08",
   "slug": "nodejs-javascript-alem-do-navegador",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "Outras linguagens"
   ],
   "title": "Node.js - Javascript al\u00e9m do navegador",

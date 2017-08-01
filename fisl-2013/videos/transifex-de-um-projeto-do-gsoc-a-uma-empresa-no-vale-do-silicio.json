@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2013-07-06",
   "slug": "transifex-de-um-projeto-do-gsoc-a-uma-empresa-no-vale-do-silicio",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 14",
+    "FISL14",
     "Casos de sucesso"
   ],
   "title": "Transifex: De um projeto do GSoC a uma empresa no Vale do Sil\u00edcio",

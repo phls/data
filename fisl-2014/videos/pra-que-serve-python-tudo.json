@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-07",
   "slug": "pra-que-serve-python-tudo",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "Python, Ruby e Perl"
   ],
   "title": "Pra que serve Python? Tudo!",

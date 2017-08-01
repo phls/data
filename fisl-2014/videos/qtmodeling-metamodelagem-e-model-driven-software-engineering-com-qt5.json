@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-07",
   "slug": "qtmodeling-metamodelagem-e-model-driven-software-engineering-com-qt5",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "Ferramentas, Metodologias e Padr\u00f5es"
   ],
   "title": "QtModeling: metamodelagem e model-driven software engineering com Qt5",

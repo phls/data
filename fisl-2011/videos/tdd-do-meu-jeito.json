@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2011-07-02",
   "slug": "tdd-do-meu-jeito",
   "speakers": [
@@ -10,7 +10,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 12",
+    "FISL12",
     "Ferramentas, Metodologias e Padr\u00f5es"
   ],
   "title": "TDD do meu jeito",

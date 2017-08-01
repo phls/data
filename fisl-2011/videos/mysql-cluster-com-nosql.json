@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2011-06-29",
   "slug": "mysql-cluster-com-nosql",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 12",
+    "FISL12",
     "T\u00f3picos Emergentes"
   ],
   "title": "MySQL Cluster com NoSQL",

@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2011-07-01",
   "slug": "hardware-para-linux-embarcado-tudo-que-voce-precisa-saber",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 12",
+    "FISL12",
     "Hardware, Sistemas Embarcados e Rob\u00f3tica"
   ],
   "title": "Hardware para Linux embarcado: tudo que voc\u00ea precisa saber!",

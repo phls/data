@@ -1,7 +1,7 @@
 {
   "description": "A sigla TDD significa test-driven design e esta \u00faltima palavra \u00e9 muito importante para a escrita de c\u00f3digo de f\u00e1cil manuten\u00e7\u00e3o, entendimento e testabilidade. Nessa palestra, pretendo apresentar conceitos de orienta\u00e7\u00e3o \u00e0 objetos e como, ao alinhar esses conceitos a estrat\u00e9gias de mock utilizando a linguagem Python, conseguimos de fato fazer com que os nossos testes nos auxiliem no design do nosso c\u00f3digo.",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2015-07-10",
   "slug": "tdd-com-mock-e-orientacao-a-objetos",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 16",
+    "FISL16",
     "Desenvolvimento - Linguagens de programa\u00e7\u00e3o"
   ],
   "title": "TDD com Mock e Orienta\u00e7\u00e3o \u00e0 Objetos",

@@ -1,15 +1,15 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2013-07-03",
   "slug": "cluster-kvm-com-redhatcentos",
   "speakers": [
-    "felipe roberto silva"
+    "Felipe Roberto Silva"
   ],
   "tags": [
     "FISL",
-    "FISL 14",
+    "FISL14",
     "Sistemas de Arquivos e Sistemas Operacionais"
   ],
   "title": "Cluster KVM com RedHat/CentOS",

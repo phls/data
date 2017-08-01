@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-09",
   "slug": "forense-em-memoria-com-volatility-lime-e-outras-ferramentas",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "Seguran\u00e7a"
   ],
   "title": "Forense em mem\u00f3ria com volatility, LiME e outras ferramentas",

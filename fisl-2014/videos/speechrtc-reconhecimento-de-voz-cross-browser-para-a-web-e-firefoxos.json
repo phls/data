@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-08",
   "slug": "speechrtc-reconhecimento-de-voz-cross-browser-para-a-web-e-firefoxos",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "T\u00f3picos Emergentes"
   ],
   "title": "SpeechRTC, reconhecimento de voz cross-browser para a Web e FirefoxOS",

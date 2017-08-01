@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2013-07-06",
   "slug": "oportunidades-com-pfsense-redes-ageis-e-sob-controle",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 14",
+    "FISL14",
     "Distribui\u00e7\u00f5es GNU/Linux e BSD"
   ],
   "title": "Oportunidades com pfSense - Redes \u00e1geis e sob controle",

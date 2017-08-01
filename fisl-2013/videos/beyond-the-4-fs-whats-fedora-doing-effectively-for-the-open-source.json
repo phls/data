@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2013-07-05",
   "slug": "beyond-the-4-fs-whats-fedora-doing-effectively-for-the-open-source",
   "speakers": [
@@ -10,7 +10,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 14",
+    "FISL14",
     "Distribui\u00e7\u00f5es GNU/Linux e BSD"
   ],
   "title": "Beyond the 4 F's: What's Fedora doing effectively for the Open Source?",

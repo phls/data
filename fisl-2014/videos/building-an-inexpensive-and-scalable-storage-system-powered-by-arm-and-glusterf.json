@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-10",
   "slug": "building-an-inexpensive-and-scalable-storage-system-powered-by-arm-and-glusterf",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "Kernel, Sistemas de Arquivos e Sistemas Operacionais"
   ],
   "title": "Building an inexpensive and scalable storage system powered by ARM and GlusterF",

@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2011-07-02",
   "slug": "a-crash-course-on-crash-the-kernel-crash-analysis-utility",
   "speakers": [
@@ -10,7 +10,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 12",
+    "FISL12",
     "Kernel, Sistemas de Arquivos e Sistemas Operacionais"
   ],
   "title": "A crash course on crash - The Kernel crash analysis utility",

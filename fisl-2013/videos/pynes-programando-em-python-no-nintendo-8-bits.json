@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2013-07-06",
   "slug": "pynes-programando-em-python-no-nintendo-8-bits",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 14",
+    "FISL14",
     "Jogos"
   ],
   "title": "PyNES: Programando em Python no Nintendo 8 bits.",

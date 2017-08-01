@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2012-07-26",
   "slug": "wsl-s3-case-studies-and-extensions-of-floss",
   "speakers": [
@@ -12,7 +12,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 13",
+    "FISL13",
     "WSL"
   ],
   "title": "WSL (S3): Case studies and extensions of FLOSS",

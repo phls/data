@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-09",
   "slug": "from-zero-to-cloud-revolutionize-your-application-lifecycle-with-paas",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "Ferramentas, Metodologias e Padr\u00f5es"
   ],
   "title": "From Zero to Cloud: Revolutionize your Application LifeCycle with PaaS",

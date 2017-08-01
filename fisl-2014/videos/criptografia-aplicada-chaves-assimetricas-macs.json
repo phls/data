@@ -1,15 +1,15 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-07",
   "slug": "criptografia-aplicada-chaves-assimetricas-macs",
   "speakers": [
-    "aiman"
+    "Aiman"
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "Seguran\u00e7a"
   ],
   "title": "Criptografia Aplicada -- Chaves Assim\u00e9tricas + MACs",

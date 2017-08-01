@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2012-07-26",
   "slug": "usando-a-arquitetura-de-componentes-do-zope-com-python",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 13",
+    "FISL13",
     "Ferramentas, Metodologias e Padr\u00f5es"
   ],
   "title": "Usando a Arquitetura de Componentes do Zope com Python",

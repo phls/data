@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-09",
   "slug": "construindo-suporte-a-tv-digital-no-linux",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "Kernel, Sistemas de Arquivos e Sistemas Operacionais"
   ],
   "title": "Construindo suporte a TV digital no Linux",

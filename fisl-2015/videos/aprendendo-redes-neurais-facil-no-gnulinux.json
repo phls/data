@@ -1,7 +1,7 @@
 {
   "description": "Desde a d\u00e9cada de 40 que intelig\u00eancia artificial \u00e9 comentada no mundo. Atualmente, essa \u00e1rea encontra-se nas principais organiza\u00e7\u00f5es do mundo e se torna um diferencial para quem gosta de programar. Redes Neurais \u00e9 uma \u00e1rea dentro de intelig\u00eancia artificial e \u00e9 considerado complicado entre os desenvolvedores. Esta palestra tem como objetivo mostrar como construir exemplos de redes neurais utilizando a biblioteca FANN. Uma palestra din\u00e2mica, com exemplos e pr\u00e1tica.",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2015-07-10",
   "slug": "aprendendo-redes-neurais-facil-no-gnulinux",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 16",
+    "FISL16",
     "Desenvolvimento - Linguagens de programa\u00e7\u00e3o"
   ],
   "title": "Aprendendo Redes Neurais F\u00e1cil no GNU/Linux",

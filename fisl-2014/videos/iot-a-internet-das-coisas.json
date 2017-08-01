@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-09",
   "slug": "iot-a-internet-das-coisas",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "Hardware, Sistemas Embarcados e Rob\u00f3tica"
   ],
   "title": "IoT: A Internet das Coisas",

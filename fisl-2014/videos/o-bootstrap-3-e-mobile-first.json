@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-07",
   "slug": "o-bootstrap-3-e-mobile-first",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "Ferramentas, Metodologias e Padr\u00f5es"
   ],
   "title": "O Bootstrap 3 \u00e9 Mobile First",

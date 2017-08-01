@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2011-07-02",
   "slug": "meta-python-magia-negra-na-pratica",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 12",
+    "FISL12",
     "Python, Ruby e Perl"
   ],
   "title": "Meta Python - magia negra na pr\u00e1tica",

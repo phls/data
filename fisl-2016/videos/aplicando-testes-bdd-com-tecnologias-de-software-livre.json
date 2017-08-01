@@ -1,7 +1,7 @@
 {
   "description": "O objetivo deste trabalho \u00e9 aplicar a abordagem de testes orientado por comportamento (BDD), integrada as metodologias \u00e1geis, para obter melhores resultados a fim de, evitar o retrabalho e abertura de defeitos de comportamento no processo de desenvolvimento do produto, utilizando tecnologias de software livre e c\u00f3digo aberto.",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2016-07-13",
   "slug": "aplicando-testes-bdd-com-tecnologias-de-software-livre",
   "speakers": [
@@ -9,8 +9,8 @@
   ],
   "tags": [
     "FISL",
-    "FISL 17",
-    "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es"
+    "FISL17",
+    "Ferramentas, Metodologias e Padr\u00f5es"
   ],
   "title": "Aplicando Testes BDD com Tecnologias de Software Livre",
   "videos": [

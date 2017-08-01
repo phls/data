@@ -1,7 +1,7 @@
 {
   "description": "",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2014-05-08",
   "slug": "liberte-sua-rede-de-tecnologias-proprietarias-com-openflow",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 15",
+    "FISL15",
     "T\u00f3picos Emergentes"
   ],
   "title": "Liberte sua rede de tecnologias propriet\u00e1rias com OpenFlow",

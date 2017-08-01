@@ -1,7 +1,7 @@
 {
   "description": "Karen will discuss Conservancy's work on behalf of a coalition of Linux kernel developers, the GPL Compliance Project for Linux Developers. She will talk about why community enforcement is so important and how things currently stand in free and open source software compliance. Karen will also discuss Conservancy's work with Christoph Hellwig and the suit against VMware to defend the GNU General Public License.",
   "duration": 0,
-  "language": "",
+  "language": "por",
   "recorded": "2015-07-08",
   "slug": "stand-up-for-the-gpl",
   "speakers": [
@@ -9,7 +9,7 @@
   ],
   "tags": [
     "FISL",
-    "FISL 16",
+    "FISL16",
     "T\u00f3picos Emergentes - Privacidade e Vigil\u00e2ncia"
   ],
   "title": "Stand Up for the GPL!",
