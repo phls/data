@@ -1,0 +1,22 @@
+{
+  "description": "Como ser\u00e1 o Registro Eletr\u00f4nico de Sa\u00fade Nacional e como entram os desenvolvedores livres nesse processo: o  conceito; a arquitetura e os padr\u00f5es adotados. D\u00favidas e certezas.",
+  "duration": 0,
+  "language": "",
+  "recorded": "2015-07-10",
+  "slug": "registro-eletronico-de-saude-padroes-de-desenvolvimento-e-software-livre",
+  "speakers": [
+    "moacyr esteves perche"
+  ],
+  "tags": [
+    "FISL",
+    "FISL 16",
+    "Ecossistema - Neg\u00f3cios, Migra\u00e7\u00f5es e Casos"
+  ],
+  "title": "Registro Eletr\u00f4nico de Sa\u00fade: Padr\u00f5es de Desenvolvimento e Software Livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41c/sala_41c-high-201507101005.ogv"
+    }
+  ]
+}
