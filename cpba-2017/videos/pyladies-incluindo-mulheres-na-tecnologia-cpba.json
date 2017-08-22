@@ -1,0 +1,37 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Pyladies \u00e9 uma comunidade internacional com o intuito de ensinar programa\u00e7\u00e3o para mulheres de diferentes idades que possuem o interesse em iniciar os estudos em computa\u00e7\u00e3o, ou j\u00e1 atuam na \u00e1rea. Nesta palestra vamos conhecer a hist\u00f3ria do Pyladies Brasil e como as suas atividades tem impactado na atua\u00e7\u00e3o feminina em suas comunidades locais.",
+  "duration": 1015,
+  "id": 251,
+  "language": "por",
+  "recorded": "2017-08-10",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-bahia-2017/talk/pyladies-incluindo-mulheres-na-tecnologia-cpba"
+  ],
+  "slug": "pyladies-incluindo-mulheres-na-tecnologia",
+  "speakers": [
+    "Joana Paula Santos de Souza"
+  ],
+  "tags": [
+    "CPBA",
+    "Campus Party Bahia",
+    "Software Livre",
+    "Bahia",
+    "Salvador",
+    "Python",
+    "PyLadies"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/pyladies-incluindo-mulheres-na-tecnologia.jpg",
+  "title": "Pyladies: incluindo mulheres na tecnologia",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=krAsImn6Rgs&feature=youtu.be&t=4h3m10s"
+    },
+    {
+      "size": 67608313,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpba1-2017/cpba1-2017-pyladies-incluindo-mulheres-na-tecnologia.ogv"
+    }
+  ]
+}

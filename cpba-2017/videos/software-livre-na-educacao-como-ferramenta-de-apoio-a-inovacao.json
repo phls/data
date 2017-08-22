@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Institui\u00e7\u00f5es educacionais de todos os n\u00edveis deveriam apenas usar e ensinar o software livre, pois esse \u00e9 o \u00fanico que permite que essas institui\u00e7\u00f5es cumpram suas miss\u00f5es fundamentais: disseminar o conhecimento humano e preparar os estudantes para serem bons membros de suas comunidades. O c\u00f3digo-fonte e os m\u00e9todos do software livre s\u00e3o partes do conhecimento humano. Software propriet\u00e1rio, por outro lado, \u00e9 conhecimento secreto e restrito, o que \u00e9 o oposto da miss\u00e3o das institui\u00e7\u00f5es educacionais. O software livre apoia a educa\u00e7\u00e3o, mas o software propriet\u00e1rio a pro\u00edbe. O software livre n\u00e3o \u00e9 simplesmente uma quest\u00e3o t\u00e9cnica; \u00e9 uma quest\u00e3o \u00e9tica, social e pol\u00edtica. \u00c9 uma quest\u00e3o de direitos humanos que os usu\u00e1rios devem ter. Liberdade e coopera\u00e7\u00e3o s\u00e3o valores essenciais do software livre. O Sistema GNU implementa esses valores e o princ\u00edpio do compartilhamento, uma vez que compartilhar \u00e9 bom e ben\u00e9fico para o progresso humano. (Fonte: gnu.org).",
+  "duration": 3126,
+  "id": 252,
+  "language": "por",
+  "recorded": "2017-08-12",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-bahia-2017/talk/painel-software-livre-na-educacao-como-ferramenta-de-apoio-a-inovacao-cpba"
+  ],
+  "slug": "software-livre-na-educacao-como-ferramenta-de-apoio-a-inovacao-cpba1",
+  "speakers": [
+    "Jos\u00e9 Honorato Ferreira Nunes",
+    "Juliana Oliveira",
+    "Luciana Santos Oliveira"
+  ],
+  "tags": [
+    "CPBA",
+    "Campus Party Bahia",
+    "Software Livre",
+    "Bahia",
+    "Salvador",
+    "Painel",
+    "Educa\u00e7\u00e3o",
+    "Onda Digital",
+    "IF Baiano",
+    "Universidade",
+    "Software Livre Educacional",
+    "UFBA"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/software-livre-na-educacao-como-ferramenta-de-apoio-a-inovacao-cpba1.jpg",
+  "title": "Painel: Software Livre na educa\u00e7\u00e3o como ferramenta de apoio a inova\u00e7\u00e3o",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=cMxa5uVcsW0&feature=youtu.be&t=1h8m30s"
+    },
+    {
+      "size": 500518564,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpba1-2017/cpba1-2017-software-livre-na-educacao-como-ferramenta-de-apoio-a-inovacao.ogv"
+    }
+  ]
+}
