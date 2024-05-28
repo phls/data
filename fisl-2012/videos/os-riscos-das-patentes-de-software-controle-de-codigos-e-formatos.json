@@ -1,0 +1,30 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "os-riscos-das-patentes-de-software-controle-de-codigos-e-formatos",
+  "speakers": [
+    "Luiz Xavier",
+    "Sergio Amadeu da Silveira",
+    "Pedro Paranagu\u00e1",
+    "Bruno Magrani",
+    "Antonio Abrantes",
+    "Nelson Posse Lago",
+    "Seth Schoen",
+    "Marcelo Branco"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Os riscos das patentes de software, controle de c\u00f3digos e formatos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41a/sala41a-high-201207271510.ogg"
+    }
+  ]
+}

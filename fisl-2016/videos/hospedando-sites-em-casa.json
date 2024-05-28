@@ -1,0 +1,23 @@
+{
+  "description": "Passo a passo sobre como voc\u00ea pode hospedar seus sites, aplicativos e demais sistemas em sua pr\u00f3pria casa de forma segura simples e barata utilizando o Cubieboard ou Raspberry Pi. O principal intuito \u00e9 desmistificar a internet e fazer com que o compartilhamento de conhecimento seja mais r\u00e1pido e pr\u00e1tico.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "hospedando-sites-em-casa",
+  "speakers": [
+    "Bruno de Loyola Herides"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Administra\u00e7\u00e3o de Sistemas"
+  ],
+  "title": "Hospedando sites em casa",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607141259.ogv"
+    }
+  ]
+}

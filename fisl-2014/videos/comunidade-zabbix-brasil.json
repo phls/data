@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "comunidade-zabbix-brasil",
+  "speakers": [
+    "Alessandro de Souza e Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Eventos Comunit\u00e1rios"
+  ],
+  "title": "Comunidade ZABBIX BRASIL",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405090900.ogv"
+    }
+  ]
+}

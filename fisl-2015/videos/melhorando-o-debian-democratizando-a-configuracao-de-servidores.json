@@ -1,0 +1,27 @@
+{
+  "description": "Distribui\u00e7\u00f5es s\u00e3o excelentes fornecercedores de pacotes, mas a maioria das aplica\u00e7\u00f5es web, e aplica\u00e7\u00f5es de servidor em geral, s\u00e3o compostas de mais de um pacote e de configura\u00e7\u00f5es espec\u00edficas que n\u00e3o pertencem a nenhum pacote em espec\u00edfico. Esta palestra descreve um projeto em que estou trabalhando para ter uma esp\u00e9cio de \"gerenciadore de pacotes\" uma camada acima da infrastrutura tradicional de gerenciamento de pacotes. O objetivo final \u00e9 fazer com que usu\u00e1rios finais interessados em manter os seus pr\u00f3prios servidores possam escolher simplesmente \"instalar um servidor de email\", ou \"instalar um blog\", sem precisar de conhecimento t\u00e9cnico especializado pra lidar com todos os detalhes envolvidos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "melhorando-o-debian-democratizando-a-configuracao-de-servidores",
+  "speakers": [
+    "Antonio Terceiro"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "miniDebConf"
+  ],
+  "title": "Melhorando o Debian, democratizando a configura\u00e7\u00e3o de servidores",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507101557.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507101601.ogv"
+    }
+  ]
+}

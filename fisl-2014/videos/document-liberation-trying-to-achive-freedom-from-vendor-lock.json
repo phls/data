@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "document-liberation-trying-to-achive-freedom-from-vendor-lock",
+  "speakers": [
+    "Fridrich Strba"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Document Liberation: trying to achive freedom from vendor lock",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/40t/sala40t-high-201405091604.ogv"
+    }
+  ]
+}

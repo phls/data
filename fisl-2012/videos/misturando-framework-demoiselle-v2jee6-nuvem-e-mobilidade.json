@@ -1,0 +1,27 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-25",
+  "slug": "misturando-framework-demoiselle-v2jee6-nuvem-e-mobilidade",
+  "speakers": [
+    "Thiago de Feina",
+    "Wilson Guimar\u00e3es",
+    "Emerson Sachio Saito",
+    "Cleverson Sacramento de Oliveira",
+    "Thiago de Lima Mariano"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "PHP e Java"
+  ],
+  "title": "Misturando Framework Demoiselle v2(JEE6), Nuvem e Mobilidade.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41e/sala41e-high-201207251507.ogg"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Makadu \u00e9 um aplicativo que ajuda a melhorar a qualidade de conte\u00fado e dissemina\u00e7\u00e3o de conhecimento dentro de eventos. A programa\u00e7\u00e3o na ponta dos dedos, sem agredir o meio ambiente.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "makadu-o-app-dos-eventos",
+  "speakers": [
+    "Eros Carrasco"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Acesso Aberto"
+  ],
+  "title": "Makadu: O APP dos eventos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41c/sala_41c-high-201507101300.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41c/sala_41c-high-201507101304.ogv"
+    }
+  ]
+}

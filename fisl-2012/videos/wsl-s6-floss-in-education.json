@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "wsl-s6-floss-in-education",
+  "speakers": [
+    "Anderson Fernandes de Alencar",
+    "Catia Zilio"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "WSL"
+  ],
+  "title": "WSL (S6): FLOSS in education",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40a/sala40a-high-201207271607.ogg"
+    }
+  ]
+}

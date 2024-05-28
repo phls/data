@@ -1,0 +1,52 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Membros da comunidade brasileira tem propagado nos \u00faltimos meses que o movimento software livre est\u00e1 morto ap\u00f3s a prolifera\u00e7\u00e3o de distribui\u00e7\u00f5es GNU/Linux mais permissivas que incorporam softwares propriet\u00e1rios buscando facilitar a vida dos usu\u00e1rios e principalmente com a grande ades\u00e3o de outros membros da comunidade as m\u00eddias sociais propriet\u00e1rias (apelidadas de redes devassas). Conhecidos como radicais livres, eles dizem que o que existe hoje \u00e9 um movimento chamado open source, muito mais complacente com situa\u00e7\u00f5es contr\u00e1rias aquilo que \u00e9 defendido por Richard Stallman.  Em contrapartida, outros membros da comunidade afirmam que n\u00e3o existe distin\u00e7\u00e3o entre os movimentos e que no Brasil sempre houve a unifica\u00e7\u00e3o dos discursos do software livre com o c\u00f3digo aberto, principalmente quando voltado para empresas que n\u00e3o est\u00e3o preocupadas com a quest\u00e3o da liberdade do conhecimento mas sim com a qualidade dos softwares. E muitos membros acreditam que \u00e9 importante usar m\u00eddias sociais fechadas principalmente para divulgar o software livre onde est\u00e3o a maior parte dos usu\u00e1rios. Quem est\u00e1 certo? Existem realmente dois movimentos distintos? Devemos ser radicais na defesa do software livre, ou podemos abrir exce\u00e7\u00f5es quando queremos falar de software livre para grupos diversos? Distros GNU/Linux mais permissivas ajudam ou atrapalham a liberdade?",
+  "duration": 4699,
+  "id": 132,
+  "language": "por",
+  "recorded": "2015-02-06",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/painel-existe-movimento-software-livre-x-open-source-initiative-ou-somos-todos-iguais",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/existe-movimento-software-livre-x-open-source-initiative-ou-somos-todos-iguais-cpbr8"
+  ],
+  "slug": "existe-movimento-software-livre-x-open-source-ou-somos-todos-iguais",
+  "speakers": [
+    "Alexandre Oliva",
+    "Anahuac de Paula Gil",
+    "Paulo Henrique de Lima Santana"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "Open Source",
+    "C\u00f3digo aberto",
+    "Free Software",
+    "Liberdade",
+    "GNU/Linux",
+    "Richard Stallman",
+    "Liberdade do conhecimento",
+    "Movimento",
+    "Redes sociais"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/existe-movimento-software-livre-x-open-source-ou-somos-todos-iguais.jpg",
+  "title": "Painel: Existe Movimento Software Livre x Open Source Initiative, ou somos todos iguais?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=jz7h05l7mRU"
+    },
+    {
+      "size": 682266153,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-existe-movimento-software-livre-x-open-source-ou-somos-todos-iguais.ogv"
+    },
+    {
+      "size": 245988021,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-existe-movimento-software-livre-x-open-source-ou-somos-todos-iguais.webm"
+    }
+  ]
+}

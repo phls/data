@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Nesta palestra veremos procedimentos de instala\u00e7\u00e3o do SDK e NDK Android, como tamb\u00e9m a apresenta\u00e7\u00e3o dos principais m\u00e9todos para captura de imagens na plataforma Android para posterior processamento. Exemplos com c\u00f3digo fonte de aplicativos de realidade aumentada em celulares Android, demonstra\u00e7\u00e3o de todo potencial da tecnologia Webtop da Motorola presente no celular Atrix e demonstra\u00e7\u00e3o da biblioteca de vis\u00e3o computacional openCV nesta plataforma. Android \u00e9 um sistema operacional open source baseado no Linux para dispositivos port\u00e1teis. Pertencente ao Google e a Open Handset Alliance (OHA), uma alian\u00e7a voltada para dispositivos m\u00f3veis open source, composta com aproximadamente 30 empresas de nome mercadol\u00f3gico (Intel, Motorola, Samsung e outros). O seu SDK (kit de desenvolvimento) proporciona ferramentas e chamadas via API na linguagem JAVA para desenvolvimento de programas. Resumidamente, s\u00e3o programas para celulares com um sistema operacional, middleware e interface.",
+  "duration": 3997,
+  "id": 1,
+  "language": "por",
+  "recorded": "2012-02-08",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/android-conheca-o-futuro-inevitavel"
+  ],
+  "slug": "android-conheca-o-futuro-inevitavel",
+  "speakers": [
+    "Alessandro de Oliveira Faria - Cabelo"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "openCV",
+    "Android"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/android-conheca-o-futuro-inevitavel.jpg",
+  "title": "Android - conhe\u00e7a o futuro inevit\u00e1vel",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=1kE1sRby8jU"
+    },
+    {
+      "size": 230949946,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-android-conheca-o-futuro-inevitavel.ogv"
+    },
+    {
+      "size": 141917726,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-android-conheca-o-futuro-inevitavel.webm"
+    }
+  ]
+}

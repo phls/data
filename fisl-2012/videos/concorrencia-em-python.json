@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "concorrencia-em-python",
+  "speakers": [
+    "Francisco Souza"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Python, Ruby e Perl"
+  ],
+  "title": "Concorr\u00eancia em Python",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41f/sala41f-high-201207271057.ogg"
+    }
+  ]
+}

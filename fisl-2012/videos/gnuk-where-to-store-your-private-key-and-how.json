@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "gnuk-where-to-store-your-private-key-and-how",
+  "speakers": [
+    "Niibe Yutaka"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Seguran\u00e7a"
+  ],
+  "title": "Gnuk: Where to store your private key, and how?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40t/sala40t-high-201207261602.ogg"
+    }
+  ]
+}

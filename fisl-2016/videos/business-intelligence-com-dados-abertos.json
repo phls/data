@@ -1,0 +1,23 @@
+{
+  "description": "Em um cen\u00e1rio onde cada dia mais temos dados as nossa disposi\u00e7\u00e3o, como podemos transformar esses dados em informa\u00e7\u00e3o utilizando ferramentas livres para tomada de decis\u00e3o.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "business-intelligence-com-dados-abertos",
+  "speakers": [
+    "Rafaela Raganham"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Dados Abertos"
+  ],
+  "title": "Business Intelligence com dados abertos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41b/sala41b-high-201607151800.ogv"
+    }
+  ]
+}

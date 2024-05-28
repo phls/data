@@ -1,0 +1,48 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Hackers, crackers e anonymous v\u00e3o debater as t\u00e9cnicas e ferramentas utilizadas pela Ag\u00eancia de Seguran\u00e7a Nacional (NSA, em ingl\u00eas) dos Estados Unidos para espionagem eletr\u00f4nica. Apresentando caminhos e ou alternativas de como escapar do PRISM e das ciladas web, fornecendo dicas de como minimizar os riscos e fortalecer a seguran\u00e7a pessoal ou de todas as informa\u00e7\u00f5es armazenadas em seu computador.",
+  "duration": 5556,
+  "id": 50,
+  "language": "por",
+  "recorded": "2014-07-26",
+  "related_urls": [
+    "https://campuse.ro/events/campus-party-recife-2014/talk/voce-sabe-o-quanto-e-espionado-e-como-evitar-cprecife3",
+    "http://slcampusparty.com.br/blog/painel-voce-sabe-o-quanto-e-espionado-e-como-evitar-cprecife3"
+  ],
+  "slug": "voce-sabe-o-quanto-eh-espionado-e-como-evitar",
+  "speakers": [
+    "Anahuac de Paula Gil",
+    "Isaac Fernando Ferreira Filho",
+    "Paulo Henrique de Lima Santana",
+    "Pedro Antonio Dourado de Rezende"
+  ],
+  "tags": [
+    "CPRecife3",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "Painel",
+    "NSA",
+    "PRISM",
+    "Hackers",
+    "Crackers"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/voce-sabe-o-quanto-eh-espionado-e-como-evitar.jpg",
+  "title": "Painel: Voc\u00ea sabe o quanto \u00e9 espionado? E como evitar?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=9ZNBQQegLz8"
+    },
+    {
+      "size": 505152018,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife3-2014/cprecife3-2014-voce-sabe-o-quanto-eh-espionado-e-como-evitar.ogv"
+    },
+    {
+      "size": 216019160,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife3-2014/cprecife3-2014-voce-sabe-o-quanto-eh-espionado-e-como-evitar.webm"
+    }
+  ]
+}

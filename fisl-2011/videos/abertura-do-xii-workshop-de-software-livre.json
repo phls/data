@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "abertura-do-xii-workshop-de-software-livre",
+  "speakers": [
+    "Thomas Soares"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "WSL"
+  ],
+  "title": "Abertura do XII Workshop de Software Livre. ",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40a/sala40a-high-201107010913.ogv"
+    }
+  ]
+}

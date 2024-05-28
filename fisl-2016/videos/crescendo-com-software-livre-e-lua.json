@@ -1,0 +1,23 @@
+{
+  "description": "Lua \u00e9 uma linguagem de programa\u00e7\u00e3o brasileira que ganhou o mercado de script de games. Ela foi bem sucedida num universo liderado por tecnologias criadas em pa\u00edses desenvolvidos. Esse sucesso n\u00e3o foi ao acaso mas uma jornada.\n\nDurante esta palestra vamos percorrer um pouco dessa jornada e entender que valorizar software local pode ser uma \u00f3tima escolha para o seu projeto e para sua carreira de desenvolvedor.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "crescendo-com-software-livre-e-lua",
+  "speakers": [
+    "Etiene da Cruz Dalcol"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "Crescendo com Software Livre e Lua",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41d/sala41d-high-201607131402.ogv"
+    }
+  ]
+}

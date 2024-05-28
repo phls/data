@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "mailarchiver-nova-tec-p-arquivamento-local-de-emails-frente-ao-google-gears",
+  "speakers": [
+    "Fernando Alberto Reuter Wendt"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "MailArchiver - Nova tec. p/ arquivamento local de emails  frente ao Google Gears",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41b/sala41b-high-201207261557.ogg"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Conhe\u00e7a o Uncreated.net, um est\u00fadio coletivo de arquitetura e design, com custo zero, gasto de recursos zero, e que funciona como um grupo aut\u00f4nomo (sem empresa), desde 2006 usando e desenvolvendo software livre.\n\nO coletivo \u00e9 um usu\u00e1rio voraz de software livre: Na sua gest\u00e3o, na web, e em toda a cadeira de aplicativos necess\u00e1ria para o desenvolvimento de projetos de arquitetura. Isso inclui por exemplo Debian, Ubuntu, WordPress, ProjectPier, Blender, Gimp, FreeCAD, Inkscape, Libre Office, ownCloud e muitos outros. Para adaptar o processo habitual usado por arquitetos, geralmente dependentes de software propriet\u00e1rio car\u00edssimo, ao software livre, foi necess\u00e1ria muita disposi\u00e7\u00e3o, e desenvolver o que n\u00e3o existia. Isso gerou tamb\u00e9m novas ideias, novas pistas e novas maneiras de solucionar problemas.\n\nEsse caminho pelo software livre, pela recusa de solu\u00e7\u00f5es empacotadas, comerciais, e em muitos casos t\u00f3xicas e desenhadas para provocar depend\u00eancia, encontrou uma resson\u00e2ncia direta com a pr\u00f3pria arquitetura desenvolvida pelo coletivo. Tamb\u00e9m passamos a promover uma arquitetura livre, colaborativa, que fuja da depend\u00eancia de produtos industriais.\n\nO uso do software livre tamb\u00e9m permite um custo de funcionamento extremamente baixo, o que simplifica toda a parte administrativa, ao ponto de funcionar sem empresa (todos os membros s\u00e3o aut\u00f4nomos).\n\nEsta palesta se organiza como uma conversa animada e divertida sobre os diversos temas e desafios que encontramos na nossa jornada e como o software livre nos ajuda a sobreviver competindo no mundo corporativo.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "o-dia-a-dia-de-um-estudio-de-arquitetura-livre",
+  "speakers": [
+    "Ma\u00edra Zasso",
+    "Yorik van Havre"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Neg\u00f3cios, Migra\u00e7\u00f5es e Casos"
+  ],
+  "title": "O dia-a-dia de um est\u00fadio de arquitetura livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41a/sala_41a-high-201507111558.ogv"
+    }
+  ]
+}

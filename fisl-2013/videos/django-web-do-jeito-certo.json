@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "django-web-do-jeito-certo",
+  "speakers": [
+    "Eduardo Felipe Castegnaro"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Python, Ruby e Perl"
+  ],
+  "title": "Django: Web do Jeito Certo",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307040958.ogg"
+    }
+  ]
+}

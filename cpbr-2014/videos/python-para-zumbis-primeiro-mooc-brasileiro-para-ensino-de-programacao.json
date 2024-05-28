@@ -1,0 +1,45 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O que Python tem para atrair mais de 5 mil inscritos num curso? Nesta palestra voc\u00ea n\u00e3o ver\u00e1 nada de teoria, veremos os c\u00f3digos que mais fizeram a alegria zumbi: hackear fotos do Facebook sem autentica\u00e7\u00e3o, games cl\u00e1ssicos diretamente no navegador, metaprograma\u00e7\u00e3o 42 (resposta para tudo), resolver a seletiva Hackaton Facebook em uma linha e muito mais. J\u00e1 deixe Python 3.x e Pygame instalados em seu computador para acompanhar com links do github.",
+  "duration": 3276,
+  "id": 104,
+  "language": "por",
+  "recorded": "2014-01-31",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-python-para-zumbis-primeiro-mooc-brasileiro-para-ensino-de-programacao",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-python-para-zumbis-primeiro-mooc-brasileiro-para-ensino-de-programacao"
+  ],
+  "slug": "python-para-zumbis-primeiro-mooc-brasileiro-para-ensino-de-programacao",
+  "speakers": [
+    "Fernando Masanori Ashikaga"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Python",
+    "Python para zumbies",
+    "MOOC",
+    "Hackaton",
+    "Facebook"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/python-para-zumbis-primeiro-mooc-brasileiro-para-ensino-de-programacao.jpg",
+  "title": "Python para Zumbis: primeiro MOOC brasileiro para ensino de programa\u00e7\u00e3o",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=rTUZYywZfhw"
+    },
+    {
+      "size": 798632433,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-python-para-zumbis-primeiro-mooc-brasileiro-para-ensino-de-programacao.ogv"
+    },
+    {
+      "size": 183485755,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-python-para-zumbis-primeiro-mooc-brasileiro-para-ensino-de-programacao.webm"
+    }
+  ]
+}

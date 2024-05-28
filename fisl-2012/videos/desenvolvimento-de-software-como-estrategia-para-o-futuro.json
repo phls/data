@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "desenvolvimento-de-software-como-estrategia-para-o-futuro",
+  "speakers": [
+    "Caio Bonilha"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Desenvolvimento de software: como estrategia para o futuro",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41d/sala41d-high-201207271459.ogg"
+    }
+  ]
+}

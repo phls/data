@@ -1,0 +1,23 @@
+{
+  "description": "Many research and innovation projects adopt an open source approach from the implicit understanding that making the code of unfinished components freely available keeps open the opportunity for third-party stakeholders and contributors will finally complete the software. This is a possibility on the paper. But is not how open source actually works. This is not how open source communities grow nor how open source software becomes successful. In this presentation we hold that one of the key differences between a success open source project and a failed one is that the successful project implement flawless open source project governance. We present the \u201cGovernance Makes the Difference\u201d approach developed by AppHub to create a trustworthy European open source market place by fostering the adoption of open source project management best practices.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "governance-makes-the-difference-the-case-of-apphub-the-european-open-source-ma",
+  "speakers": [
+    "C\u00e9dric Thomas"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Neg\u00f3cios, Migra\u00e7\u00f5es e Casos"
+  ],
+  "title": "Governance makes the difference: the case of AppHub, the european open source ma",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507101705.ogv"
+    }
+  ]
+}

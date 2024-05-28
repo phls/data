@@ -1,0 +1,27 @@
+{
+  "description": "Durante el a\u00f1o 2010 el Ministerio de Ambiente y recursos Naturales elabor\u00f3 un perfil en el que se caracteriza el parque vehicular de Guatemala. En este documento se reflejan aspectos como el incremento considerable del parque vehicular, especialmente en el \u00e1rea metropolitana, generando congestionamiento, ruido, emisiones de gases y part\u00edculas contaminantes, situaci\u00f3n que se encuentra influenciado por el medio que se utiliza para la locomoci\u00f3n y la edad avanzada de los veh\u00edculos. Esta alternativa piloto en la Ciudad de Guatemala consistir\u00e1 en la hibridaci\u00f3n de buses de transporte p\u00fablico (transmetro de la ciudad) para que funcione con combustible f\u00f3sil (di\u00e9sel) y con agua. Para ello se instalar\u00e1n diferentes dispositivos por medio de los cuales se lograr\u00e1 aprovechar el hidr\u00f3geno contenido en el agua.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "resultados-das-pesquisas-com-gas-hho-em-onibus-urbanos-na-guatemala",
+  "speakers": [
+    "Luis Rodolfo G\u00e1lvez"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Energia Livre"
+  ],
+  "title": "Resultados das pesquisas com g\u00e1s HHO em \u00f4nibus urbanos na Guatemala.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507111703.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507111704.ogv"
+    }
+  ]
+}

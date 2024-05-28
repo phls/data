@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "qtmodeling-metamodelagem-e-model-driven-software-engineering-com-qt5",
+  "speakers": [
+    "Sandro Santos Andrade"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "QtModeling: metamodelagem e model-driven software engineering com Qt5",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41c/sala41c-high-201405071706.ogv"
+    }
+  ]
+}

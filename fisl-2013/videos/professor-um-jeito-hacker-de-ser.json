@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "professor-um-jeito-hacker-de-ser",
+  "speakers": [
+    "Nelson De Luca Pretto"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Filosofia e reflex\u00f5es"
+  ],
+  "title": "Professor: um jeito hacker de ser",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41e/sala41e-high-201307031701.ogg"
+    }
+  ]
+}

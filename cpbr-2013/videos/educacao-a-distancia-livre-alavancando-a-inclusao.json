@@ -1,0 +1,45 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Apresentar o Programa Serpro de Inclus\u00e3o Digital, a Escola de Inclus\u00e3o S\u00f3cio Digital, seus conte\u00fados e benef\u00edcios para as comunidades brasileiras e comunidades dos pa\u00edses de lL\u00edngua portuguesa - CPLP",
+  "duration": 1761,
+  "id": 25,
+  "language": "por",
+  "recorded": "2013-01-31",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/educacao-a-distancia-livre-alavancando-a-inclusao-digital"
+  ],
+  "slug": "educacao-a-distancia-livre-alavancando-a-inclusao",
+  "speakers": [
+    "Felipe Dario Santos",
+    "Luiz Claudio Mesquita de Souza",
+    "Paulo Fernando Pastore"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Serpro",
+    "BigBlueButton",
+    "OpenMeetings",
+    "Inclus\u00e3o digital"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/educacao-a-distancia-livre-alavancando-a-inclusao.jpg",
+  "title": "Educa\u00e7\u00e3o a dist\u00e2ncia livre: alavancando a inclus\u00e3o digital",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=kS2ujMZ6hSM"
+    },
+    {
+      "size": 168658660,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-educacao-a-distancia-livre-alavancando-a-inclusao.ogv"
+    },
+    {
+      "size": 47170904,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-educacao-a-distancia-livre-alavancando-a-inclusao.webm"
+    }
+  ]
+}

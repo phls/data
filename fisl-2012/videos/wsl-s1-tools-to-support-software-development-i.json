@@ -1,0 +1,27 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "wsl-s1-tools-to-support-software-development-i",
+  "speakers": [
+    "Rafael Q. Gon\u00e7alves",
+    "Sandro Ronaldo Bezerra Oliveira",
+    "Dionatan K. Tietzmann",
+    "Daniel Mac\u00eado Batista",
+    "Antonio Terceiro"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "WSL"
+  ],
+  "title": "WSL (S1): Tools to support software development I",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40a/sala40a-high-201207261408.ogg"
+    }
+  ]
+}

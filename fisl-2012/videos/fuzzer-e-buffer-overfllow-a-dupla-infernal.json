@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "fuzzer-e-buffer-overfllow-a-dupla-infernal",
+  "speakers": [
+    "Paulo Fernando Lamellas"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Seguran\u00e7a"
+  ],
+  "title": "Fuzzer e Buffer Overfllow a Dupla infernal",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41e/sala41e-high-201207281459.ogg"
+    }
+  ]
+}

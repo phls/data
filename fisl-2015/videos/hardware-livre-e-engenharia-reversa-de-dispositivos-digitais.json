@@ -1,0 +1,35 @@
+{
+  "description": "A palestra apresenta o conceito de hardware livre e como essa nova tend\u00eancia tem ajudado a realizar as aspira\u00e7\u00f5es do movimento do software livre. Mas, ao mesmo tempo, tamb\u00e9m apresenta como a engenharia reversa de dispositvos de eletr\u00f4nica digital ainda \u00e9 ferramenta extremamente importante para se efetivar a liberdade dos usu\u00e1rios na opera\u00e7\u00e3o de computadores.\n\nPor meio da inspe\u00e7\u00e3o de sucata eletr\u00f4nica, leitura de datasheets e do estudo do c\u00f3digo-fonte de projetos como MAME (Multiple Arcade Machine Emulator) e MESS (Multi Emulator Super System), podemos entender melhor como funcionam diversos dispositivos de eletr\u00f4nica digital e interagir com esses equipamentos mesmo depois de tornarem-se raros ou inacess\u00edveis. Podemos tamb\u00e9m aprender mais sobre t\u00e9cnicas de projeto de hardware e de desenvolvimento de software embarcado, arquiteturas de computador, etc.\n\nAs t\u00e9cnicas que precisamos dominar para desenvolver novos emuladores incluem procedimentos de engenharia reversa que s\u00e3o tamb\u00e9m muito \u00fateis no processo \u00e1rduo de cria\u00e7\u00e3o de solu\u00e7\u00f5es livres que substituam os firmwares propriet\u00e1rios utilizados nos mais diversos dispositivos do nosso cotidiano, ou no processo de desenvolvimento de drivers livres para dispositivos sem documenta\u00e7\u00e3o t\u00e9cnica oficial e no port de sistemas operacionais para novas plataformas de hardware.\n\nNesse sentido, estes conhecimentos de engenharia reversa s\u00e3o ferramentas essenciais para a reconquista da autonomia no uso de computadores de hoje em dia. Precisamos formar uma comunidade de hardware hackers habilidosos na pr\u00e1tica de engenharia reversa, para que possamos solucionar os problemas de liberdade dos usu\u00e1rios denunciados por projetos como o Linux-Libre.\n\nPor fim, a cria\u00e7\u00e3o de dispositivos de hardware livre tem se mostrado um forte aliado do movimento do software livre, em um momento em que mecanismos maliciosos gradativamente migram dos softwares propriet\u00e1rios para dentro dos pr\u00f3prios chips dos nossos computadores pessoais.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "hardware-livre-e-engenharia-reversa-de-dispositivos-digitais",
+  "speakers": [
+    "Felipe Corr\u00eaa da Silva Sanches"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Hackerspaces",
+    "Garoa Hacker Clube",
+    "Hardware Livre",
+    "Engenharia Reversa",
+    "Eletr\u00f4nica Digital",
+    "Emula\u00e7\u00e3o",
+    "Firmware",
+    "MAME",
+    "Arcade",
+    "Retrocomputa\u00e7\u00e3o",
+    "Assembly",
+    "Interoperabilidade",
+    "Preserva\u00e7\u00e3o Hist\u00f3rica"
+  ],
+  "title": "Hardware Livre e Engenharia Reversa de Dispositivos Digitais",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507091505.ogv"
+    }
+  ]
+}

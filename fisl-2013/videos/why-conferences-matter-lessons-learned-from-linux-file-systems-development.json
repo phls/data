@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "why-conferences-matter-lessons-learned-from-linux-file-systems-development",
+  "speakers": [
+    "Valerie Aurora"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Sistemas de Arquivos e Sistemas Operacionais"
+  ],
+  "title": "Why conferences matter: Lessons learned from Linux file systems development",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40t/sala40t-high-201307041100.ogg"
+    }
+  ]
+}

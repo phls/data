@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "bitcoin-a-revolucao-digital-chegou-a-economia",
+  "speakers": [
+    "Wladimir Berchon Crippa"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Bitcoin: a Revolu\u00e7\u00e3o Digital chegou \u00e0 economia",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405081600.ogv"
+    }
+  ]
+}

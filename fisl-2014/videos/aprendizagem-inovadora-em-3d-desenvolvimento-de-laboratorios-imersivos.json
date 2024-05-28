@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "aprendizagem-inovadora-em-3d-desenvolvimento-de-laboratorios-imersivos",
+  "speakers": [
+    "Andreia Solange Bos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Aprendizagem inovadora em 3D: Desenvolvimento de Laborat\u00f3rios imersivos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41b/sala41b-high-201405071106.ogv"
+    }
+  ]
+}

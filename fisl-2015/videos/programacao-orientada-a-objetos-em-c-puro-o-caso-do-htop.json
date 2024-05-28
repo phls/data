@@ -1,0 +1,23 @@
+{
+  "description": "Nesta palestra vou apresentar as t\u00e9cnicas que utilizei no desenvolvimento de uma aplica\u00e7\u00e3o real em C, o monitor de processos htop (http://hisham.hm/htop, dispon\u00edvel no reposit\u00f3rio de sua distribui\u00e7\u00e3o Linux favorita). O htop \u00e9 uma aplica\u00e7\u00e3o interativa para console, escrita em C usando a biblioteca ncurses, mas foi feita usando um estilo de programa\u00e7\u00e3o totalmente orientado a objetos.\n\nVeremos que programadores em C n\u00e3o precisam se render ao C++ para colher os benef\u00edcios da orienta\u00e7\u00e3o a objetos nos seus programas.\n\nA abordagem que ser\u00e1 apresentada \u00e9 extremamente minimalista, e n\u00e3o depende de bibliotecas ou frameworks para programa\u00e7\u00e3o OO. \n\nApresentarei as estruturas de dados usadas na constru\u00e7\u00e3o do htop, e com isso discutiremos algumas t\u00e9cnicas para simplificar a ger\u00eancia de mem\u00f3ria em uma linguagem sem coleta autom\u00e1tica de lixo como C.\n\nVeremos como \u00e9 poss\u00edvel utilizar todos os conceitos t\u00edpicos de orienta\u00e7\u00e3o a objetos (heran\u00e7a, subtipagem, polimorfismo) implementando-os diretamente.\n\nProgramando em C, entenderemos melhor o overhead de desempenho de cada um destes recursos, e podemos \u201cpagar o pre\u00e7o\u201d somente quando necess\u00e1rio.\n\nUsando um estilo de programa\u00e7\u00e3o disciplinado, veremos como \u00e9 poss\u00edvel \u201cdomar os ponteiros\u201d de C e tornar os segmentation faults fen\u00f4menos infrequentes (sim! \u00e9 poss\u00edvel!).",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "programacao-orientada-a-objetos-em-c-puro-o-caso-do-htop",
+  "speakers": [
+    "Hisham Muhammad"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "Programa\u00e7\u00e3o Orientada a Objetos em C puro: o caso do htop",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507091200.ogv"
+    }
+  ]
+}

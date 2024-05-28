@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "python-como-primeira-linguagem-de-programacao",
+  "speakers": [
+    "Jo\u00e3o Sebasti\u00e3o de Oliveira Bueno"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Python, Ruby e Perl"
+  ],
+  "title": "Python como Primeira Linguagem de Programa\u00e7\u00e3o",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41f/sala41f-high-201207271158.ogg"
+    }
+  ]
+}

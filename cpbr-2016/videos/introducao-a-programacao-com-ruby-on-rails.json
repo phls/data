@@ -1,0 +1,39 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Uma oficina sobre a linguagem de programa\u00e7\u00e3o Ruby utilizando o framework Rails. ",
+  "duration": 1276,
+  "id": 216,
+  "language": "por",
+  "recorded": "2016-01-27",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/workshop/introducao-a-programacao-com-ruby-on-rails"
+  ],
+  "slug": "introducao-a-programacao-com-ruby-on-rails",
+  "speakers": [
+    "Daniela Soares Feitosa"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Oficina",
+    "Ruby",
+    "Rails",
+    "Ruby on Rails",
+    "Linguagem de programa\u00e7\u00e3o"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/introducao-a-programacao-com-ruby-on-rails.jpg",
+  "title": "Introdu\u00e7\u00e3o a Programa\u00e7\u00e3o com Ruby on Rails",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/woM6rSXc08Y?t=11h33m30s"
+    },
+    {
+      "size": 299149247,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-introducao-a-programacao-com-ruby-on-rails.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Nesta palestra iremos analisar o processo de desenvolvimento de uma aplica\u00e7\u00e3o mobile atrav\u00e9s utilizando Apache Cordova, Zepto e Handlebars, tirando como aprendizado as ferramentas escolhidas, motiva\u00e7\u00f5es inerentes ao projeto e resultados obtidos atrav\u00e9s da experi\u00eancia pr\u00e1tica ocorrida em um hackaton corporativo.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-16",
+  "slug": "desenvolvimento-mobile-do-jeito-certo-apache-cordova-zepto-e-handlebars",
+  "speakers": [
+    "Kemel Zaidan"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Desenvolvimento mobile do jeito certo: Apache Cordova, Zepto e Handlebars",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41b/sala41b-high-201607161400.ogv"
+    }
+  ]
+}

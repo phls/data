@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Nessa palestra irei falar sobre como o ensino de programa\u00e7\u00e3o est\u00e1 se tornando cada vez mais comum na escolas e como Python est\u00e1 influenciando esta mudan\u00e7a. Tamb\u00e9m irei falar sobre o porque do uso de Python como primeira linguagem de programa\u00e7\u00e3o para qualquer idade e ambiente e irei mostrar o Python para Zumbis, a primeira iniciativa de ensino de Python online e gratuito em portugu\u00eas, conhecido tamb\u00e9m como os MOOCs.",
+  "duration": 3102,
+  "id": 57,
+  "language": "por",
+  "recorded": "2015-07-24",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-recife-2015/talk/python-mudando-programacao-mundo-cprecife4"
+  ],
+  "slug": "como-o-python-esta-mudando-o-ensino-de-programacao-no-mundo",
+  "speakers": [
+    "Gileno Alves"
+  ],
+  "tags": [
+    "CPRecife4",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "Python",
+    "MOOC"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/como-o-python-esta-mudando-o-ensino-de-programacao-no-mundo.jpg",
+  "title": "Como Python est\u00e1 mudando o ensino de programa\u00e7\u00e3o no mundo!",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=n7wnvtyyRuE"
+    },
+    {
+      "size": 637937608,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife4-2015/cprecife4-2015-como-o-python-esta-mudando-o-ensino-de-programacao-no-mundo.ogv"
+    },
+    {
+      "size": 237894971,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife4-2015/cprecife4-2015-como-o-python-esta-mudando-o-ensino-de-programacao-no-mundo.webm"
+    }
+  ]
+}

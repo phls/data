@@ -1,0 +1,23 @@
+{
+  "description": "O Drupal \u00e9 um CMS (Sistema de Ger\u00eancia de Conte\u00fado) com mais de 10 anos e que vem ganhando cada vez mais popularidade como solu\u00e7\u00e3o ideal para projetos pessoais, educacionais, governamentais, corporativos. Exemplos incluem a Casa Branca dos E.U.A., a Copa do Mundo de 2014, e as Olimp\u00edadas de 2016.\n\nEsta apresenta\u00e7\u00e3o ir\u00e1 levantar alguns dos principais motivos para se escolher o Drupal como plataforma de desenvolvimento de aplica\u00e7\u00f5es web. Ser\u00e3o cobertas diversas \u00e1reas de interesse tais como comunidade, devops, mercado e neg\u00f3cios sem deixar de apresentar as novidades que est\u00e3o por vir com a chegada da vers\u00e3o 8 e quais os reflexos destas mudan\u00e7as.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "drupal-a-escolha-certa-para-seus-projetos",
+  "speakers": [
+    "Renato Vasconcellos Gomes"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ger\u00eancia de Conte\u00fado / CMS"
+  ],
+  "title": "Drupal, a escolha certa para seus projetos.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507111758.ogv"
+    }
+  ]
+}

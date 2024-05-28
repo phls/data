@@ -1,0 +1,23 @@
+{
+  "description": "Moore's Law is running out and CPUs can not solve problems faster just by turning up the clock speed.  Increased use of parallel programming, distributed programming, deep cache and pipeline utilization along with other modern techniques of programming are needed.  This talk will outline some of those methods of programming and also investigate maddog's portable supercomputer (that fits in a briefcase) with plans and instructions on how to build it.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "programming-efficiently",
+  "speakers": [
+    "Jon \"Maddog\" Hall"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Hardware Aberto"
+  ],
+  "title": "Programming Efficiently",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507111500.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "O Linux Kernel completa 25 anos em 2016, e hoje com mais de 1500 desenvolvedores e 10000 patches por vers\u00e3o lan\u00e7ada o Kernel \u00e9 o maior projeto de software livre existente, e sua organiza\u00e7\u00e3o tem v\u00e1rias particularides que n\u00e3o est\u00e3o presentes em projetos menores. \n                                                                                \nMesmo sendo um projeto de software livre no qual qualquer pessoa pode colaborar, a complexidade envolvida em uma comunidade deste tamanho gera muitas d\u00favidas at\u00e9 para pessoas que j\u00e1 est\u00e3o familiarizadas com o universo do software livre. Em projetos com tantos desenvolvedores envolvidos a defini\u00e7\u00e3o de regras e padr\u00f5es de desenvolvimento s\u00e3o fundamentais para que o software evolua continuamente e a comunidade mantenha-se ativa.\n                                                                                \nEsta palestra pretende contar um pouco da hist\u00f3ria do Kernel e apresentar o funcionamento de sua comunidade. O que \u00e9 a merge window? O que \u00e9 a linux-next? Como a comunidade revisa e aplica patches? Como funciona a hierarquia de mantenedores? Como contribuir patches? Dentre muitas outras d\u00favidas sobre o dia-a-dia da Comunidade do Kernel do Linux.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "o-ciclo-de-desenvolvimento-do-kernel-do-linux",
+  "speakers": [
+    "Gustavo Padovan"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Sistemas operacionais"
+  ],
+  "title": "O Ciclo de Desenvolvimento do Kernel do Linux",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41d/sala41d-high-201607141059.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "projeto-yocto-como-turbinar-o-seu-galileo",
+  "speakers": [
+    "Otavio Salvador"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Hardware, Sistemas Embarcados e Rob\u00f3tica"
+  ],
+  "title": "Projeto Yocto - Como turbinar o seu Galileo!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41b/sala41b-high-201405101208.ogv"
+    }
+  ]
+}

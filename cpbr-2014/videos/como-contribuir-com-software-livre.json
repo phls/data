@@ -1,0 +1,40 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Hoje em dia muitas pessoas tentam come\u00e7ar a contribuir com software livre e a maioria tem um final frustrante por n\u00e3o conseguir ou at\u00e9 mesmo o projeto passar a impress\u00e3o de n\u00e3o querer sua ajuda. O assunto que ser\u00e1 abordado nessa palestra ser\u00e1 um bate-papo sobre como come\u00e7ar a contribuir e entender como os l\u00edderes do projeto (que voc\u00ea quer contribuir) v\u00ea a sua colabora\u00e7\u00e3o!",
+  "duration": 2430,
+  "id": 94,
+  "language": "por",
+  "recorded": "2014-02-01",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-como-contribuir-com-software-live",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/como-contribuir-com-software-live"
+  ],
+  "slug": "como-contribuir-com-software-live",
+  "speakers": [
+    "Thiago Avelino"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/como-contribuir-com-software-live.jpg",
+  "title": "Como contribuir com Software Live?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=hqZ60TW94Os"
+    },
+    {
+      "size": 278130743,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-como-contribuir-com-software-live.ogv"
+    },
+    {
+      "size": 77989508,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-como-contribuir-com-software-live.webm"
+    }
+  ]
+}

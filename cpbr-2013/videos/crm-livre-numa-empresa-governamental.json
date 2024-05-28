@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O CRM visa melhorar o relacionamento empresa x mercado, propiciando benef\u00edcios m\u00fatuos. Com o CRM, a empresa passa a ter meios de identificar, diferenciar, interagir e personalizr a rela\u00e7\u00e3o com o cliente, aumentando a efici\u00eancia e a efic\u00e1cia das a\u00e7\u00f5es, sejam estrat\u00e9gicas, t\u00e1ticas ou operacionais.",
+  "duration": 2021,
+  "id": 24,
+  "language": "por",
+  "recorded": "2013-02-01",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/crm-livre-numa-empresa-governamental",
+    "http://slcampusparty.com.br/blog/crm-livre-numa-empresa-governamental"
+  ],
+  "slug": "crm-livre-numa-empresa-governamental",
+  "speakers": [
+    "D\u00e9cio Ferreira Lindoso"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "CRM",
+    "Serpro"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/crm-livre-numa-empresa-governamental.jpg",
+  "title": "CRM Livre numa empresa governamental",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=owMI4LDT6lY"
+    },
+    {
+      "size": 189217540,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-crm-livre-numa-empresa-governamental.ogv"
+    },
+    {
+      "size": 51940600,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-crm-livre-numa-empresa-governamental.webm"
+    }
+  ]
+}

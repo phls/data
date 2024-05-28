@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "criando-apis-com-frapi",
+  "speakers": [
+    "Alex Piaz"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "PHP e Java"
+  ],
+  "title": "Criando API's com FRAPI",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307061202.ogg"
+    }
+  ]
+}

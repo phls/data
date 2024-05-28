@@ -1,0 +1,23 @@
+{
+  "description": "a definir",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "governo-e-agilidade-na-pratica",
+  "speakers": [
+    "James Gladstone Fagundes Brum"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Neg\u00f3cios, Migra\u00e7\u00f5es e Casos"
+  ],
+  "title": "Governo e agilidade na pr\u00e1tica",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507081901.ogv"
+    }
+  ]
+}

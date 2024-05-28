@@ -1,0 +1,23 @@
+{
+  "description": "A nova vers\u00e3o do ECMA traz diversas novidades, mas vamos focar nas fun\u00e7\u00f5es! Ningu\u00e9m sair\u00e1 desta palestra sem entender como as fun\u00e7\u00f5es funcionam no ES5 e ES6 (agora renomeado para ES2015)! Aproveite para refor\u00e7ar seus conhecimentos no assunto, tirar d\u00favidas, dominar as novidades e por que n\u00e3o, at\u00e9 mesmo descobrir algo novo! Sim, estou falando de generators, arrows, async, escopo, fluxos e os novos formatos de arguments. E por que n\u00e3o abordarmos tamb\u00e9m, algumas ideias sugeridas para ES7?!",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "javascript-e-as-novidades-nas-funcoes-em-es2015",
+  "speakers": [
+    "Felipe Nascimento de Moura"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "Javascript e as novidades nas fun\u00e7\u00f5es em ES2015+",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41c/sala_41c-high-201507111306.ogv"
+    }
+  ]
+}

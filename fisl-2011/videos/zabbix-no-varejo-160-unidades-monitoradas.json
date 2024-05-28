@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "zabbix-no-varejo-160-unidades-monitoradas",
+  "speakers": [
+    "Niumar Andr\u00e9 Klein",
+    "Jones Lu\u00eds Noll"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "Zabbix no varejo: 160 unidades monitoradas",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41c/sala41c-high-201106291702.ogv"
+    }
+  ]
+}

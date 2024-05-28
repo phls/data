@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "tdd-do-meu-jeito",
+  "speakers": [
+    "Rodolfo Henrique Carvalho",
+    "Israel da Silva Teixeira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "TDD do meu jeito",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41c/sala41c-high-201107021358.ogv"
+    }
+  ]
+}

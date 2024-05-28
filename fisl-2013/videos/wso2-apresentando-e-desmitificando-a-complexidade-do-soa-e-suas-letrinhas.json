@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "wso2-apresentando-e-desmitificando-a-complexidade-do-soa-e-suas-letrinhas",
+  "speakers": [
+    "Leonardo Saraiva",
+    "Jos\u00e9 Nogueira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "WSO2 - Apresentando e desmitificando a complexidade do SOA e suas \"letrinhas\"",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307061416.ogg"
+    }
+  ]
+}

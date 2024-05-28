@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "gestao-colaborativa-de-moedas-sociais-digitais-utilizando-a-plataforma-corais",
+  "speakers": [
+    "Pedro Henrique Jatob\u00e1"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Gest\u00e3o colaborativa de moedas sociais digitais utilizando a plataforma CORAIS",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41f/sala41f-high-201405091217.ogv"
+    }
+  ]
+}

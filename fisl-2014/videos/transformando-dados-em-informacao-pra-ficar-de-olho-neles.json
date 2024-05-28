@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "transformando-dados-em-informacao-pra-ficar-de-olho-neles",
+  "speakers": [
+    "Marcelo Jorge Vieira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "Transformando dados em informa\u00e7\u00e3o pra ficar de Olho Neles!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405101103.ogv"
+    }
+  ]
+}

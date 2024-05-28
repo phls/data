@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "debate-recursos-educacionais-abertos-rea",
+  "speakers": [
+    "Daniela B. Silva",
+    "Bianca Santana",
+    "Nelson De Luca Pretto"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Debate: Recursos Educacionais Abertos - REA",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201106301503.ogv"
+    }
+  ]
+}

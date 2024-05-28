@@ -1,0 +1,23 @@
+{
+  "description": "A proposta desta palestra \u00e9 apresentar um pouco da experi\u00eancia adquirida na implanta\u00e7\u00e3o e evolu\u00e7\u00e3o do Drupal em \u00f3rg\u00e3os governamentais.\n\nAs dificuldades com a contrata\u00e7\u00e3o de servi\u00e7os, das licita\u00e7\u00f5es, da infraestrutura e da capacita\u00e7\u00e3o de m\u00e3o-de-obra qualificada.\n\nTamb\u00e9m pretendo mostrar algumas oportunidades para empresas e profissionais que pretendem oferecer servi\u00e7os de desenvolvimento, hospedagem, treinamento e suporte na plataforma Drupal para \u00f3rg\u00e3os p\u00fablicos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "drupal-no-governo-dificuldades-e-oportunidades",
+  "speakers": [
+    "Edson Sales Junior"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "DrupalCamp POA"
+  ],
+  "title": "Drupal no Governo - Dificuldades e Oportunidades",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607151521.ogv"
+    }
+  ]
+}

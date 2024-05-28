@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "desenvolvendo-extensoes-para-mozilla-firefox",
+  "speakers": [
+    "Armando Biagioni Neto"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Outras linguagens"
+  ],
+  "title": "Desenvolvendo extens\u00f5es para Mozilla Firefox",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41b/sala41b-high-201106291658.ogv"
+    }
+  ]
+}

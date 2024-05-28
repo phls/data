@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "pynes-programando-em-python-no-nintendo-8-bits",
+  "speakers": [
+    "Gustavo Maia Neto"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Jogos"
+  ],
+  "title": "PyNES: Programando em Python no Nintendo 8 bits.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41e/sala41e-high-201307061359.ogg"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Os protesto de junho do ano passado mostraram ao Brasil o que muitos pa\u00edses j\u00e1 tinham descoberto desde as revoltas na Tun\u00edsia em 2011: est\u00e1 se consolidando um novo tipo de movimento social, interconectado e global, que nasce nas redes sociais e a partir delas transborda para as ruas. Estas revoltas interconectadas (que tiveram outra manifesta\u00e7\u00e3o marcante em 2013 na Turquia, na forma do #OccupyGezi) trazem uma s\u00e9rie de tra\u00e7os comuns, al\u00e9m de um modelo de auto-organiza\u00e7\u00e3o t\u00edpico das sociedades em rede. Os pa\u00edses podem ser distantes entre si, com conjunturas pol\u00edticas e sociais bastante distintas. Mas os protestos que come\u00e7aram em 2011 inauguraram uma nova forma de comportamento pol\u00edtico. \u201cQuatro anos de Revoltas Interconectadas \u2013 de T\u00fanis ao Brasil\u201c - ser\u00e1 o tema do di\u00e1logo que acontece na Campus Party Recife com o profissional de tecnologia da informa\u00e7\u00e3o e comunica\u00e7\u00e3o e ativista do software livre Marcelo Branco. Ser\u00e1 a partir da troca de ideias entre diferentes atores das movimenta\u00e7\u00f5es locais que se pode construir o grande mosaico global que nos permita entender como essas a\u00e7\u00f5es s\u00e3o irmanadas entre si.",
+  "duration": 2007,
+  "id": 49,
+  "language": "por",
+  "recorded": "2014-07-24",
+  "related_urls": [
+    "https://campuse.ro/events/campus-party-recife-2014/talk/quatro-anos-de-revoltas-interconectadas-de-tunis-ao-brasil-cpre3",
+    "http://slcampusparty.com.br/blog/palestra-quatro-anos-de-revoltas-interconectadas-de-tunis-ao-brasil"
+  ],
+  "slug": "quatro-anos-de-revoltas-interconectadas",
+  "speakers": [
+    "Marcelo Branco"
+  ],
+  "tags": [
+    "CPRecife3",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "Tun\u00edsia",
+    "Turquia",
+    "OccupyGezi"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/quatro-anos-de-revoltas-interconectadas.jpg",
+  "title": "Quatro anos de revoltas interconectadas \u2013 de T\u00fanis ao Brasil",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=XKQvzAQH8o8"
+    },
+    {
+      "size": 182688923,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife3-2014/cprecife3-2014-quatro-anos-de-revoltas-interconectadas.ogv"
+    },
+    {
+      "size": 80526372,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife3-2014/cprecife3-2014-quatro-anos-de-revoltas-interconectadas.webm"
+    }
+  ]
+}

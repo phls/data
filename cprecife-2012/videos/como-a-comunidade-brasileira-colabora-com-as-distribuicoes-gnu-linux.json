@@ -1,0 +1,46 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O objetivo deste painel \u00e9 discutir atrav\u00e9s de uma transmiss\u00e3o simult\u00e2nea de v\u00eddeo e \u00e1udio entre a Campus Party Recife e o FISL como a comunidade brasileira  contribui no desenvolvimento de algumas Distribui\u00e7\u00f5es GNU/Linux internacionais, atrav\u00e9s da colabora\u00e7\u00e3o em v\u00e1rios seguimentos como tradu\u00e7\u00e3o, documenta\u00e7\u00e3o, design, manuten\u00e7\u00e3o de pacotes, divulga\u00e7\u00e3o e incentivo ao uso. Os participantes da mesa ir\u00e3o mostrar como funciona a din\u00e2nima de cada comunidade em torno da sua distro, quais as diferen\u00e7as entre elas e qual o p\u00fablico alvo, al\u00e9m de discutir como as pessoas interessadas podem se juntar aos projetos para passar a contribuir. Tamb\u00e9m ser\u00e1 abordado o desenvolvimento de distribui\u00e7\u00f5es brasileiras, qual a sua import\u00e2ncia e finalidade dentro do cen\u00e1rio nacional, e o que leva algu\u00e9m a criar a sua pr\u00f3pria distro. Ser\u00e3o apresentadas opini\u00f5es sobre a viabilidade do desenvolvimento uma \u00fanica distribui\u00e7\u00e3o brasileira, e como a comunidade reagiu ao projeto Uni\u00e3oLivre. Para aqueles que n\u00e3o conhecem Software Livre, ser\u00e1 uma \u00f3tima oportunidade para entender o que significa uma Distribui\u00e7\u00e3o GNU/Linux, e qual o papel de cada comunidade dentro deste universo.",
+  "duration": 5215,
+  "id": 38,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "related_urls": [
+    "https://campuse.ro/events/campus-party-recife-2012/talk/como-a-comunidade-brasileira-colabora-com-as-distribuicoes-gnulinux",
+    "http://slcampusparty.com.br/blog/como-a-comunidade-brasileira-contribui-com-as-distribuicoes-gnulinux"
+  ],
+  "slug": "como-a-comunidade-brasileira-colabora-com-as-distribuicoes-gnu-linux",
+  "speakers": [
+    "Andr\u00e9 Noel",
+    "Marcelo Gomes de Santana",
+    "Paulo Henrique de Lima Santana"
+  ],
+  "tags": [
+    "CPRecife1",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "Painel",
+    "Ubuntu",
+    "Debian",
+    "Distribui\u00e7\u00f5es GNU/Linux"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/como-a-comunidade-brasileira-colabora-com-as-distribuicoes-gnu-linux.jpg",
+  "title": "Painel: como a comunidade brasileira contribui com as distribui\u00e7\u00f5es GNU/Linux",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=JCyVtYoOpmY"
+    },
+    {
+      "size": 890999122,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife1-2012/cprecife1-2012-como-a-comunidade-brasileira-colabora-com-as-distribuicoes-gnu-linux.ogv"
+    },
+    {
+      "size": 227288740,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife1-2012/cprecife1-2012-como-a-comunidade-brasileira-colabora-com-as-distribuicoes-gnu-linux.webm"
+    }
+  ]
+}

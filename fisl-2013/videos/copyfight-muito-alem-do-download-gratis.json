@@ -1,0 +1,28 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "copyfight-muito-alem-do-download-gratis",
+  "speakers": [
+    "Adriano Belis\u00e1rio",
+    "Bruno Tarin",
+    "Tobias Andersson",
+    "Tadzia de Oliva Maya",
+    "Lucas Alberto Souza Santos",
+    "Leonardo Foletto"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Compartilhamento"
+  ],
+  "title": "Copyfight: muito al\u00e9m do download gr\u00e1tis",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40t/sala40t-high-201307031106.ogg"
+    }
+  ]
+}

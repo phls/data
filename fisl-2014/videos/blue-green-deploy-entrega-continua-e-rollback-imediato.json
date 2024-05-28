@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "blue-green-deploy-entrega-continua-e-rollback-imediato",
+  "speakers": [
+    "Rafael Biriba"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Blue Green Deploy: Entrega continua e rollback imediato",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41b/sala41b-high-201405071000.ogv"
+    }
+  ]
+}

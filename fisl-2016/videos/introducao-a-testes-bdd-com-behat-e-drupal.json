@@ -1,0 +1,23 @@
+{
+  "description": "Nesta palestra vamos abordar conceitos de testes automatizados, mostrar como realizar testes BDD utilizando Behat em aplica\u00e7\u00f5es Drupal.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "introducao-a-testes-bdd-com-behat-e-drupal",
+  "speakers": [
+    "Vanessa Martins Concei\u00e7\u00e3o"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "DrupalCamp POA"
+  ],
+  "title": "Introdu\u00e7\u00e3o a testes: BDD  com Behat e Drupal",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607151601.ogv"
+    }
+  ]
+}

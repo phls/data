@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "sailor-um-framework-mvc-em-lua",
+  "speakers": [
+    "Etiene da Cruz Dalcol"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Outras linguagens"
+  ],
+  "title": "Sailor - um framework MVC em Lua",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41a/sala41a-high-201405081604.ogv"
+    }
+  ]
+}

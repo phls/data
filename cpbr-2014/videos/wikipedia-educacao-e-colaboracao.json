@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Conhe\u00e7a em detalhes o funcionamento da Wikip\u00e9dia e demais projetos mantidos pela Wikimedia Foundation. Nesta palestra apresentaremos informa\u00e7\u00f5es relevantes para quem deseja colaborar e saber um pouco mais sobre o mundo Wiki al\u00e9m de apresentar n\u00fameros e dados importantes sobre a evolu\u00e7\u00e3o da Wikip\u00e9dia em portugu\u00eas e demais idiomas. Um dos temas centrais apresentados ser\u00e1 o Programa de Educa\u00e7\u00e3o e as parcerias e possibilidades de envolvimento nos projetos Wiki.",
+  "duration": 3326,
+  "id": 106,
+  "language": "por",
+  "recorded": "2014-01-30",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-wikipedia-educacao-e-colaboracao",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-wikipedia-educacao-e-colaboracao"
+  ],
+  "slug": "wikipedia-educacao-e-colaboracao",
+  "speakers": [
+    "Celio Filho",
+    "Rodrigo Padula de Oliveira"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Wikip\u00e9dia",
+    "Wikimedia Foundation"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/wikipedia-educacao-e-colaboracao.jpg",
+  "title": "Wikip\u00e9dia: educa\u00e7\u00e3o e colabora\u00e7\u00e3o",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=nrDv5pTX1I0"
+    },
+    {
+      "size": 711500818,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-wikipedia-educacao-e-colaboracao.ogv"
+    },
+    {
+      "size": 164531498,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-wikipedia-educacao-e-colaboracao.webm"
+    }
+  ]
+}

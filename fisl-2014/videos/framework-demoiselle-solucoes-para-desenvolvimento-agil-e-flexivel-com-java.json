@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "framework-demoiselle-solucoes-para-desenvolvimento-agil-e-flexivel-com-java",
+  "speakers": [
+    "Antonio Carlos Tiboni"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "PHP e Java"
+  ],
+  "title": "Framework Demoiselle: Solu\u00e7\u00f5es para desenvolvimento \u00e1gil e flex\u00edvel com Java",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41c/sala41c-high-201405081501.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "programacao-funcional",
+  "speakers": [
+    "Juarez Bochi"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Programa\u00e7\u00e3o Funcional",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307031158.ogg"
+    }
+  ]
+}

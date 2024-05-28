@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A palestra aborda a questao da integracao das iniciativas de inclusao digital do governo federal, mostrando como \u00e9 possivel a gestao integrada e compartilhada atarv\u00e9s de um sistema escalavel de monitoramento e uma distribui\u00e7\u00e3o adaptavel de sistema operacional.",
+  "duration": 1256,
+  "id": 10,
+  "language": "por",
+  "recorded": "2012-02-10",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/inclusao-digital-integrada-manutencao-e-monitoramento"
+  ],
+  "slug": "inclusao-digital-integrada",
+  "speakers": [
+    "Marcos Sunye"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "C3SL",
+    "UFPR",
+    "Universidade Federal do Paran\u00e1",
+    "Departamento de Inform\u00e1tica",
+    "DInf"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/inclusao-digital-integrada.jpg",
+  "title": "Inclusao digital integrada",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=-wUbbguJumg"
+    },
+    {
+      "size": 269458817,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-inclusao-digital-integrada.ogv"
+    },
+    {
+      "size": 126028928,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-inclusao-digital-integrada.webm"
+    }
+  ]
+}

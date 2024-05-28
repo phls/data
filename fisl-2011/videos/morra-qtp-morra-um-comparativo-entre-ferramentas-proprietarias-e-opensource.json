@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "morra-qtp-morra-um-comparativo-entre-ferramentas-proprietarias-e-opensource",
+  "speakers": [
+    "Leonardo Ribeiro Oliveira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Morra QTP, morra! (Um comparativo entre ferramentas propriet\u00e1rias e opensource)",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41d/sala41d-high-201106291002.ogv"
+    }
+  ]
+}

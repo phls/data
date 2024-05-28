@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "wsl-s3-case-studies-and-extensions-of-floss",
+  "speakers": [
+    "Michele Alda R. Guizzo",
+    "Andre Constantino da Silva",
+    "Anderson Fernandes de Alencar",
+    "Isabel Dillmann Nunes"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "WSL"
+  ],
+  "title": "WSL (S3): Case studies and extensions of FLOSS",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40a/sala40a-high-201207261614.ogg"
+    }
+  ]
+}

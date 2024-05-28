@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "libvirt-o-canivete-suico-da-virtualizacao",
+  "speakers": [
+    "Sergio Cioban Filho"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Administra\u00e7\u00e3o de Sistemas e VoIP"
+  ],
+  "title": "LibVirt, o canivete su\u00ed\u00e7o da virtualiza\u00e7\u00e3o",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41e/sala41e-201106291700.ogv"
+    }
+  ]
+}

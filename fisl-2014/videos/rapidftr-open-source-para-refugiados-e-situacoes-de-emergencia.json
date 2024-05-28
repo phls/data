@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "rapidftr-open-source-para-refugiados-e-situacoes-de-emergencia",
+  "speakers": [
+    "Vini Andrade"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "rapidFTR - open source para refugiados e situa\u00e7\u00f5es de emerg\u00eancia",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405091302.ogv"
+    }
+  ]
+}

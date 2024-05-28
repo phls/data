@@ -1,0 +1,38 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Programar interfaces n\u00e3o \u00e9 f\u00e1cil. H\u00e1 quem diga que o trabalho de um FrontEnd n\u00e3o \u00e9 t\u00e3o complexo quanto o de um BackEnd. Diz isso para quem passou madrugadas criando e ajustando interface para mascarar tudo que o feio BackEnd fez. Nessa palestra vou mostrar os desafios de implementar uma interface, usando como exemplo o projeto que estou desenvolvendo para impress\u00e3o 3D, mostrar como fa\u00e7o a comunica\u00e7\u00e3o BackEnd e mostrar como o FrameWork Qt pode te ajudar com isso.",
+  "duration": 2400,
+  "id": 217,
+  "language": "por",
+  "recorded": "2016-01-28",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/talk/programando-interfaces-com-qtc"
+  ],
+  "slug": "programando-interfaces-com-qt-c-mais-mais",
+  "speakers": [
+    "Lays Rodrigues Silva"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Oficina",
+    "KDE",
+    "Qt",
+    "C++"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/programando-interfaces-com-qt-c-mais-mais.jpg",
+  "title": "Programando Interfaces com Qt/C++",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/AT8x0MQ8ofU?t=4h57m"
+    },
+    {
+      "size": 830699594,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-programando-interfaces-com-qt-c-mais-mais.ogv"
+    }
+  ]
+}

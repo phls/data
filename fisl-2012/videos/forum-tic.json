@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "forum-tic",
+  "speakers": [
+    "Secretaria Geral de Governo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "F\u00f3rum TIC",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41c/sala41c-high-201207261412.ogg"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "pirataria-e-anti-pirataria-no-brasil-mitos-dados-e-fatos",
+  "speakers": [
+    "Pedro Mizukami",
+    "Oona Castro",
+    "Cristiana Gonzales"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Pirataria e anti-pirataria no Brasil: mitos, dados e fatos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41e/sala41e-201107021059.ogv"
+    }
+  ]
+}

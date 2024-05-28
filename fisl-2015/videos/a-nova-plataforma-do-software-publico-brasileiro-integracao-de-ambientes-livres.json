@@ -1,0 +1,26 @@
+{
+  "description": "Uma equipe de analista do Minist\u00e9rio do Planejamento, Or\u00e7amento e Gest\u00e3o, em parceria com professores e engenheiros de software vinculados \u00e0 Universidade de Bras\u00edlia est\u00e1 coordenando e liderando o desenvolvimento da nova plataforma do Software P\u00fablico Brasileiro. Os resultados j\u00e1 alcan\u00e7ados desse trabalho, dispon\u00edvel em https://beta.softwarepublico.gov.br, ser\u00e3o compartilhados nesta palestra. Em resumo, essa nova plataforma poder\u00e1 ampliar as possibilidades de desenvolvimento, gest\u00e3o e neg\u00f3cios com os projetos do Software Livre, P\u00fablico e/ou de Governo no Brasil.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "a-nova-plataforma-do-software-publico-brasileiro-integracao-de-ambientes-livres",
+  "speakers": [
+    "Marisa Souza dos Santos",
+    "Paulo Meirelles",
+    "Arthur Del Esposte",
+    "Nayanne Ara\u00fajo Bonif\u00e1cio"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Neg\u00f3cios, Migra\u00e7\u00f5es e Casos"
+  ],
+  "title": "A nova plataforma do Software P\u00fablico Brasileiro: integra\u00e7\u00e3o de ambientes livres",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41b/sala_41b-high-201507101303.ogv"
+    }
+  ]
+}

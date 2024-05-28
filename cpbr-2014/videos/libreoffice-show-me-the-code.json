@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Comece a desenvolver c\u00f3digo para o LibreOffice. Conhe\u00e7a os Easy-Hacks, os maiores impulsionadores para a aglutina\u00e7\u00e3o de desenvolvedores no LibreOffice e os benef\u00edcios para o volunt\u00e1rio e para o profissional de se envolver na comunidade LibeOffice.",
+  "duration": 2529,
+  "id": 99,
+  "language": "por",
+  "recorded": "2014-01-31",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-libreoffice-show-me-the-code",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-libreoffice-show-me-the-code"
+  ],
+  "slug": "libreoffice-show-me-the-code",
+  "speakers": [
+    "Olivier Hallot"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "LibreOffice"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/libreoffice-show-me-the-code.jpg",
+  "title": "LibreOffice, show me the code!",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=t76NJoU8jv8"
+    },
+    {
+      "size": 269905199,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-libreoffice-show-me-the-code.ogv"
+    },
+    {
+      "size": 77709887,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-libreoffice-show-me-the-code.webm"
+    }
+  ]
+}

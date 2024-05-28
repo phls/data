@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "neurotecnologia-sua-mente-no-controle-na-plataforma-linux",
+  "speakers": [
+    "Alessandro de Oliveira Faria - Cabelo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Neurotecnologia: sua mente no controle na plataforma Linux",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41b/sala41b-high-201405081504.ogv"
+    }
+  ]
+}

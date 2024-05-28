@@ -1,0 +1,50 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Uma das principais ferramentas de comunica\u00e7\u00e3o para promo\u00e7\u00e3o e difus\u00e3o do software livre, com certeza foram as revistas eletr\u00f4nicas e fanzines, publica\u00e7\u00f5es peri\u00f3dicas diagramadas com software livre possuiam uma linha editorial espec\u00edfica ou compartilhada com diversas \u00e1rea do conhecimento e se relacionavam com a filosofia GNU. Venha conhecer um pouco da hist\u00f3ria e do trabalho dos principais colaboradores e realizadores deste trabalho.",
+  "duration": 5249,
+  "id": 116,
+  "language": "por",
+  "recorded": "2014-01-30",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/painel-o-processo-de-construcao-colaborativo-de-revistas-eletronicas-fanzines-e-publicacoes-em-geral-com-software-livre",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-o-processo-de-construcao-colaborativo-de-revistas-eletronicas-fanzines-e-publicacoes-em-geral-com-software-livre"
+  ],
+  "slug": "o-processo-de-construcao-colaborativo-de-revistas-eletronicas-e-fanzines",
+  "speakers": [
+    "Andr\u00e9 Noel",
+    "Eliane Domingos de Sousa",
+    "Jo\u00e3o Fernando Costa Junior",
+    "Mariel Zasso",
+    "Paulo Henrique de Lima Santana"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "Vida de Programador",
+    "LibreOffice Magazine",
+    "Revista Esp\u00edrito Livre",
+    "FISL",
+    "F\u00f3rum Internacional Software Livre"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/o-processo-de-construcao-colaborativo-de-revistas-eletronicas-e-fanzines.jpg",
+  "title": "Painel: O processo de constru\u00e7\u00e3o colaborativo de revistas eletr\u00f4nicas, fanzines e publica\u00e7\u00f5es em geral com software livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=NoSmeibgnjw"
+    },
+    {
+      "size": 664190765,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-o-processo-de-construcao-colaborativo-de-revistas-eletronicas-e-fanzines.ogv"
+    },
+    {
+      "size": 254021303,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-o-processo-de-construcao-colaborativo-de-revistas-eletronicas-e-fanzines.webm"
+    }
+  ]
+}

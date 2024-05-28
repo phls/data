@@ -1,0 +1,39 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Voc\u00ea j\u00e1 pensou em participar ativamente de projetos de Software Livre? Este movimento global que exalta a liberdade do conhecimento vai muito mais al\u00e9m dos bits: tem como objetivo a promo\u00e7\u00e3o do uso e do desenvolvimento como uma alternativa de liberdade econ\u00f4mica e tecnol\u00f3gica.",
+  "duration": 4497,
+  "id": 4,
+  "language": "por",
+  "recorded": "2012-02-12",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/como-contribuir-com-projetos-de-software-livre"
+  ],
+  "slug": "como-contribuir-com-projetos-de-software-livre",
+  "speakers": [
+    "Luciana Fujii Pontello"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/como-contribuir-com-projetos-de-software-livre.jpg",
+  "title": "Como contribuir com projetos de Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=b5i63BAge6A"
+    },
+    {
+      "size": 394387609,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-como-contribuir-com-projetos-de-software-livre.ogv"
+    },
+    {
+      "size": 152573480,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-como-contribuir-com-projetos-de-software-livre.webm"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O KDE \u00e9 uma comunidade internacional que re\u00fane milhares de pessoas que possuem os mais variados interesses e habilidades. H\u00e1 16 anos essa comunidade vem construindo softwares livres com a ajuda de seus colaboradores. Cada colaborador desempenha um papel importante na produ\u00e7\u00e3o desses softwares e o KDE s\u00f3 existe por causa desse esfor\u00e7o coletivo. Existem v\u00e1rias formas de se envolver com o KDE e se tornar um colaborador sem necessariamente precisar escrever linhas de c\u00f3digo, e elas s\u00e3o bem mais simples do que muitos podem imaginar. Essa palestra procura mostrar como os n\u00e3o programadores podem colaborar com o KDE, que tipos de fun\u00e7\u00f5es eles podem desempenhar e como elas s\u00e3o t\u00e3o importantes para o sucesso da comunidade quanto as que um programador desenvolve.",
+  "duration": 996,
+  "id": 23,
+  "language": "por",
+  "recorded": "2013-01-29",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/contribuindo-com-o-kde-sem-programar",
+    "http://slcampusparty.com.br/blog/contribuindo-com-o-kde-sem-programar"
+  ],
+  "slug": "contribuindo-com-o-kde-sem-programar",
+  "speakers": [
+    "Aracele Torres"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "KDE"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/contribuindo-com-o-kde-sem-programar.jpg",
+  "title": "Contribuindo com o KDE sem programar",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=4xWKbjmV9AQ"
+    },
+    {
+      "size": 84370850,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-contribuindo-com-o-kde-sem-programar.ogv"
+    },
+    {
+      "size": 25817365,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-contribuindo-com-o-kde-sem-programar.webm"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "O que \u00e9 LibreOffice, Origem do LibreOffice, Por qu\u00ea usar LibreOffice, Funcionalidades da\nsuite, Plano de Vers\u00f5es, Ambiente Operacional, Formatos de arquivos, Gera\u00e7\u00e3o PDF,\nArquivos ODF, Assinatura Digital, Importa\u00e7\u00e3o de v\u00e1rios tipos de arquivos incluindo\nMicrosoft Office, OpenXML, ODF, Corel e Visio, Vers\u00f5es em Windows, Mac OS, Linux,\nAndroid, Web Online e Cloud, Novidades do LibreOffice, Certifica\u00e7\u00f5es Profissionais, Comunidade LibreOffice e Futuro do LibreOffice.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "o-poder-do-libreoffice",
+  "speakers": [
+    "Vitorio Furusho"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Aplica\u00e7\u00f5es Desktop"
+  ],
+  "title": "O Poder do LibreOffice",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507081902.ogv"
+    }
+  ]
+}

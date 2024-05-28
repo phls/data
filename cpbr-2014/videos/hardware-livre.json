@@ -1,0 +1,50 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Nesse painel discutiremos a import\u00e2ncia do Hardware Livre e como ele tem contribu\u00eddo e pode contribuir para que novas tecnologias sejam cada vez mais acess\u00edveis a todos. Hardware Livre segue princ\u00edpio de que o c\u00f3digo fonte do software de um componente eletr\u00f4nico seja regido por uma licen\u00e7a aberta e vale tamb\u00e9m para o pr\u00f3prio objeto f\u00edsico, como o diagrama dos circuitos de um brinquedo ou de um liquidificador. Assim, \u00e9 permitido o uso, altera\u00e7\u00f5es, distribui\u00e7\u00f5es, montagens e (re)venda para toda a comunidade. O Hardware Livre \u00e9 aberto no mesmo sentido do software baseado em padr\u00e3o aberto que Stallman abordou no Manifesto GNU. O hardware n\u00e3o pode ser gr\u00e1tis porque a duplica\u00e7\u00e3o sempre custa alguma coisa, no entanto, um produto f\u00edsico \u00e9 simplesmente a implementa\u00e7\u00e3o de um design, e os designs de hardware podem ser oferecidos gratuitamente com uma licen\u00e7a aberta, com copyright ou patenteada.",
+  "duration": 4965,
+  "id": 114,
+  "language": "por",
+  "recorded": "2014-01-31",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/painel-hardware-livre",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-hardware-livre"
+  ],
+  "slug": "hardware-livre",
+  "speakers": [
+    "Cleiton Galv\u00e3o Santana",
+    "Felipe Corr\u00eaa da Silva Sanches",
+    "Marco Maciel",
+    "Rafael Melero"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "Impressoras 3D",
+    "Arduino",
+    "Raspberry Pi",
+    "Garoa Hacker Clube",
+    "Metam\u00e1quina",
+    "Hackerspace"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/hardware-livre.jpg",
+  "title": "Painel: Hardware livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=8M4xl42i2i4"
+    },
+    {
+      "size": 701639188,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-hardware-livre.ogv"
+    },
+    {
+      "size": 260948544,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-hardware-livre.webm"
+    }
+  ]
+}

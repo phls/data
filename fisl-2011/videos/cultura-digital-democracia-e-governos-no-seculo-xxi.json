@@ -1,0 +1,31 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "cultura-digital-democracia-e-governos-no-seculo-xxi",
+  "speakers": [
+    "Sergio Amadeu da Silveira",
+    "Alexandre Oliva",
+    "Jon \"Maddog\" Hall",
+    "James A. Beasley",
+    "Tarso Genro"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Educa\u00e7\u00e3o e Inclus\u00e3o Digital"
+  ],
+  "title": "Cultura digital, democracia e governos no s\u00e9culo XXI",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201106291402.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201106291429.ogv"
+    }
+  ]
+}

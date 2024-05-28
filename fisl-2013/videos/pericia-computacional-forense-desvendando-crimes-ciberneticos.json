@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "pericia-computacional-forense-desvendando-crimes-ciberneticos",
+  "speakers": [
+    "Gilberto Sudre"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Seguran\u00e7a"
+  ],
+  "title": "Per\u00edcia Computacional Forense: Desvendando Crimes Cibern\u00e9ticos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307031404.ogg"
+    }
+  ]
+}

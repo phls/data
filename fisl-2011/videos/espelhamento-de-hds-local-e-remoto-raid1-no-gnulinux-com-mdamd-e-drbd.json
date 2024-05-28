@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "espelhamento-de-hds-local-e-remoto-raid1-no-gnulinux-com-mdamd-e-drbd",
+  "speakers": [
+    "Jo\u00e3o Eriberto Mota Filho"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Administra\u00e7\u00e3o de Sistemas e VoIP"
+  ],
+  "title": "Espelhamento de HDs local e remoto (RAID1) no GNU/Linux com mdamd e DRBD",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41b/sala41b-high-201107011101.ogv"
+    }
+  ]
+}

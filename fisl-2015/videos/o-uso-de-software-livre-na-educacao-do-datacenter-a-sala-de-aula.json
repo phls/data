@@ -1,0 +1,26 @@
+{
+  "description": "Demonstrar a utiliza\u00e7\u00e3o de software livre dentro do ambiente escolar. As solu\u00e7\u00f5es baseadas em software livre s\u00e3o realidades nas escolas e possui uma perspectiva de aumento na sua utiliza\u00e7\u00e3o. No Ifes - Campus Santa Teresa s\u00e3o utilizados SL desde a administra\u00e7\u00e3o do datacenter (OCS, apache, etc.), monitoramento da rede e servi\u00e7os (zabbix, nessus, etc) virtualiza\u00e7\u00e3o (Xenserver), su\u00edte de escrit\u00f3rio  (libreoffice), su\u00edte gr\u00e1fica (blender, inkscape, gimp, openshot) e o sistema operacional dos computadores nos laborat\u00f3rios dos alunos com o Mint GNU/Linux (Dual boot).",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "o-uso-de-software-livre-na-educacao-do-datacenter-a-sala-de-aula",
+  "speakers": [
+    "Leonardo Silva Moraes",
+    "Thiago Redighieri",
+    "Carlos Alexandre Volpi",
+    "Luis Carlos Loss Lopes"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Educa\u00e7\u00e3o"
+  ],
+  "title": "O uso de software livre na educa\u00e7\u00e3o, do datacenter \u00e0 sala de aula",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507081358.ogv"
+    }
+  ]
+}

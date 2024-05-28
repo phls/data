@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "oo-sheet-macros-para-libreoffice-em-python-finalmente-faceis",
+  "speakers": [
+    "Luis Fagundes"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Desktop e Distribui\u00e7\u00f5es"
+  ],
+  "title": "OO, Sheet! Macros para LibreOffice em Python finalmente f\u00e1ceis",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41d/sala41d-high-201207261101.ogg"
+    }
+  ]
+}

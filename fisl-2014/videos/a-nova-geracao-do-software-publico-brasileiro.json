@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "a-nova-geracao-do-software-publico-brasileiro",
+  "speakers": [
+    "Luis Felipe Coimbra Costa"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ecossistema / Cultura"
+  ],
+  "title": "A Nova Gera\u00e7\u00e3o do Software P\u00fablico Brasileiro",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41c/sala41c-high-201405081103.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "raspberry-pi-e-beaglebone-black-utilizando-gpios-com-python",
+  "speakers": [
+    "Sergio Cioban Filho"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Hardware, Sistemas Embarcados e Rob\u00f3tica"
+  ],
+  "title": "Raspberry Pi e Beaglebone Black: utilizando GPIOs com Python",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405071201.ogv"
+    }
+  ]
+}

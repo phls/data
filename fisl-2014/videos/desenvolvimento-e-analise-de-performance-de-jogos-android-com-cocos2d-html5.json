@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "desenvolvimento-e-analise-de-performance-de-jogos-android-com-cocos2d-html5",
+  "speakers": [
+    "George Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Desenvolvimento e an\u00e1lise de performance de jogos Android com Cocos2d-HTML5",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405091400.ogv"
+    }
+  ]
+}

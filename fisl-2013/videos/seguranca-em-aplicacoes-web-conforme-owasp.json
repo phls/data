@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "seguranca-em-aplicacoes-web-conforme-owasp",
+  "speakers": [
+    "Fabiano Castro Pereira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Seguran\u00e7a"
+  ],
+  "title": "Seguran\u00e7a em Aplica\u00e7\u00f5es Web conforme OWASP",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307031606.ogg"
+    }
+  ]
+}

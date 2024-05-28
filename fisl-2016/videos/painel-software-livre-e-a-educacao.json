@@ -1,0 +1,24 @@
+{
+  "description": "Um painel \u00e9 quando pessoas se reunem para falar dum tema. Bem, e \u00e9 isso. Vamos reunir aqui palestrantes e convidados deste evento que tenham rela\u00e7\u00e3o com software livre e educa\u00e7\u00e3o para (enquanto a cuia do chimarr\u00e3o flui na roda): responder perguntas da plat\u00e9ia, falarmos de ideias e projetos, rirmos, contar hist\u00f3rias... e principalmente, repassar informa\u00e7\u00f5es e conhecimento \u00fateis sobre a tem\u00e1tica do uso de software livre e a educa\u00e7\u00e3o.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-16",
+  "slug": "painel-software-livre-e-a-educacao",
+  "speakers": [
+    "Luiz Henrique Rauber Rodrigues",
+    "Antonio Felipe Silva Fernandes"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Educa\u00e7\u00e3o"
+  ],
+  "title": "Painel: Software Livre e a educa\u00e7\u00e3o!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41c/sala41c-high-201607161003.ogv"
+    }
+  ]
+}

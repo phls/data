@@ -1,0 +1,23 @@
+{
+  "description": "A palestra mostrar\u00e1 os mais diversos dispositivos onde o Arch pode ser instalado e as vantagens que voc\u00ea tem ao utiliz\u00e1-lo para tal. Desde smartphones Android destravados a Raspberry Pi, tu podes extender a experi\u00eancia desta simples distribui\u00e7\u00e3o Linux para diversos lugares.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "arch-linux-arm-o-seu-arch-em-todos-os-lugares",
+  "speakers": [
+    "William Oliveira de Lagos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Sistemas operacionais"
+  ],
+  "title": "Arch Linux ARM - O seu Arch em todos os lugares",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41d/sala41d-high-201607131004.ogv"
+    }
+  ]
+}

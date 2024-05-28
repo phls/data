@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "ley-de-formatos-abiertos-y-sl-en-el-estado-en-uruguay-pasado-presente-y-futuro",
+  "speakers": [
+    "Ismael Castagnet Lacuesta"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Neutralidade"
+  ],
+  "title": "Ley de Formatos Abiertos y SL en el Estado en Uruguay. Pasado, presente y futuro",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41a/sala41a-high-201307041309.ogg"
+    }
+  ]
+}

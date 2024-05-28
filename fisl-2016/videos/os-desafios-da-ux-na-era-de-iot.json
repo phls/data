@@ -1,0 +1,23 @@
+{
+  "description": "A Internet das Coisas apresenta um crescimento acelerado e vem trazendo consigo infinitas possibilidades. H\u00e1 um foco muito grande em dados e tecnologias para desenvolvimento de solu\u00e7\u00f5es IoT, que possibilitem intera\u00e7\u00f5es com os mais diversos dispositivos, mas e o usu\u00e1rio final? Precisamos pensar em como seres humanos podem interagir essas tecnologias, afinal de contas: novas tecnologias requerem novos m\u00e9todos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "os-desafios-da-ux-na-era-de-iot",
+  "speakers": [
+    "Cynthia Menezes Zanoni"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Internet das Coisas"
+  ],
+  "title": "Os desafios da UX na Era de IoT",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41a/sala41a-high-201607130900.ogv"
+    }
+  ]
+}

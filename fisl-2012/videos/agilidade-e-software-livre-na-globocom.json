@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "agilidade-e-software-livre-na-globocom",
+  "speakers": [
+    "Demetrius Arraes Nunes"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Agilidade e Software Livre na Globo.com",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41c/sala41c-high-201207261100.ogg"
+    }
+  ]
+}

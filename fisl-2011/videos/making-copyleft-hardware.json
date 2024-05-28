@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "making-copyleft-hardware",
+  "speakers": [
+    "Werner Almesberger"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Hardware, Sistemas Embarcados e Rob\u00f3tica"
+  ],
+  "title": "Making Copyleft Hardware",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201106301300.ogv"
+    }
+  ]
+}

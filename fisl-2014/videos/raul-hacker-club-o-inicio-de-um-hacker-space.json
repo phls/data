@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "raul-hacker-club-o-inicio-de-um-hacker-space",
+  "speakers": [
+    "Antonio Fernando Santos Ladeia"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "Raul Hacker Club, o in\u00edcio de um Hacker Space",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405071602.ogv"
+    }
+  ]
+}

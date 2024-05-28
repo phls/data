@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "programando-software-livre-em-c",
+  "speakers": [
+    "Fernando Merc\u00eas"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Outras linguagens"
+  ],
+  "title": "Programando Software Livre em C",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41f/sala41f-high-201207261655.ogg"
+    }
+  ]
+}

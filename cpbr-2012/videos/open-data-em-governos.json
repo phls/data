@@ -1,0 +1,46 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Uma tend\u00eancia em alguns governos ao redor mundo. Como resultante desta a\u00e7\u00e3o, espera-se aumentar a participa\u00e7\u00e3o da sociedade, combater a corrup\u00e7\u00e3o e utilizar novas tecnologias para tornar os governos mais transparentes, eficazes e respons\u00e1veis. Atualize-se sobre esse cen\u00e1rio e conhe\u00e7a o OGP (Open Government Partnership).",
+  "duration": 1883,
+  "id": 12,
+  "language": "por",
+  "recorded": "2012-02-10",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/open-data-em-governos"
+  ],
+  "slug": "open-data-em-governos",
+  "speakers": [
+    "Everton Lucero",
+    "Roberta Solis Ribeiro",
+    "\u00c1lvaro Gregorio",
+    "Wagner Diniz"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "Open data",
+    "Open Government Partnership",
+    "OGP"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/open-data-em-governos.jpg",
+  "title": "Painel: open data em governos",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=uglYeIJ0NkY"
+    },
+    {
+      "size": 336369059,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-open-data-em-governos.ogv"
+    },
+    {
+      "size": 163345009,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-open-data-em-governos.webm"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "quebrando-mitos-do-software-livre-na-caixa",
+  "speakers": [
+    "Paulo Maia"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Quebrando Mitos do Software Livre na CAIXA ",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41e/sala41e-201106291010.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "gobolinux-015",
+  "speakers": [
+    "Lucas C. Villa Real"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Desktop e Distribui\u00e7\u00f5es"
+  ],
+  "title": "GoboLinux 015",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405071003.ogv"
+    }
+  ]
+}

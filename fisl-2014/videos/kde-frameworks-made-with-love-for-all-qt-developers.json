@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "kde-frameworks-made-with-love-for-all-qt-developers",
+  "speakers": [
+    "Kevin Ottens"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "KDE Frameworks: Made with love for all Qt developers",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/40t/sala40t-high-201405081302.ogv"
+    }
+  ]
+}

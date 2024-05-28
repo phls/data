@@ -1,0 +1,39 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Utilizando t\u00e9cnicas de vis\u00e3o computacional junto \u00e0 computa\u00e7\u00e3o gr\u00e1fica, a Realidade Aumentada disponibiliza uma inovadora intera\u00e7\u00e3o homem-m\u00e1quina, onde os objetos virtuais introduzidos no ambiente real podem ser manipulados com as pr\u00f3prias m\u00e3os, proporcionando ao usu\u00e1rio uma intera\u00e7\u00e3o in\u00e9dita e atrativa.",
+  "duration": 1238,
+  "id": 14,
+  "language": "por",
+  "recorded": "2012-02-07",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/realidade-aumentada-na-plataforma-linux"
+  ],
+  "slug": "realidade-aumentada-na-plataforma-linux",
+  "speakers": [
+    "Alessandro de Oliveira Faria - Cabelo"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/realidade-aumentada-na-plataforma-linux.jpg",
+  "title": "Realidade Aumentada na plataforma Linux",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=hhgy232Ms7Q"
+    },
+    {
+      "size": 179057179,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-realidade-aumentada-na-plataforma-linux.ogv"
+    },
+    {
+      "size": 85159464,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-realidade-aumentada-na-plataforma-linux.webm"
+    }
+  ]
+}

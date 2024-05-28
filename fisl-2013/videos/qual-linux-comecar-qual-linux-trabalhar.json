@@ -1,0 +1,27 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "qual-linux-comecar-qual-linux-trabalhar",
+  "speakers": [
+    "Luiz Henrique Rauber Rodrigues",
+    "Rodrigo dos Santos Vianna",
+    "Daniel Lara Souza",
+    "Wanderson Henrique Camargo Rosa",
+    "Guilherme Mar"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Distribui\u00e7\u00f5es GNU/Linux e BSD"
+  ],
+  "title": "Qual Linux Come\u00e7ar? Qual Linux Trabalhar?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307041806.ogg"
+    }
+  ]
+}

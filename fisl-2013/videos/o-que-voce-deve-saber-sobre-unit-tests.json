@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "o-que-voce-deve-saber-sobre-unit-tests",
+  "speakers": [
+    "Gustavo Fonseca"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Python, Ruby e Perl"
+  ],
+  "title": "O que voc\u00ea deve saber sobre Unit Tests.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307031158.ogg"
+    }
+  ]
+}

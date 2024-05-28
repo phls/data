@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "a-experiencia-da-dataprev-no-monitoramento-com-zabbix",
+  "speakers": [
+    "Elemar Marius Berbigier"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "A experi\u00eancia da Dataprev no monitoramento com Zabbix",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41b/sala41b-high-201106301505.ogv"
+    }
+  ]
+}

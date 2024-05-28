@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "a-utilizacao-de-software-livre-na-micro-e-pequena-empresa",
+  "speakers": [
+    "F\u00e1bio Cardoso Santos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "A utiliza\u00e7\u00e3o de Software Livre na Micro e Pequena Empresa",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41c/sala41c-high-201207281656.ogg"
+    }
+  ]
+}

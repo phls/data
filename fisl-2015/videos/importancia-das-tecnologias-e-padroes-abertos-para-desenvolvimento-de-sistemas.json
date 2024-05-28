@@ -1,0 +1,23 @@
+{
+  "description": "Demonstrar a import\u00e2ncia de escolher tecnologias e padr\u00f5es abertos para iniciar o desenvolvimento de sistemas. Enfocando a continuidade das ferramentas e compatibilidade das novas vers\u00f5es assim como a possibilidade de assumir projetos de ferramentas de desenvolvimento pela comunidade usu\u00e1ria.\n\nContando a experi\u00eancia de utiliza\u00e7\u00e3o de linguagens comerciais que foram descontinuadas prejudicando muito a continuidade do desenvolvimento dos sistemas que utilizavam essas ferramentas.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "importancia-das-tecnologias-e-padroes-abertos-para-desenvolvimento-de-sistemas",
+  "speakers": [
+    "Vinicius Medeiros Peretti"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Import\u00e2ncia das Tecnologias e Padr\u00f5es Abertos para Desenvolvimento de Sistemas",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41c/sala_41c-high-201507081300.ogv"
+    }
+  ]
+}

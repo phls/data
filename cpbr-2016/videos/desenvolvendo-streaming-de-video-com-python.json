@@ -1,0 +1,38 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Atualmente \u00e9 comum e popular tocar \u00e1udio e v\u00eddeo diretamente da internet e transmiti-los ao vivo, chamado de streaming. Existem diferentes frameworks e bibliotecas livres que podem ser usadas para o desenvolvimento de softwares de streaming. Essa oficina ir\u00e1 mostrar diferentes formas de fazer streaming, como prototipar aplica\u00e7\u00f5es de streaming e come\u00e7ar a desenvolver uma aplica\u00e7\u00e3o de streaming simples usando Python e GStreamer.",
+  "duration": 6915,
+  "id": 212,
+  "language": "por",
+  "recorded": "2016-01-28",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/workshop/desenvolvendo-streaming-de-video-com-python"
+  ],
+  "slug": "desenvolvendo-streaming-de-video-com-python",
+  "speakers": [
+    "Luciana Fujii Pontello"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Oficina",
+    "Python",
+    "GStreamer",
+    "Streaming"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/desenvolvendo-streaming-de-video-com-python.jpg",
+  "title": "Desenvolvendo streaming de v\u00eddeo com Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/AT8x0MQ8ofU?t=8h1m40s"
+    },
+    {
+      "size": 2283356473,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-desenvolvendo-streaming-de-video-com-python.ogv"
+    }
+  ]
+}

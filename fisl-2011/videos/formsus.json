@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "formsus",
+  "speakers": [
+    "Francisco Gonzalez"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "FormSUS",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40a/sala40a-high-201106301100.ogv"
+    }
+  ]
+}

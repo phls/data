@@ -1,0 +1,27 @@
+{
+  "description": "Para permitir que usu\u00e1rios possam alterar o c\u00f3digo fonte do software Debian, os pacotes de c\u00f3digo fonte devem ser entregues. Os pacotes necess\u00e1rios para compilar um dado pacote seguem o Build-Depends. O menor n\u00famero de pacotes para o bootstrap de um sistema Debian m\u00ednimo exige incr\u00edveis 4 a 5 GB de downloads. A sess\u00e3o pretende demonstrar esse c\u00e1lculo, mostrar alguns dos resultados, e iniciar discuss\u00f5es sobre como melhor distribuir o c\u00f3digo fonte a usu\u00e1rios em eventos como FLISOL, e como reduzir a atual necessidade de pacotes. Ainda abre a discuss\u00e3o sobre como o projeto Debian pode melhor distribuir os pacotes e ambientes para recompila\u00e7\u00e3o de pacotes.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "dependencias-de-pacotes-de-codigo-fonte",
+  "speakers": [
+    "Thadeu Lima de Souza Cascardo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "miniDebConf"
+  ],
+  "title": "Depend\u00eancias de pacotes de c\u00f3digo fonte",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507101503.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507101508.ogv"
+    }
+  ]
+}

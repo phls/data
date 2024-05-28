@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O objetivo da palestra \u00e9 explicar o que \u00e9 e como funciona o Projeto Debian. H\u00e1 a abordagem sobre aspectos hist\u00f3ricos, o ciclo de processamento de pacotes e a organiza\u00e7\u00e3o interna do projeto e dos seus colaboradores, al\u00e9m de algumas estat\u00edsticas interessantes.",
+  "duration": 1255,
+  "id": 54,
+  "language": "por",
+  "recorded": "2013-02-02",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/bastidores-debian-entenda-como-a-distribuicao-funciona",
+    "http://slcampusparty.com.br/blog/bastidores-debian-entenda-como-a-distribuicao-funciona"
+  ],
+  "slug": "bastidores-debian-entenda-como-a-distribuicao-funciona",
+  "speakers": [
+    "Jo\u00e3o Eriberto Mota Filho"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Debian"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/bastidores-debian-entenda-como-a-distribuicao-funciona.jpg",
+  "title": "Bastidores Debian - entenda como a distribui\u00e7\u00e3o",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=I1WiBQLxQcQ"
+    },
+    {
+      "size": 116395930,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-bastidores-debian-entenda-como-a-distribuicao-funciona.ogv"
+    },
+    {
+      "size": 34028766,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-bastidores-debian-entenda-como-a-distribuicao-funciona.webm"
+    }
+  ]
+}

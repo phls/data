@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "analise-de-vulnerabilidade-de-redes-wep-com-aircrack-ng",
+  "speakers": [
+    "Joelias Silva Pinto J\u00fanior"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Seguran\u00e7a"
+  ],
+  "title": "An\u00e1lise de Vulnerabilidade de Redes WEP com Aircrack-ng",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41c/sala41c-high-201207281457.ogg"
+    }
+  ]
+}

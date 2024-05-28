@@ -1,0 +1,23 @@
+{
+  "description": "O objetivo da palestra \u00e9 mostrar as caracter\u00edsticas do Elasticsearch, compartilhar casos de usos reais, bem como quais componentes podemos utilizar para cada situa\u00e7\u00e3o.\n\nCaracter\u00edstica da API\nO que \u00e9, e como utilizar DSL\nO que \u00e9 o Lucene no Elasticsearch?\nLucene Query Syntax em compara\u00e7\u00e3o com DSL\nIndexando conte\u00fados\u2026 definindo estruturas dados\u2026\nEstruturas aninhadas no Elasticsearch\nMapping e tokens\nLinguagens suportadas\nMonitorando via marvel\nFalando sobre cluster de Elasticsearch",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "indexando-com-elasticsearch-capacidades-e-desafios",
+  "speakers": [
+    "Jamil Atta Junior"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Indexando com elasticsearch, capacidades e desafios.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41b/sala_41b-high-201507111500.ogv"
+    }
+  ]
+}

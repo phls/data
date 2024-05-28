@@ -1,0 +1,27 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "segredos-do-facebook-como-conseguir-clientes-na-maior-rede-de-amigos-do-mundo",
+  "speakers": [
+    "Pedro Superti"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "Segredos do Facebook: Como Conseguir Clientes Na Maior Rede de Amigos  do Mundo",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41c/sala41c-high-201207271657.ogg"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41c/sala41c-high-201207271703.ogg"
+    }
+  ]
+}

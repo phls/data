@@ -1,0 +1,27 @@
+{
+  "description": "O Docker, uma plataforma aberta para entrega de aplica\u00e7\u00f5es distribu\u00eddas, vem popularizando o uso de containers. Essa apresenta\u00e7\u00e3o ir\u00e1 mostrar algumas formas de uso e integra\u00e7\u00e3o com os ambientes existente de virtualiza\u00e7\u00e3o, desde o uso de containers Docker substituindo m\u00e1quinas virtuais at\u00e9 o uso de containers Docker para a entrega de aplica\u00e7\u00f5es da pr\u00f3pria infraestrutura de virtualiza\u00e7\u00e3o, passando pela integra\u00e7\u00e3o e uso de v\u00e1rios projetos, como oVort, Cockpit, Atomic, Kubernetes e Mesos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "integrando-o-docker-em-seu-ambiente-de-virtualizacao",
+  "speakers": [
+    "Amador Pahim"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Administra\u00e7\u00e3o de Sistemas"
+  ],
+  "title": "Integrando o Docker em seu ambiente de Virtualiza\u00e7\u00e3o",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41b/sala_41b-high-201507111700.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41b/sala_41b-high-201507111701.ogv"
+    }
+  ]
+}

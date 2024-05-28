@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "complete-open-and-integrated-oracles-investment-in-open-source-and-stands",
+  "speakers": [
+    "Luke Kowalski"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "Complete, Open, and Integrated ----Oracle's investment in open source and stands",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40t/sala40t-high-201107011002.ogv"
+    }
+  ]
+}

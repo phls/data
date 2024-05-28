@@ -1,0 +1,24 @@
+{
+  "description": "Cerim\u00f4nia de abertura do F\u00f3rum Internacional Software Livre - FISL17",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "abertura-oficial-do-fisl17",
+  "speakers": [
+    "Ricardo Fritsch",
+    "Sady Jacques"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "ASL"
+  ],
+  "title": "Abertura oficial do FISL17",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41a/sala41a-high-201607131700.ogv"
+    }
+  ]
+}

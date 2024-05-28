@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Nesta palestra veremos procedimentos de instala\u00e7\u00e3o do SDK e NDK Android, como tamb\u00e9m a apresenta\u00e7\u00e3o dos principais m\u00e9todos para captura de imagens na plataforma Android para posterior processamento. Exemplos com c\u00f3digo fonte de aplicativos de realidade aumentada em celulares Android, demonstra\u00e7\u00e3o de todo potencial da tecnologia Webtop da Motorola presente no celular Atrix e demonstra\u00e7\u00e3o da biblioteca de vis\u00e3o computacional openCV nesta plataforma.",
+  "duration": 1793,
+  "id": 18,
+  "language": "por",
+  "recorded": "2013-01-29",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/android-e-visao-computacional",
+    "http://slcampusparty.com.br/blog/android-e-visao-computacional"
+  ],
+  "slug": "android-e-visao-computacional",
+  "speakers": [
+    "Alessandro de Oliveira Faria - Cabelo"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Android",
+    "openCV"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/android-e-visao-computacional.jpg",
+  "title": "Android e vis\u00e3o computacional",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=E8NXU7WesU8"
+    },
+    {
+      "size": 250194413,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-android-e-visao-computacional.ogv"
+    },
+    {
+      "size": 69525880,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-android-e-visao-computacional.webm"
+    }
+  ]
+}

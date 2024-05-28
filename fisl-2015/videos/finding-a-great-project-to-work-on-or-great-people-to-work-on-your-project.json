@@ -1,0 +1,23 @@
+{
+  "description": "So you're either a technical or a non-technical person and you've\ndecided to meet some strangers and help them with their free software\nproject, now what? Not all projects were created equal, and you\ndefinitely want your own experience to be a positive one. How do\nprojects signal to the world that they're ready for new contributors?\nWhere do you look for these signals? And once you find them, how do\nyou make contact and manage the relationship so that the experience is\nmutually rewarding? Luckily, there are some very concrete ways to\nseparate out projects that would be great to work on and ones that\nwould be, well... challenging.\n\nThe free software movement needs to grow and that starts with making\nour projects more welcoming to newcomers. In addition to coders, many\nprojects sorely need writers for documentation, press releases and\nblogging or experts on outreach, fundraising and volunteer management\nor a friendly pack of translators, but aren't sure how to get them.\nTweaking your volunteer pitch, looking in different places, being open\nto different communications channels, and finding ways to appreciate\nfolks will help immensely.\n\nOnce you've got them, letting your new contributors get on with what\nthey're good at will help them feel invested. This talk covers how to\nset parameters and manage expectations for new people. This talk is\nfor both project seekers and for folks who would like to grow their\nproject. Let's build a bigger, better free software movement!",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "finding-a-great-project-to-work-on-or-great-people-to-work-on-your-project",
+  "speakers": [
+    "Deborah Anne Nicholson"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "ASL"
+  ],
+  "title": "Finding a Great Project to Work On, or Great People to Work on Your Project",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507091759.ogv"
+    }
+  ]
+}

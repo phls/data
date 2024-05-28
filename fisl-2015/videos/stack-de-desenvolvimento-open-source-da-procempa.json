@@ -1,0 +1,23 @@
+{
+  "description": "a definir.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "stack-de-desenvolvimento-open-source-da-procempa",
+  "speakers": [
+    "Thiago Addevico Presa"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Neg\u00f3cios, Migra\u00e7\u00f5es e Casos"
+  ],
+  "title": "Stack de Desenvolvimento Open Source da Procempa",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507111301.ogv"
+    }
+  ]
+}

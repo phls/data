@@ -1,0 +1,28 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "a-nova-economia-colaborativa",
+  "speakers": [
+    "Edgard Charles Stuber",
+    "Sandro Cortezia",
+    "Daniel Larusso Barros",
+    "Daniel Bittencourt",
+    "Gustavo Pacheco",
+    "Tom\u00e1s de Lara"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "A nova economia colaborativa",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40a/sala40a-high-201207271212.ogg"
+    }
+  ]
+}

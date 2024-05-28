@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "free-software-and-education-wsl-session-1",
+  "speakers": [
+    "Catia Zilio",
+    "Carlos Eduardo M. Santos",
+    "Rafaela da Silva Melo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "WSL"
+  ],
+  "title": "Free Software and Education (WSL session 1)",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40a/sala40a-high-201307041315.ogg"
+    }
+  ]
+}

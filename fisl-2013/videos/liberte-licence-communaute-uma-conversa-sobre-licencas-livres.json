@@ -1,0 +1,27 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "liberte-licence-communaute-uma-conversa-sobre-licencas-livres",
+  "speakers": [
+    "Matheus Lorenzato Braga",
+    "Jer\u00f4nimo Medina Madruga",
+    "Rodrigo Pizarro dos Santos",
+    "Di\u00f3rgenes Yuri Leal da Rosa",
+    "Rafael Pinto Garcia"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Compartilhamento"
+  ],
+  "title": "Libert\u00e9, Licence, Communaut\u00e9: Uma conversa sobre Licen\u00e7as Livres",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307061558.ogg"
+    }
+  ]
+}

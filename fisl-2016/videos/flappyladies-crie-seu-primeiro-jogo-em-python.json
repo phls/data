@@ -1,0 +1,23 @@
+{
+  "description": "Qual \u00e9 a melhor maneira de aprender a programar um jogo do que come\u00e7ar com um dos maiores virais de todos os tempos? O PyLadies S\u00e3o Carlos te ensina a criar um Flappy Bird utilizando a biblioteca PyGame! \n\nCONTE\u00daDO DA PALESTRA: https://github.com/JessicaDias/FlapPyLadies.git\nO c\u00f3digo do jogo estar\u00e1 dispon\u00edvel no in\u00edcio da palestra.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "flappyladies-crie-seu-primeiro-jogo-em-python",
+  "speakers": [
+    "J\u00e9ssica Caroline Dias Nascimento"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "PyLadies"
+  ],
+  "title": "FlapPyLadies: Crie seu primeiro jogo em Python!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41e/sala41e-high-201607151442.ogv"
+    }
+  ]
+}

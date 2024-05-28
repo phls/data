@@ -1,0 +1,40 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Palestra n\u00e3o-t\u00e9cnica que mostra com fatos onde o software livre ganha o windows e a microsoft. Atualmente, o windows est\u00e1 na maioria dos computadores desktops do mundo, mas existe uma realidade que \u00e9 desconhecida por muitos usu\u00e1rios do mundo: O fato de software livre e kernel linux e freebsd estarem dominando no mundo dos smartphones (android/Linux e iOS/FreeBSD+Mach), servidores e at\u00e9 em videogames grandes como o Playstation (FreeBSD). Demonstrar com fatos que n\u00e3o \u00e9 em todo lugar que o windows ganha.",
+  "duration": 3260,
+  "id": 137,
+  "language": "por",
+  "recorded": "2015-02-07",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-onde-e-como-o-software-livre-ganha-de-lavada-o-windows-e-a-microsoft-descricao-palestra-nao-tecnica-que-mostra-com-fatos-onde-o-software-l",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/onde-e-como-o-software-livre-ganha-de-lavada-o-windows-e-a-microsoft-cpbr8"
+  ],
+  "slug": "onde-e-como-o-software-livre-ganha-de-lavada-do-windows-e-da-microsoft",
+  "speakers": [
+    "Wellton Costa de Oliveira"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/onde-e-como-o-software-livre-ganha-de-lavada-do-windows-e-da-microsoft.jpg",
+  "title": "Onde e como o Software Livre ganha de lavada o Windows e a Microsoft",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=IpDmI0fxiGI"
+    },
+    {
+      "size": 271414854,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-onde-e-como-o-software-livre-ganha-de-lavada-do-windows-e-da-microsoft.ogv"
+    },
+    {
+      "size": 117315244,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-onde-e-como-o-software-livre-ganha-de-lavada-do-windows-e-da-microsoft.webm"
+    }
+  ]
+}

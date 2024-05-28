@@ -1,0 +1,28 @@
+{
+  "description": "a confirmar.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "painel-internet-das-coisas-ou-das-pessoas",
+  "speakers": [
+    "Sady Jacques",
+    "Wellton Costa de Oliveira",
+    "Christiane Borges Santos",
+    "Rodrigo Rubira Branco",
+    "Thalis Antunes de Souza",
+    "Daniel Omar Basconcello Filho"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Internet das Coisas"
+  ],
+  "title": "Painel: Internet das Coisas, ou das pessoas?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41a/sala41a-high-201607131512.ogv"
+    }
+  ]
+}

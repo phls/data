@@ -1,0 +1,38 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A proposta desta apresenta\u00e7\u00e3o \u00e9 descrever a arquitetura Power. A arquitetura Power \u00e9 uma arquitetura 64-bit utilizada em diversos campos, inclusive suportada por Debian. Essa apresenta\u00e7\u00e3o visa cobrir os pontos de diferencia\u00e7\u00e3o da plataforma e como \u00e9 explorada por Debian.",
+  "duration": 877,
+  "id": 80,
+  "language": "por",
+  "recorded": "2017-03-19",
+  "related_urls": [
+    "http://br2017.mini.debconf.org"
+  ],
+  "slug": "ppc64el-conheca-a-arquitetura-mais-rapida-do-debian-hoje",
+  "speakers": [
+    "Breno Henrique Leit\u00e3o"
+  ],
+  "tags": [
+    "Debian",
+    "MiniDebConf",
+    "MiniDebConf Curitiba",
+    "MiniDebConf Curitiba 2017",
+    "Universidade Tecnol\u00f3gica Federal do Paran\u00e1",
+    "UTFPR",
+    "Curitiba",
+    "Arquitetura Power"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/minidebconf_curitiba_2017_ppc64el_conheca_a_arquitetura_mais_rapida_do_debian_hoje.jpg",
+  "title": "ppc64el: conhe\u00e7a a arquitetura mais r\u00e1pida de Debian hoje",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=_PXPynrADUI"
+    },
+    {
+      "size": 136353314,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/minidebconf-curitiba-2017/minidebconf_curitiba_2017_ppc64el_conheca_a_arquitetura_mais_rapida_do_debian_hoje.webm"
+    }
+  ]
+}

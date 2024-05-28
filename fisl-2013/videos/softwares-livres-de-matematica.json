@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "softwares-livres-de-matematica",
+  "speakers": [
+    "Murany Fatima Botelho Souza"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Matem\u00e1tica"
+  ],
+  "title": "Softwares Livres de Matem\u00e1tica",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40a/sala40a-high-201307061553.ogg"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O que \u00e9 uma certifica\u00e7\u00e3o, porque e qual a import\u00e2ncia de se certificar, primeiros passos para conquistar sua LPIC-1, maneiras de se preparar para os exames, esquema de pontua\u00e7\u00e3o e peso das quest\u00f5es, assuntos abordados nos exames 101 e 102 segundo o Instituto Profissional Linux (LPI), valores, onde e como fazer os exames.",
+  "duration": 2086,
+  "id": 3,
+  "language": "por",
+  "recorded": "2012-02-07",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/como-conquistar-sua-certificacao-lpic-1"
+  ],
+  "slug": "como-conseguir-sua-lpic-1",
+  "speakers": [
+    "Carlos A. C. Valim"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "LPI",
+    "LPIC-1",
+    "Linux Professional Institute",
+    "Certifica\u00e7\u00e3o"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/como-conseguir-sua-lpic-1.jpg",
+  "title": "Como conquistar sua certifica\u00e7\u00e3o LPIC-1",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=yMcs6SwPcr8"
+    },
+    {
+      "size": 432138239,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-como-conseguir-sua-lpic-1.ogv"
+    },
+    {
+      "size": 140593331,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-como-conseguir-sua-lpic-1.webm"
+    }
+  ]
+}

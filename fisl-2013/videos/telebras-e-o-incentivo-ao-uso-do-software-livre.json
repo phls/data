@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "telebras-e-o-incentivo-ao-uso-do-software-livre",
+  "speakers": [
+    "Luiz Fernando dos Passos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Casos de sucesso"
+  ],
+  "title": "TELEBRAS E O INCENTIVO AO USO DO  SOFTWARE LIVRE",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307051910.ogg"
+    }
+  ]
+}

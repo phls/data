@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "n/a",
+  "duration": 3330,
+  "id": 48,
+  "language": "por",
+  "recorded": "2014-07-26",
+  "related_urls": [
+    "https://campuse.ro/events/campus-party-recife-2014/talk/o-hoje-e-o-amanha-do-libreoffice-cprecife3",
+    "http://slcampusparty.com.br/blog/palestra-o-hoje-e-o-amanha-do-libreoffice"
+  ],
+  "slug": "o-hoje-e-o-amanha-do-libreoffice",
+  "speakers": [
+    "Eliane Domingos de Sousa"
+  ],
+  "tags": [
+    "CPRecife3",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "LibreOffice"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/o-hoje-e-o-amanha-do-libreoffice.jpg",
+  "title": "O hoje e o amanh\u00e3 do LibreOffice",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=gdyv2yySTMQ"
+    },
+    {
+      "size": 236998038,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife3-2014/cprecife3-2014-o-hoje-e-o-amanha-do-libreoffice.ogv"
+    },
+    {
+      "size": 105686319,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife3-2014/cprecife3-2014-o-hoje-e-o-amanha-do-libreoffice.webm"
+    }
+  ]
+}

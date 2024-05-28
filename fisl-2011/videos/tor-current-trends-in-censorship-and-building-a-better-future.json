@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "tor-current-trends-in-censorship-and-building-a-better-future",
+  "speakers": [
+    "Jacob Appelbaum"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Seguran\u00e7a"
+  ],
+  "title": "Tor, current trends in censorship and building a better future",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201107011107.ogv"
+    }
+  ]
+}

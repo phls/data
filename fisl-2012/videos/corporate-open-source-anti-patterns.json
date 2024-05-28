@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "corporate-open-source-anti-patterns",
+  "speakers": [
+    "Bryan Cantrill"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Corporate Open Source Anti-patterns",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40t/sala40t-high-201207261101.ogg"
+    }
+  ]
+}

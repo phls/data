@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "a-pedagogia-libertadora-do-software-livre",
+  "speakers": [
+    "Wilkens Lenon da Silva de Andrade"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Educa\u00e7\u00e3o e Inclus\u00e3o Digital"
+  ],
+  "title": "A Pedagogia Libertadora do Software Livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40a/sala40a-high-201106291456.ogv"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Nesta palestra ser\u00e1 apresentado o Puppet, ferramenta que permite gerenciar configura\u00e7\u00f5es no Debian e outros Linux.",
+  "duration": 2998,
+  "id": 73,
+  "language": "por",
+  "recorded": "2017-03-18",
+  "related_urls": [
+    "http://br2017.mini.debconf.org"
+  ],
+  "slug": "gerenciamento-de-configuracoes-no-debian-com-puppet",
+  "speakers": [
+    "Gustavo Soares de Lima"
+  ],
+  "tags": [
+    "Debian",
+    "MiniDebConf",
+    "MiniDebConf Curitiba",
+    "MiniDebConf Curitiba 2017",
+    "Universidade Tecnol\u00f3gica Federal do Paran\u00e1",
+    "UTFPR",
+    "Curitiba",
+    "Puppet"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/minidebconf_curitiba_2017_gerenciamento_de_configuracoes_no_debian_com_puppet.jpg",
+  "title": "Gerenciamento de configura\u00e7\u00f5es no Debian com Puppet",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=XOcuvTTM9kE"
+    },
+    {
+      "size": 457942059,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/minidebconf-curitiba-2017/minidebconf_curitiba_2017_gerenciamento_de_configuracoes_no_debian_com_puppet.webm"
+    }
+  ]
+}

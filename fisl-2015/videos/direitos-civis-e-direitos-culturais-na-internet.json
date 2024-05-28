@@ -1,0 +1,27 @@
+{
+  "description": "a definir.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "direitos-civis-e-direitos-culturais-na-internet",
+  "speakers": [
+    "Leo Germani",
+    "Guilherme Rosa Varella",
+    "Fabianne Batista Balvedi",
+    "Marco Antonio Konopacki (Marco Amarelo)",
+    "Ricardo Poppi"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Cultura, Filosofia, e Pol\u00edtica"
+  ],
+  "title": "Direitos Civis e Direitos Culturais na Internet",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507081526.ogv"
+    }
+  ]
+}

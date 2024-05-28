@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "you-and-me-keeping-the-web-open-together",
+  "speakers": [
+    "Stormy Peters"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ecossistema / Cultura"
+  ],
+  "title": "You and me, keeping the web open together",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201106291104.ogv"
+    }
+  ]
+}

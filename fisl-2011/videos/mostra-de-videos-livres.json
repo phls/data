@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "mostra-de-videos-livres",
+  "speakers": [
+    "GT-Cultura"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Mostra de V\u00eddeos Livres",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40a/sala40a-high-201106291606.ogv"
+    }
+  ]
+}

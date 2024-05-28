@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "tapes-not-dead",
+  "speakers": [
+    "Lucas C. Villa Real"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Kernel, Sistemas de Arquivos e Sistemas Operacionais"
+  ],
+  "title": "Tape's Not Dead",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41a/sala41a-high-201207261702.ogg"
+    }
+  ]
+}

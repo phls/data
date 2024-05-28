@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "a-crash-course-on-crash-the-kernel-crash-analysis-utility",
+  "speakers": [
+    "Marcelo Moreira de Mello",
+    "Rafael Aquini"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Kernel, Sistemas de Arquivos e Sistemas Operacionais"
+  ],
+  "title": "A crash course on crash - The Kernel crash analysis utility",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41d/sala41d-high-201107021203.ogv"
+    }
+  ]
+}

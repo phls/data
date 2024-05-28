@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "linux-certification-whats-and-how-can-i-get-it",
+  "speakers": [
+    "Alessandro de Souza e Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Educa\u00e7\u00e3o e Inclus\u00e3o Digital"
+  ],
+  "title": "Linux Certification: What's and how can I get it ?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41a/sala41a-high-201207281209.ogg"
+    }
+  ]
+}

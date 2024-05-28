@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "arte-livre-scripts-e-outros-1001-algoritmos",
+  "speakers": [
+    "Karlisson Bezerra"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Outras linguagens"
+  ],
+  "title": "Arte livre, scripts e outros 1001 algoritmos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41b/sala41b-high-201107011254.ogv"
+    }
+  ]
+}

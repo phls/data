@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "servo-o-web-engine-paralelo",
+  "speakers": [
+    "Bruno de Oliveira Abinader"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Servo: O web engine paralelo",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41f/sala41f-high-201405091309.ogv"
+    }
+  ]
+}

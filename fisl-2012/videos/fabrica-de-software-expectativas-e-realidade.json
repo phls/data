@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "fabrica-de-software-expectativas-e-realidade",
+  "speakers": [
+    "Claudimir Zavalik",
+    "Rainer Otto Wilhelm Kr\u00fcger"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "F\u00e1brica de Software: Expectativas e Realidade ",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41c/sala41c-high-201207271559.ogg"
+    }
+  ]
+}

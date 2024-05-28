@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "distribuicoes-gnulinux-entenda-como-funciona",
+  "speakers": [
+    "Paulo Henrique de Lima Santana"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Desktop e Distribui\u00e7\u00f5es"
+  ],
+  "title": "Distribui\u00e7\u00f5es GNU/Linux - entenda como funciona",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405081704.ogv"
+    }
+  ]
+}

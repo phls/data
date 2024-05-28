@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "apresentando-as-redes-de-sensores-sem-fio-aplicacoes-e-desafios-em-seguranca",
+  "speakers": [
+    "Juliano Fontoura Kazienko"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Apresentando as Redes de Sensores Sem Fio, Aplica\u00e7\u00f5es e Desafios em Seguran\u00e7a",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201106291000.ogv"
+    }
+  ]
+}

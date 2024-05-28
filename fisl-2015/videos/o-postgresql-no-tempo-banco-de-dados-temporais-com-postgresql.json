@@ -1,0 +1,23 @@
+{
+  "description": "\"O PostgreSQL no tempo\" remete-se ao contexto de banco de dados temporais. A implementa\u00e7\u00e3o temporal em um banco de dados pode resolver muitos dos problemas di\u00e1rios com v\u00e1rios ramos de atividades, como financeiras, comerciais ou quaisquer outras que necessitem trabalhar com dados no tempo.\n\nSer\u00e1 demostrado a aplica\u00e7\u00e3o do conceito no maior e melhor banco de dados relacional de c\u00f3digo aberto, o PostgreSQL atrav\u00e9s de um exemplo simples e pr\u00e1tico de banco de dados temporal.\n\nTempo estimado: 45 minutos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "o-postgresql-no-tempo-banco-de-dados-temporais-com-postgresql",
+  "speakers": [
+    "Fl\u00e1vio Jos\u00e9 Vodzinski"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Bancos de Dados"
+  ],
+  "title": "O PostgreSQL no tempo - Banco de dados temporais com PostgreSQL",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507081159.ogv"
+    }
+  ]
+}

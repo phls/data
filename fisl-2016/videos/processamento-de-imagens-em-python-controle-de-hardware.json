@@ -1,0 +1,23 @@
+{
+  "description": "Sistema de microeletr\u00f4nica controlado via software implementado em Python: um host PC, uma controladora de movimentos, posicionadores e um laser integrados. A finalidade do software \u00e9 definir as trajet\u00f3rias do laser ap\u00f3s processamento de imagens complexas. Nesta palestra falaremos de filtros de imagens e suas convers\u00f5es para o mundo real microm\u00e9trico.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "processamento-de-imagens-em-python-controle-de-hardware",
+  "speakers": [
+    "Patr\u00edcia Silva Domingues"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "PyLadies"
+  ],
+  "title": "Processamento de Imagens em Python: controle de hardware",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41e/sala41e-high-201607151719.ogv"
+    }
+  ]
+}

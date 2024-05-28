@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "construindo-scripts-para-testes-de-seguranca-com-python",
+  "speakers": [
+    "Eduardo Alves Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Seguran\u00e7a"
+  ],
+  "title": "Construindo scripts para testes de seguran\u00e7a com Python",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41c/sala41c-high-201405081403.ogv"
+    }
+  ]
+}

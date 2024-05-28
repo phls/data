@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "plasma-active-freeing-the-device-spectrum",
+  "speakers": [
+    "Sebastian K\u00fcgler"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Plasma Active -- Freeing the Device Spectrum",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40t/sala40t-high-201207271100.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Esta foi uma palestra que realizei na novatec em s\u00e3o paulo, onde mostrei os caminhos das pedras para ter sucesso em contribui\u00e7\u00f5es open source, especialmente no codigo fonte do php, onde sou commiter.\n\nNo ano passado fui top 10 contribuidor do php:\nhttps://github.com/php/php-src/graphs/contributors?from=2015-01-01&to=2015-12-31&type=c\n\nEstive na lista dos commiters que contribuiram para o php7:\nhttp://devzone.zend.com/6956/php-7-core-contributors-thankyou/\n\nVou mostrar aos aspirantes, iniciados e avan\u00e7ados como funciona e como contribuir em algum projeto open source que tenha interesse, obviamente mostrando alguns casos que eu ja vivi no bugs.php.net ou no github.com/php/php-src;\n\nsegue algumas contribui\u00e7\u00f5es minhas realizadas:\nhttps://github.com/php/php-src/search?q=marcosptf\nhttps://github.com/php/php-src/pulls/marcosptf\nhttps://bugs.php.net/bug.php?id=70659&thanks=4\nhttps://bugs.php.net/bug.php?id=70826&thanks=4\nhttps://bugs.php.net/bug.php?id=70827&thanks=4\nhttps://bugs.php.net/bug.php?id=70847&thanks=4\nhttps://bugs.php.net/bug.php?id=70856&thanks=4\nhttps://bugs.php.net/bug.php?id=70840\nhttps://bugs.php.net/bug.php?id=70935&thanks=4\nhttps://bugs.php.net/bug.php?id=70936&thanks=2",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "como-contribuir-em-projetos-open-source",
+  "speakers": [
+    "Marcos Paulo de Souza Santana"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "Como contribuir em projetos Open Source",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41c/sala41c-high-201607141700.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Where have you learned how to program? Where do you get feedback about your work? Where do you get the opportunity to lead? Where do you find motivation and purpose for writing software? Where do you learn and work with the best of the discipline? For many people the answer is: in the free software community. Free software provides an unique environment for learning and growing. It is a tremendously effective way to learn technical skills as well as to grow professionally and personally. The free software community is breeding a new generation of leaders, experts, and masters of their craft, driven by sharing, technical excellence, and working on a greater good. How does this work? Where does this lead? Why does it matter? The presentation will attempt to give some answers to these questions.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "learning-to-grow",
+  "speakers": [
+    "Cornelius Schumacher"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "WSL"
+  ],
+  "title": "Learning to grow",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507091302.ogv"
+    }
+  ]
+}

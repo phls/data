@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Nessa palestra, que foi o tema de um trabalho de especializa\u00e7\u00e3o, ser\u00e1 apresentada as semelhan\u00e7as e diferen\u00e7as entre os padr\u00f5es ODF e OOXML. Quais s\u00e3o as vantagens em adotar o ODF em rela\u00e7\u00e3o ao padr\u00e3o OOXML.",
+  "duration": 1606,
+  "id": 135,
+  "language": "por",
+  "recorded": "2015-02-07",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-interoperabilidade-entre-os-padroes-odf-e-ooxml",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/interoperabilidade-entre-os-padroes-odf-e-ooxml-cpbr8"
+  ],
+  "slug": "interoperabilidade-entre-os-padroes-odf-ooxml",
+  "speakers": [
+    "Klaibson Natal Ribeiro Borges"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "ODF",
+    "OOXML",
+    "LibreOffice",
+    "Open Documnt Format"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/interoperabilidade-entre-os-padroes-odf-ooxml.jpg",
+  "title": "Interoperabilidade entre os padr\u00f5es ODF e OOXML",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=4GGj4u9ytGY"
+    },
+    {
+      "size": 236301786,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-interoperabilidade-entre-os-padroes-odf-ooxml.ogv"
+    },
+    {
+      "size": 69752483,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-interoperabilidade-entre-os-padroes-odf-ooxml.webm"
+    }
+  ]
+}

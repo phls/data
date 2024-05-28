@@ -1,0 +1,27 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "cidades-inteligentes",
+  "speakers": [
+    "Deborah Pilla Villela",
+    "Cezar Busatto",
+    "Alfredo Fedrizzi",
+    "Rafael Priklandniki",
+    "Pedro Axelrud"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Debates"
+  ],
+  "title": "Cidades Inteligentes",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307061107.ogg"
+    }
+  ]
+}

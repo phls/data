@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A palestra tem como objetivo demonstrar as ferramentas forenses FOSS dispon\u00edveis para an\u00e1lise de pacotes de rede. Demonstrar na pr\u00e1tica como capturar Payload, cabe\u00e7alho de transporte, Ethernet IP. Tamb\u00e9m ser\u00e1 examinado os artefatos gerados no tr\u00e1fego de rede capturado, analisar sess\u00f5es de comunica\u00e7\u00e3o, Identificar e recuperar artefatos TCP, etc. Ferramentas a serem demonstradas: Wireshark, Xplico, tcpdump, ngrep, tcpflow, tcpshow, tcptrace, Dsniff, tcpreplay, tcpxtract, Chaosreader.",
+  "duration": 1061,
+  "id": 27,
+  "language": "por",
+  "recorded": "2013-01-30",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/ferramentas-foss-para-pericia-forense-de-rede-livre",
+    "http://slcampusparty.com.br/blog/ferramentas-foss-para-pericia-forense-de-rede"
+  ],
+  "slug": "ferramentas-foss-para-pericia-forense-de-rede",
+  "speakers": [
+    "Ramilton Costa Gomes J\u00fanior"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Wireshark",
+    "Xplico"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/ferramentas-foss-para-pericia-forense-de-rede.jpg",
+  "title": "Ferramentas FOSS para per\u00edcia forense de rede",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=2pqX89geA9Q"
+    },
+    {
+      "size": 92240337,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-ferramentas-foss-para-pericia-forense-de-rede.ogv"
+    },
+    {
+      "size": 32339759,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-ferramentas-foss-para-pericia-forense-de-rede.webm"
+    }
+  ]
+}

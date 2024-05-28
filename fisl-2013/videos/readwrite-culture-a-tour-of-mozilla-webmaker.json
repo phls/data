@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "readwrite-culture-a-tour-of-mozilla-webmaker",
+  "speakers": [
+    "Ben Moskowitz",
+    "Robert Richter"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Openweb"
+  ],
+  "title": "Read/Write Culture: A Tour of Mozilla Webmaker",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40t/sala40t-high-201307051714.ogg"
+    }
+  ]
+}

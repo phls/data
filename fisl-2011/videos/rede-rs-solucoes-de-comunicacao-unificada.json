@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "rede-rs-solucoes-de-comunicacao-unificada",
+  "speakers": [
+    "Carlson Aquistapasse"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "Rede RS - Solu\u00e7\u00f5es de Comunica\u00e7\u00e3o Unificada ",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40a/sala40a-high-201106291101.ogv"
+    }
+  ]
+}

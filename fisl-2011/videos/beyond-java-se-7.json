@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "beyond-java-se-7",
+  "speakers": [
+    "Roger Brinkley"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "PHP e Java"
+  ],
+  "title": "Beyond Java SE 7",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201107020959.ogv"
+    }
+  ]
+}

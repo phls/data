@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "bitcoin-passado-presente-e-futuro",
+  "speakers": [
+    "Martin Loy"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Neutralidade"
+  ],
+  "title": "Bitcoin, passado, presente e futuro",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307061403.ogg"
+    }
+  ]
+}

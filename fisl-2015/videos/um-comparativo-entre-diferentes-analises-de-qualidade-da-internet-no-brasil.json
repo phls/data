@@ -1,0 +1,23 @@
+{
+  "description": "Esta apresenta\u00e7\u00e3o visa mostrar como est\u00e1 a qualidade da internet brasileira nas diferentes regi\u00f5es do Brasil no primeiro quadrimestre de 2015, fazendo um comparativo entre diferentes metodologias adotadas por sistemas de medi\u00e7\u00f5es, incluindo o  \u201cState os the Internet\u201d, da Akamai. A an\u00e1lise apresentada foi feita a partir de dados  obtidos pelos testes de qualidade feitos por usu\u00e1rios do SIMET \u2013 Sistema de medi\u00e7\u00e3o de Tr\u00e1fego Internet, do NIC.br.  Na apresenta\u00e7\u00e3o, tamb\u00e9m ser\u00e1 mostrado como o usu\u00e1rio pode medir constantemente sua internet, de forma automatizada, e extrair relat\u00f3rios detalhados para poder cobrar por seus direitos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "um-comparativo-entre-diferentes-analises-de-qualidade-da-internet-no-brasil",
+  "speakers": [
+    "Fabricio Tamusiunas"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Governan\u00e7a da Internet"
+  ],
+  "title": "Um comparativo entre diferentes an\u00e1lises de qualidade da internet no Brasil",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41b/sala_41b-high-201507081100.ogv"
+    }
+  ]
+}

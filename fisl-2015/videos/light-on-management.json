@@ -1,0 +1,23 @@
+{
+  "description": "Lightom (Light On Managmeent) \u00e9 um sistema de gerenciamento e monitoramento de ilumina\u00e7\u00e3o p\u00fablica usando somente Software Livre. Essa poss\u00edvel solu\u00e7\u00e3o pretende diminuir os gastos p\u00fablicos com desperd\u00edcio de energia el\u00e9trica, permitindo um autogerenciamento da ilumina\u00e7\u00e3o p\u00fablica. Com esse monitoramento \u00e9 poss\u00edvel diminuir acidentes e crimes que s\u00e3o cometidos geralmente em locais mal iluminados, bem como aumentar a qualidade de vida da comunidade e do turismo.\n\nO projeto Lightom usa o microcontrolador Arduino e diversos componentes para gerenciar o n\u00edvel de luminosidade, umidade, GPS, e etc. Essas informa\u00e7\u00f5es s\u00e3o enviadas atrav\u00e9s de uma rede para uma central que possui um webserver, desenvolvido em Python, que trata os dados e os exibe em um mapa geolocalizado em tempo real. Caso ocorra algum problema com alguma l\u00e2mpada de qualquer poste que est\u00e1 sendo monitorado, o Ligjhtom tenta solucionar o problema automaticamente, n\u00e3o conseguindo o sistema envia automaticamente alertas para os t\u00e9cnicos respons\u00e1veis que est\u00e3o cadastrados, al\u00e9m de permitir que os operadores da central possam solucionar o problema interagindo diretamente com o sistema Lightom.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "light-on-management",
+  "speakers": [
+    "Daniel Pimentel"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Hardware Aberto"
+  ],
+  "title": "Light On Management",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507101756.ogv"
+    }
+  ]
+}

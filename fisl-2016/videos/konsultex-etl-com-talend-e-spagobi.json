@@ -1,0 +1,23 @@
+{
+  "description": "Desde que apareceu o segundo sistema na Inform\u00e1tica houve necessidade de integra\u00e7\u00e3o de dados. Hoje esta necessidade \u00e9 muito importante divdo a aquisi\u00e7\u00f5es e fus\u00f5es entre empresas e o papel cada dia mais relevante de Business Intelligence que requer de Data Warehouse oportuno, correto e relevante. As \u00e1reas de TI investem muito tempo em programar integra\u00e7\u00f5es o que pode e deve ser resolvido por sistemas especializados como o Talend. A integra\u00e7\u00e3o entre o Talend como componente ETL da suite SpagoBI oferece ao mercado uma solu\u00e7\u00e3o em software livre com um excelente TCO. Ser\u00e3o abordados assuntos conceituais do Talend, mostrado um caso pr\u00e1tico de integra\u00e7\u00e3o.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "konsultex-etl-com-talend-e-spagobi",
+  "speakers": [
+    "Miguel Koren O'Brien"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Neg\u00f3cios, Migra\u00e7\u00f5es e Casos"
+  ],
+  "title": "Konsultex: ETL com Talend e SpagoBI",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41a/sala41a-high-201607141100.ogv"
+    }
+  ]
+}

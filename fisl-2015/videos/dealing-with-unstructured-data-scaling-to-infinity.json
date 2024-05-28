@@ -1,0 +1,23 @@
+{
+  "description": "Web developers - or any developers, for that matter - can rarely reach consensus on how to collect the very high volume of data coming from things such as logs, sensors and impression click-throughs, when their project goes meteoric and homespun databases just aren't cutting it.  What's more, they are often struggling with different schemas and formats of the data before they can even think of storing it in the cloud. In our discussion, we'll talk about ways you can collect this sort of data from your applications with relatively little extra effort, store it in an unstructured format in the cloud, and query it into the format you need for your analytics.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "dealing-with-unstructured-data-scaling-to-infinity",
+  "speakers": [
+    "John Hammink"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Bancos de Dados"
+  ],
+  "title": "Dealing with unstructured data - scaling to infinity",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507091102.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Cada vez mais se faz necess\u00e1rio o desenvolvimento de aplica\u00e7\u00f5es pensando na possibilidade de integra\u00e7\u00e3o com outras aplica\u00e7\u00f5es, de plataformas diferentes inclusive. Vamos ver que criar uma API Rest no Zf2, um robusto framework PHP, \u00e9 muito mais f\u00e1cil do que se imagina.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "criando-api-rest-no-zend-framework-2",
+  "speakers": [
+    "Juciellen Cabrera"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "Criando API Rest no Zend Framework 2",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507091759.ogv"
+    }
+  ]
+}

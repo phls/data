@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "kerckhoffs-legacy-security-and-open-source",
+  "speakers": [
+    "David Mirza"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Seguran\u00e7a"
+  ],
+  "title": "Kerckhoffs' Legacy: Security and Open Source",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40t/sala40t-high-201107011204.ogv"
+    }
+  ]
+}

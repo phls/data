@@ -1,0 +1,23 @@
+{
+  "description": "Para quem quer come\u00e7ar no Drupal ou para quem pensa que s\u00f3 quem manja de PHP est\u00e1 apto, saiba que voc\u00ea pode fazer seus sites sem escrever uma linha de c\u00f3digo. Se voc\u00ea e desenvolvedor Front-end, descubra como pode dar conta de pequenos sites com muita facilidade. E para quem \u00e9 Back-end, veja como economizar bastante tempo em linhas de c\u00f3digo.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "crie-um-site-sem-uma-linha-de-codigo-drupal-8-e-a-forca-do-site-building",
+  "speakers": [
+    "Adriano Pulz"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "DrupalCamp POA"
+  ],
+  "title": "Crie um site sem uma linha de c\u00f3digo! Drupal 8 e a for\u00e7a do Site Building",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607151641.ogv"
+    }
+  ]
+}

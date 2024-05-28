@@ -1,0 +1,23 @@
+{
+  "description": "Trisquel GNU/Linux \u00e9 um sistema operacional livre derivado do Ubuntu, mas inclui apenas Software Livre que n\u00e3o n\u00e3o compromete as liberdades do usu\u00e1rio. O usu\u00e1rio pode executar, copiar, distribuir, estudar e melhorar este sistema. Estas liberdades apoiam a autonomia dos usu\u00e1rios e promovem a solidariedade social.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "trisquel-gnulinux-uma-distribuicao-100-livre",
+  "speakers": [
+    "Clayton Eduardo Dausacker"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Distribui\u00e7\u00f5es"
+  ],
+  "title": "Trisquel GNU/Linux: Uma Distribui\u00e7\u00e3o 100% Livre!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41d/sala41d-high-201607140958.ogv"
+    }
+  ]
+}

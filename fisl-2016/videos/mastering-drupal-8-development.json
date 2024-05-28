@@ -1,0 +1,23 @@
+{
+  "description": "- Introduccion al Desarrollo de Drupal 8\n- Introducci\u00f3n de como usar el projecto Drupal Console para acelerar el proceso de desarrollo en Drupal, sin necesidad de tener experiencia previa.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "mastering-drupal-8-development",
+  "speakers": [
+    "Eduardo Garcia"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Ger\u00eancia de Conte\u00fado / CMS"
+  ],
+  "title": "Mastering Drupal 8 Development",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41a/sala41a-high-201607151105.ogv"
+    }
+  ]
+}

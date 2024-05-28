@@ -1,0 +1,37 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Introdu\u00e7\u00e3o te\u00f3rica a PfSense, um firewall baseado em FreeBSD, livre eextremamente eficiente. Permite o controle de acesso atrav\u00e9s de gerenciamentos de proxy e outros recursos avan\u00e7ados.",
+  "duration": 3493,
+  "id": 235,
+  "language": "por",
+  "recorded": "2017-04-08",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2017-curitiba"
+  ],
+  "slug": "pfsense-um-firewall-eficiente-e-acessivel",
+  "speakers": [
+    "Cleber Ianes"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2017",
+    "Curitiba",
+    "Software Livre",
+    "PfSense",
+    "Firewall",
+    "Proxy"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2017-pfsense-um-firewall-eficiente-e-acessivel.jpg",
+  "title": "PfSense - um firewall eficiente e acess\u00edvel",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=qhMceCkA2VE"
+    },
+    {
+      "size": 802228484,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2017/flisol-curitiba-2017-pfsense-um-firewall-eficiente-e-acessivel.ogv"
+    }
+  ]
+}

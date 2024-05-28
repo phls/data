@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "project-caua-warp-factor-ten",
+  "speakers": [
+    "Jon \"MadDog\" Hall"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "Project Cau\u00e3: Warp Factor Ten!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40t/sala40t-high-201106301559.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "foss-multimedia-long-story-short",
+  "speakers": [
+    "Reynaldo Verdejo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "FOSS Multimedia - Long story short",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41a/sala41a-high-201405101002.ogv"
+    }
+  ]
+}

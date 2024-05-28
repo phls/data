@@ -1,0 +1,46 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Compartilhar conhecimento \u00e9 o lema do movimento Software Livre, ent\u00e3o nada mais natural do que levar esta filosofia a outras \u00e1reas. Se pesquisadores fossem movidos pelo chamado princ\u00edpio hacker de cria\u00e7\u00e3o, onde todas as descobertas s\u00e3o compartilhadas com a comunidade como forma de disseminar o saber e fomentar a pesquisa, a comunidade acad\u00eamica n\u00e3o traria mais benef\u00edcios \u00e0 sociedade?",
+  "duration": 5187,
+  "id": 16,
+  "language": "por",
+  "recorded": "2012-02-11",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/universidade-e-software-livre"
+  ],
+  "slug": "universidade-e-software-livre",
+  "speakers": [
+    "Jansen Sena",
+    "Jos\u00e9 Honorato Ferreira Nunes",
+    "Marcos Sunye",
+    "Pedro Antonio Dourado de Rezende",
+    "Rodrigo Padula de Oliveira"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "Universidades",
+    "Educa\u00e7\u00e3o"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/universidade-e-software-livre.jpg",
+  "title": "Painel: Universidade e Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=woSjgLHwPP4"
+    },
+    {
+      "size": 512620863,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-universidade-e-software-livre.ogv"
+    },
+    {
+      "size": 181518060,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-universidade-e-software-livre.webm"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O objetivo desta oficina \u00e9 apresentar a distribui\u00e7\u00e3o Debian Gnu/Linux, seus principais aspectos, explicar de forma pratica os aspectos da instala\u00e7\u00e3o, detalhando todos os processos desde a obten\u00e7\u00e3o da ISO at\u00e9 deixar sua instala\u00e7\u00e3o funcional para ser utilizada no dia a dia, tudo de forma simples e objetiva. Ao final da oficina, os participantes sair\u00e3o aptos a instalar, configurar e manter um equipamento com Debian Gnu/Linux.",
+  "duration": 4290,
+  "id": 215,
+  "language": "por",
+  "recorded": "2016-01-30",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/workshop/instalando-e-personalizando-o-debian-gnulinux"
+  ],
+  "slug": "instalando-e-personalizando-o-debian-gnu-linux",
+  "speakers": [
+    "Daniel Lenharo de Souza",
+    "Samuel Henrique"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Oficina",
+    "Debian",
+    "Distribui\u00e7\u00e3o",
+    "GNU/Linux"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/instalando-e-personalizando-o-debian-gnu-linux.jpg",
+  "title": "Instalando e personalizando o Debian GNU/Linux",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/ifAhgYv-CvE?t=4h30m"
+    },
+    {
+      "size": 2595805396,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-instalando-e-personalizando-o-debian-gnu-linux.ogv"
+    }
+  ]
+}

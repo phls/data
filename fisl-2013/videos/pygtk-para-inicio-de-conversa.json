@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "pygtk-para-inicio-de-conversa",
+  "speakers": [
+    "Melissa Wen"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Python, Ruby e Perl"
+  ],
+  "title": "PyGtk para in\u00edcio de conversa",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307051359.ogg"
+    }
+  ]
+}

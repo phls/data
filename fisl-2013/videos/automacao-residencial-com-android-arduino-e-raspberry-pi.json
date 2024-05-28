@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "automacao-residencial-com-android-arduino-e-raspberry-pi",
+  "speakers": [
+    "Diego Moreira Guimar\u00e3es",
+    "Thiago Garcia da Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Sistemas embarcados"
+  ],
+  "title": "Automa\u00e7\u00e3o Residencial com Android, Arduino e Raspberry Pi",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41a/sala41a-high-201307031258.ogg"
+    }
+  ]
+}

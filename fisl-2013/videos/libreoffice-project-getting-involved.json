@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "libreoffice-project-getting-involved",
+  "speakers": [
+    "Bjoern Michaelsen"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas de escrit\u00f3rio"
+  ],
+  "title": "LibreOffice Project: Getting Involved",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40t/sala40t-high-201307031602.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "The free software movement has succeeded in creating entirely free \noperating systems, from bootloaders to kernels to web browsers, and \neverything in between. But most modern computers still contain \nsignificant quantities of non-free code, often hidden in places that \nusers can't easily find them. This non-free code is often used in \nsecurity-sensitive areas, potentially allowing backdoors to be built \ninto systems without the owner's knowledge.\n\nWhere is this code, what does it do, and how dangerous can it be? And, \nmore importantly, what can we do to replace it?",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "how-much-of-your-computer-is-non-free-and-how-worried-should-you-be",
+  "speakers": [
+    "Matthew Garrett"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Privacidade e Vigil\u00e2ncia"
+  ],
+  "title": "How much of your computer is non-free, and how worried should you be?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507111600.ogv"
+    }
+  ]
+}

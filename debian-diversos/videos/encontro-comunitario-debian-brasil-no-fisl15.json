@@ -1,0 +1,37 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Programa\u00e7\u00e3o do encontro comunit\u00e1rio: Apresenta\u00e7\u00e3o dos objetivos dos Grupos de Usu\u00e1rios Debian (GUD); Articula\u00e7\u00e3o de grupos Estaduais de usu\u00e1rios Debian; Planejamento sobre o site de comunidade e do wiki; Planos de conting\u00eancia para os sites comunidade e wiki; Planejamento da linha de atua\u00e7\u00e3o at\u00e9 o pr\u00f3ximo FISL15.",
+  "duration": 5978,
+  "id": 228,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "related_urls": [
+    "http://softwarelivre.org/fisl15/noticias/encontro-comunitario-debian-brasil",
+    "http://debianbrasil.org.br/blog/proposta-para-encontro-comunitario-debian-brasil-no-fisl-15"
+  ],
+  "slug": "encontro-comunitario-debian-brasil-no-fisl15",
+  "speakers": [
+    "Andr\u00e9 Felipe Machado"
+  ],
+  "tags": [
+    "FISL",
+    "F\u00f3rum Internacional Software Livre",
+    "FISL15",
+    "Debian",
+    "Porto Alegre",
+    "Encontro comunit\u00e1rio"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/encontro-comunitario-debian-brasil-no-fisl15.jpg",
+  "title": "Encontro Comunit\u00e1rio Debian Brasil no FISL15",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=bSTTqjqOBr4"
+    },
+    {
+      "size": 195234284,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405070915.ogv"
+    }
+  ]
+}

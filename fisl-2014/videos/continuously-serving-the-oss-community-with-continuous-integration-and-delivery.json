@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "continuously-serving-the-oss-community-with-continuous-integration-and-delivery",
+  "speakers": [
+    "Fernando Alves"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Continuously serving the OSS community with Continuous Integration and Delivery",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41a/sala41a-high-201405101706.ogv"
+    }
+  ]
+}

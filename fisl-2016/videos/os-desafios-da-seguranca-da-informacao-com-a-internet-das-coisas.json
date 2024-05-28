@@ -1,0 +1,23 @@
+{
+  "description": "A \u201cInternet das Coisas\u201d (IoT) tem causado grandes transforma\u00e7\u00f5es no cotidiano das empresas e das pessoas. Por\u00e9m, isso tamb\u00e9m significa que mais informa\u00e7\u00f5es pessoais e de neg\u00f3cios ser\u00e3o passadas na nuvem e, com isso, surgem novos riscos de seguran\u00e7a e tipos de ataques. Com tantas empresas visando o futuro dos seus neg\u00f3cios e apostando nas vantagens que o mundo da IoT promete, precisamos capacitar equipes e profissionais para criar redes de IoT mais seguras.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "os-desafios-da-seguranca-da-informacao-com-a-internet-das-coisas",
+  "speakers": [
+    "Gilberto Sudre"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Internet das Coisas"
+  ],
+  "title": "Os desafios da Seguran\u00e7a da Informa\u00e7\u00e3o com a \u2018Internet das Coisas\u2019",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41b/sala41b-high-201607141300.ogv"
+    }
+  ]
+}

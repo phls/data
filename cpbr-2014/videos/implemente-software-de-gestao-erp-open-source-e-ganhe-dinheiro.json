@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Empres\u00e1rios, profissionais e empreendedores debatem o mercado de Software com foco em gest\u00e3o das empresas utilizando software livre no Brasil, suas experi\u00eancias, expectativas e oportunidades de neg\u00f3cio. A din\u00e2mica deste painel \u00e9 interagir com o p\u00fablico presente, tirando d\u00favidas de como \u00e9 poss\u00edvel ganhar dinheiro implementando OpenERP. Se voc\u00ea tem interesse no desenvolvimento e implementa\u00e7\u00e3o de software de gest\u00e3o empresarial, este painel \u00e9 uma oportunidade de ouvir experi\u00eancias de pessoas que trabalham com pr\u00e1ticas de gerenciamento de equipes e projetos de ERP e aprender sobre processos e metodologia, al\u00e9m de conhecer uma plataforma de classe mundial utilizada para gest\u00e3o de empresas. Sistema Integrado de Gest\u00e3o Empresarial, em ingl\u00eas Enterprise Resource Planning (ERP), sistemas de informa\u00e7\u00e3o que integram todos os dados e processos de uma organiza\u00e7\u00e3o em um \u00fanico sistema. A integra\u00e7\u00e3o pode ser vista sob a perspectiva funcional (finan\u00e7as, contabilidade, recursos humanos, fabrica\u00e7\u00e3o, marketing, vendas, compras, sistemas de informa\u00e7\u00f5es gerenciais, sistemas de apoio a decis\u00e3o, etc).",
+  "duration": 1925,
+  "id": 97,
+  "language": "por",
+  "recorded": "2014-01-31",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-implemente-software-de-gestaoerp-open-source-e-ganhe-dinheiro",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-implemente-software-de-gestao-erp-open-source-e-ganhe-dinheiro"
+  ],
+  "slug": "implemente-software-de-gestao-erp-open-source-e-ganhe-dinheiro",
+  "speakers": [
+    "Marcelo Ferri Machado",
+    "Neimar Padua Rampazo"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "OpenERP",
+    "ERP"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/implemente-software-de-gestao-erp-open-source-e-ganhe-dinheiro.jpg",
+  "title": "Implemente Software de Gest\u00e3o (ERP) Open Source e ganhe dinheiro",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Dbrdo1Tn_y0"
+    },
+    {
+      "size": 233130953,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-implemente-software-de-gestao-erp-open-source-e-ganhe-dinheiro.ogv"
+    },
+    {
+      "size": 68348005,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-implemente-software-de-gestao-erp-open-source-e-ganhe-dinheiro.webm"
+    }
+  ]
+}

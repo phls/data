@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "ferramentas-livres-para-auditoria-de-seguranca-em-redes-sem-fio",
+  "speakers": [
+    "Rafael Soares Ferreira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Seguran\u00e7a"
+  ],
+  "title": "Ferramentas Livres para Auditoria de Seguran\u00e7a em Redes sem Fio",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41e/sala41e-high-201207271155.ogg"
+    }
+  ]
+}

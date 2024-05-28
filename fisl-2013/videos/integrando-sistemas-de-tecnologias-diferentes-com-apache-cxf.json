@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "integrando-sistemas-de-tecnologias-diferentes-com-apache-cxf",
+  "speakers": [
+    "Madson Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Openweb"
+  ],
+  "title": "Integrando sistemas de tecnologias diferentes com Apache CXF",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307041158.ogg"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Um novo mundo de possibilidades tecnol\u00f3gicas est\u00e1 surgindo com a Internet das Coisas, e praticamente tudo o est\u00e1 sendo constru\u00eddo tem como base projetos de c\u00f3digo aberto. Iremos apresentar alguns projetos Open Source de destaque, que est\u00e3o ajudando desenvolvedores no mundo todo a construir este novo mundo.",
+  "duration": 3427,
+  "id": 138,
+  "language": "por",
+  "recorded": "2015-02-05",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-o-papel-do-codigo-aberto-na-internet-das-coisas",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/o-papel-do-codigo-aberto-na-internet-das-coisas-cpbr8"
+  ],
+  "slug": "o-papel-do-codigo-aberto-na-internet-das-coisas",
+  "speakers": [
+    "Jomar Silva"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "C\u00f3digo aberto",
+    "Intel",
+    "IoT",
+    "Internet das coisas"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/o-papel-do-codigo-aberto-na-internet-das-coisas.jpg",
+  "title": "O papel do c\u00f3digo aberto na Internet das Coisas",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=a2Qia7AtAWI"
+    },
+    {
+      "size": 374403500,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-o-papel-do-codigo-aberto-na-internet-das-coisas.ogv"
+    },
+    {
+      "size": 140478209,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-o-papel-do-codigo-aberto-na-internet-das-coisas.webm"
+    }
+  ]
+}

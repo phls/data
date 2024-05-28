@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "10-tips-on-developing-and-deploying-large-scale-systems",
+  "speakers": [
+    "Fernanda Weiden"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "10 tips on developing and deploying large scale systems",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/40t/sala40t-high-201405071400.ogv"
+    }
+  ]
+}

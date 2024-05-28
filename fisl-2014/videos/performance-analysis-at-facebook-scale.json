@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "performance-analysis-at-facebook-scale",
+  "speakers": [
+    "Marlon Feij\u00f3 Dutra"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Administra\u00e7\u00e3o de Sistemas e VoIP"
+  ],
+  "title": "Performance analysis at Facebook scale",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/40t/sala40t-high-201405091001.ogv"
+    }
+  ]
+}

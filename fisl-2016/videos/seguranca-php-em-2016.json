@@ -1,0 +1,23 @@
+{
+  "description": "O mercado de Seguran\u00e7a PHP tem passado por importantes mudan\u00e7as em virtude de novas funcionalidades introduzidas na vers\u00e3o 7 da linguagem, bem como outros fatores, e portanto o que era considerado correto h\u00e1 1-2 anos hoje j\u00e1 \u00e9 discut\u00edvel ou mesmo comprovadamente inadequado. Descubra todas as novas quest\u00f5es de serguran\u00e7a para aplica\u00e7\u00f5es PHP e como isso vai impactar a sua aplica\u00e7\u00e3o.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "seguranca-php-em-2016",
+  "speakers": [
+    "Er Galv\u00e3o Abbott"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "Seguran\u00e7a PHP em 2016",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41b/sala41b-high-201607131000.ogv"
+    }
+  ]
+}

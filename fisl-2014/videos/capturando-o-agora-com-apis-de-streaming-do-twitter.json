@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "capturando-o-agora-com-apis-de-streaming-do-twitter",
+  "speakers": [
+    "Luis Cipriani"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ger\u00eancia de Conte\u00fado"
+  ],
+  "title": "Capturando o agora com APIs de Streaming do Twitter",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405091106.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "security-in-the-field-of-digital-whistleblowing",
+  "speakers": [
+    "Daniel Domscheit-Berg"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Seguran\u00e7a"
+  ],
+  "title": "Security in the field of digital whistleblowing",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40t/sala40t-high-201107021200.ogv"
+    }
+  ]
+}

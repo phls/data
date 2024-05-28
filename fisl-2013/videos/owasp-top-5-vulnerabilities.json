@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "owasp-top-5-vulnerabilities",
+  "speakers": [
+    "Luis Fernando Laimer"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "OWASP TOP 5 Vulnerabilities (*)",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307031859.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Nesta palestra ser\u00e1 demonstrado como \u00e9 poss\u00edvel utilizar toda a maquinaria de extensibilidade do PostgreSQL para criar um bot para o Telegram, utilizando Foreign Data Wrappers, Background Workers, JSON, Python e, claro, PostgreSQL.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "se-meu-elefante-falasse",
+  "speakers": [
+    "Dickson S. Guedes"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "PGDay POA"
+  ],
+  "title": "Se meu Elefante falasse...",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41e/sala41e-high-201607141359.ogv"
+    }
+  ]
+}

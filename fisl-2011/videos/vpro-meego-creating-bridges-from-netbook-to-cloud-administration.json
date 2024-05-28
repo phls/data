@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "vpro-meego-creating-bridges-from-netbook-to-cloud-administration",
+  "speakers": [
+    "Jos\u00e9 Damico"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "MeeGo Day"
+  ],
+  "title": "vPro & Meego: Creating bridges from netbook to Cloud Administration",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41b/sala41b-high-201106291311.ogv"
+    }
+  ]
+}

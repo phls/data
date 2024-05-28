@@ -1,0 +1,23 @@
+{
+  "description": "Uma das principais tarefas desempenhadas por cientistas e pesquisadores em geral relaciona-se com o fluxo de trabalho para a confec\u00e7\u00e3o de artigos cient\u00edficos. As etapas abarcadas por esse fluxo, independente de que \u00e1rea seja, concentram-se em 3 pontos: a leitura de artigos e revis\u00e3o da literatura; o gerenciamento de refer\u00eancias; e a escrita de documentos acad\u00eamicos. O KDE tem alguns softwares importantes para essas tarefas, com especial destaque para tr\u00eas: o leitor universal de documentos, Okular; o gerenciador de refer\u00eancias, KBibTex; e o editor de arquivos LaTeX, Kile. Essa palestra apresentar\u00e1 esses softwares em profundidade, mostrando tanto usos mais simples quanto avan\u00e7ados, bem como funcionalidades pouco conhecidas do p\u00fablico em geral.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "okular-kbibtex-e-kile-escrevendo-ciencia-com-o-kde",
+  "speakers": [
+    "Filipe Saraiva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Aplica\u00e7\u00f5es Desktop"
+  ],
+  "title": "Okular, KBibTex e Kile - Escrevendo Ci\u00eancia com o KDE",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41c/sala_41c-high-201507081922.ogv"
+    }
+  ]
+}

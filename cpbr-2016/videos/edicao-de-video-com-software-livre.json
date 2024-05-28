@@ -1,0 +1,36 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Nunca produzimos tanto v\u00eddeo quanto nos dias de hoje. Produtoras de v\u00eddeo, jornalistas, ativistas, youtubers e artistas dependem muito de softwares propriet\u00e1rios caros e restritivos para produzir seu conte\u00fado. Esta atividade pretende mostrar alternativas livres e gratuitas para editar v\u00eddeos com qualidade. O b\u00e1sico e o passo a passo da edi\u00e7\u00e3o de v\u00eddeo com software livre para quem nunca editou e para quem editou a vida inteira.",
+  "duration": 3795,
+  "id": 213,
+  "language": "por",
+  "recorded": "2016-01-28",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/workshop/edicao-de-video-com-software-livre"
+  ],
+  "slug": "edicao-de-video-com-software-livre",
+  "speakers": [
+    "Gabriel Galli Arevalo"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Oficina",
+    "KDEnline"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/edicao-de-video-com-software-livre.jpg",
+  "title": "Edi\u00e7\u00e3o de v\u00eddeo com Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/AT8x0MQ8ofU?t=55m"
+    },
+    {
+      "size": 1170760430,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-edicao-de-video-com-software-livre.ogv"
+    }
+  ]
+}

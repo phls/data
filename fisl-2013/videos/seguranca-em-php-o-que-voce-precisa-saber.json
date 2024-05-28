@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "seguranca-em-php-o-que-voce-precisa-saber",
+  "speakers": [
+    "Jota Vicente Romualdo J\u00fanior"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "PHP e Java"
+  ],
+  "title": "Seguran\u00e7a em PHP: O que voc\u00ea precisa saber",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41e/sala41e-high-201307041504.ogg"
+    }
+  ]
+}

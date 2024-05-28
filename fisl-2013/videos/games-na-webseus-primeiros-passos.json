@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "games-na-webseus-primeiros-passos",
+  "speakers": [
+    "Carla Juliana Biesdorf",
+    "Diones de Vargas Dutra"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Streaming"
+  ],
+  "title": "Games na web:Seus primeiros passos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307041201.ogg"
+    }
+  ]
+}

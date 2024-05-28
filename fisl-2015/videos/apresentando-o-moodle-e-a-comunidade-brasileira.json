@@ -1,0 +1,23 @@
+{
+  "description": "Apresentar o LMS (Learning Management System) Moodle,\nsuas principais caracter\u00edsticas e funcionalidades,\napresentar a comunidade BRasileira que mant\u00e9m os f\u00f3runs,\ntraduz e revisa as tradu\u00e7\u00f5es para portugu\u00eas do brasil,\ne organiza os encontros presenciais anuais atrav\u00e9s do site\nwww.moodlebrasil.org , que tamb\u00e9m \u00e9 uma instala\u00e7\u00e3o de Moodle",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "apresentando-o-moodle-e-a-comunidade-brasileira",
+  "speakers": [
+    "Daniel Neis Araujo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Principal"
+  ],
+  "title": "Apresentando o Moodle e a comunidade brasileira",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507111000.ogv"
+    }
+  ]
+}

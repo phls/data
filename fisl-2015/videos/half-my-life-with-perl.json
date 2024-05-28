@@ -1,0 +1,27 @@
+{
+  "description": "Twenty-five years of Perl. And I\u2019m a tiny bit over 50. Having been there, at the beginning with Perl, I will recount the early days through the modern era (or as much as I can cover in 40 minutes). I\u2019ll deliver first-hand experience of the creation of the Camel Book, the Llama book, and the way I invaded comp.unix.questions with Perl 2 answers so often that people would post \u201cno Perl please\u201d. Oh, and my version of the story of the Schwartzian Transform. I\u2019ll also give my views about the current and future Perl, and what Perl 6 means to the community and to me as a professional.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "half-my-life-with-perl",
+  "speakers": [
+    "Randal L. Schwartz"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "Half my life with Perl",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507081402.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507081448.ogv"
+    }
+  ]
+}

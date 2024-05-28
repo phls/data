@@ -1,0 +1,23 @@
+{
+  "description": "Pra onde vai a Web Sem\u00e2ntica? (mas tamb\u00e9m da onde veio e pra que serve) A Web Sem\u00e2ntica serve pra muita coisa que pouca gente sabe. Mais do que uma ferramenta para melhorar o ranking de um site nas ferramentas de busca, ela serve tamb\u00e9m para customizar experi\u00eancia e ajudar browsers a conversarem entre si atrav\u00e9s de m\u00e1quinas sem a ajuda de humanos (\u00e9 isso mesmo!) - nessa palestra voc\u00ea vai entender porque, como, quando e onde voc\u00ea deve usar ferramentas da Web que conversa com as m\u00e1quinas!",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "com-licenca-voce-teria-um-minutinho-para-ouvir-sobre-a-palavra-da-poderosa-web",
+  "speakers": [
+    "Yasodara Cordova"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Com licen\u00e7a, voc\u00ea teria um minutinho para ouvir sobre a palavra da poderosa Web",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41a/sala_41a-high-201507081601.ogv"
+    }
+  ]
+}

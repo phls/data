@@ -1,0 +1,47 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A coragem de Snowden em revelar que a Internet n\u00e3o \u00e9 vista como um bem p\u00fablico abriu nossos olhos. Um exemplo claro \u00e9 a espionagem e uso de dados dos nossos emails para fins de domina\u00e7\u00e3o pol\u00edtica, econ\u00f4mica e cultural. Nossos emails est\u00e3o em servidores centralizados, armazenados em texto plano, facilmente forj\u00e1veis e trafegam na rede, na maioria das vezes, sem utilizar transporte seguro. Assim fica f\u00e1cil pra NSA, n\u00e3o? Nesta palestra vamos explorar as falhas atuais da infraestrutura de email e apresentar solu\u00e7\u00f5es baseadas em descentraliza\u00e7\u00e3o e criptografia (PGP - Pretty Good Privacy) que podem nos ajudar a resolver o problema da vigil\u00e2ncia em massa que Snowden nos apresentou. Tamb\u00e9m iremos apresentar alguns projetos de c\u00f3digo aberto que tentam solucionar os problemas apresentados e dar dicas de como voc\u00ea pode contribuir.",
+  "duration": 3128,
+  "id": 123,
+  "language": "por",
+  "recorded": "2015-02-07",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-a-melhor-privacidade-de-e-mail-possivel-para-uma-internet-quebrada",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/a-melhor-privacidade-de-e-mail-possivel-para-uma-internet-quebrada-cpbr8"
+  ],
+  "slug": "a-melhor-privacidade-de-email-possivel-para-uma-internet-quebrada",
+  "speakers": [
+    "Louren\u00e7o Piuma Soares",
+    "Robson Duda Dornelles"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "E-mail",
+    "NSA",
+    "Espionagem",
+    "Privacidade",
+    "Criptografia",
+    "PGP"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/a-melhor-privacidade-de-email-possivel-para-uma-internet-quebrada.jpg",
+  "title": "A melhor privacidade de e-mail poss\u00edvel para uma internet quebrada",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Mz6Xr0_ShGE"
+    },
+    {
+      "size": 323250101,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-a-melhor-privacidade-de-email-possivel-para-uma-internet-quebrada.ogv"
+    },
+    {
+      "size": 114200195,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-a-melhor-privacidade-de-email-possivel-para-uma-internet-quebrada.webm"
+    }
+  ]
+}

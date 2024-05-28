@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Cansado do modelo padr\u00e3o de aulas em sala de aula? Ent\u00e3o imagine um software livre e pluridisciplinar que oferece uma nova abordagem permitindo hor\u00e1rios flex\u00edveis, aulas presenciais ou \u00e0 distancia e que podem acontecer quando voc\u00ea quiser. Utilizando o conceito de blended learning, o Projeto Amadeus foi desenvolvido com tecnologias da web 2.0 e AJAX e est\u00e1 integrado a diversas plataformas como desktop, celulares, PDAs e TV Digital, por exemplo.",
+  "duration": 3086,
+  "id": 39,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "related_urls": [
+    "https://campuse.ro/events/campus-party-recife-2012/talk/projeto-amadeus-sistema-de-gestao-da-aprendizagem-segunda-geracao",
+    "http://slcampusparty.com.br/blog/projeto-amadeus"
+  ],
+  "slug": "projeto-amadeus-sistema-de-gestao-da-aprendizagem",
+  "speakers": [
+    "Marcello Ramalho de Mello",
+    "Thiago de Sousa Araujo"
+  ],
+  "tags": [
+    "CPRecife1",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "blended learning",
+    "EaD"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/projeto-amadeus-sistema-de-gestao-da-aprendizagem.jpg",
+  "title": "Projeto Amadeus - sistema de gest\u00e3o da aprendizagem: segunda gera\u00e7\u00e3o",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=XzXy84UWt7c"
+    },
+    {
+      "size": 516560410,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife1-2012/cprecife1-2012-projeto-amadeus-sistema-de-gestao-da-aprendizagem.ogv"
+    },
+    {
+      "size": 136287159,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife1-2012/cprecife1-2012-projeto-amadeus-sistema-de-gestao-da-aprendizagem.webm"
+    }
+  ]
+}

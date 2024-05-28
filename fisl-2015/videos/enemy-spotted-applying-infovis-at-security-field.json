@@ -1,0 +1,23 @@
+{
+  "description": "\u00c9 ineg\u00e1vel o aumento de preocupa\u00e7\u00e3o com a \u00e1rea de seguran\u00e7a de redes e informa\u00e7\u00e3o, assim como o n\u00famero de ferramentas dispon\u00edveis para atacar e defender: Nmap, Nikto, Metasploit, (H|N)IPS, IDS, Firewall,s exploits e CVE's. Todos os dias, s\u00e3o geradas mais e mais informa\u00e7\u00f5es relativas \u00e0 seguran\u00e7a e que o correto entendimento s\u00e3o vitais para sobreviv\u00eancia e manuten\u00e7\u00e3o do ambiente. Monitorar e analisar essa grande quantidade de dados \u00e9 um desafio. A palestra mostrar\u00e1 como a utiliza\u00e7\u00e3o de t\u00e9cnicas de visualiza\u00e7\u00e3o para reunir esses dados e traduzi-los em informa\u00e7\u00f5es gr\u00e1ficas relevantes que nos auxiliam na tomada de decis\u00f5es para atacar ou responder a poss\u00edveis amea\u00e7as.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "enemy-spotted-applying-infovis-at-security-field",
+  "speakers": [
+    "Felipe Afonso Esp\u00f3sito"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Seguran\u00e7a"
+  ],
+  "title": "\"Enemy spotted - Applying infovis at security field\"",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507081704.ogv"
+    }
+  ]
+}

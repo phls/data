@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "running-your-java-ee-applications-in-the-cloud",
+  "speakers": [
+    "Arun Gupta"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "PHP e Java"
+  ],
+  "title": "Running your Java EE applications in the Cloud",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201107021500.ogv"
+    }
+  ]
+}

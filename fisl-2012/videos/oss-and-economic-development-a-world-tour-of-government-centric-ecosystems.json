@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "oss-and-economic-development-a-world-tour-of-government-centric-ecosystems",
+  "speakers": [
+    "Deborah Bryant"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "OSS and Economic Development: A World Tour of Government-Centric Ecosystems",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40t/sala40t-high-201207261412.ogg"
+    }
+  ]
+}

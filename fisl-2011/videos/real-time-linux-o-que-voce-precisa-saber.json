@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "real-time-linux-o-que-voce-precisa-saber",
+  "speakers": [
+    "Daniel Bristot de Oliveira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Kernel, Sistemas de Arquivos e Sistemas Operacionais"
+  ],
+  "title": "Real Time Linux: O que voc\u00ea precisa saber",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41e/sala41e-201106291510.ogv"
+    }
+  ]
+}

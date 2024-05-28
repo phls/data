@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "projeto-butia-exemplo-de-mecanica-hardware-y-software-livre",
+  "speakers": [
+    "Federico Andrade"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Projeto Buti\u00e1: exemplo de mec\u00e0nica, hardware y software livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41e/sala41e-high-201207281121.ogg"
+    }
+  ]
+}

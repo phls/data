@@ -1,0 +1,23 @@
+{
+  "description": "Depois de v\u00e1rios anos sem nenhuma mudan\u00e7a no protocolo HTTP, finalmente v\u00e1rias melhorias surgiram dando origem a nova vers\u00e3o do protocolo,  o HTTP2. Conhe\u00e7a quais as melhorias foram implementadas no procolo, como as solicita\u00e7\u00f5es funcionam, como est\u00e1 o suporte ao protocolo e como implementar ele em seu site ou aplica\u00e7\u00e3o para poder usar e abusar de seus novos recursos que melhoram desde a a velocidade de resposta a seguran\u00e7a dos dados transportados.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "http2",
+  "speakers": [
+    "Nelson Dutra Junior"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Mozilla"
+  ],
+  "title": "HTTP2?!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607141645.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Sistemas de log* est\u00e3o nos blocos b\u00e1sicos de essencialmente qualquer aplica\u00e7\u00e3o moderna: bases de dados, sistemas de arquivo, dentre outros. Apesar disso, poucos conhecem ou compreendem as possibilidades e o poder do uso desses sistemas. Nessa palestra ser\u00e3o apresentados os conceitos b\u00e1sico de sistemas de log, casos de uso, e uma demonstra\u00e7\u00e3o do Apache Kafka, um sistema de mensagens publish/subscribe desenvolvido como um sistema de log distribu\u00eddo. Para a demonstra\u00e7\u00e3o, ser\u00e1 apresentado um sistema de sincroniza\u00e7\u00e3o de pasta utilizando o Apache Kafka e o Swift (OpenStack). O c\u00f3digo de demonstra\u00e7\u00e3o encontra-se dispon\u00edvel em https://bitbucket.org/pedroarthur/kafkabox.\n\n* N\u00e3o confundir com arquivos de log",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "apache-kafka-uma-introducao-a-logs-distribuidos",
+  "speakers": [
+    "Pedro Arthur Pinheiro Rosa Duarte"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Apache Kafka: uma introdu\u00e7\u00e3o a logs distribu\u00eddos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41c/sala41c-high-201607140859.ogv"
+    }
+  ]
+}

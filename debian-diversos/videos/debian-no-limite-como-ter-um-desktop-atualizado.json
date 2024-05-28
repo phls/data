@@ -1,0 +1,35 @@
+{
+  "copyright_text": "CC BY",
+  "description": "",
+  "duration": 2848,
+  "id": 227,
+  "language": "por",
+  "recorded": "2012-07-25",
+  "related_urls": [
+    "https://pt.slideshare.net/filhocf/debian-no-limitecomoterumdesktopatualizado"
+  ],
+  "slug": "debian-no-limite-como-ter-um-desktop-atualizado",
+  "speakers": [
+    "Claudio Ferreira Filho"
+  ],
+  "tags": [
+    "FISL",
+    "F\u00f3rum Internacional Software Livre",
+    "FISL13",
+    "Debian",
+    "Porto Alegre"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/debian-no-limite-como-ter-um-desktop-atualizado.jpg",
+  "title": "Debian no limite! Como ter um desktop atualizado",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=2c6E3AKW_pM"
+    },
+    {
+      "size": 120660233,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41d/sala41d-high-201207250956.ogg"
+    }
+  ]
+}

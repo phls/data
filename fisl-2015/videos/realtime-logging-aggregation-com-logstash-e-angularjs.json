@@ -1,0 +1,24 @@
+{
+  "description": "O tratamento adequado de logs gerados por um software \u00e9 algo de extrema importancia, provendo a visibilidade necess\u00e1ria sobre o comportamento do mesmo. Apesar disto, nem todos levam a s\u00e9rio uma abordagem bem elaborada para o tratamento de suas informa\u00e7\u00f5es. Em ambientes distribuidos, a correla\u00e7\u00e3o entre eventos se torna um desafio ainda maior, visto que os registros das informa\u00e7\u00f5es est\u00e3o espalhados por uma s\u00e9rie de equipamentos. Desta forma, esta apresenta\u00e7\u00e3o tem como objetivo apresentar uma arquitetura que possibilite a agrega\u00e7\u00e3o e processamento de logs em realtime a partir de ferramentas como Scribe, Logstash e Elasticsearch. A id\u00e9ia principal \u00e9 demonstrar aos participantes a maneira ideal para combina\u00e7\u00e3o de ferramentas para coleta (Scribe), processamento(Logstash e Elasticsearch) e visualiza\u00e7\u00e3o dos dados (Kibana e AngularJS). Ser\u00e1 demonstrado uma aplica\u00e7\u00e3o Java que utiliza o framework Log4j para gera\u00e7\u00e3o de eventos e com o Scribe iremos demonstrar a coleta e centraliza\u00e7\u00e3o destes, fornecendo ao Logstash as informa\u00e7\u00f5es necess\u00e1rias para serem processadas e indexadas no Elasticsearch. Com os dados indexados, faremos uso da ferramenta Kibana, para cria\u00e7\u00e3o de dashboards customizaveis, uma boa maneira de gerar valor ao neg\u00f3cio. Al\u00e9m disso, ser\u00e1 apresentado como \u00e9 possivel desenvolver sua pr\u00f3pria interface web utilizando o framework AngularJS atrav\u00e9s de uma API fornecida pelo Elasticsearch.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "realtime-logging-aggregation-com-logstash-e-angularjs",
+  "speakers": [
+    "Em\u00edlio Carvalho Dias",
+    "Cesar William Alvarenga"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Realtime Logging Aggregation com Logstash e AngularJS",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507091859.ogv"
+    }
+  ]
+}

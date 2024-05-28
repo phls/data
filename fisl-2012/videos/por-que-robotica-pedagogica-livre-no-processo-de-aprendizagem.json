@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "por-que-robotica-pedagogica-livre-no-processo-de-aprendizagem",
+  "speakers": [
+    "Danilo Rodrigues Cesar"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Hardware, Sistemas Embarcados e Rob\u00f3tica"
+  ],
+  "title": " Por que Rob\u00f3tica Pedag\u00f3gica Livre no Processo de Aprendizagem?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41e/sala41e-high-201207281704.ogg"
+    }
+  ]
+}

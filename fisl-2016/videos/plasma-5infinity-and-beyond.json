@@ -1,0 +1,23 @@
+{
+  "description": "In this talk I will discuss the latest developments of Plasma 5.7, the changes developments and new features. I will then talk about and showcase some of the immediate upcoming plans and  visions for the upcoming releases of Plasma and our general direction. Finally we'll look at the evolving goals and challenges of not just Plasma but the Linux desktop world in general. What keeps up still relevevant? How is the market changing? What will be the impact of Wayland and sandboxing technology on desktop shells?",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "plasma-5infinity-and-beyond",
+  "speakers": [
+    "David Edmundson"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Aplica\u00e7\u00f5es Desktop"
+  ],
+  "title": "Plasma 5:Infinity and Beyond",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41a/sala41a-high-201607131200.ogv"
+    }
+  ]
+}

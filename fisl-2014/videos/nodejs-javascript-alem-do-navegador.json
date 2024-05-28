@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "nodejs-javascript-alem-do-navegador",
+  "speakers": [
+    "Romulo Santos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Outras linguagens"
+  ],
+  "title": "Node.js - Javascript al\u00e9m do navegador",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405081305.ogv"
+    }
+  ]
+}

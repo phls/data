@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "infraestrutura-livre-redes-de-data-center-compartilhado",
+  "speakers": [
+    "Davis Victor Feitosa de Oliveira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "Infraestrutura Livre: Redes de Data Center compartilhado.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41c/sala41c-high-201405071006.ogv"
+    }
+  ]
+}

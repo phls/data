@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "firefox-para-android-passado-presente-e-futuro",
+  "speakers": [
+    "Lucas Rocha"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Organiza\u00e7\u00e3o"
+  ],
+  "title": "Firefox para Android: Passado, Presente e Futuro",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307051102.ogg"
+    }
+  ]
+}

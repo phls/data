@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O inotify (inode notify) faz parte do Linux e \u00e9 respons\u00e1vel por fazer o kernel observar os filesystems em opera\u00e7\u00e3o, avisando aos programas sobre altera\u00e7\u00f5es ocorridas. Um exemplo disso \u00e9 quando copiamos um arquivo via shell e o mesmo \u00e9 mostrado, imediatamente, em um programa gr\u00e1fico de gerenciamento de arquivos, como o Dolphin (KDE) ou o Nautilus (Gnome). Esse programa gr\u00e1fico sempre ser\u00e1 avisado sobre essas altera\u00e7\u00f5es, em tempo real, pelo Kernel Linux (a\u00e7\u00e3o do inotify). Assim como os arquivos, diret\u00f3rios tamb\u00e9m poder\u00e3o ser monitorados. Nesta palestras, ser\u00e3o mostrados v\u00e1rios programas e t\u00e9cnicas baseados em inotify. Assim, algumas opera\u00e7\u00f5es de administra\u00e7\u00e3o de sistemas e de seguran\u00e7a de rede que poder\u00e3o ser realizadas. S\u00e3o exemplos: observa\u00e7\u00e3o de invas\u00f5es em redes de computadores, obtendo alertas em tempo real, criando-se algo em torno de um elemento verificador de integridade; backup instant\u00e2neo de arquivos, sempre que os mesmos forem alterados; remo\u00e7\u00e3o de dumps de bancos de dados, imediatamente ap\u00f3s o backup para um servidor espec\u00edfico; cria\u00e7\u00e3o de um sistema de DHCP prim\u00e1rio e secund\u00e1rio, similar ao que ocorre com o DNS.",
+  "duration": 3529,
+  "id": 59,
+  "language": "por",
+  "recorded": "2015-07-25",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-recife-2015/talk/inotify-observando-arquivos-decisoes-seguranca-tempo-real"
+  ],
+  "slug": "inotify-observando-e-tomando-decisoes-de-seguranca-em-tempo-real",
+  "speakers": [
+    "Jo\u00e3o Eriberto Mota Filho"
+  ],
+  "tags": [
+    "CPRecife4",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "inotify",
+    "inode notify"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/inotify-observando-e-tomando-decisoes-de-seguranca-em-tempo-real.jpg",
+  "title": "Inotify: observando seus arquivos e tomando decis\u00f5es de seguran\u00e7a em tempo real.",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=vbigbb4-Q9Q"
+    },
+    {
+      "size": 517512627,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife4-2015/cprecife4-2015-inotify-observando-e-tomando-decisoes-de-seguranca-em-tempo-real.ogv"
+    },
+    {
+      "size": 218590954,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife4-2015/cprecife4-2015-inotify-observando-e-tomando-decisoes-de-seguranca-em-tempo-real.webm"
+    }
+  ]
+}

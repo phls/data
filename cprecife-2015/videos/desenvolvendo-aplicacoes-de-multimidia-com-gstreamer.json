@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "GStreamer \u00e9 um framework multim\u00eddia usado por v\u00e1rias aplica\u00e7\u00f5es de \u00e1udio e v\u00eddeo. Seu sistema de plugins permite desenvolver aplica\u00e7\u00f5es de forma simples e flex\u00edvel. Nessa palestra irei mostrar os conceitos b\u00e1sicos do framework e como prototipar e desenvolver aplica\u00e7\u00f5es multim\u00eddia usando GStreamer e Python.",
+  "duration": 3148,
+  "id": 58,
+  "language": "por",
+  "recorded": "2015-07-24",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-recife-2015/talk/desenvolvendo-aplicacoes-de-multimidia-com-gstreamer"
+  ],
+  "slug": "desenvolvendo-aplicacoes-de-multimidia-com-gstreamer",
+  "speakers": [
+    "Luciana Fujii Pontello"
+  ],
+  "tags": [
+    "CPRecife4",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "GStreamer",
+    "Python"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/desenvolvendo-aplicacoes-de-multimidia-com-gstreamer.jpg",
+  "title": "Desenvolvendo aplica\u00e7\u00f5es de multim\u00eddia com GStreamer",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=OcAiW_Mpgnk"
+    },
+    {
+      "size": 220381116,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife4-2015/cprecife4-2015-desenvolvendo-aplicacoes-de-multimidia-com-gstreamer.ogv"
+    },
+    {
+      "size": 225051304,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife4-2015/cprecife4-2015-desenvolvendo-aplicacoes-de-multimidia-com-gstreamer.webm"
+    }
+  ]
+}

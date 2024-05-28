@@ -1,0 +1,27 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-25",
+  "slug": "da-pra-ganhar-dinheiro-com-software-livre-sim",
+  "speakers": [
+    "Andr\u00e9 Gugliotti",
+    "Cesar Brod",
+    "Rainer Otto Wilhelm Kr\u00fcger",
+    "Amador Pahim",
+    "Luiz Henrique Rauber Rodrigues"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "D\u00e1 pra ganhar dinheiro com Software Livre? Sim!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41c/sala41c-high-201207251704.ogg"
+    }
+  ]
+}

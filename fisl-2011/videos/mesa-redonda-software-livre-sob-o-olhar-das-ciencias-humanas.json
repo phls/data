@@ -1,0 +1,27 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "mesa-redonda-software-livre-sob-o-olhar-das-ciencias-humanas",
+  "speakers": [
+    "Yuri Takhteyev",
+    "Luis Felipe Rosado Murillo",
+    "Luiz Carlos Pinto",
+    "Vicente Aguiar",
+    "Rafael Evangelista"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Mesa redonda: Software livre sob o olhar das ci\u00eancias humanas",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41c/sala41c-high-201107011701.ogv"
+    }
+  ]
+}

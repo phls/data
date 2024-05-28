@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O Brasil \u00e9 o pais onde mais se comemorou o Debian Day no mundo, no entanto o n\u00famero de cidades participantes tem ca\u00eddo nos \u00faltimos anos. Este ano tamb\u00e9m teremos o lan\u00e7amento da nova vers\u00e3o do Debian e est\u00e1 ser\u00e1 uma ocasi\u00e3o de celebrar. Vamos conversar sobre a organiza\u00e7\u00e3o de eventos Debian para o ano de 2017.",
+  "duration": 3422,
+  "id": 72,
+  "language": "por",
+  "recorded": "2017-03-18",
+  "related_urls": [
+    "http://br2017.mini.debconf.org"
+  ],
+  "slug": "eventos-debian-brasil-em-2017",
+  "speakers": [
+    "Daniel Lenharo de Souza",
+    "Giovani Augusto Ferreira",
+    "Paulo Henrique de Lima Santana"
+  ],
+  "tags": [
+    "Debian",
+    "MiniDebConf",
+    "MiniDebConf Curitiba",
+    "MiniDebConf Curitiba 2017",
+    "Universidade Tecnol\u00f3gica Federal do Paran\u00e1",
+    "UTFPR",
+    "Curitiba",
+    "Painel",
+    "Debian Day",
+    "Dia do Debian",
+    "Release Party",
+    "Eventos"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/minidebconf_curitiba_2017_eventos_debian_brasil_em_2017.jpg",
+  "title": "Painel: Eventos Debian Brasil em 2017",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Z0k43vUishs"
+    },
+    {
+      "size": 53.534282,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/minidebconf-curitiba-2017/minidebconf_curitiba_2017_eventos_debian_brasil_em_2017.webm"
+    }
+  ]
+}

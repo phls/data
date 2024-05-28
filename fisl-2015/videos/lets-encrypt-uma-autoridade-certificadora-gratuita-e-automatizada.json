@@ -1,0 +1,23 @@
+{
+  "description": "Nesse ano, uma autoridade certificadora gratuita e automatizada abrir\u00e1 para emitir milh\u00f5es de certificados. Os certificados poder\u00e3o ser instalados em servidores de forma autom\u00e1tica em menos de um minuto, e todos os navegadores principais os aceitar\u00e3o desde o primeiro dia.\n\nO uso da criptografia pelos websites e outros servi\u00e7os de Internet \u00e9 indispens\u00e1vel para a privacidade e a seguran\u00e7a numa rede que, como aprendemos, \u00e9 cada vez menos confi\u00e1vel. Essa AC deve ajudar a superar os \u00faltimos obst\u00e1culos financeiros e log\u00edsticos e tornar poss\u00edvel o uso ub\u00edquo do protocolo HTTPS.\n\nA AC, conhecida como Let's Encrypt, \u00e9 um projeto do Internet Security Research Group com base nas contribui\u00e7\u00f5es t\u00e9cnicas da Electronic Frontier Foundation, da Mozilla e da Universidade de Michigan.\n\nEssa palestra examinar\u00e1 o funcionamento da AC Let's Encrypt, o nosso protocolo ACME para pedir e emitir certificados, e o cliente livre que pode automatizar esse processo. Demonstrarei a experi\u00eancia de obter um certificado (n\u00e3o durma no ponto!). Tamb\u00e9m falarei sobre quem est\u00e1 apoiando o projeto e as medidas para evitar a emiss\u00e3o indevida de certificados. Naturalmente, voc\u00ea pode ajudar a testar e aperfei\u00e7oar o servi\u00e7o.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "lets-encrypt-uma-autoridade-certificadora-gratuita-e-automatizada",
+  "speakers": [
+    "Seth Schoen"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Seguran\u00e7a"
+  ],
+  "title": "Let's Encrypt: Uma Autoridade Certificadora Gratuita e Automatizada",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507081757.ogv"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "description": "a definir.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "conteudos-audivisuais-digitais-convergencia-e-software-livre",
+  "speakers": [
+    "Cosette Castro",
+    "Cristiana Freitas",
+    "Alvaro Benevenutto Jr."
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Neg\u00f3cios, Migra\u00e7\u00f5es e Casos"
+  ],
+  "title": "Conte\u00fados audivisuais digitais, converg\u00eancia e software livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41a/sala_41a-high-201507111003.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41a/sala_41a-high-201507111006.ogv"
+    }
+  ]
+}

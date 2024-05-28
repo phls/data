@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "i-dont-want-to-miss-a-thing-where-is-the-memory-going",
+  "speakers": [
+    "Rafael Aquini"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Kernel, Sistemas de Arquivos e Sistemas Operacionais"
+  ],
+  "title": "I don't want to miss a thing... where is the memory going?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41a/sala41a-high-201405090903.ogv"
+    }
+  ]
+}

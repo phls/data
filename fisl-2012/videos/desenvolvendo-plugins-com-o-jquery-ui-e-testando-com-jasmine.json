@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "desenvolvendo-plugins-com-o-jquery-ui-e-testando-com-jasmine",
+  "speakers": [
+    "Alexandre Magno Teles Zimerer"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Desenvolvendo plugins com o jQuery UI e testando com Jasmine",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41f/sala41f-high-201207260958.ogg"
+    }
+  ]
+}

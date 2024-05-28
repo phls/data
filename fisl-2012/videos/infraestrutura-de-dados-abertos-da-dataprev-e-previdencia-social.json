@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "infraestrutura-de-dados-abertos-da-dataprev-e-previdencia-social",
+  "speakers": [
+    "Leonardo Cezar"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Infraestrutura de dados abertos da Dataprev e Previd\u00eancia Social",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41b/sala41b-high-201207271600.ogg"
+    }
+  ]
+}

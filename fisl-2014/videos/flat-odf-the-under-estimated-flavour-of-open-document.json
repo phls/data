@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "flat-odf-the-under-estimated-flavour-of-open-document",
+  "speakers": [
+    "Fridrich Strba"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ger\u00eancia de Conte\u00fado"
+  ],
+  "title": "Flat ODF: the under-estimated flavour of Open Document",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41a/sala41a-high-201405071700.ogv"
+    }
+  ]
+}

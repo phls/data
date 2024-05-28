@@ -1,0 +1,24 @@
+{
+  "description": "Conhe\u00e7a a experi\u00eancia que a equipe de correio eletr\u00f4nico da CAIXA vem ganhando com a ado\u00e7\u00e3o da solu\u00e7\u00e3o Elastic. Atrav\u00e9s do Elastic a equipe conseguiu ter visibilidade do tr\u00e1fego de mensagens identificando anomalias e uso indevido do canal, bem como volumetria. Al\u00e9m disso com o Elastic eles obtiveram atrav\u00e9s de dashboards e gr\u00e1ficos, dados estat\u00edsticos de tr\u00e1fego, tamanho de mensagens, envio, recebimento, mensagens n\u00e3o enviadas e analise mensagens relevantes ou n\u00e3o ao neg\u00f3cio da caixa. A solu\u00e7\u00e3o Elastic permitiu que a equipe de correio pudesse correlacionar problemas e atuar de forma conjunta com fornecedores e parceiros da CAIXA.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "inteligencia-operacional-utilizando-a-solucao-elastic",
+  "speakers": [
+    "Ronaldo Pacheco Wanzeller",
+    "Rodrigo Tornis"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Administra\u00e7\u00e3o de Sistemas"
+  ],
+  "title": "Intelig\u00eancia Operacional utilizando a solu\u00e7\u00e3o Elastic",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507091902.ogv"
+    }
+  ]
+}

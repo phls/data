@@ -1,0 +1,23 @@
+{
+  "description": "Ser\u00e1 demonstrado como estruturar e desenvolver uma arquitetura de servi\u00e7os distribu\u00edda para realizar comunica\u00e7\u00e3o entre m\u00e1quinas (Machine-to-machine) sem interfer\u00eancia humana utilizando 0MQ. O objetivo \u00e9 esclarecer um pouco sobre M2M e aplica\u00e7\u00f5es distribu\u00eddas, olhando para o cen\u00e1rio de Internet das coisas que est\u00e1 crescendo cada vez mais. Durante a palestra ser\u00e1 demonstrado alguns dispositivos eletr\u00f4nicos (Arduino (Uno/Mega/Lillypad), Intel Galileo) que est\u00e3o presentes nesse cen\u00e1rio para desenvolver solu\u00e7\u00f5es inteligentes conectadas a internet.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "m2m-a-revolucao-ja-comecou",
+  "speakers": [
+    "Jos\u00e9 Wilker"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "M2M - A revolu\u00e7\u00e3o j\u00e1 come\u00e7ou",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507111600.ogv"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "metamaquina-2-os-desafios-do-projeto-de-uma-impressora-3d-livre-brasileira",
+  "speakers": [
+    "Felipe Corr\u00eaa da Silva Sanches",
+    "Rodrigo Rodrigues da Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "Hardware Livre",
+    "FISL",
+    "FISL14",
+    "Hackerspaces",
+    "Garoa Hacker Clube",
+    "Hardware",
+    "Modelagem 3D",
+    "Corte a Laser",
+    "CNC",
+    "Impress\u00e3o 3D",
+    "OpenSCAD",
+    "Repetier",
+    "Pronterface",
+    "Metam\u00e1quina",
+    "Firmware",
+    "Fabrica\u00e7\u00e3o Digital",
+    "Eletr\u00f4nica",
+    "Ind\u00fastria",
+    "Empresas",
+    "Empreendimentos",
+    "Neg\u00f3cios",
+    "Catarse",
+    "Crowdfunding"
+  ],
+  "title": "Metam\u00e1quina 2: os desafios do projeto de uma impressora 3D livre brasileira",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41e/sala41e-high-201307031007.ogg"
+    }
+  ]
+}

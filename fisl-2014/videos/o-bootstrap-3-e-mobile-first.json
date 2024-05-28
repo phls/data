@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "o-bootstrap-3-e-mobile-first",
+  "speakers": [
+    "Alexandre Magno Teles Zimerer"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "O Bootstrap 3 \u00e9 Mobile First",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405071501.ogv"
+    }
+  ]
+}

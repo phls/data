@@ -1,0 +1,23 @@
+{
+  "description": "Nessa palestra ser\u00e1 apontado conceitos sobre integra\u00e7\u00e3o continua e como aplicar eles no conceito de Drupal. Ser\u00e1 apresentada algumas ferramenta utilizadas para fazer integra\u00e7\u00e3o continua como GIT e Jenkins. Al\u00e9m disso ser\u00e1 proposto uma estrutura de pastas padr\u00e3o para projetos Drupal al\u00e9m da gest\u00e3o de dependencia de bibliotecas de terceiros. Pasarei brevemente sobre conceitos de DEVOPS e mostrar algumas ferramentas utilizadas no contexto de Drupal",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "continuous-integration-with-drupal",
+  "speakers": [
+    "Guilherme Lopes"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "DrupalCamp POA"
+  ],
+  "title": "Continuous Integration with Drupal",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607151439.ogv"
+    }
+  ]
+}

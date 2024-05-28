@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "choreos-large-scale-choreographies-for-the-future-internet",
+  "speakers": [
+    "Carlos Eduardo M. Santos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Buzzwords"
+  ],
+  "title": "CHOReOS - Large Scale Choreographies for the Future Internet",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307031501.ogg"
+    }
+  ]
+}

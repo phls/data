@@ -1,0 +1,23 @@
+{
+  "description": "Nos dias de hoje, aplica\u00e7\u00f5es web deixaram de ser acessadas  exclusivamente atrav\u00e9s de notebooks e computadores, passando a ter in\u00fameros acessos atrav\u00e9s de dispositivos m\u00f3veis como tablets e smartphones. Nesse cen\u00e1rio, um dos grandes desafios para os desenvolvedores \u00e9 como implementar uma solu\u00e7\u00e3o que consiga oferecer o que de melhor cada dispositivo oferece, em termos de recursos e usabilidade, sem ter que aumentar a complexidade do desenvolvimento replicando o c\u00f3digo em solu\u00e7\u00f5es espec\u00edficas para cada plataforma.\n\nNessa palestra irei compartilhar as experi\u00eancias vividas e estrat\u00e9gias adotadas na Globo.com na migra\u00e7\u00e3o de portais web para aplica\u00e7\u00f5es web multi-plataforma. Mostrarei como recursos de linguagens conhecidas, como HTML5, JavaScript e CSS3, tem nos auxiliado na constru\u00e7\u00e3o de um \u00fanico c\u00f3digo para ser acessado em qualquer dispositivo explorando o que de melhor cada plataforma oferece. Compartilharei, tamb\u00e9m, como temos utilizado Responsive Design, RESS (Responsive design with server side components) e Mobile First como apoio nessa nossa caminhada.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "aplicacoes-web-multi-plataforma-um-unico-codigo-diversas-experiencias",
+  "speakers": [
+    "Alexandre Magno Teles Zimerer"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Aplica\u00e7\u00f5es WEB multi-plataforma: um \u00fanico c\u00f3digo, diversas experi\u00eancias",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41c/sala_41c-high-201507091157.ogv"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Os participantes deste painel ir\u00e3o discutir qual a filosofia do movimento Software Livre, mas n\u00e3o do ponto apenas t\u00e9cnico do c\u00f3digo aberto, mas sim de uma vis\u00e3o mais human\u00edstica para transformar a sociedade. Atualmente grande parte dos entusiastas do uso do sistema operacional GNU/Linux est\u00e3o preocupados apenas com os benef\u00edcios t\u00e9cnicos sem se preocupar com os benef\u00edcios maiores de se usar software livre e por isso muitas vezes n\u00e3o se preocupam em usar mesmo dentro do sistema operacional GNU/Linux softwares fechados. Venha discutir qual a import\u00e2ncia de se usar de verdade apenas softwares livres no seu computador.",
+  "duration": 2430,
+  "id": 227,
+  "language": "por",
+  "recorded": "2016-01-28",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/talk/painel-o-movimento-software-livre-como-agente-transformador-da-sociedade-cpbr9"
+  ],
+  "slug": "o-movimento-software-livre-como-agente-transformador-da-sociedade",
+  "speakers": [
+    "Alexandre Oliva",
+    "Daniel Lenharo de Souza",
+    "Paulo Henrique de Lima Santana",
+    "Thiago Faria Mendon\u00e7a"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "FSF",
+    "FSFLA",
+    "Free Software Foundation",
+    "GNU",
+    "Liberdade",
+    "GNU/Linux",
+    "Filosofia"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/o-movimento-software-livre-como-agente-transformador-da-sociedade.jpg",
+  "title": "Painel: O movimento software livre como agente transformador da sociedade",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/JQOzRhagKb0?t=6h6m"
+    },
+    {
+      "size": 604666171,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-o-movimento-software-livre-como-agente-transformador-da-sociedade.ogv"
+    }
+  ]
+}

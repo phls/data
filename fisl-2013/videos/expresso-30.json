@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "expresso-30",
+  "speakers": [
+    "Marcos Martins Mello"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Sistemas gerenciais"
+  ],
+  "title": "Expresso 3.0",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41e/sala41e-high-201307041701.ogg"
+    }
+  ]
+}

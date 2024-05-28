@@ -1,0 +1,36 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Muitas vezes, administradores de redes n\u00e3o dominam conceitos sobre protocolos e terminam por trabalhar no escuro, tentando adivinhar as causas dos problemas. A palestra mostrar\u00e1 conceitos pontuais sobre os protocolos IP e explicar\u00e1 como a ferramenta tcpdump poder\u00e1 ser utilizada para fazer an\u00e1lises detalhadas na rede, apontando, de forma f\u00e1cil, os problemas nela existentes. Ainda, ser\u00e3o mostradas algumas ferramentas auxiliares, como o wireshark, o ping e o mtr.",
+  "duration": 2330,
+  "id": 207,
+  "language": "por",
+  "recorded": "2016-01-29",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/workshop/analise-de-trafego-em-redes-tcpip-com-tcpdump"
+  ],
+  "slug": "analise-de-trafego-em-redes-tcpip-com-tcpdump",
+  "speakers": [
+    "Jo\u00e3o Eriberto Mota Filho"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Oficina",
+    "TCP/IP"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/analise-de-trafego-em-redes-tcpip-com-tcpdump.jpg",
+  "title": "An\u00e1lise de tr\u00e1fego em redes TCP/IP com tcpdump",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/cb8VQeFF9OU?t=11h16m10s"
+    },
+    {
+      "size": 960610881,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-analise-de-trafego-em-redes-tcpip-com-tcpdump.ogv"
+    }
+  ]
+}

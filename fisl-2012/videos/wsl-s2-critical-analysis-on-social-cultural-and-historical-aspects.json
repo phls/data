@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "wsl-s2-critical-analysis-on-social-cultural-and-historical-aspects",
+  "speakers": [
+    "Andre Constantino da Silva",
+    "Ver\u00f3nica Xhardez",
+    "Gregorio Robles"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "WSL"
+  ],
+  "title": "WSL (S2): Critical analysis on social, cultural, and historical aspects",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40a/sala40a-high-201207261512.ogg"
+    }
+  ]
+}

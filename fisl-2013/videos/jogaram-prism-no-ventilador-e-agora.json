@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "jogaram-prism-no-ventilador-e-agora",
+  "speakers": [
+    "Anahuac de Paula Gil"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Buzzwords"
+  ],
+  "title": "Jogaram PRISM no ventilador, e agora?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41a/sala41a-high-201307041159.ogg"
+    }
+  ]
+}

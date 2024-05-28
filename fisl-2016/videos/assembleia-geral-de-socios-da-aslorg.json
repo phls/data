@@ -1,0 +1,23 @@
+{
+  "description": "Assembleia Geral de s\u00f3cios e novos s\u00f3cios da ASL.Org.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-16",
+  "slug": "assembleia-geral-de-socios-da-aslorg",
+  "speakers": [
+    "Associados da ASL"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "ASL"
+  ],
+  "title": "Assembleia Geral de s\u00f3cios da ASL.Org",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607160900.ogv"
+    }
+  ]
+}

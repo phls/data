@@ -1,0 +1,23 @@
+{
+  "description": "Venha conhecer o Holmes, o detetive que vai mudar sua forma de desenvolver websites. Apresentaremos ainda desafios no desenvolvimento de aplica\u00e7\u00f5es altamente concorrentes, bibliotecas que nos auxiliaram e como instalar essa ferramenta open source.\n\nO desafio com o Holmes foi grande, pois testar sa\u00fade e SEO das propriedades da Globo.com envolveu analisar mais de 50 milh\u00f5es de p\u00e1ginas. Apresentaremos o caso de sucesso do produto que est\u00e1 sendo usado pelas equipes da Globo para mapear problemas nos produtos antes dos usu\u00e1rios ou do Google.\n\nApresentaremos tamb\u00e9m algumas bibliotecas (Sheep, Octopus e MaterialGirl) que foram cruciais para paralelizar esse processamento \u2013 bibliotecas que est\u00e3o dispon\u00edveis para uso de todos com licen\u00e7a livre.\n\nAl\u00e9m disso ser\u00e1 feito um breve hands-on de como instalar e rodar o Holmes para processar os seus pr\u00f3prios sites.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "sherlock-holmes-e-o-misterio-das-50-milhoes-de-paginas",
+  "speakers": [
+    "Marcelo Jorge Vieira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "Sherlock Holmes e o mist\u00e9rio das 50 milh\u00f5es de p\u00e1ginas",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41a/sala_41a-high-201507100959.ogv"
+    }
+  ]
+}

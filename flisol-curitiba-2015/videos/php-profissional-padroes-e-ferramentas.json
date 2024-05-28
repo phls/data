@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A palestra gira em torno do desenvolvimento de software em PHP focado em facilidade de manuten\u00e7\u00e3o. Quanto menos erros se produzir e quanto mais rapidamente se encontrarem os erros existentes, menos custosa ser\u00e1 a manuten\u00e7\u00e3o do produto e mais tempo se ter\u00e1 para melhorias e implementa\u00e7\u00f5es de novas funcionalidades. Ser\u00e1 apresentado um ambiente de desenvolvimento com Zend Eclipse PDT para editar, debugar e testar PHP, integrado com GIT para o controle de vers\u00f5es.",
+  "duration": 3294,
+  "id": 248,
+  "language": "por",
+  "recorded": "2015-04-25",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2015-curitiba"
+  ],
+  "slug": "php-profissional-padroes-e-ferramentas",
+  "speakers": [
+    "Fl\u00e1vio Gomes da Silva Lisboa"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2015",
+    "Curitiba",
+    "Software Livre",
+    "PHP",
+    "Linguagem de programa\u00e7\u00e3o",
+    "Zend"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2015-php-profissional-padroes-e-ferramentas.jpg",
+  "title": "PHP profissional - padr\u00f5es e ferramentas",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=bnxHbDbTAd0"
+    },
+    {
+      "size": 422079746,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-php-profissional-padroes-e-ferramentas.ogv"
+    },
+    {
+      "size": 154107857,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-php-profissional-padroes-e-ferramentas.webm"
+    }
+  ]
+}

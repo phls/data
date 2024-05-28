@@ -1,0 +1,23 @@
+{
+  "description": "En esta conferencia se muestra como desde el nacimiento y hasta la actualidad la existencia de una comunidad de tecnologias libres ha influido positivamente en la difucion y el uso de tecnologias libres en un pais como Cuba, el cual ha sufrido de restricciones tecnologicas y acceso a Internet. Bancos de conocimientos, repositorios de aplicaciones distribuidos y otros ejemplos de soluciones ante la falta de conectividad y acceso a la red de redes. \n\nhttp://gutl.jovenclub.cu\nhttp://www.pyunconf.de/en/2015/keynote-speaker-cuba-keynote-speaker-pablo-mestre/\nhttp://www.php-unconference.de/2015/09/11/keynote-speaker-from-cuba-pablo-mestre-drake/",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "software-libre-en-cuba-retos-y-logros-de-la-comunidad",
+  "speakers": [
+    "Pablo Mestre Drake"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Cultura, Filosofia, e Pol\u00edtica"
+  ],
+  "title": "Software Libre en Cuba. Retos y logros de la comunidad",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41a/sala41a-high-201607151559.ogv"
+    }
+  ]
+}

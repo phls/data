@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "openstack-gt-cloud-computing-at-your-fingertips",
+  "speakers": [
+    "Luan Cestari"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Openstack =&gt; Cloud computing at your fingertips!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41a/sala41a-high-201405101305.ogv"
+    }
+  ]
+}

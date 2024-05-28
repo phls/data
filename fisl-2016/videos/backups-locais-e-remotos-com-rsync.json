@@ -1,0 +1,23 @@
+{
+  "description": "Esta atividade tem como objetivo demonstrar os conceitos b\u00e1sicos de utiliza\u00e7\u00e3o do RSync aplicando-os em situa\u00e7\u00f5es de backups locais e remotos.\nDurante a atividade ser\u00e1 tratada uma implementa\u00e7\u00e3o de backup atrav\u00e9s de um script bash e o agendamento de execu\u00e7\u00e3o do mesmo na crontab do sistema.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-16",
+  "slug": "backups-locais-e-remotos-com-rsync",
+  "speakers": [
+    "Thiago Faria Mendon\u00e7a"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Administra\u00e7\u00e3o de Sistemas"
+  ],
+  "title": "Backups locais e remotos com RSync",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41e/sala41e-high-201607161404.ogv"
+    }
+  ]
+}

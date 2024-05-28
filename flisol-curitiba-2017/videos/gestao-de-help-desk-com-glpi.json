@@ -1,0 +1,36 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Gest\u00e3o de help desk com GLPI",
+  "duration": 3155,
+  "id": 234,
+  "language": "por",
+  "recorded": "2017-04-08",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2017-curitiba"
+  ],
+  "slug": "gestao-de-help-desk-com-glpi",
+  "speakers": [
+    "Rafaela Raganham"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2017",
+    "Curitiba",
+    "Software Livre",
+    "GLPI",
+    "Help desk"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2017-gestao-de-help-desk-com-glpi.jpg",
+  "title": "Gest\u00e3o de help desk com GLPI",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=xpK1jNf8_OI"
+    },
+    {
+      "size": 711559604,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2017/flisol-curitiba-2017-gestao-de-help-desk-com-glpi.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "montando-um-pdc-com-raspberry-pi-e-samba4",
+  "speakers": [
+    "Luis Augusto Dias Knob"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Sistemas de Arquivos e Sistemas Operacionais"
+  ],
+  "title": "Montando um PDC com Raspberry Pi e Samba4",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307051400.ogg"
+    }
+  ]
+}

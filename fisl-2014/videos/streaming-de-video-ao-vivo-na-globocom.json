@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "streaming-de-video-ao-vivo-na-globocom",
+  "speakers": [
+    "Juarez Bochi"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Streaming de V\u00eddeo ao Vivo na globo.com",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405091100.ogv"
+    }
+  ]
+}

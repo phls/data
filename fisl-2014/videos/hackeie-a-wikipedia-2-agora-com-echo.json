@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "hackeie-a-wikipedia-2-agora-com-echo",
+  "speakers": [
+    "Henrique Andrade"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Hackaton"
+  ],
+  "title": "Hackeie a Wikip\u00e9dia 2 - Agora com Echo!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41a/sala41a-high-201405081205.ogv"
+    }
+  ]
+}

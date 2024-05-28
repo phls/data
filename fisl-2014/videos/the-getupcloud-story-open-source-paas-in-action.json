@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "the-getupcloud-story-open-source-paas-in-action",
+  "speakers": [
+    "Diane Carol Mueller"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "The GetUpCloud Story: Open Source PaaS in Action",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/40t/sala40t-high-201405071200.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "ReactJS \u00e9 uma biblioteca JavaScript para a cria\u00e7\u00e3o de interfaces de usu\u00e1rio com foco principal no desempenho. Flux \u00e9 uma arquitetura de aplicativo, que trabalha muito bem com o ReactJS. Ambos s\u00e3o utilizados pelo Facebook em produ\u00e7\u00e3o.\nNa palestra vamos mergulhar em ambos, abordar hist\u00f3ria, conceitos, funcionalidades e dar alguns exemplos pr\u00e1ticos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "criando-aplicacoes-web-com-reactjs-e-flux",
+  "speakers": [
+    "Raphael Amorim"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "Criando aplica\u00e7\u00f5es web com ReactJS e Flux",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507111459.ogv"
+    }
+  ]
+}

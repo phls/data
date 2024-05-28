@@ -1,0 +1,31 @@
+{
+  "description": "O uso de frameworks multiplataformas no desenvolvimento de aplicativos mobile \u00e9 muito \u00fatil porque te economiza tempo, j\u00e1 que voc\u00ea n\u00e3o vai precisar escrever programas do zero para cada um dos sistemas operacionais. \n\nO Cordova j\u00e1 \u00e9 muito utilizado com sucesso atrav\u00e9s o PhoneGap. No entanto, aplicativos feitos com PhoneGap, muitas das vezes tendem a ficar com o c\u00f3digo desorganizado e dif\u00edcil de ser compreendido. Outro problema grave era a necessidade de usar bibliotecas JavaScript pesadas, como jQuery, para facilitar o desenvolvimento, prejudicando muito a performance do aplicativo.\n\nO Ionic acaba com esses problemas.\n\nAl\u00e9m de contar com todas as vantagens do Cordova que j\u00e1 estavam presentes no PhoneGap, o Ionic resolve tanto a falta de organiza\u00e7\u00e3o do c\u00f3digo quanto os problemas de performance com AngularJS e Sass.\n\nE \u00e9 muito f\u00e1cil come\u00e7ar a desenvolver aplicativos para celular com Ionic. Tudo o que voc\u00ea precisa saber \u00e9 HTML, CSS e JavaScript, ou seja, se voc\u00ea j\u00e1 fez algum site, est\u00e1 mais do que preparado para fazer seus apps mobile. N\u00e3o se preocupe porque AngularJS voc\u00ea aprende no caminho! O Ionic foi desenvolvido para ser simples e divertido de aprender e criar com ele.\n\nO objetivo dessa palestra \u00e9 mostrar do que o Ionic \u00e9 capaz, apresentando exemplos de aplicativos feitos com ele e ensinando como dar os primeiros passos. Al\u00e9m de desmistificar a ideia de que aplicativos mobile multiplataforma s\u00e3o lentos, mostrando as vantagens de se utilizar um framework h\u00edbrido ao inv\u00e9s de partir logo para o desenvolvimento nativo.\n\nObs: a equipe de desenvolvimento est\u00e1 prometendo ainda para esse ano Push Notifications para o Ionic. N\u00e3o estava dispon\u00edvel at\u00e9 o envio dessa proposta, mas sendo liberado at\u00e9 a data do FISL, certamente ser\u00e1 um assunto abordado, com muita felicidade, na palestra.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "ionic-elevando-o-nivel-do-seu-app-multiplataforma-com-cordova-angularjs-e-sass",
+  "speakers": [
+    "Diego Moreira Guimar\u00e3es"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Ionic: Elevando o n\u00edvel do seu app multiplataforma com Cordova, AngularJS e Sass",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507091555.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507091559.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507091649.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Saiba o que sua torradeira tem a dizer, com seguran\u00e7a e privacidade. Conhe\u00e7a o projeto open source que implementa o conceito Business-to-Peer (B2P) para troca de mensagens criptografadas, onde de um lado encontram-se os sites Internet e aplica\u00e7\u00f5es de todos os tamanhos, e do outro lado encontram-se seus usu\u00e1rios e dispositivos. Por se tratar de um modelo de comunica\u00e7\u00e3o bidirecional em protocolo aberto, o projeto promove a participa\u00e7\u00e3o da Comunidade no desenvolvimento de novas interfaces para quaisquer outros tipos de dispositivos conectados \u00e0 Internet por meio de redes dom\u00e9sticas ou corporativas, seja para intera\u00e7\u00e3o pessoal, monitora\u00e7\u00e3o e controle de processos, ou simplesmente para trocar confid\u00eancias com o aspirador de p\u00f3.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "comunicacao-criptografada-para-a-internet-das-coisas",
+  "speakers": [
+    "Ricardo Camargo Barioni"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Internet das Coisas"
+  ],
+  "title": "Comunica\u00e7\u00e3o criptografada para a Internet das coisas",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41e/sala41e-high-201607141100.ogv"
+    }
+  ]
+}

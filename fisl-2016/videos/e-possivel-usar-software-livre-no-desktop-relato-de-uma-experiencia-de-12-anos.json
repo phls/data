@@ -1,0 +1,23 @@
+{
+  "description": "O Servi\u00e7o Federal de Processamento de Dados iniciou em 2004 um projeto para adotar Software Livre nas esta\u00e7\u00f5es de trabalho. Esse projeto evolui no per\u00edodo e hoje a empresa p\u00fablica possui 7682 esta\u00e7\u00f5es de trabalho exclusivamente com Gnu/Linux. A palestra vai abordar desde o in\u00edcio do processo, do projeto inicial de migra\u00e7\u00e3o, dos erros e acertos no processo. Far\u00e1 ainda uma avalia\u00e7\u00e3o do estado atual da implementa\u00e7\u00e3o, problemas que ainda precisam ser superados e principalmente as vantagens obtidas pela empresa nos 12 anos de uso de software livre em esta\u00e7\u00f5es de trabalho.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "e-possivel-usar-software-livre-no-desktop-relato-de-uma-experiencia-de-12-anos",
+  "speakers": [
+    "Deivi Lopes Kuhn"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Aplica\u00e7\u00f5es Desktop"
+  ],
+  "title": "\u00c9 poss\u00edvel usar Software Livre no Desktop? Relato de uma experi\u00eancia de 12 anos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41a/sala41a-high-201607151203.ogv"
+    }
+  ]
+}

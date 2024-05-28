@@ -1,0 +1,23 @@
+{
+  "description": "J\u00e1 se ouve de integra\u00e7\u00e3o cont\u00ednua antes mesmo de 2000. Desde que se consolidou, muita coisa evoluiu. Temos git, github, \u00f3timas ferramentas para teste - seja unit\u00e1rio, seja de aceita\u00e7\u00e3o - e novas preocupa\u00e7\u00f5es: dissemina\u00e7\u00e3o do conhecimento e colabora\u00e7\u00e3o entre o time. \n\nNeste talk vou falar sobre Integra\u00e7\u00e3o Discreta, que nada mais \u00e9 do que a Integra\u00e7\u00e3o Cont\u00ednua numa \u00f3ptica \u00e1gil, com ferramentas mais recentes e incorporando a pr\u00e1tica do code review desde cedo. Vou explicar como uma mudan\u00e7a simples (mas importante) no seu fluxo de desenvolvimento vai permitir que voc\u00ea e seu time melhorem ainda mais em:\n\n- Collaborative ownership (o projeto \u00e9 responsabilidade de todos);\n- Dissemina\u00e7\u00e3o de conhecimento; Elimina\u00e7\u00e3o de silos de conhecimento (\"apenas o Fulano faz front-end\");\n- Recep\u00e7\u00e3o de novos membros ao projeto;\n- Mudan\u00e7as arquiteturais \u00e1geis, sem atrapalhar o fluxo de novas entregas.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "integracao-discreta-como-o-modelo-open-source-melhora-a-integracao-continua",
+  "speakers": [
+    "Gustavo Dutra"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Integra\u00e7\u00e3o Discreta: como o modelo Open Source melhora a Integra\u00e7\u00e3o Cont\u00ednua",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507111501.ogv"
+    }
+  ]
+}

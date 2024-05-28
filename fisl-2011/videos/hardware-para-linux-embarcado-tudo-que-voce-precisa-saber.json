@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "hardware-para-linux-embarcado-tudo-que-voce-precisa-saber",
+  "speakers": [
+    "Daniel Bristot de Oliveira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Hardware, Sistemas Embarcados e Rob\u00f3tica"
+  ],
+  "title": "Hardware para Linux embarcado: tudo que voc\u00ea precisa saber!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41d/sala41d-high-201107010859.ogv"
+    }
+  ]
+}

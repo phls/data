@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "software-livre-no-serpro",
+  "speakers": [
+    "Marcos Mazoni"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Software Livre no Serpro",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41f/sala41f-high-201207271859.ogg"
+    }
+  ]
+}

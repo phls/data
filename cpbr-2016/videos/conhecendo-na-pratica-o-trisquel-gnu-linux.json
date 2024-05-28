@@ -1,0 +1,39 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Ser\u00e1 apresentada de forma pr\u00e1tica as principais funcionalidades do Trisquel GNU/Linux onde abordarei passos para: Cria\u00e7\u00e3o da livre-us; Diferentes flavors do sistema; Principais aplica\u00e7\u00f5es embarcadas no sistema; Como manter o sistema atualizado; Como instalar o sistema; Problemas comuns e solu\u00e7\u00f5es comuns. Terminando a atividade com um momento para tirar as d\u00favidas dos participantes. Como a atividade pede que uma live-usb seja criada, estarei me propondo a fornecer 50 unidades USB de 2Gb para a atividade, que ser\u00e3o doados ao fim da mesma aos participantes. Caso haja mais do que 50 participantes na atividade, os mesmos dever\u00e3o levar uma unidade USB pr\u00f3pria para o preparo da live-usb na hora, sob demanda.",
+  "duration": 3392,
+  "id": 209,
+  "language": "por",
+  "recorded": "2016-01-27",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/workshop/conhecendo-na-pratica-o-trisquel-gnulinux"
+  ],
+  "slug": "conhecendo-na-pratica-o-trisquel-gnu-linux",
+  "speakers": [
+    "Thiago Faria Mendon\u00e7a"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Oficina",
+    "Trisquel",
+    "GNU/Linux",
+    "Distribui\u00e7ao",
+    "live-usb"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/conhecendo-na-pratica-o-trisquel-gnu-linux.jpg",
+  "title": "Conhecendo na pr\u00e1tica o Trisquel GNU/Linux",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/woM6rSXc08Y?t=8h1m"
+    },
+    {
+      "size": 808673980,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-conhecendo-na-pratica-o-trisquel-gnu-linux.ogv"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Women & Mozilla (WoMoz) \u00e9 uma comunidade composta de membros de diversos projetos de software livre que dedicam-se principalmente a aumentar o envolvimento e a visibilidade de mulheres nesses projetos, em especial na Mozilla, e em aumentar o n\u00famero de contribuidoras. Tecnologia deve ser aberta, livre e acess\u00edvel da mesma forma para homens e mulheres. O projeto \u00e9 um exemplo de como promover e dar visibilidade as minorias. Qualquer pessoa pode participar do WoMoz, n\u00e3o importa o g\u00eanero, orienta\u00e7\u00e3o sexual, trabalho, etc. N\u00f3s acreditamos que o software livre precisa de mais mulheres! :) Contribua conosco! :)",
+  "duration": 1664,
+  "id": 202,
+  "language": "por",
+  "recorded": "2015-02-06",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-women-amp-mozilla-conheca-o-womoz-e-saiba-como-envolver-se",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/women-mozilla-conheca-o-womoz-e-saiba-como-envolver-se-cpbr8"
+  ],
+  "slug": "womam-e-mozilla-conheca-o-womoz-e-saiba-como-envolver-se",
+  "speakers": [
+    "Melissa Devens"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Mozilla",
+    "WoMoz",
+    "Mulheres",
+    "G\u00eanero",
+    "Inclus\u00e3o",
+    "Feminismo"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/womam-e-mozilla-conheca-o-womoz-e-saiba-como-envolver-se.jpg",
+  "title": "Women & Mozilla - Conhe\u00e7a o WoMoz e saiba como envolver-se",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=K6O4VBJDZdY"
+    },
+    {
+      "size": 190753144,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-womam-e-mozilla-conheca-o-womoz-e-saiba-como-envolver-se.ogv"
+    },
+    {
+      "size": 70335115,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-womam-e-mozilla-conheca-o-womoz-e-saiba-como-envolver-se.webm"
+    }
+  ]
+}

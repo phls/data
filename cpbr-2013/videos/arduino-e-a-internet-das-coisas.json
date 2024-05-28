@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Esta palestra apresenta o microcontrolador Arduino, hardware e software livre de grande sucesso, e como ele pode ser utilizado em v\u00e1rios cen\u00e1rios do tema Internet das Coisas. T\u00f3picos abordados na apresenta\u00e7\u00e3o: aAduino - hw e sw livre! como programar o Arduino; sensores e atuadores; Internet das Coisas; casos de uso Arduino e IoT: medicina, ve\u00edculos, automa\u00e7\u00e3o residencial; demonstra\u00e7\u00e3o pr\u00e1tica com Arduino, recebendo dados de sensores, atuando sobre sistemas e se comunicando com a internet.",
+  "duration": 1236,
+  "id": 55,
+  "language": "por",
+  "recorded": "2013-02-02",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/arduino-e-a-internet-das-coisas"
+  ],
+  "slug": "arduino-e-a-internet-das-coisas",
+  "speakers": [
+    "Hugo Cesar Crohare Lavalle"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Arduino",
+    "IoT",
+    "Internet das Coisas"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/arduino-e-a-internet-das-coisas.jpg",
+  "title": "Arduino e a Internet das Coisas",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=x7NGgJevnNk"
+    },
+    {
+      "size": 112966558,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-arduino-e-a-internet-das-coisas.ogv"
+    },
+    {
+      "size": 35357357,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-arduino-e-a-internet-das-coisas.webm"
+    }
+  ]
+}

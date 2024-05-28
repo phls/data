@@ -1,0 +1,23 @@
+{
+  "description": "Log data provides critical insights into software systems. However, in the age of ubiquitous computing, unifying logs from hundreds of data sources with different data formats presents a big challenge. Fluentd is an open source data collector that solves this problem by providing a unified logging layer with pluggable and reliable architecture. In this presentation, I will talk about different use cases including mobile backend systems for logging and automotive sensor data collection and discuss how we can collect data from these sources in a maintainable, scalable manner, focusing on cloud-based backend systems.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "unifying-events-and-log-into-the-cloud-with-open-source-software",
+  "speakers": [
+    "Eduardo Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Cloud Computing"
+  ],
+  "title": "Unifying Events and Log into the Cloud with Open Source Software",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507101104.ogv"
+    }
+  ]
+}

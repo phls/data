@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "novo-expresso30-arquitetura-orientada-a-servicos-com-zend-e-extjs",
+  "speakers": [
+    "C\u00e9sar Vianna",
+    "Marcos Martins Mello"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Novo Expresso30, Arquitetura Orientada a Servi\u00e7os com Zend e ExtJs;",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41e/sala41e-high-201207271559.ogg"
+    }
+  ]
+}

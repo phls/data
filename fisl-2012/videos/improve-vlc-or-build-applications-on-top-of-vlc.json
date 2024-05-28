@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "improve-vlc-or-build-applications-on-top-of-vlc",
+  "speakers": [
+    "Jean-Baptiste Kempf"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Improve VLC or build applications on top of VLC",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40t/sala40t-high-201207271704.ogg"
+    }
+  ]
+}

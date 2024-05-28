@@ -1,0 +1,39 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Outro grande CMS cheio de funcionalidades para qualquer ramo de neg\u00f3cios. Desde um site institucional, passando pelas intranets e chegando ao e-commerce. Portais de universidades com \u00e1reas restritas, sal\u00f5es de beleza e restaurantes com agendamento online (via celular tamb\u00e9m), redes sociais iguais as que usamos hoje em dia... tudo isso no Joomla. R\u00e1pido e f\u00e1cil de configurar e o melhor: sem a necessidade de ser um grande programador. Gratuito, r\u00e1pido e f\u00e1cil de customizar: trip\u00e9 perfeito para come\u00e7ar a criar seus sites. No workshop iremos demostrar como instalar e customizar um site institucional em minutos. Todas as etapas t\u00e9cnicas de como configurar seu primeiro site. Saia do workshop com conhecimento para come\u00e7ar seu projeto.",
+  "duration": 6693,
+  "id": 218,
+  "language": "por",
+  "recorded": "2016-01-29",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/workshop/quer-construir-um-site-rapido-e-gratuito-com-o-joomla"
+  ],
+  "slug": "quer-construir-um-site-rapido-e-gratuito-com-o-joomla",
+  "speakers": [
+    "Kazuo Gomi Filho",
+    "Lucas Kazuo Goes Gomi"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Oficina",
+    "CMS",
+    "Joomla",
+    "Crian\u00e7a"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/quer-construir-um-site-rapido-e-gratuito-com-o-joomla.jpg",
+  "title": "Quer construir um site r\u00e1pido e gratuito com o Joomla?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/cb8VQeFF9OU?t=7h49m"
+    },
+    {
+      "size": 1995580720,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-quer-construir-um-site-rapido-e-gratuito-com-o-joomla.ogv"
+    }
+  ]
+}

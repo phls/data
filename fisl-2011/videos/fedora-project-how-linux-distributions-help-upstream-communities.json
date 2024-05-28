@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "fedora-project-how-linux-distributions-help-upstream-communities",
+  "speakers": [
+    "Jared K. Smith"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Fedora Project: How Linux Distributions Help Upstream Communities",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40t/sala40t-high-201106301003.ogv"
+    }
+  ]
+}

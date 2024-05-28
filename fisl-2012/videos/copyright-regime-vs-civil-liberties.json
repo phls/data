@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-25",
+  "slug": "copyright-regime-vs-civil-liberties",
+  "speakers": [
+    "Rick Falkvinge"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Copyright Regime vs. Civil Liberties",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40t/sala40t-high-201207251300.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-25",
+  "slug": "ecossistema-caixa-de-software-livre",
+  "speakers": [
+    "Paulo Maia"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Ecossistema CAIXA de Software Livre ",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41c/sala41c-high-201207251402.ogg"
+    }
+  ]
+}

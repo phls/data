@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "governanca-da-internet-conceitos-e-desafios",
+  "speakers": [
+    "Raquel Fortes Gatto",
+    "Antonio Marcos Moreiras"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Neutralidade"
+  ],
+  "title": "Governan\u00e7a da Internet: conceitos e desafios",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41e/sala41e-high-201307051601.ogg"
+    }
+  ]
+}

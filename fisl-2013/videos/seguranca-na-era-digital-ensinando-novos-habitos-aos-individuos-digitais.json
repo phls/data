@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "seguranca-na-era-digital-ensinando-novos-habitos-aos-individuos-digitais",
+  "speakers": [
+    "Rafael Jaques"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Seguran\u00e7a"
+  ],
+  "title": "Seguran\u00e7a na Era Digital: ensinando novos h\u00e1bitos aos indiv\u00edduos digitais",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307051800.ogg"
+    }
+  ]
+}

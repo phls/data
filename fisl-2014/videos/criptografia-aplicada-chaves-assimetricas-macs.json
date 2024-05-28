@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "criptografia-aplicada-chaves-assimetricas-macs",
+  "speakers": [
+    "Aiman"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Seguran\u00e7a"
+  ],
+  "title": "Criptografia Aplicada -- Chaves Assim\u00e9tricas + MACs",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41f/sala41f-high-201405071158.ogv"
+    }
+  ]
+}

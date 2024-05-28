@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A palestra visa mostrar aos ouvintes o que significa esse paradigma, mostrar que conceito \u00e9 esse t\u00e3o falado, e pouco conhecido. BigData possui 5 V's que a definem: Volume, Variedade, Velocidade, Veracidade, e Valor; A id\u00e9ia \u00e9 mostrar o que cada V representa na pr\u00e1tica, e como o BigData muda a forma como trabalhamos com a Tecnologia, a palestra tamb\u00e9m ir\u00e1 mostrar como aplicar BigData em sua empresa, ou sua aplica\u00e7\u00e3o, facilitando o tratamento de dados dos mais variados tipos. O BigData \u00e9 um metodo bastante utilizado por grandes empresas, principalmente na parte da publicidade e propaganda, j\u00e1 que a ideia \u00e9 utilizar os dados fornecidos pelas proprias pessoas. BigData uma nova era da Tecnologia.",
+  "duration": 1782,
+  "id": 126,
+  "language": "por",
+  "recorded": "2015-02-05",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-bigdata-o-que-e-onde-vivem-do-que-se-alimentam",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/bigdata-o-que-e-onde-vivem-do-que-se-alimentam-cpbr8"
+  ],
+  "slug": "bigdata-o-que-eh-onde-vivem-do-que-se-alimentam",
+  "speakers": [
+    "Francisco Alessandro Feitoza da Silva"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "BigData",
+    "Projeto e-Jovem"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/bigdata-o-que-eh-onde-vivem-do-que-se-alimentam.jpg",
+  "title": "BigData - O que \u00e9? Onde vivem? Do que se alimentam?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=J19DMsXF4oE"
+    },
+    {
+      "size": 148254007,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-bigdata-o-que-eh-onde-vivem-do-que-se-alimentam.ogv"
+    },
+    {
+      "size": 59510178,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-bigdata-o-que-eh-onde-vivem-do-que-se-alimentam.webm"
+    }
+  ]
+}

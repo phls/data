@@ -1,0 +1,23 @@
+{
+  "description": "SQL Injection \u00e9 uma das formas de ataque que crackers utilizam para conseguir acesso indevido, burlando a autentica\u00e7\u00e3o da aplica\u00e7\u00e3o, podendo assim conseguir informa\u00e7\u00f5es sigilosas ou at\u00e9 mesmo causar danos \u00e0 base de dados.\nO termo \"SQL Injection\", que em ingl\u00eas significa \"Inje\u00e7\u00e3o SQL\" leva esse nome pela forma como o ataque \u00e9 feito, ou seja, injetando comandos SQL maliciosos no banco por uma brecha de seguran\u00e7a da aplica\u00e7\u00e3o.\nO que muita gente n\u00e3o sabe \u00e9 que o PostgreSQL disp\u00f5e de recursos pr\u00f3prios que auxiliam e podem evitar esse tipo de ataque dando mais seguran\u00e7a \u00e0 aplica\u00e7\u00e3o na camada do banco de dados.\nA palestra al\u00e9m da teoria, exp\u00f5e na pr\u00e1tica como podem ser feitos ataques de seguran\u00e7a por inje\u00e7\u00e3o de SQL com comandos maliciosos e como neutraliz\u00e1-los.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "postgresql-vs-sql-injection-como-prevenir",
+  "speakers": [
+    "Juliano Parreira Atanazio"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "PGDay POA"
+  ],
+  "title": "PostgreSQL vs SQL Injection: Como Prevenir",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41e/sala41e-high-201607141842.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "free-software-defined-networking-o-futuro-da-rede-e-livre",
+  "speakers": [
+    "Thiago Marinello Paulino Cesar"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Openweb"
+  ],
+  "title": "Free Software Defined Networking - O futuro da rede \u00e9 livre!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307031604.ogg"
+    }
+  ]
+}

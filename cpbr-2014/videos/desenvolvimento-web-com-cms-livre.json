@@ -1,0 +1,50 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Membros das comunidades dos principais CMS livres da atualidade v\u00e3o discutir as caracter\u00edsticas de cada sistema para ajudar a tirar d\u00favidas da plateia. O objetivo \u00e9 discutir formas de colabora\u00e7\u00e3o m\u00fatua e incentivar a ado\u00e7\u00e3o de CMS livres para a gera\u00e7\u00e3o de conte\u00fado na internet.",
+  "duration": 5598,
+  "id": 108,
+  "language": "por",
+  "recorded": "2014-01-29",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/painel-desenvolvimento-web-com-cms-livre",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-desenvolvimento-web-com-cms-livre"
+  ],
+  "slug": "desenvolvimento-web-com-cms-livre",
+  "speakers": [
+    "Eduardo Pina Mamede",
+    "Guga Alves",
+    "Jeison Frasson",
+    "Kazuo Gomi Filho",
+    "Pedro Sebastian Ferrari Canadas",
+    "Val\u00e9ssio Soares de Brito"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "WordPress",
+    "Drupal",
+    "Joomla",
+    "e107"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/desenvolvimento-web-com-cms-livre.jpg",
+  "title": "Painel: Desenvolvimento web com CMS Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=r2AeK4VUaso"
+    },
+    {
+      "size": 648916239,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-desenvolvimento-web-com-cms-livre.ogv"
+    },
+    {
+      "size": 288117817,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-desenvolvimento-web-com-cms-livre.webm"
+    }
+  ]
+}

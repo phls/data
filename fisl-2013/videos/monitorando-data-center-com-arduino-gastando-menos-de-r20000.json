@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "monitorando-data-center-com-arduino-gastando-menos-de-r20000",
+  "speakers": [
+    "Aguinaldo Bezerra Batista J\u00fanior"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Hardware"
+  ],
+  "title": "Monitorando Data Center com Arduino (gastando menos de R$200,00)",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307060958.ogg"
+    }
+  ]
+}

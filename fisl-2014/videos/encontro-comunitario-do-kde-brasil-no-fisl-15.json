@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "encontro-comunitario-do-kde-brasil-no-fisl-15",
+  "speakers": [
+    "Filipe Saraiva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Eventos Comunit\u00e1rios"
+  ],
+  "title": "Encontro Comunit\u00e1rio do KDE Brasil no FISL 15",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405080908.ogv"
+    }
+  ]
+}

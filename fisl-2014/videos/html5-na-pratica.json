@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "html5-na-pratica",
+  "speakers": [
+    "Alan Velasques Santos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Outras linguagens"
+  ],
+  "title": "HTML5 na pr\u00e1tica",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41f/sala41f-high-201405101701.ogv"
+    }
+  ]
+}

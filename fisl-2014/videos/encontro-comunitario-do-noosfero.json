@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "encontro-comunitario-do-noosfero",
+  "speakers": [
+    "Daniela Feitosa"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Eventos Comunit\u00e1rios"
+  ],
+  "title": "Encontro Comunit\u00e1rio do Noosfero",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405080921.ogv"
+    }
+  ]
+}

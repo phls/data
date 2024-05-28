@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Manter pacotes no Debian pode ser feito de algumas maneiras diferentes, isso varia um pouco conforme o time de empacotamento, linguagem de programa\u00e7\u00e3o, etc. Ent\u00e3o, vamos fazer um OpenSpace para fazer uma sess\u00e3o interativa de perguntas e respostas sobre empacotamento: Exemplo: Git/Alioth nos pacotes e git-buildpackage, Vagrant ou Docker para desenvolve e testar pacotes, etc.",
+  "duration": 5543,
+  "id": 79,
+  "language": "por",
+  "recorded": "2017-03-19",
+  "related_urls": [
+    "http://br2017.mini.debconf.org"
+  ],
+  "slug": "perguntas-e-respostas-sobre-o-desenvolvimento-do-debian",
+  "speakers": [
+    "Adriano Rafael Gomes",
+    "Antonio Terceiro",
+    "Giovani Augusto Ferreira",
+    "Jo\u00e3o Eriberto Mota Filho",
+    "Lucas Kanashiro"
+  ],
+  "tags": [
+    "Debian",
+    "MiniDebConf",
+    "MiniDebConf Curitiba",
+    "MiniDebConf Curitiba 2017",
+    "Universidade Tecnol\u00f3gica Federal do Paran\u00e1",
+    "Painel",
+    "Open space",
+    "UTFPR",
+    "Curitiba"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/minidebconf_curitiba_2017_perguntas_e_respostas_sobre_o_desenvolvimento_do_debian.jpg",
+  "title": "Painel: perguntas e respostas sobre o desenvolvimento do Debian",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=xOnJSDqvbbg"
+    },
+    {
+      "size": 857476456,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/minidebconf-curitiba-2017/minidebconf_curitiba_2017_perguntas_e_respostas_sobre_o_desenvolvimento_do_debian.webm"
+    }
+  ]
+}

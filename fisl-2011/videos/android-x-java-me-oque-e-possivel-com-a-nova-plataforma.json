@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "android-x-java-me-oque-e-possivel-com-a-nova-plataforma",
+  "speakers": [
+    "Ricardo da Silva Ogliari"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "PHP e Java"
+  ],
+  "title": "Android x Java ME: Oque \u00e9 poss\u00edvel com a nova plataforma?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41c/sala41c-high-201107011459.ogv"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "a definir.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "salicbr-abrindo-codigo-do-governo",
+  "speakers": [
+    "Diego Aguilera",
+    "R\u00f4mulo Menh\u00f4 Barbosa"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Acesso Aberto"
+  ],
+  "title": "SALIC.BR - abrindo c\u00f3digo do governo.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41b/sala_41b-high-201507091258.ogv"
+    }
+  ]
+}

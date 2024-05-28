@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "blender-para-todos",
+  "speakers": [
+    "Guilherme Razgriz"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Blender para TODOS!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41d/sala41d-high-201207271559.ogg"
+    }
+  ]
+}

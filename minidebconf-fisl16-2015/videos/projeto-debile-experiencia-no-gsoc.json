@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Um resumo sobre o projeto Debile e um pequeno relato sobre a minha experi\u00eancia no Google Summer of Code.",
+  "duration": 1566,
+  "id": 92,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "related_urls": [
+    "http://softwarelivre.org/fisl16",
+    "https://wiki.debian.org/Brasil/Eventos/MiniDebConfFISL2015"
+  ],
+  "slug": "projeto-debile-experiencia-no-gsoc",
+  "speakers": [
+    "Lucas Kanashiro"
+  ],
+  "tags": [
+    "Debian",
+    "MiniDebConf",
+    "MiniDebConf FISL16",
+    "MiniDebConf FISL16 2015",
+    "PUCRS",
+    "FISL16",
+    "F\u00f3rum Internacional Software Livre",
+    "Porto Alegre",
+    "Debile",
+    "GSOC - Google Summer of Code"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/minidebconf_fisl16_2015_projeto_debile_experiencia_no_gsoc.jpg",
+  "title": "Projeto Debile + Experi\u00eancia no GSoC",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=uKppKoxVbIo"
+    },
+    {
+      "size": 32973049,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/minidebconf-fisl16-2015/minidebconf_fisl16_2015_projeto_debile_experiencia_no_gsoc.ogv"
+    }
+  ]
+}

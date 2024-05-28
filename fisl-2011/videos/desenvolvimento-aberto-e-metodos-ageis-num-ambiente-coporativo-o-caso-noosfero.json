@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "desenvolvimento-aberto-e-metodos-ageis-num-ambiente-coporativo-o-caso-noosfero",
+  "speakers": [
+    "Rodrigo Nunes Souto",
+    "Daniela Soares Feitosa",
+    "Vicente Aguiar"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Desenvolvimento aberto e m\u00e9todos \u00e1geis num ambiente coporativo: o caso Noosfero.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201106291259.ogv"
+    }
+  ]
+}

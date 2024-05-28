@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "livros-eletronicos-interativos-com-html5-e-epub3",
+  "speakers": [
+    "Jomar Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Aplica\u00e7\u00f5es educacionais"
+  ],
+  "title": "Livros eletr\u00f4nicos interativos com HTML5 e ePUB3",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307051700.ogg"
+    }
+  ]
+}

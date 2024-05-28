@@ -1,0 +1,27 @@
+{
+  "description": "Algum tempo atr\u00e1s estar preparado para um milh\u00e3o de usu\u00e1rios simult\u00e2neos era somente para as grandes empresas como Google, twitter ou facebook. Mas com a explos\u00e3o da Web 2.0 isso tamb\u00e9m \u00e9 uma preocupa\u00e7\u00e3o para qualquer que tenha um site de not\u00edcias ou mesmo um ecommerce. Somado as atualiza\u00e7\u00f5es cada vez mais fren\u00e9ticas (tecnol\u00f3gicas ou de regras deneg\u00f3cio) para faz\u00ea-lo sobreviver a concorr\u00eancia acaba-se desprezando boas pr\u00e1ticas para atender a audi\u00eancia cada vez mais maior. Ent\u00e3o, seu site est\u00e1 preparada para um milh\u00e3o de usu\u00e1rios?\n\nA cada dia surge novas tecnologias para produ\u00e7\u00e3o de sistemas/site\ntornando dif\u00edcil acompanhar todas elas ou escolher as melhores. Por\u00e9m\n\u00e9 poss\u00edvel escolher algumas t\u00e9cnicas e pr\u00e1ticas importantes para\ninternet e seu ecossistema. A Web 2.0, expans\u00e3o do com\u00e9rcio\neletr\u00f4nico, redes sociais, a \"Internet das Coisas\" e outros buzzwords\ntornam as escolhas tecnol\u00f3gicas cada vez mais dif\u00edceis de serem\ntomadas pela enormidade de op\u00e7\u00f5es. Mas \u00e9 poss\u00edvel considerar algumas\ncoisas para que um site/sistema proporcione uma boa experi\u00eancia para\nseu usu\u00e1rio e alguma vida para as equipes de TI. Algumas delas s\u00e3o:\n\n- limita\u00e7\u00f5es dos navegadores web,\n- sprite de imagens,\n- minify css e javascripts,\n- segmenta\u00e7\u00e3o de dom\u00ednios,\n- cache,\n- servidores web (http),\n- limita\u00e7\u00f5es geogr\u00e1ficas,\n- arquitetura computacional do site/sistema,\n- funcionanamento do HTTP,\n- indexa\u00e7\u00e3o nos mecanismo de pesquisa,\n- a expectativa de 1 milh\u00e3o de usu\u00e1rios simult\u00e2neos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "como-suportar-um-milhao-de-usuarios-simultaneos",
+  "speakers": [
+    "Fernando Ike"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Como suportar um milh\u00e3o de usu\u00e1rios simult\u00e2neos?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507091900.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507091902.ogv"
+    }
+  ]
+}

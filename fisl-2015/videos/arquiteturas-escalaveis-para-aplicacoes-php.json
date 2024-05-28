@@ -1,0 +1,23 @@
+{
+  "description": "Minha aplica\u00e7\u00e3o cresceu, meu servidor n\u00e3o esta \"aguentando\", o que eu fa\u00e7o? Compro um servidor melhor ? Como eu escalo meu ambiente ?\nEssas s\u00e3o algumas das perguntas mais comuns que surgem quando temos problemas de desempenho, porem poucos sabem realmente qual \u00e9 resposta certa.\nPara ajudar a responder estas perguntas, inicialmente iremos mostrar como as coisas funcionam no S.O. quando temos uma aplica\u00e7\u00e3o PHP rodando em cima do servidor http Apache(o tipo de ambiente da maioria das aplica\u00e7\u00f5es PHP). Desta forma veremos seu principais limites e como podemos escalar este tipo de arquitetura.\nEm seguida iremos entender como funcionam as arquiteturas baseadas no servidor http Nginx e php-fpm, e porque elas est\u00e3o ganhando mercado de forma muito r\u00e1pida.\nAo final desta palestra esperamos que todos possam conhecer os principais limites e vantagens de cada arquitetura e qual \u00e9 a mais adequada para escalar a sua aplica\u00e7\u00e3o.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "arquiteturas-escalaveis-para-aplicacoes-php",
+  "speakers": [
+    "William Felipe Welter"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Arquiteturas escal\u00e1veis para aplica\u00e7\u00f5es PHP.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507091800.ogv"
+    }
+  ]
+}

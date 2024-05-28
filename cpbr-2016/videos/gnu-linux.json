@@ -1,0 +1,36 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Durante o curso ser\u00e1 passada uma vis\u00e3o global s\u00f3lida do SO com intuito de dar ao aluno a compreens\u00e3o do todo, para que este possa posteriormente evoluir aprendendo as partes em detalhe.",
+  "duration": 7030,
+  "id": 214,
+  "language": "por",
+  "recorded": "2016-01-27",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/workshop/mini-curso-gnulinux-cpbr9"
+  ],
+  "slug": "gnu-linux",
+  "speakers": [
+    "Paulo Kretcheu"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Oficina",
+    "GNU/Linux"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/gnu-linux.jpg",
+  "title": "GNU/Linux",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/woM6rSXc08Y?t=57m"
+    },
+    {
+      "size": 2510705645,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-gnu-linux.ogv"
+    }
+  ]
+}

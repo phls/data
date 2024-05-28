@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "free-and-open-source-case-studies-wsl-session-4",
+  "speakers": [
+    "Yuri Takhteyev",
+    "Diana Harrelson",
+    "Daniel Bucher",
+    "Sergio Raul Montes Leon"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "WSL"
+  ],
+  "title": "Free and Open Source Case Studies (WSL Session 4)",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40a/sala40a-high-201307051629.ogg"
+    }
+  ]
+}

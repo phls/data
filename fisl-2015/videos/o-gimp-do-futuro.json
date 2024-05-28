@@ -1,0 +1,27 @@
+{
+  "description": "Apresenta\u00e7\u00e3o da vers\u00e3o de desenvolvimento  (2.9) do GIMP e suas principais funcionalidades.\n\nA vers\u00e3o atual do GIMP \u00e9 seguramente a que vai introduzir mais mudan\u00e7as desde que come\u00e7aram a sair vers\u00f5es est\u00e1veis. Essa apresenta\u00e7\u00e3o demonstra algumas das capacidades do programa, e principalmente, as novas funcionalidades j\u00e1 implementadas depois da vers\u00e3o 2.8. \n\nEntre as funcionalidades apresentadas temos: imagens com maior profundidade de cor (16, 32 e 64 bits de cor por canal), rota\u00e7\u00e3o da tela de pintura, ferramentas de distor\u00e7\u00e3o interativa e deforma\u00e7\u00e3o por grade, pintura em espelho, novas dn\u00e2micas de pintura, uso interno da GEGL, transforma\u00e7\u00e3o geom\u00e9trica unificada, busca textual de plug-ins e ferramentas, uso de cores perceptuais para opera\u00e7\u00f5es nas imagens, dentre outras.\n\nDicas de como instalar a vers\u00e3o de desenvolvimento, e acompanhar ao vivo a evolu\u00e7\u00e3o do programa.\n\nO GIMP (GNU Image Manipulation Program) \u00e9 o principal programa para Desktop em Software Livre para manipular imagens, podendo servir tanto para finaliza\u00e7\u00e3o de fotogr\u00e1fias, cria\u00e7\u00e3o de novas imagens, como para pesquisa acad\u00eamica na \u00e1rea de processamento de imagens. Compete em ordem de grandeza com as principais alternativas propriet\u00e1rias, e est\u00e1 dispon\u00edvel para todas as distribui\u00e7\u00f5es desktop GNU/Linux, bem como para outros sistemas operacionais. \n\nEm desenvolvimento desde 2012, a vers\u00e3o \"master\" no GIT se dist\u00e2nciou bastante da vers\u00e3o est\u00e1vel atual (2.8.14), principalmente na representa\u00e7\u00e3o interna das imagens que passou de 8 bits por canal  de cor (m\u00e1ximo de 256 tonalidades) para um n\u00famero virtualmente ilimitado de cores por canal (32 bit em ponto flutuante), que preservam detalhes de claro e sombra sem \"estourar\" a imagem, mesmo ap\u00f3s dezenas de etapas de processamento.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "o-gimp-do-futuro",
+  "speakers": [
+    "Jo\u00e3o Sebasti\u00e3o de Oliveira Bueno"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Aplica\u00e7\u00f5es Desktop"
+  ],
+  "title": "O GIMP do Futuro",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507091658.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507091701.ogv"
+    }
+  ]
+}

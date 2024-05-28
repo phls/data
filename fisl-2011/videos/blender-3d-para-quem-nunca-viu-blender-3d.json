@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "blender-3d-para-quem-nunca-viu-blender-3d",
+  "speakers": [
+    "Jonat\u00e3 Bolzan"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Blender 3D para quem nunca viu Blender 3D",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41c/sala41c-high-201107021551.ogv"
+    }
+  ]
+}

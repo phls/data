@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Embora o desenvolvimento de plugins no WordPress tenha se tornado algo extremamente popularizado, \u00e9 comum encontrar solu\u00e7\u00f5es que n\u00e3o atendem a um conjunto b\u00e1sico de boas pr\u00e1ticas. N\u00e3o se quer apresentar nenhum beab\u00e1 de plugins, mas sim de cobrir diversos aspectos t\u00e9cnicos importantes e detalhados de desenvolvimento, e que ajudam a construir plugins de melhor qualidade e manuten\u00e7\u00e3o atrav\u00e9s do que o pr\u00f3prio WordPress tem a oferecer.",
+  "duration": 1283,
+  "id": 53,
+  "language": "por",
+  "recorded": "2013-02-02",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/plugins-no-wordpress-fazendo-o-negocio-direito",
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/plugins-no-wordpress-fazendo-o-negocio-direito"
+  ],
+  "slug": "plugins-no-wordpress-fazendo-o-negocio-direito",
+  "speakers": [
+    "Vinicius Massuchetto"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "WordPress"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/plugins-no-wordpress-fazendo-o-negocio-direito.jpg",
+  "title": "Plugins no WordPress: fazendo o neg\u00f3cio direito",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=0cKIFEGSbZ4"
+    },
+    {
+      "size": 97469125,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-plugins-no-wordpress-fazendo-o-negocio-direito.ogv"
+    },
+    {
+      "size": 30086555,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-plugins-no-wordpress-fazendo-o-negocio-direito.webm"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "speechrtc-reconhecimento-de-voz-cross-browser-para-a-web-e-firefoxos",
+  "speakers": [
+    "Andre Natal"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "SpeechRTC, reconhecimento de voz cross-browser para a Web e FirefoxOS",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405081702.ogv"
+    }
+  ]
+}

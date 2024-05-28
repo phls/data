@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "testando-software-quando-testar-o-que-testar-como-testar",
+  "speakers": [
+    "Danilo Faustinoni Cabello"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Testando software: quando testar, o que testar, como testar",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41e/sala41e-201107021203.ogv"
+    }
+  ]
+}

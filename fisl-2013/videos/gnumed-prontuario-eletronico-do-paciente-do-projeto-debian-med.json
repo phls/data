@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "gnumed-prontuario-eletronico-do-paciente-do-projeto-debian-med",
+  "speakers": [
+    "Rog\u00e9rio Luz Coelho"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Sa\u00fade"
+  ],
+  "title": "GNUmed: Prontu\u00e1rio Eletr\u00f4nico do Paciente do projeto Debian-Med",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307051200.ogg"
+    }
+  ]
+}

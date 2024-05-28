@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "usabilidade-produtividade-qual-ambiente-grafico-usar",
+  "speakers": [
+    "Samuel Flores Moraes"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Visual/GUI"
+  ],
+  "title": "Usabilidade + produtividade = ? qual ambiente gr\u00e1fico usar?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41b/sala41b-high-201405071306.ogv"
+    }
+  ]
+}

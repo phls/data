@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-25",
+  "slug": "linkando-o-mundo-usando-python-e-web-semantica",
+  "speakers": [
+    "Tatiana Al-Chueyr"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Python, Ruby e Perl"
+  ],
+  "title": "\"Linkando\" o mundo usando Python e web sem\u00e2ntica",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41f/sala41f-high-201207251201.ogg"
+    }
+  ]
+}

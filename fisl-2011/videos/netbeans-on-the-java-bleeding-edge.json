@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "netbeans-on-the-java-bleeding-edge",
+  "speakers": [
+    "John Jullion-Ceccarelli"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "PHP e Java"
+  ],
+  "title": "NetBeans on the Java Bleeding Edge",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201106300900.ogv"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "radar-parlamentar-analisando-votacoes-parlamentares-com-dados-abertos",
+  "speakers": [
+    "Hayd\u00e9e Svab",
+    "Diego Rabatone Oliveira",
+    "Leonardo Alexandre Ferreira Leite"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "WSL"
+  ],
+  "title": "Radar Parlamentar - Analisando vota\u00e7\u00f5es parlamentares com dados abertos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40a/sala40a-high-201207271806.ogg"
+    }
+  ]
+}

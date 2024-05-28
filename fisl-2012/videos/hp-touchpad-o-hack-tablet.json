@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "hp-touchpad-o-hack-tablet",
+  "speakers": [
+    "Ricardo Jurczyk Pinheiro"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Hardware, Sistemas Embarcados e Rob\u00f3tica"
+  ],
+  "title": "HP Touchpad: O \"hack tablet\".",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41d/sala41d-high-201207261658.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Palestra demonstrando a import\u00e2ncia que a comunidade e a troca livre de informa\u00e7\u00f5es possuem na \u00e1rea de seguran\u00e7a digital. \n\nA palestra ter\u00e1 como principais focos:\n   - Demonstra\u00e7\u00e3o de algumas das mais poderosas e populares ferramentas (tanto para seguran\u00e7a reativa como ofensiva) tais como nmap, metasploit, sqpmap entre outras.\n   - Analise da fala de CEO's, postura de empresas, etc, demonstrando que, com o crescimento do n\u00famero de fraudes digitais, ocorreu tamb\u00e9m uma mudan\u00e7a de postura, sendo esta mais favor\u00e1vel ao software livre, principalmente no quesito privacidade de dados (casos de backdoor em produtos, NSA, etc)\n   - Demonstrar como o Full Disclosure acelera a corre\u00e7\u00e3o de bugs por parte dos desenvolvedores, e como os pesquisadores podem se aproveitar da nova onda de empresas criando companhas de Bug Bounty.\n  \nApresentar esses conceitos enquanto seguimos o desenvolvimento pela hist\u00f3ria, popularidade da internet, crescimento do cyber crime, quest\u00f5es de jurisprud\u00eancia, etc.\n\nComo conclus\u00e3o, uma an\u00e1lise da situa\u00e7\u00e3o de seguran\u00e7a digital atual, com foco em Brasil, e como a comunidade pode ajudar a combater a inseguran\u00e7a que impera no meio digital.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "a-importancia-da-comunidade-open-source-na-area-de-seguranca-digital",
+  "speakers": [
+    "Ramiro Pozzani"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Seguran\u00e7a"
+  ],
+  "title": "A import\u00e2ncia da comunidade open source na \u00e1rea de seguran\u00e7a digital.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41c/sala_41c-high-201507091500.ogv"
+    }
+  ]
+}

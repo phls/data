@@ -1,0 +1,23 @@
+{
+  "description": "ownCloud, o software livre de nuvem privativa, \u00e9 bastante comparado com solu\u00e7\u00f5es propriet\u00e1rias de nuvem cuja principal fun\u00e7\u00e3o \u00e9 o armazenamento e sincroniza\u00e7\u00e3o de arquivos. Entretanto, ownCloud possui um conjunto muito mais amplo de funcionalidades al\u00e9m desta, muitas produzidas por uma grande comunidade que transformou o software em uma verdadeira plataforma de aplica\u00e7\u00f5es. Esta palestra abordar\u00e1 essas diferentes utilidades do ownCloud.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "owncloud-1001-utilidades",
+  "speakers": [
+    "Filipe Saraiva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Cloud Computing"
+  ],
+  "title": "ownCloud: 1001 utilidades",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41b/sala41b-high-201607151302.ogv"
+    }
+  ]
+}

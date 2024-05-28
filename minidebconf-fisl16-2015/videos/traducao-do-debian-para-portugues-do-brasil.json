@@ -1,0 +1,40 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Esta palestra \u00e9 uma introdu\u00e7\u00e3o \u00e0 tradu\u00e7\u00e3o do Debian para portugu\u00eas do Brasil e um convite para participar da equipe.",
+  "duration": 2472,
+  "id": 93,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "related_urls": [
+    "http://softwarelivre.org/fisl16",
+    "https://wiki.debian.org/Brasil/Eventos/MiniDebConfFISL2015"
+  ],
+  "slug": "traducao-do-debian-para-portugues-do-brasil",
+  "speakers": [
+    "Adriano Rafael Gomes"
+  ],
+  "tags": [
+    "Debian",
+    "MiniDebConf",
+    "MiniDebConf FISL16",
+    "MiniDebConf FISL16 2015",
+    "PUCRS",
+    "FISL16",
+    "F\u00f3rum Internacional Software Livre",
+    "Porto Alegre",
+    "Tradu\u00e7\u00e3o"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/minidebconf_fisl16_2015_traducao_do_debian_para_portugues_do_brasil.jpg",
+  "title": "Tradu\u00e7\u00e3o do Debian para Portugu\u00eas do Brasil",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=W8A5JDmZrDc"
+    },
+    {
+      "size": 56233438,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/minidebconf-fisl16-2015/minidebconf_fisl16_2015_traducao_do_debian_para_portugues_do_brasil.ogv"
+    }
+  ]
+}

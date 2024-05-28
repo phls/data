@@ -1,0 +1,23 @@
+{
+  "description": "FreeCAD \u00e9 uma aplica\u00e7\u00e3o de modelagem 3D gen\u00e9rica, aberta e multiplataforma, feita para o design de produtos, ou seja, objetos que v\u00e3o existir no mundo real. O projeto est\u00e1 agora ganhando muito foco, principalmente gra\u00e7as ao surgimento e espalhamento r\u00e1pido da impress\u00e3o 3D caseira, e da sua grande abertura ao hacking.\n\nFreeCAD pode ser descrito como uma grande \"colagem\" de v\u00e1rios outros projetos de software livre, tal como OpenCasCade (o nosso kernel geom\u00e9trico), Coin3D (uma implementa\u00e7\u00e3o do OpenInventor, que gerencia a vista 3D), Qt e python. Mas pode tamb\u00e9m, mais adequadamente, ser chamado de \"Python beast\". Com um pouco de conhecimento da linguagem Python, o usu\u00e1rio ganha os poderes de um deus.\n\nApesar dele ser programado principalmente em C++, o Python est\u00e1 em todo lugar no FreeCAD: Funciona como uma \"cola\" entre a base da aplica\u00e7\u00e3o, que faz todas as opera\u00e7\u00f5es geom\u00e9tricas pesadas, e a interface gr\u00e1fica. Isso oferece in\u00fameras possibilidades apetitosas, como a separa\u00e7\u00e3o do FreeCAD entre sua interface e a base, que pode funcionar como servidor, e a possibilidade de gravar, modificar, ou interagir com o fluxo de Python que corre entre as partes, e muito mais. Todos os projetos livres usados no FreeCAD tamb\u00e9m tem suas pr\u00f3prias conex\u00f5es com Python, todas acess\u00edveis de dentro do FreeCAD, todas conectadas com a aplica\u00e7\u00e3o e podendo atuar no seu conte\u00fado, interface e vistas 3D.\n\nO c\u00f3digo Python est\u00e1 tamb\u00e9m constantemente exposto ao usu\u00e1rio, o que torna a aplica\u00e7\u00e3o extremamente pedag\u00f3gica. \u00c9 quase imposs\u00edvel usar o FreeCAD e n\u00e3o aprender sem querer um pouco de Python. Muitos j\u00e1 tentaram.\n\nIsso ajudou a formar uma comunidade muito avan\u00e7ada tecnicamente em volta do FreeCAD, onde as diferen\u00e7as entre desenvolvedor e usu\u00e1rio se apagaram.\n\nEsta palestra tentar\u00e1 mostrar um pouco da incr\u00edvel experi\u00eancia \"socio-t\u00e9cnica\" que temos construindo essa ferramenta feita para construir.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "freecad-uma-plataforma-de-design-hackeavel",
+  "speakers": [
+    "Yorik van Havre"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Aplica\u00e7\u00f5es Desktop"
+  ],
+  "title": "FreeCAD - uma plataforma de design hacke\u00e1vel",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41a/sala_41a-high-201507111105.ogv"
+    }
+  ]
+}

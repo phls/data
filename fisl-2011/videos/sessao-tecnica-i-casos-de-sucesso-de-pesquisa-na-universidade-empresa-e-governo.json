@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "sessao-tecnica-i-casos-de-sucesso-de-pesquisa-na-universidade-empresa-e-governo",
+  "speakers": [
+    "V\u00e1rios"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "WSL"
+  ],
+  "title": "Sess\u00e3o T\u00e9cnica I: Casos de Sucesso de Pesquisa na Universidade, Empresa e Governo.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40a/sala40a-high-201107011130.ogv"
+    }
+  ]
+}

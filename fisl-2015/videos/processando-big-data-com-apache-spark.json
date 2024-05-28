@@ -1,0 +1,23 @@
+{
+  "description": "Apache Spark vem ganhando for\u00e7a frente ao j\u00e1 consolidado paradigma Map-Reduce implementado pela suite Hadoop. O grande diferencial do Spark \u00e9 a utiliza\u00e7\u00e3o do modelo In-Memory Computation, que mantem os dados em mem\u00f3ria para realizar computa\u00e7\u00e3o tipicamente iterativas. Esse modelo se mostra bastante eficiente quando multiplas itera\u00e7\u00f5es s\u00e3o feitas sobre as mesmas fatias de dados espalhadas pelo cluster.\n\nUm benchmark do time do Spark mostra que \u00e9 poss\u00edvel alcan\u00e7ar ganhos de at\u00e9 100 vezes frente ao Hadoop. Essa palestra abordar\u00e1 o modelo de armazenamento e computa\u00e7\u00e3o do Spark, t\u00e9cnicas para consulta a dados usando Spark SQL, al\u00e9m de algoritmos para processamento de dados em Streaming. A linguagem utilizada na palestra ser\u00e1 Scala, apesar de Python e Java tamb\u00e9m serem suportados.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "processando-big-data-com-apache-spark",
+  "speakers": [
+    "Fl\u00e1vio Roberto Santos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "Processando Big Data com Apache Spark",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507081159.ogv"
+    }
+  ]
+}

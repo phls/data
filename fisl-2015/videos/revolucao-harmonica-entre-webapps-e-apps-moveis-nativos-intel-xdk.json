@@ -1,0 +1,24 @@
+{
+  "description": "A ascen\u00e7\u00e3o da era mobile \u00e9 claramente percebida pela nossa realidade atual. Cada dia s\u00e3o lan\u00e7ados novos modelos de smarthphones, tablets; entre outros. Grandes players e fabricantes m\u00f3veis participam ativamente desta constante evolu\u00e7\u00e3o. Essa evolu\u00e7\u00e3o para a era mobile afeta a forma como nos comunicamos e nosso comportamento em frente a um mundo cheio de novidades. A era mobila est\u00e1 presente em diversos ramos e atividades como na educa\u00e7\u00e0o, entretenimento e neg\u00f3cios. As pessoas compram apps mesmo sem nunca ter comprado um software. Qualquer desenvolvedor com vis\u00e3o empreendedora que visa inova\u00e7\u00e3o e crescimento percebe esta mudan\u00e7a e nela pode explorar oportunidades de neg\u00f3cio. Desenvolver apps para dispositivos m\u00f3veis que sejam instalados e executados em diversas plataformas \u00e9 poss\u00edvel atualmente por meio das seguintes tecnologias web HTML5, CSS3 e JavaScript. Ap\u00f3s o advento dessas tecnologias no mundo m\u00f3vel, surgiram in\u00fameros frameworks e em seguida a divis\u00e3o de solu\u00e7\u00f5es m\u00f3veis em tr\u00eas categorias: Nativas, WebApps e H\u00edbridas. As apps nativas s\u00e3o as criadas exclusivamente para uma plataforma; As WebApps usam as tecnologias web j\u00e1 citadas para a sua cria\u00e7\u00e3o e executam em um navegador no dispositivo; e na categoria dos aplicativos h\u00edbridos, tem-se a jun\u00e7\u00e3o de caracter\u00edsticas nativas e webapps. Uma solu\u00e7\u00e3o h\u00edbrida \u00e9 constru\u00edda utilizando tecnologias web, como JavaScript, contudo pode ser empacotada e exportada de forma semelhante a uma aplica\u00e7\u00e3o desenvolvida em linguagem original/nativa da plataforma, podendo ainda ser feito o download em uma loja de apps (Google Play, App Store, etc) e instalada normalmente. A presente palestra apresentar\u00e1 a IDE Intel\u00ae XDK, solu\u00e7\u00e3o livre desenvolvida pela Intel,  que fornece uma s\u00e9rie de ferramentas-chave para os desenvolvedores criarem apps m\u00f3veis multiplataforma, utilizando HTML5,  com caracter\u00edsticas h\u00edbridas. A IDE integra modelos de projetos, emulador, depurador e ferramentas de publica\u00e7\u00e3o para as lojas de aplicativos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "revolucao-harmonica-entre-webapps-e-apps-moveis-nativos-intel-xdk",
+  "speakers": [
+    "Frederico Guilherme Kl\u00fcser de Oliveira",
+    "Frederico Guilherme Kl\u00fcser de Oliveira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Revolu\u00e7\u00e3o harm\u00f4nica entre webapps e apps m\u00f3veis nativos: Intel XDK",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507101502.ogv"
+    }
+  ]
+}

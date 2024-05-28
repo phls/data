@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "placa-sola-fotovoltaica-e-carros-eletricos",
+  "speakers": [
+    "Luis Maccarini",
+    "Leonardo Ribeiro Oliveira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Aplica\u00e7\u00f5es educacionais"
+  ],
+  "title": "Placa Sola Fotovoltaica e Carros El\u00e9tricos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307061101.ogg"
+    }
+  ]
+}

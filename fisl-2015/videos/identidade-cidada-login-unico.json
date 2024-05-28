@@ -1,0 +1,30 @@
+{
+  "description": "a definir.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "identidade-cidada-login-unico",
+  "speakers": [
+    "Antonio Ramos Gomes",
+    "Marcos Mazoni",
+    "Guilherme da Silva Donato",
+    "Leo Germani"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Governan\u00e7a da Internet"
+  ],
+  "title": "Identidade Cidad\u00e3 (Login \u00fanico)",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507091407.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507091421.ogv"
+    }
+  ]
+}

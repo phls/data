@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-25",
+  "slug": "debian-no-limite-como-ter-um-desktop-atualizado",
+  "speakers": [
+    "Claudio Ferreira Filho"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Desktop e Distribui\u00e7\u00f5es"
+  ],
+  "title": "Debian no limite! Como ter um desktop atualizado",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41d/sala41d-high-201207250956.ogg"
+    }
+  ]
+}

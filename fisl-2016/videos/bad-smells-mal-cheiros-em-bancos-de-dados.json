@@ -1,0 +1,23 @@
+{
+  "description": "Uma estrutura de um banco de dados, diferentemente de um software, tende a deteriorar com o passar do tempo. Dentre v\u00e1rias causas podemos citar: (i) o crescimento progressivo do volume de dados devido ao aumento natural de usu\u00e1rios que o utilizam, e (ii) o tempo de uso, tornando um modelo de dados que no in\u00edcio era eficiente para solu\u00e7\u00e3o proposta em um modelo ineficiente e defasado.\n\nEssa deteriora\u00e7\u00e3o aliada a mudan\u00e7as em requisitos de neg\u00f3cio exigem refatora\u00e7\u00f5es tanto no software quanto em seus bancos de dados. Por\u00e9m a refatora\u00e7\u00e3o de um banco de dados \u00e9 mais complexa que a de um software, pois: (i) al\u00e9m de manter comportamento tamb\u00e9m \u00e9 necess\u00e1rio manter as informa\u00e7\u00f5es (dados) e (ii) acoplamento com diversas origens (outras apps, frameworks, integra\u00e7\u00f5es, etc).\n\nDevido a essas dificuldades a evolu\u00e7\u00e3o de uma estrutura de banco de dados torna-se um desafio, ocorrendo assim um fen\u00f4meno conhecido como Bad Smells (mal cheiros), da mesma forma que ocorre com o c\u00f3digo de um software. Em software um code smell (bad smell) \u00e9 uma categoria comum de problema no c\u00f3digo fonte que indica a necessidade de refatora\u00e7\u00e3o, e o mesmo ocorre com bancos de dados, onde s\u00e3o chamados database smells.\n\nAlguns exemplos de database smells:\n* Multi-purpose column \n* Multi-purpose table \n* Redundant data \n* Tables with many columns\n* \"Smart\" columns\n* Lack of constraints\n* Fear of change\n\nDentre os database smells citados acima, devemos ter aten\u00e7\u00e3o especial ao \"Fear of change\", pois pode ser considerado o pior de todos, pois:\n* inibe inova\u00e7\u00e3o, \n* reduz efetividade, \n* produz ainda mais bagun\u00e7a\n* ao longo do tempo a situa\u00e7\u00e3o fica cada vez pior. \n\nLembra do valor \"Coragem\" do XP (eXtreme Programming)? Mudan\u00e7a \u00e9 algo que deve ser considerado natural e ir\u00e1 acontecer em projetos de software, isso \u00e9 um fato, n\u00e3o podemos fugir disso, ent\u00e3o precisamos das pr\u00e1ticas e ferramentas adequadas para que a mudan\u00e7a n\u00e3o seja um entrave na evolu\u00e7\u00e3o do seu projeto, e sim algo natural e, de certa forma, trivial para s",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "bad-smells-mal-cheiros-em-bancos-de-dados",
+  "speakers": [
+    "Fabr\u00edzio de Royes Mello"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Bancos de Dados"
+  ],
+  "title": "Bad Smells (mal cheiros) em Bancos de Dados",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41b/sala41b-high-201607140900.ogv"
+    }
+  ]
+}

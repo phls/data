@@ -1,0 +1,40 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A Vida de Programador \u00e9 sofrida, mas engra\u00e7ada. Nesta palestra, um resumo sobre como foi o processo de transformar as situa\u00e7\u00f5es tragic\u00f4micas em curtas hist\u00f3rias que movimentam um grande p\u00fablico, usando apenas Software Livre, e que em pouco tempo alcan\u00e7ou o primeiro milh\u00e3o de pageviews.",
+  "duration": 650,
+  "id": 21,
+  "language": "por",
+  "recorded": "2013-01-29",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/como-ganhei-meu-primeiro-milhao-com-o-vida-de-programador"
+  ],
+  "slug": "como-ganhei-meu-primeiro-milhao-com-o-vida-de-programador",
+  "speakers": [
+    "Andr\u00e9 Noel"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Vida de Programador"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/como-ganhei-meu-primeiro-milhao-com-o-vida-de-programador.jpg",
+  "title": "Como ganhei meu primeiro milh\u00e3o com o Vida de Programador",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=fwxY7TiCTDI"
+    },
+    {
+      "size": 61253615,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-como-ganhei-meu-primeiro-milhao-com-o-vida-de-programador.ogv"
+    },
+    {
+      "size": 20428656,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-como-ganhei-meu-primeiro-milhao-com-o-vida-de-programador.webm"
+    }
+  ]
+}

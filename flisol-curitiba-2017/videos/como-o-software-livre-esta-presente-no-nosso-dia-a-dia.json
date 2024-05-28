@@ -1,0 +1,36 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Nesta palestra podemos ver como a Internet das Coisas juntamente com o Software Livre est\u00e1 entre n\u00f3s de diversas formas, e como foi criado a id\u00e9ia de IOT. Obs: a grava\u00e7\u00e3o est\u00e1 com problema no \u00e1udio nos primeiros minutos. A partir dos 11m10s o \u00e1udio fica normal.",
+  "duration": 1468,
+  "id": 232,
+  "language": "por",
+  "recorded": "2017-04-08",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2017-curitiba"
+  ],
+  "slug": "como-o-software-livre-esta-presente-no-nosso-dia-a-dia",
+  "speakers": [
+    "Leonardo Rodrigues Pereira"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2017",
+    "Curitiba",
+    "Software Livre",
+    "IoT",
+    "Internet das coisas"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2017-como-o-software-livre-esta-presente-no-nosso-dia-a-dia.jpg",
+  "title": "Como o software livre est\u00e1 presente no nosso dia a dia",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=l8sbCgr8oEk"
+    },
+    {
+      "size": 311974775,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2017/flisol-curitiba-2017-como-o-software-livre-esta-presente-no-nosso-dia-a-dia.ogv"
+    }
+  ]
+}

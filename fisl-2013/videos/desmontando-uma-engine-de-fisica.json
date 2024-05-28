@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "desmontando-uma-engine-de-fisica",
+  "speakers": [
+    "Adriano Melo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Jogos"
+  ],
+  "title": "Desmontando uma engine de f\u00edsica",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307031703.ogg"
+    }
+  ]
+}

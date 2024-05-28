@@ -1,0 +1,40 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Apresenta\u00e7\u00e3o de teor t\u00e9cnico sobre o WordPress como plataforma de desenvolvimento escal\u00e1vel e apropriado para grandes audi\u00eancias. Discuss\u00e3o das funcionalidades das \u00faltimas vers\u00f5es, do processo de integra\u00e7\u00e3o entre as diferentes \u00e1reas de desenvolvimento e an\u00e1lise de alguns casos de sucesso que buscam a desestigmatiza\u00e7\u00e3o deste software como \u201csomente voltado para blogs\u201d.",
+  "duration": 2926,
+  "id": 6,
+  "language": "por",
+  "recorded": "2012-02-11",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/desenvolvendo-com-wordpress-uma-plataforma-robusta-para-grandes-audiencias"
+  ],
+  "slug": "desenvolvendo-com-wordpress-uma-plataforma-robusta-para-grandes-audiencias",
+  "speakers": [
+    "Vin\u00edcius Massuchetto"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "WordPress"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/desenvolvendo-com-wordpress-uma-plataforma-robusta-para-grandes-audiencias.jpg",
+  "title": "Desenvolvendo com WordPress: uma plataforma robusta para grandes audi\u00eancias",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=6bzsFZ5doQw"
+    },
+    {
+      "size": 272132320,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-desenvolvendo-com-wordpress-uma-plataforma-robusta-para-grandes-audiencias.ogv"
+    },
+    {
+      "size": 100877222,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-desenvolvendo-com-wordpress-uma-plataforma-robusta-para-grandes-audiencias.webm"
+    }
+  ]
+}

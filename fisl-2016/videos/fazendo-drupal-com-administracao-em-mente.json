@@ -1,0 +1,23 @@
+{
+  "description": "Drupal \u00e9 genial, mas recorrentemente temos usu\u00e1rios insatisfeitos com a interface \"muito complicada\", \"confusa\", \"dif\u00edcil\". Claro, para quem desenvolve o site, tudo faz sentido, mas a pessoa que vai administrar realmente o site dificilmente \u00e9 algu\u00e9m t\u00e9cnico na \u00e1rea.  Nessa palestra apresentarei alguns conceitos para se ter em mente quando estivermos construindo e pensando um site, bem como poss\u00edveis solu\u00e7\u00f5es para problemas comuns de UX.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "fazendo-drupal-com-administracao-em-mente",
+  "speakers": [
+    "Marcelo Rodrigues da Silva Soares"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "DrupalCamp POA"
+  ],
+  "title": "Fazendo Drupal com administra\u00e7\u00e3o em mente",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607151720.ogv"
+    }
+  ]
+}

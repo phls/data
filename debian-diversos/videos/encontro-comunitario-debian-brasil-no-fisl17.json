@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O encontro da comunidade Debian no FISL, tem por objetivo divulgar os trabalho desenvolvido pela comunidade Debian no Brasil. Apresentamos onde a comunidade Debian est\u00e1 atualmente e para onde est\u00e1 indo, as formas distintas de como contribuir para comunidade Debian Brasil e o projeto Debian. Principais objetivos: incentivar mais pessoas a contribuir com o projeto, integrar colaboradores e usu\u00e1rios e trocar conhecimentos.",
+  "duration": 5262,
+  "id": 229,
+  "language": "por",
+  "recorded": "2016-07-16",
+  "related_urls": [
+    "https://wiki.debian.org/Brasil/Eventos/EncontroComunitarioFISL2016",
+    "http://debianbrasil.org.br/blog/fisl17-foi-especial-para-debian-brasil",
+    "http://debianbrasil.org.br/debian-no-fisl17"
+  ],
+  "slug": "encontro-comunitario-debian-brasil-no-fisl17",
+  "speakers": [
+    "Daniel Lenharo de Souza",
+    "Lucas de Castro Borges",
+    "Giovani Augusto Ferreira",
+    "Lucas Kanashiro",
+    "Lucas Albuquerque Medeiros de Moura",
+    "Thadeu Lima de Souza Cascardo"
+  ],
+  "tags": [
+    "FISL",
+    "F\u00f3rum Internacional Software Livre",
+    "FISL17",
+    "Debian",
+    "Porto Alegre",
+    "Encontro comunit\u00e1rio"
+  ],
+  "thumbnail_url": "http://debianbrasil.org.br/thumbnails/0158/9941/debian-FISL17-08_display.jpg",
+  "title": "Encontro Comunit\u00e1rio Debian Brasil no FISL15",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=vHIGEEVwOuU"
+    },
+    {
+      "size": 266083844,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/encontro-comunitario-debian-brasil-no-fisl17.ogv"
+    }
+  ]
+}

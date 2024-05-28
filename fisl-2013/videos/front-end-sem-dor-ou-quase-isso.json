@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "front-end-sem-dor-ou-quase-isso",
+  "speakers": [
+    "Guilherme Guerra"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Front-end sem dor ( ou quase isso )",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307051558.ogg"
+    }
+  ]
+}

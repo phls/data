@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "mobile-first-um-novo-paradigma",
+  "speakers": [
+    "Alexandre Magno Teles Zimerer"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Visual/GUI"
+  ],
+  "title": "Mobile First, um novo paradigma",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405101208.ogv"
+    }
+  ]
+}

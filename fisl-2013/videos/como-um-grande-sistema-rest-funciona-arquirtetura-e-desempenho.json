@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "como-um-grande-sistema-rest-funciona-arquirtetura-e-desempenho",
+  "speakers": [
+    "David Robert Camargo de Campos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Openweb"
+  ],
+  "title": "Como um grande sistema REST funciona - Arquirtetura e Desempenho",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307031857.ogg"
+    }
+  ]
+}

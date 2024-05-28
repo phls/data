@@ -1,0 +1,27 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "as-organizacoes-da-sociedade-civil-realmente-ajudam-o-software-livre",
+  "speakers": [
+    "Deborah Bryant",
+    "R\u00e1mon R\u00e1mon S\u00e1nchez",
+    "Ver\u00f4nica Xhardez",
+    "Deivi Lopes Kuhn",
+    "Ricardo Fritsch"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ecossistema / Cultura"
+  ],
+  "title": "As Organiza\u00e7\u00f5es da Sociedade Civil realmente ajudam o Software Livre?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41a/sala41a-high-201207261210.ogg"
+    }
+  ]
+}

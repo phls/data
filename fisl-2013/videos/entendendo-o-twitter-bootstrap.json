@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "entendendo-o-twitter-bootstrap",
+  "speakers": [
+    "Alexandre Magno Teles Zimerer"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Entendendo o Twitter Bootstrap",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307041204.ogg"
+    }
+  ]
+}

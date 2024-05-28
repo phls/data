@@ -1,0 +1,23 @@
+{
+  "description": "Sim! A Mozilla tamb\u00e9m possui projetos para IoT. No ano de 2015 foi anunciado que o sistema operacional Firefox OS come\u00e7aria a focar na internet das coisas, um grande mercado a ser explorado principalmente pelo Firefox OS e todo seu conceito de ser construido com linguagens web. Nesta atividade ser\u00e1 apresentado todos os detalhes necess\u00e1rios para conhecer projetos da Mozilla focados na IoT. Confira o que j\u00e1 est\u00e1 pronto e o que j\u00e1 pode ser feito utilizando o Firefox OS como base para a IoT.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "connect-devices-and-future-of-iot",
+  "speakers": [
+    "Jaime Maretoli Belmonte"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Mozilla"
+  ],
+  "title": "Connect Devices and Future of IoT",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607141811.ogv"
+    }
+  ]
+}

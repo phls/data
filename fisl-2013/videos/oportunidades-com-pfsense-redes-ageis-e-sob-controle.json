@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "oportunidades-com-pfsense-redes-ageis-e-sob-controle",
+  "speakers": [
+    "Cleber Machado Le\u00e3o"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Distribui\u00e7\u00f5es GNU/Linux e BSD"
+  ],
+  "title": "Oportunidades com pfSense - Redes \u00e1geis e sob controle",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307061259.ogg"
+    }
+  ]
+}

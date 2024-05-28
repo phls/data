@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "como-podemos-e-devemos-monitorar-nosso-codigo-fonte",
+  "speakers": [
+    "Daniel Paulino Alves",
+    "Diego Martinez",
+    "Alessandro Wagner Palmeira",
+    "Rafael Manzo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Como podemos e devemos monitorar nosso c\u00f3digo-fonte?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307051053.ogg"
+    }
+  ]
+}

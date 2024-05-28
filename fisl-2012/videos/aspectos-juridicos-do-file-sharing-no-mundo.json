@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "aspectos-juridicos-do-file-sharing-no-mundo",
+  "speakers": [
+    "Felipe Octaviano Delgado Busnello"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Aspectos jur\u00eddicos do file-sharing no mundo",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41d/sala41d-high-201207281059.ogg"
+    }
+  ]
+}

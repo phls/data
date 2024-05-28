@@ -1,0 +1,45 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Exposi\u00e7\u00e3o comparativa entre o Projeto de Software Livre que \u00e9 desenvolvido no governo mexicano e o modelo aplicado pelo governo brasileiro em institui\u00e7\u00f5es de educa\u00e7\u00e3o e empresas. Ser\u00e3o abordadas as estrat\u00e9gias tecnol\u00f3gicas e de desenvolvimento do Projeto, que traz vantagens para estudantes e empres\u00e1rios.",
+  "duration": 4220,
+  "id": 8,
+  "language": "por",
+  "recorded": "2012-02-07",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/governo-educacao-e-software-livre"
+  ],
+  "slug": "governo-educacao-e-software-livre",
+  "speakers": [
+    "Carlos Alberto Jacques de Castro",
+    "Cezar Benedito Pierin",
+    "Corinto Meffe",
+    "Lincoln de Sousa Primo Clarete",
+    "Manuel Haro Marquez",
+    "Marlon Feij\u00f3 Dutra"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "Painel",
+    "S\u00e3o Paulo"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/governo-educacao-e-software-livre.jpg",
+  "title": "Painel: governo, educa\u00e7\u00e3o e Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "://www.youtube.com/watch?v=u70aDy6VIwQ"
+    },
+    {
+      "size": 1047394797,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-governo-educacao-e-software-livre.ogv"
+    },
+    {
+      "size": 1262833425,
+      "type": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-governo-educacao-e-software-livre.webm",
+      "url": ""
+    }
+  ]
+}

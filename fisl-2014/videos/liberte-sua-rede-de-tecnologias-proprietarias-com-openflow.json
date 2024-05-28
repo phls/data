@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-08",
+  "slug": "liberte-sua-rede-de-tecnologias-proprietarias-com-openflow",
+  "speakers": [
+    "Beraldo Leal"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Liberte sua rede de tecnologias propriet\u00e1rias com OpenFlow",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41b/sala41b-high-201405081100.ogv"
+    }
+  ]
+}

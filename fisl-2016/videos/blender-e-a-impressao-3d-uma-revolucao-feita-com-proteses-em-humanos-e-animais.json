@@ -1,0 +1,23 @@
+{
+  "description": "O Blender \u00e9 um poderoso software de modelagem e anima\u00e7\u00e3o. Com o advento da impress\u00e3o 3D o que era puramente virtual passa a ser materializado e abre in\u00fameras possibilidades que unem a computa\u00e7\u00e3o gr\u00e1fica a outros campos do conhecimento. Nessa atividade voc\u00ea acompanhar\u00e1 alguns projetos que usam o Blender na Medicina Veterin\u00e1ria e no planejamento de cirurgias de face. Entenda como o campo da reconstru\u00e7\u00e3o facial digital, iniciado com intuito puramente arqueol\u00f3gico e cultural se transformou em um importante aliado na cria\u00e7\u00e3o de tecnologias que contemplam desde a confec\u00e7\u00e3o de pr\u00f3teses animais, at\u00e9 aquelas que brindam cirurgi\u00f5es com grandes possibilidades no no planejamento de seus trabalhos, e claro, tudo feito com software livre e de c\u00f3digo aberto.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "blender-e-a-impressao-3d-uma-revolucao-feita-com-proteses-em-humanos-e-animais",
+  "speakers": [
+    "C\u00edcero Andr\u00e9 da Costa Moraes"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Aplica\u00e7\u00f5es Desktop"
+  ],
+  "title": "Blender e a impress\u00e3o 3D: Uma revolu\u00e7\u00e3o feita com pr\u00f3teses em humanos e animais",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41a/sala41a-high-201607141002.ogv"
+    }
+  ]
+}

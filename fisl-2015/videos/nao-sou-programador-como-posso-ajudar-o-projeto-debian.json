@@ -1,0 +1,23 @@
+{
+  "description": "Essa n\u00e3o \u00e9 uma palestra t\u00e9cnica, mas visa explicar como o Projeto Debian trabalha em diversas frentes, permitindo que qualquer pessoa ajude com suas aptid\u00f5es e desejos de trabalho.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "nao-sou-programador-como-posso-ajudar-o-projeto-debian",
+  "speakers": [
+    "Luiz Eduardo Guaraldo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "miniDebConf"
+  ],
+  "title": "N\u00e3o sou programador, como posso ajudar o Projeto Debian?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507101104.ogv"
+    }
+  ]
+}

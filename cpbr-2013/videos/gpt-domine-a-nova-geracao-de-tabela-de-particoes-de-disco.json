@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O GUID Partition Table (GPT) \u00e9 um novo modelo de tabela de parti\u00e7\u00e3o de disco, que faz parte do padr\u00e3o UEFI, desenvolvido inicialmente pela Intel, como substitui\u00e7\u00e3o \u00e0 BIOS tradicional em PC. O GPT \u00e9 uma realidade atual e emergente, uma vez que o antigo MBR possui limita\u00e7\u00f5es e, juntamente com o sistema BIOS tradicional, s\u00f3 permite a utiliza\u00e7\u00e3o de discos de at\u00e9 2 TB, contra 9 ZB do GPT. A palestra mostrar\u00e1 os detalhes t\u00e9cnicos sobre o GPT, bem como a sua ger\u00eancia e utiliza\u00e7\u00e3o m\u00e1quinas com GNU/Linux.",
+  "duration": 2790,
+  "id": 52,
+  "language": "por",
+  "recorded": "2013-02-02",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/gpt-domine-a-nova-geracao-de-tabela-de-particoes-de-disco",
+    "http://slcampusparty.com.br/blog/gpt-domine-a-nova-geracao-de-tabela-de-particoes-de-disco"
+  ],
+  "slug": "gpt-domine-a-nova-geracao-de-tabela-de-particoes-de-disco",
+  "speakers": [
+    "Jo\u00e3o Eriberto Mota Filho"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "GUID Partition Table (GPT)",
+    "UEFI",
+    "BIOS",
+    "Parti\u00e7\u00e3o"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/gpt-domine-a-nova-geracao-de-tabela-de-particoes-de-disco.jpg",
+  "title": "GPT: domine a nova gera\u00e7\u00e3o de tabela de parti\u00e7\u00f5es de disco",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=mh5RE8Hl48s"
+    },
+    {
+      "size": 218671555,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-gpt-domine-a-nova-geracao-de-tabela-de-particoes-de-disco.ogv"
+    },
+    {
+      "size": 69652774,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-gpt-domine-a-nova-geracao-de-tabela-de-particoes-de-disco.webm"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "kernel-linux-onde-podemos-encontra-lo-onde-voce-nem-imagina",
+  "speakers": [
+    "David Jourdain"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Kernel, Sistemas de Arquivos e Sistemas Operacionais"
+  ],
+  "title": "Kernel Linux - Onde podemos encontr\u00e1-lo? Onde voc\u00ea nem imagina!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41b/sala41b-high-201405101559.ogv"
+    }
+  ]
+}

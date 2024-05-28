@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "o-canivete-suico-do-python",
+  "speakers": [
+    "Douglas Andrade",
+    "Mario Augusto Mania"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Python, Ruby e Perl"
+  ],
+  "title": "O Canivete Sui\u00e7o do Python",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40a/sala40a-high-201106290951.ogv"
+    }
+  ]
+}

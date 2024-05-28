@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Uma das maiores dificuldades para os programadores hoje, \u00e9 escolher uma linguagem de programa\u00e7\u00e3o e framework que esteja presente nas plataformas e arquiteturas atuais. Atualmente temos Windows, MacOSX, Linux, Android, e IOS, e a grande quest\u00e3o ? Como desenvolver um software nativo para essas plataformas sem ter que reescrever o programa em suas IDE's espec\u00edficas ? A resposta \u00e9 o framework que vem crescendo \u00e0 passos largos chamado Qt. Qt \u00e9 um framework que tem seu conjunto de classes que abstrai a maioria das funcionalidades necess\u00e1rias para se desenvolver um aplicativo. Qt Creator tamb\u00e9m \u00e9 feita inteiramente usando o framework Qt. Desenvolva seu aplicativo e compile para v\u00e1rias plataformas. Pode at\u00e9 ser que voc\u00ea nunca tenha ouvido falar do Qt, mas ele est\u00e1 no seu dia a dia, podemos destacar a interface gr\u00e1fica do Linux chamada KDE, Oracle VirtualBOX, um mixador de \u00e1udio chamado Mixxx, e o famoso programa de eletr\u00f4nica chamado Labcenter Proteus. Tamb\u00e9m muito utilizado na ind\u00fastria, e em plataformas cr\u00edtias de tempo real, como QNX e VxWorks, comum em equipamentos industriais, equipamentos de defesa e seguran\u00e7a, equipamentos hospistalares.",
+  "duration": 2880,
+  "id": 65,
+  "language": "por",
+  "recorded": "2016-11-11",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-minas-gerais-2016/talk/desenvolvendo-em-qt-para-multi-dispositivos"
+  ],
+  "slug": "desenvolvendo-em-qt-para-multi-dispositivos",
+  "speakers": [
+    "Jo\u00e3o Ricardo Pagotto"
+  ],
+  "tags": [
+    "CPMG",
+    "Campus Party Minas Gerais",
+    "Software Livre",
+    "Minas Gerais",
+    "Belo Horizonte",
+    "Qt",
+    "Framework",
+    "KDE"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/desenvolvendo-em-qt-para-multi-dispositivos.jpg",
+  "title": "Desenvolvendo em Qt para multi dispositivos",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=WGIRflsGnmQ"
+    },
+    {
+      "size": 134469602,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpmg1-2016/cpmg1-2016-desenvolvendo-em-qt-para-multi-dispositivos.ogv"
+    },
+    {
+      "size": 138527210,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpmg1-2016/cpmg1-2016-desenvolvendo-em-qt-para-multi-dispositivos.webm"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "compatibleone-rd-project-the-freedom-of-interoperability-above-the-clouds",
+  "speakers": [
+    "Rafael Manhaes Monnerat",
+    "C\u00e9dric Thomas"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "CompatibleOne R&D Project: The Freedom of interoperability above the  > clouds",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40t/sala40t-high-201107021502.ogv"
+    }
+  ]
+}

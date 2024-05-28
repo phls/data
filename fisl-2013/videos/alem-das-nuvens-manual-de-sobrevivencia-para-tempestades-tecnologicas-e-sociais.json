@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "alem-das-nuvens-manual-de-sobrevivencia-para-tempestades-tecnologicas-e-sociais",
+  "speakers": [
+    "Luis Fernando Soeiro"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Compartilhamento"
+  ],
+  "title": "Al\u00e9m das nuvens: manual de sobreviv\u00eancia para tempestades tecnol\u00f3gicas e sociais",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307051000.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "libreoffice-continuous-community-integration",
+  "speakers": [
+    "Bjoern Michaelsen"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas de escrit\u00f3rio"
+  ],
+  "title": "LibreOffice - Continuous community integration",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40t/sala40t-high-201307061400.ogg"
+    }
+  ]
+}

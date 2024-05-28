@@ -1,0 +1,23 @@
+{
+  "description": "O mundo de hoje oferece desafios muito maiores do que o que costum\u00e1vamos viver. Alguns dizem que a privacidade morreu. De certa maneira para a maioria das pessoas, atualmente isso \u00e9 verdade. Isso porque, quando existem agencias governamentais com tamanho poder, verba, e influ\u00eancia, fica dif\u00edcil para qualquer um manter sua privacidade. O mundo p\u00f3s Snowden, descobriu que suas maiores empresas de tecnologia, foram coagidas a fornecer dados para a NSA e seus aliados. Sabemos tamb\u00e9m que a espionagem j\u00e1 \u00e9 presente mesmo a n\u00edvel de hardware, com firmwares modificados antes mesmo, ou posterior a saida da f\u00e1brica. Como podemos combater tamanho poderio? Pensando em todo esse complexo cen\u00e1rio surgiu um ambicioso projeto chamado UVST (User Verifable Social Telematics). Este projeto visa criar uma plataforma computacional, ultra-seguro atrav\u00e9s da total e completa verificabilidade pelo usu\u00e1rio desde o processo da manufatura, at\u00e9 a implementa\u00e7\u00e3o dos servi\u00e7os. Utilizando-se exclusivamente se software livre e de c\u00f3digo aberto, o projeto contempla a utiliza\u00e7\u00e3o de toda uma gama de equipamentos seguros indo desde servidores com processadores seguros at\u00e9 a cria\u00e7\u00e3o de desktops e dispositivos port\u00e1teis. Em seu produto final oferecer\u00e1 servi\u00e7os de comunica\u00e7\u00e3o segura como, e-mail, chat, web, e voz. Nessa palestra explicarei alguns pontos de como isso ser\u00e1 feito. Venha saber como voc\u00ea pode ajudar a mudar o mundo como conhecemos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "uvst-a-plataforma-segura-aberta-e-confiavel-que-pode-vencer-a-espionagem",
+  "speakers": [
+    "Alberto J. Azevedo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Seguran\u00e7a"
+  ],
+  "title": "UVST. A plataforma segura, aberta e confi\u00e1vel que pode vencer a espionagem",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41a/sala_41a-high-201507081403.ogv"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "wsl-s5-tools-to-support-software-development-ii",
+  "speakers": [
+    "Paulo Meirelles",
+    "Daniel Mac\u00eado Batista",
+    "Carlos Morais",
+    "Caio Sacramento de Britto Almeida"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "WSL"
+  ],
+  "title": "WSL (S5): Tools to support software development II",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40a/sala40a-high-201207271505.ogg"
+    }
+  ]
+}

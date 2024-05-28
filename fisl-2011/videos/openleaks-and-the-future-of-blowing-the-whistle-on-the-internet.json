@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "openleaks-and-the-future-of-blowing-the-whistle-on-the-internet",
+  "speakers": [
+    "Daniel Domscheit-Berg"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Seguran\u00e7a"
+  ],
+  "title": "OpenLeaks and the future of blowing the whistle on the internet",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40t/sala40t-high-201107011359.ogv"
+    }
+  ]
+}

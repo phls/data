@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "editando-fotos-com-o-gimp-28",
+  "speakers": [
+    "Jo\u00e3o Sebasti\u00e3o de Oliveira Bueno"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Editando fotos com o GIMP 2.8",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41d/sala41d-high-201207261159.ogg"
+    }
+  ]
+}

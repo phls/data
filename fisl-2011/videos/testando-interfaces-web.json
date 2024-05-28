@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "testando-interfaces-web",
+  "speakers": [
+    "Andrews Patrick Rocha Medina",
+    "Francisco Souza"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Python, Ruby e Perl"
+  ],
+  "title": "Testando interfaces web",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41d/sala41d-high-201107011057.ogv"
+    }
+  ]
+}

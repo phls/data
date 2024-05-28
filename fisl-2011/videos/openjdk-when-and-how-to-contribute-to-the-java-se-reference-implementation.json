@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "openjdk-when-and-how-to-contribute-to-the-java-se-reference-implementation",
+  "speakers": [
+    "Dalibor Topic"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "PHP e Java"
+  ],
+  "title": "OpenJDK \u2013 When and How to Contribute to the Java SE Reference Implementation",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40t/sala40t-high-201107011259.ogv"
+    }
+  ]
+}

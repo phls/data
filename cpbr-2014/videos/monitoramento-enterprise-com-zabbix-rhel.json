@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Para grandes corpora\u00e7\u00f5es, disponibilidade da infraestrutura custa caro e frequentes downtimes podem impactar diretamente na continuidade dos neg\u00f3cios, implicando em preju\u00edzos desastrosos e multas astron\u00f4micas. Nessa palestra, ser\u00e1 apresentada a solu\u00e7\u00e3o Enterprise e Open Source para monitoramento de toda infraestrutura de TI, combinando o sistema de monitoramento Zabbix e o Red Hat Enterprise Linux.",
+  "duration": 3336,
+  "id": 100,
+  "language": "por",
+  "recorded": "2014-01-31",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-monitoramento-enterprise-com-zabbix-rhel",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-monitoramento-enterprise-com-zabbix-rhel"
+  ],
+  "slug": "monitoramento-enterprise-com-zabbix-rhel",
+  "speakers": [
+    "Alessandro de Souza e Silva"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Zabbix",
+    "Red Hat Enterprise Linux"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/monitoramento-enterprise-com-zabbix-rhel.jpg",
+  "title": "Monitoramento Enterprise com Zabbix + RHEL",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=HM7vN3oaBTs"
+    },
+    {
+      "size": 219000955,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-monitoramento-enterprise-com-zabbix-rhel.ogv"
+    },
+    {
+      "size": 94021670,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-monitoramento-enterprise-com-zabbix-rhel.webm"
+    }
+  ]
+}

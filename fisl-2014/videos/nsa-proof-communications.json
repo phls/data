@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "nsa-proof-communications",
+  "speakers": [
+    "Jan Seidl"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Seguran\u00e7a"
+  ],
+  "title": "NSA-proof communications",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/40t/sala40t-high-201405071704.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "sumo-how-mozilla-supports-400-million-users-with-6-employees",
+  "speakers": [
+    "Chris Hoffman"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "SUMO \u2014 How Mozilla supports 400 Million users with 6 employees",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201106301400.ogv"
+    }
+  ]
+}

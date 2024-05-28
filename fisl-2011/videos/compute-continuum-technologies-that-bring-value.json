@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "compute-continuum-technologies-that-bring-value",
+  "speakers": [
+    "James A. Beasley"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "MeeGo Day"
+  ],
+  "title": "Compute Continuum - technologies that bring value",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40t/sala40t-high-201106291203.ogv"
+    }
+  ]
+}

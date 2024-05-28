@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "workshop-iot-internet-of-things",
+  "speakers": [
+    "Morvana Bonin"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Eventos Comunit\u00e1rios"
+  ],
+  "title": "Workshop IoT (Internet of Things)",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41f/sala41f-high-201405100907.ogv"
+    }
+  ]
+}

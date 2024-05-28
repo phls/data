@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "escrevendo-compactador-em-python",
+  "speakers": [
+    "Israel da Silva Teixeira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Python, Ruby e Perl"
+  ],
+  "title": "Escrevendo Compactador em Python",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41e/sala41e-high-201307051759.ogg"
+    }
+  ]
+}

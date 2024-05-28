@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "glib-gobject-a-praticidade-do-mundo-g",
+  "speakers": [
+    "Luciana Fujii Pontello"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Desktop e Distribui\u00e7\u00f5es"
+  ],
+  "title": "GLib, GObject... a praticidade do mundo G*",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41a/sala41a-high-201405071602.ogv"
+    }
+  ]
+}

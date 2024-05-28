@@ -1,0 +1,40 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Discutir sobre arquivos e bens culturais em uma sociedade em que leis sobre copyright, marcas e patentes cada vez inibem mais o pr\u00f3prio uso de programas computacionais, a criatividade e o acesso \u00e0 informa\u00e7\u00e3o e ao conhecimento. Ser\u00e3o brevemente discutidos, entre outros, os seguintes itens: propriedade intelectual, intangibilidade das ideias, marcas, patentes, direito autoral. Alguns projetos de lei para controle de downloads, exemplo: copyright, Software livre X monop\u00f3lios, arquivos e bens culturais, arquivos fechado ou privativo x aberto ou livre, formatos aprisionamento a programas e/ou sistema operacional.",
+  "duration": 530,
+  "id": 22,
+  "language": "por",
+  "recorded": "2013-01-31",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/com-software-livre-voce-pode",
+    "http://slcampusparty.com.br/blog/com-software-livre-voce-pode"
+  ],
+  "slug": "com-software-livre-voce-pode",
+  "speakers": [
+    "F\u00e1tima Conti"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/com-software-livre-voce-pode.jpg",
+  "title": "Com software livre, voc\u00ea pode!",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=b0IC-UD37jw"
+    },
+    {
+      "size": 69292334,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-com-software-livre-voce-pode.ogv"
+    },
+    {
+      "size": 19225894,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-com-software-livre-voce-pode.webm"
+    }
+  ]
+}

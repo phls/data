@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "the-villagetelco-mesh-potato-project",
+  "speakers": [
+    "Elektra"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "JRRL3"
+  ],
+  "title": "The villagetelco / mesh-potato project",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40t/sala40t-high-201107011600.ogv"
+    }
+  ]
+}

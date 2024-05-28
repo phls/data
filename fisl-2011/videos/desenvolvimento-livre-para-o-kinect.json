@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "desenvolvimento-livre-para-o-kinect",
+  "speakers": [
+    "Gustavo Jordan Castro Brasil"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Desenvolvimento livre para o Kinect",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41b/sala41b-high-201107021353.ogv"
+    }
+  ]
+}

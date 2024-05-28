@@ -1,0 +1,23 @@
+{
+  "description": "O KDE est\u00e1 completando 20 anos! O projeto que come\u00e7ou como um desktop para o Linux, hoje se tornou uma comunidade internacional que agrega varios projetos de software livre de diversas naturezas, inclusive uma distro, rec\u00e9m-lan\u00e7ada. Nesta palestra, iremos contar um pouco da hist\u00f3ria dessa consolidada comunidade e de seus projetos, assim como de seus poss\u00edveis desafios e rumos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "20-anos-de-kde-de-desktop-a-guarda-chuva-de-projetos",
+  "speakers": [
+    "Aracele Torres"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Engrenagem"
+  ],
+  "title": "20 anos de KDE: de Desktop a Guarda-Chuva de Projetos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607131406.ogv"
+    }
+  ]
+}

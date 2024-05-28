@@ -1,0 +1,24 @@
+{
+  "description": "O movimento de hardware livre vem crescendo no mundo todo, porem, todo entusiasta com o desenvolvimento de hardware tinha a necessidade de adquirir licen\u00e7as de softwares para realizar o projeto de esquem\u00e1tico e layout de pcb, j\u00e1 que o uso de software profissional \u00e9 necess\u00e1rio para placas multi-camada e de centenas de NETs, o Arduino por exemplo utiliza software propriet\u00e1rio no seu desenvolvimento. At\u00e9 ent\u00e3o, n\u00e3o havia outra op\u00e7\u00e3o at\u00e9 que surgiu o software livre Kicad uma ferramenta que vem se aprimorando e crescendo a cada dia em n\u00famero de usu\u00e1rios e f\u00e3s hoje, o release 2015 \u00e9 um aplicativo profissional que permite a cria\u00e7\u00e3o de esquem\u00e1ticos e layouts de placas de circuito impresso de at\u00e9 32 camadas al\u00e9m das camadas t\u00e9cnicas compativel com diversas distribui\u00e7\u00f5es Linux e at\u00e9 Windows e Mac os, o Kicad \u00e9 livre sobre a GNU GPL v2, sendo uma ferramenta completa, com esquem\u00e1tico, pcb, design de componentes, footprints com uma vasta biblioteca e visualiza\u00e7\u00e3o 3D.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "desenvolvendo-hardware-livre-com-software-livre",
+  "speakers": [
+    "Thalis Antunes de Souza",
+    "Felipe Cezar de Castro Antunes"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Hardware Aberto"
+  ],
+  "title": "Desenvolvendo Hardware Livre com Software Livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507101600.ogv"
+    }
+  ]
+}

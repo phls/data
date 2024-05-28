@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "tutorial-de-formularios-e-tabelas-acessiveis",
+  "speakers": [
+    "Reinaldo Ferraz",
+    "Carlinhos Cecconi"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Tutorial de Formul\u00e1rios e Tabelas Acess\u00edveis ",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201107011359.ogv"
+    }
+  ]
+}

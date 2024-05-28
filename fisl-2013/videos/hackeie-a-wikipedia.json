@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "hackeie-a-wikipedia",
+  "speakers": [
+    "Henrique Andrade"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ger\u00eancia de Conte\u00fado"
+  ],
+  "title": "Hackeie a Wikip\u00e9dia!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307041311.ogg"
+    }
+  ]
+}

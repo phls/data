@@ -1,0 +1,38 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Apresenta\u00e7\u00e3o realizada durante o painel Distros GNU/Linux: modelos de desenvolvimento, no I Semin\u00e1rio Software e Cultura no Brasil da UFABC.",
+  "duration": 1515,
+  "id": 230,
+  "language": "por",
+  "recorded": "2016-08-16",
+  "related_urls": [
+    "http://pesquisa.ufabc.edu.br/lablivre/seminario"
+  ],
+  "slug": "o-que-eh-debian",
+  "speakers": [
+    "Paulo Kretcheu"
+  ],
+  "tags": [
+    "UFABC",
+    "I Semin\u00e1rio Software e Cultura no Brasil",
+    "Debian"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/o-que-eh-debian.jpg",
+  "title": "O que \u00e9 Debian",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=0ihtvgkmEVM"
+    },
+    {
+      "size": 221089259,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/kretcheu-o-que-eh-debian-na-UFABC.ogv"
+    },
+    {
+      "size": 88164872,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/kretcheu-o-que-eh-debian-na-UFABC.webm"
+    }
+  ]
+}

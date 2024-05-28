@@ -1,0 +1,23 @@
+{
+  "description": "Existe uma tend\u00eancia mundial de conectar, os equipamentos, carros, casas, empresas, pessoas dentre outros por sensores. O desafio atual \u00e9 analisar essa massa de dados gerada pela Internet das Coisas (IoT). Ser\u00e1 apresentado nesta palestra os conceitos fundamentais de Big Data e IoT mas focar principalmente na rela\u00e7\u00e3o do impacto da Internet das Coisas no Big Data assim como explanar como podemos fazer a gest\u00e3o, armazenamento,  processamento e analise dos dados gerados pelas \u201ccoisas\u201d usando diversos softwares livres no ecosistema de Big Data. Ser\u00e3o apresentados solu\u00e7\u00f5es de software  da funda\u00e7\u00e3o Apache e de outros fornecedores  e comunidades de softwares livres e softwares de c\u00f3digo aberto que permitem gerar informa\u00e7\u00f5es adequadas de forma r\u00e1pida e inteligente de bases de dados geradas pela IOT. Ser\u00e3o apresentados alguns cases de uso criados mundialmente usando cen\u00e1rios similares aos apresentados e um pouco do cen\u00e1rio brasileiro e suas iniciativas.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "softwares-livres-de-big-data-para-armazenamento-e-analise-de-dados-da-iot",
+  "speakers": [
+    "Marcio Junior Vieira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Internet das Coisas"
+  ],
+  "title": "Softwares Livres de Big Data para Armazenamento e An\u00e1lise de Dados da IoT",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41b/sala41b-high-201607141103.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "ubuntu-touch-o-definitivo-linux-de-bolso",
+  "speakers": [
+    "Alessandro de Oliveria Faria - Cabelo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Mobile"
+  ],
+  "title": "Ubuntu Touch - O Definitivo linux de bolso.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307041602.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "iot-a-internet-das-coisas",
+  "speakers": [
+    "Jomar Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Hardware, Sistemas Embarcados e Rob\u00f3tica"
+  ],
+  "title": "IoT: A Internet das Coisas",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/40t/sala40t-high-201405091305.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "quasi-engine-um-framework-baseado-em-qtquick-para-o-desenvolvimento-de-jogos-2d",
+  "speakers": [
+    "Roger Felipe Zanoni da Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Quasi-Engine: Um framework baseado em QtQuick para o desenvolvimento de jogos 2D",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41b/sala41b-high-201207261358.ogg"
+    }
+  ]
+}

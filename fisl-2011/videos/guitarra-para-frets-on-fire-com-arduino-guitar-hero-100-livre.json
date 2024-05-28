@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "guitarra-para-frets-on-fire-com-arduino-guitar-hero-100-livre",
+  "speakers": [
+    "\u00c1lvaro Justen",
+    "Tatiana Al-Chueyr"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Guitarra para Frets on Fire com Arduino: \u201cGuitar Hero\u201d 100% livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201106301403.ogv"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "redes-livres-o-que-sao-e-como-estao",
+  "speakers": [
+    "Juliano Machado",
+    "Felipe Santos",
+    "Guilherme Rosa Varella",
+    "Rafael Vasconcelos",
+    "Marcus Medeiros",
+    "Jean Rodrigues",
+    "Alisson Maciel"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Redes Livres, o que s\u00e3o e como est\u00e3o?!?!?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41c/sala41c-high-201207281756.ogg"
+    }
+  ]
+}

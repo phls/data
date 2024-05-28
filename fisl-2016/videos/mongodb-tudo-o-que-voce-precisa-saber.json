@@ -1,0 +1,23 @@
+{
+  "description": "O MongoDB \u00e9 um dos bancos de dados n\u00e3o relacionais mais populares hoje em dia. Com seu r\u00e1pido crescimento, \u00e9 uma escolha muito comum em diversos projetos. Quando usado corretamente, o MongoDB auxilia na escalabilidade de qualquer projetos, por\u00e9m quando \u00e9 usado de maneira errada (com v\u00edcios adquiridos dos bancos relacionais), sua performance \u00e9 comprometida. Essa palestra mostra as boas pr\u00e1ticas e tamb\u00e9m mostra o que n\u00e3o deve ser feito com MongoDB. As novidades da vers\u00e3o 3.2 tamb\u00e9m ser\u00e3o mostradas, como JOIN, valida\u00e7\u00e3o de documentos e melhorias nos \u00edndices geogr\u00e1ficos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-16",
+  "slug": "mongodb-tudo-o-que-voce-precisa-saber",
+  "speakers": [
+    "Christiano Anderson de Souza"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Bancos de Dados"
+  ],
+  "title": "MongoDB - Tudo o que voc\u00ea precisa saber",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41a/sala41a-high-201607161000.ogv"
+    }
+  ]
+}

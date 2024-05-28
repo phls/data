@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "globocom-criando-um-dos-maiores-portais-da-internet-com-software-livre",
+  "speakers": [
+    "Igor Maca\u00fabas"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "Globo.com - Criando um dos maiores portais da internet com Software Livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201107021059.ogv"
+    }
+  ]
+}

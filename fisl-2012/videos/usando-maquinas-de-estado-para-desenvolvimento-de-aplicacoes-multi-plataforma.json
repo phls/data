@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "usando-maquinas-de-estado-para-desenvolvimento-de-aplicacoes-multi-plataforma",
+  "speakers": [
+    "Agnaldo Oliveira Penha Junior",
+    "Alvaro Fagner Rodrigues da Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Usando Maquinas de Estado para desenvolvimento de aplica\u00e7\u00f5es multi-plataforma",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41b/sala41b-high-201207281209.ogg"
+    }
+  ]
+}

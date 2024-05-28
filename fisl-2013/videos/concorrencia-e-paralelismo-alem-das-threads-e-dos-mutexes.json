@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "concorrencia-e-paralelismo-alem-das-threads-e-dos-mutexes",
+  "speakers": [
+    "Francisco Souza"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Concorr\u00eancia e paralelismo al\u00e9m das threads e dos mutexes",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307031258.ogg"
+    }
+  ]
+}

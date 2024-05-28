@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "tech-talks-construindo-uma-ponte-entre-desenvolvedores-e-a-sociedade-civil",
+  "speakers": [
+    "Liane Lira",
+    "Diego Casaes",
+    "Capi Etheriel"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Tech Talks: construindo uma ponte entre desenvolvedores e a sociedade civil",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41b/sala41b-high-201106291207.ogv"
+    }
+  ]
+}

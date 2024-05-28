@@ -1,0 +1,48 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Atualmente existem v\u00e1rias distribui\u00e7\u00f5es GNU/Linux, umas s\u00e3o mantidas por comunidades como universidades, governos, e tamb\u00e9m existem as distribui\u00e7\u00f5es mantidas por empresas. Entenda como esse universo das distribui\u00e7\u00f5es funciona e conhe\u00e7a algumas delas.",
+  "duration": 4214,
+  "id": 109,
+  "language": "por",
+  "recorded": "2014-01-28",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/painel-distribuicoes-gnulinux-entenda-como-funciona",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-distribuicoes-gnulinux-entenda-como-funciona"
+  ],
+  "slug": "distribuicoes-gnu-linux-entenda-como-funciona",
+  "speakers": [
+    "Davi Tenorio Souza",
+    "Francisco Erik da Silva",
+    "Izabel Valverde",
+    "Luiz Henrique Rauber Rodrigues",
+    "Paulo Henrique de Lima Santana"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "Debian",
+    "Fedora",
+    "openSUSE"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/distribuicoes-gnu-linux-entenda-como-funciona.jpg",
+  "title": "Painel: Distribui\u00e7\u00f5es GNU/Linux - entenda como funciona",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=sfgazgTXhIs"
+    },
+    {
+      "size": 495700820,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-distribuicoes-gnu-linux-entenda-como-funciona.ogv"
+    },
+    {
+      "size": 213822255,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-distribuicoes-gnu-linux-entenda-como-funciona.webm"
+    }
+  ]
+}

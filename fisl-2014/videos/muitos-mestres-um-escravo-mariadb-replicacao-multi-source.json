@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "muitos-mestres-um-escravo-mariadb-replicacao-multi-source",
+  "speakers": [
+    "Carlos Pirez"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Gerenciamento de Dados"
+  ],
+  "title": "Muitos mestres, um escravo: MariaDB replica\u00e7\u00e3o multi source",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41c/sala41c-high-201405071305.ogv"
+    }
+  ]
+}

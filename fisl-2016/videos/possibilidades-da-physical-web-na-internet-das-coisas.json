@@ -1,0 +1,25 @@
+{
+  "description": "A populariza\u00e7\u00e3o da internet das coisas j\u00e1 \u00e9 uma realidade, entretanto a forma como interagimos com essas \u201ccoisas\u201d ainda \u00e9 pouco intuitiva, somos dependentes da utiliza\u00e7\u00e3o de aplicativos pr\u00f3prios, e que muitas vezes inibem e burocratizam a intera\u00e7\u00e3o. O protocolo Open Source Eddystone patrocinado pela gigante Google, utiliza far\u00f3is(beacon) para criar uma intera\u00e7\u00e3o mais fluida atrav\u00e9s do que est\u00e1 sendo chamado de Physical Web. Esta abordagem busca cria uma ponte entre os dispositivos inteligentes e a web tradicional, neste contexto, utilizando tecnologias como o Bluetooth 4.0 (Low Energy) e a API Web Bluetooth, \u00e9 poss\u00edvel uma p\u00e1gina html5, inicialmente descoberta ao se aproximar de um dispositivo, interagir com o mesmo diretamente n\u00e3o dependendo mais do fluxo de dados atrav\u00e9s da internet. Sendo assim vemos que h\u00e1 um grande potencial na ado\u00e7\u00e3o da Physical Web pela internet das coisas.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "possibilidades-da-physical-web-na-internet-das-coisas",
+  "speakers": [
+    "Felipe Cezar de Castro Antunes",
+    "Giuliano Viana de Alkmim",
+    "Thalis Antunes de Souza"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Internet das Coisas"
+  ],
+  "title": "Possibilidades da Physical Web na Internet das Coisas",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41b/sala41b-high-201607141458.ogv"
+    }
+  ]
+}

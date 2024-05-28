@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "forense-computacional-com-software-livre",
+  "speakers": [
+    "Luiz Vieira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Seguran\u00e7a"
+  ],
+  "title": "Forense Computacional com Software Livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41b/sala41b-high-201106300856.ogv"
+    }
+  ]
+}

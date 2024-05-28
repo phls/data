@@ -1,0 +1,27 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "medindo-a-qualidade-da-sua-internet-em-regime-24x7-simetbox",
+  "speakers": [
+    "Fabr\u00edcio Raupp Tamusiunas "
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Medindo a qualidade da sua Internet em regime 24X7: SIMETBox",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307031500.ogg"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307031527.ogg"
+    }
+  ]
+}

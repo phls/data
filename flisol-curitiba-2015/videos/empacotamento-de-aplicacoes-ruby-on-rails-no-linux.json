@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O objetivo da palestra \u00e9 apresentar o relato da experi\u00eancia no empacotamento de uma aplica\u00e7\u00e3o Ruby on Rails para diferentes distribui\u00e7\u00f5es Linux. Ser\u00e3o apresentadas as alternativas de solu\u00e7\u00e3o, as dificuldades encontradas e os resultados obtidos. O trabalho realizado visou buscar um processo de empacotamento que pudesse ser repetido, de forma praticamente autom\u00e1tica, sempre que houver a necessidade de distribuir uma nova vers\u00e3o da aplica\u00e7\u00e3o. Para conseguir isto, foi necess\u00e1rio realizar experimentos com diferentes solu\u00e7\u00f5es de empacotamento open sourcea fim de definir a melhor solu\u00e7\u00e3o a ser adotada.",
+  "duration": 2162,
+  "id": 242,
+  "language": "por",
+  "recorded": "2015-04-25",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2015-curitiba"
+  ],
+  "slug": "empacotamento-de-aplicacoes-ruby-on-rails-no-linux",
+  "speakers": [
+    "Aur\u00e9lio Thomasi Junior",
+    "Fabricio Ceschin"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2015",
+    "Curitiba",
+    "Software Livre",
+    "Ruby",
+    "Rails",
+    "Ruby on Rails"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2015-empacotamento-de-aplicacoes-ruby-on-rails-no-linux.jpg",
+  "title": "Empacotamento de aplica\u00e7\u00f5es Ruby on Rails no Linux",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=a5vZdYC92vU"
+    },
+    {
+      "size": 455258182,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-empacotamento-de-aplicacoes-ruby-on-rails-no-linux.ogv"
+    },
+    {
+      "size": 130536234,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-empacotamento-de-aplicacoes-ruby-on-rails-no-linux.webm"
+    }
+  ]
+}

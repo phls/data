@@ -1,0 +1,23 @@
+{
+  "description": "Zabbix 3.0 \u00e9 o pr\u00f3ximo grande lan\u00e7amento em que estamos trabalhando no momento. Vou falar sobre as novas caracter\u00edsticas desta pr\u00f3xima vers\u00e3o, ser\u00e3o detalhadas as novas funcionalidades que poder ser usadas para melhorar o monitoramento  j\u00e1 existente. Al\u00e9m disso, vou compartilhar meus pensamentos sobre o futuro do Zabbix e o que podemos esperar para breve.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "zabbix-30-and-beyond",
+  "speakers": [
+    "Alexei Vladishev"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Administra\u00e7\u00e3o de Sistemas"
+  ],
+  "title": "Zabbix 3.0 and beyond !",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507091355.ogv"
+    }
+  ]
+}

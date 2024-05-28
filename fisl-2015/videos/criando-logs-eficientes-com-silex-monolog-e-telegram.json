@@ -1,0 +1,27 @@
+{
+  "description": "Como construir uma API (ou aplica\u00e7\u00e3o web) usando Silex com gest\u00e3o inteligente dos LOGs atrav\u00e9s do Monolog, utilizando o aplicativo de mensagens Telegram para reportar erros que demandam aten\u00e7\u00e3o imediata.\nVeremos como classificar as mensagens de LOG para utilizar syslog para eventos normais, e-mail para aqueles que precisam de aten\u00e7\u00e3o e o mensageiro Telegram para erros que precisam ser tratados com urg\u00eancia.\nO envio dos registros \u00e9 feito em um grupo, onde todos os integrantes da equipe de monitoramento recebem a mensagem simultaneamente.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "criando-logs-eficientes-com-silex-monolog-e-telegram",
+  "speakers": [
+    "Ricardo Coelho"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Criando LOGs Eficientes com Silex, Monolog e Telegram",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507081659.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507081742.ogv"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Em uma \u00e9poca que temos toda a possibilidade de tornarmos ideias em realidade, plataformas como Arduino, Raspberry Pi, BeagleBone Black e tantas outras nos ajudam muito nessa tarefa. A proposta desta palestra \u00e9 direcion\u00e1-lo do ponto de vista tecnol\u00f3gico, de transformar um projeto em um produto vi\u00e1vel para fabrica\u00e7\u00e3o e comercializa\u00e7\u00e3o da sua ideia. Dicas de desenvolvimento de hardware, programa\u00e7\u00e3o, ferramentas auxiliares, lugares para comprar componentes e at\u00e9 mesmo a intera\u00e7\u00e3o com outros profissionais.",
+  "duration": 3552,
+  "id": 95,
+  "language": "por",
+  "recorded": "2014-01-29",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-existe-vida-depois-do-arduino",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-existe-vida-depois-do-arduino"
+  ],
+  "slug": "existe-vida-depois-do-arduino",
+  "speakers": [
+    "Daniel Rodrigues de Sousa"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Arduino",
+    "Raspberry Pi"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/existe-vida-depois-do-arduino.jpg",
+  "title": "Existe vida depois do Arduino?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=dKsRZV_aoLs"
+    },
+    {
+      "size": 966778744,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-existe-vida-depois-do-arduino.ogv"
+    },
+    {
+      "size": 176074924,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-existe-vida-depois-do-arduino.webm"
+    }
+  ]
+}

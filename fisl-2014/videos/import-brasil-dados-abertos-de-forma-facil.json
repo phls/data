@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "import-brasil-dados-abertos-de-forma-facil",
+  "speakers": [
+    "\u00c1lvaro Justen"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Python, Ruby e Perl"
+  ],
+  "title": "import brasil: dados abertos de forma f\u00e1cil",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41b/sala41b-high-201405071405.ogv"
+    }
+  ]
+}

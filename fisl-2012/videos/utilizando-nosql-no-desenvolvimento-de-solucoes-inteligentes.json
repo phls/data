@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "utilizando-nosql-no-desenvolvimento-de-solucoes-inteligentes",
+  "speakers": [
+    "Christiano Anderson de Souza"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Utilizando NoSQL no desenvolvimento de solu\u00e7\u00f5es inteligentes",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41b/sala41b-high-201207281258.ogg"
+    }
+  ]
+}

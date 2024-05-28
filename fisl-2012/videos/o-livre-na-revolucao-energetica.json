@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "o-livre-na-revolucao-energetica",
+  "speakers": [
+    "Sergio Pohlmann"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "O \"livre\" na Revolu\u00e7\u00e3o Energ\u00e9tica!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41b/sala41b-high-201207281100.ogg"
+    }
+  ]
+}

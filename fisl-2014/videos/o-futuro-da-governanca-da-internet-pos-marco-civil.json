@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "o-futuro-da-governanca-da-internet-pos-marco-civil",
+  "speakers": [
+    "Uir\u00e1 Por\u00e3"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "O Futuro da Governan\u00e7a da Internet p\u00f3s-Marco Civil",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/40t/sala40t-high-201405101059.ogv"
+    }
+  ]
+}

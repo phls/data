@@ -1,0 +1,23 @@
+{
+  "description": "Todos falam e discutem sobre como melhorar suas aplica\u00e7\u00f5es, sempre ouve-se falar sobre o paralelismo, mas at\u00e9 onde isso realmente ajuda? Com essa palestra demonstraremos um estudo de caso aplicado a empresa PontoGestor, em que ouve uma melhora no desempenho do sistema ofertado pela empresa, onde que houve a melhora e a estrat\u00e9gia aplicada para a cria\u00e7\u00e3o das threads.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "threads-com-ruby-um-estudo-de-caso",
+  "speakers": [
+    "Fabio L. Janiszevski"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "Threads com ruby - um estudo de caso",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41b/sala41b-high-201607131759.ogv"
+    }
+  ]
+}

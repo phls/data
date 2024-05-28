@@ -1,0 +1,23 @@
+{
+  "description": "Mostrar aos participantes as ferramentas de suporte, que a Mozilla usa para os seus produtos, citando a import\u00e2ncia da SUMO, como uma porta de entrada para a comunidade atrav\u00e9s de contribui\u00e7\u00f5es na plataforma.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "hands-on-contribuindo-com-o-sumo-suporte-mozilla",
+  "speakers": [
+    "Jhonatas Rodrigues Machado"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Mozilla"
+  ],
+  "title": "Hands-on: Contribuindo com o SUMO (Suporte Mozilla)",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607141450.ogv"
+    }
+  ]
+}

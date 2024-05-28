@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "balde-desenvolvendo-aplicacoes-web-em-c",
+  "speakers": [
+    "Rafael Martins"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Outras linguagens"
+  ],
+  "title": "balde - desenvolvendo aplica\u00e7\u00f5es web em C",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41b/sala41b-high-201405101501.ogv"
+    }
+  ]
+}

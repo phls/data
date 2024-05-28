@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "a-experiencia-da-ebc-com-softwares-livres-corporativos-e-web",
+  "speakers": [
+    "Dem\u00e9trio Gallardi",
+    "Fernando Borba"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Casos de sucesso"
+  ],
+  "title": "A experi\u00eancia da EBC com softwares livres - corporativos e web.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41e/sala41e-high-201307041200.ogg"
+    }
+  ]
+}

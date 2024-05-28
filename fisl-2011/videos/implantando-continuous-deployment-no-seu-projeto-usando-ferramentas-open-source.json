@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "implantando-continuous-deployment-no-seu-projeto-usando-ferramentas-open-source",
+  "speakers": [
+    "Fernando Babadopulos",
+    "Fabiane Bizinella Nardon"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Implantando Continuous Deployment no seu projeto usando ferramentas open source",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201106301259.ogv"
+    }
+  ]
+}

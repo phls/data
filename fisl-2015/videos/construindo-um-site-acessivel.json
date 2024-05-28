@@ -1,0 +1,24 @@
+{
+  "description": "Na \u00faltima d\u00e9cada, a expans\u00e3o prodigiosa da Internet vem revolucionando as formas de comunica\u00e7\u00e3o, de acesso \u00e0 informa\u00e7\u00e3o e de realiza\u00e7\u00e3o de neg\u00f3cios em todo o mundo. Mas a que se deve este fen\u00f4meno? Basicamente, deve-se ao seu potencial para atingir instantaneamente um grande n\u00famero de pessoas, independentemente de localiza\u00e7\u00e3o geogr\u00e1fica e de contexto s\u00f3cio-cultural.\n\nO computador e a Internet representam um enorme passo para a inclus\u00e3o de pessoas com defici\u00eancia, promovendo autonomia e independ\u00eancia. Muitas vezes, a defici\u00eancia n\u00e3o \u00e9 severa o suficiente a ponto de tornar-se uma barreira \u00e0 utiliza\u00e7\u00e3o do computador. Entretanto, na maioria das p\u00e1ginas da Web, as pessoas cegas ou com baixa vis\u00e3o, pessoas com defici\u00eancia auditiva, com dificuldade em utilizar o mouse, por exemplo, encontram barreiras de acessibilidade que dificultam ou impossibilitam o acesso aos seus conte\u00fados.\n\nNeste contexto, a inacessibilidade de s\u00edtios eletr\u00f4nicos exclui uma parcela significativa da popula\u00e7\u00e3o ao acesso \u00e0s informa\u00e7\u00f5es veiculadas na internet. A acessibilidade \u00e0 Web refere-se a garantir acesso facilitado a qualquer pessoa, independente das condi\u00e7\u00f5es f\u00edsicas, dos meios t\u00e9cnicos ou dispositivos utilizados. No entanto, ela depende de v\u00e1rios fatores, tanto de desenvolvimento quanto de intera\u00e7\u00e3o com o conte\u00fado.\n\nNossa inten\u00e7\u00e3o com essa palestra \u00e9 de mostrar algumas dicas de como construir um site acess\u00edvel, mostrando os erros mais comuns e apresentando solu\u00e7\u00f5es para estes. Al\u00e9m disso disponibilizaremos insumos sobre este assunto, tais como livros, cartilhas, links, artigos entre outros.\n\nEssa palestra \u00e9 baseada no Modelo de Acessibilidade do Governo Eletr\u00f4nico - eMAG 3.1, um documento de recomenda\u00e7\u00f5es de acessibilidade constru\u00eddo para nortear o desenvolvimento web acess\u00edvel no Brasil, o qual os autores desta palestra tamb\u00e9m s\u00e3o colaborares.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "construindo-um-site-acessivel",
+  "speakers": [
+    "Lael Nervis",
+    "Ricardo Moro"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Construindo um site acess\u00edvel",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507101359.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Seu computador nem sempre obedece?  Parece possu\u00eddo?  Ouviu falar de GNU/Linux-libre?  Seus problemas acabaram!   S\u00f3 que n\u00e3o!  Pra afastar esp\u00edritos de porco e ter menos chances de ser v\u00edtima de bisbilhotice alheia e mais de estar em pleno controle de seu computador, \u00e9 preciso ir al\u00e9m!  \u00c9 que nesse al\u00e9m tamb\u00e9m h\u00e1 criaturas penadas, privativas de liberdade, que podem tomar o controle da sua m\u00e1quina.  J\u00e1 \u00e9 poss\u00edvel exorciz\u00e1-las de v\u00e1rios tipos de computadores, trocando a BIOS privativa pelo LibreBoot.  Ganha-se n\u00e3o s\u00f3 em Liberdade de Software, removendo controles remotos e restri\u00e7\u00f5es \u00e0 escolha de hardware, mas tamb\u00e9m em tempo e praticidade do boot.  Mostrarei como se faz a instala\u00e7\u00e3o do LibreBoot em algumas gera\u00e7\u00f5es de laptops e explicar por que as dificuldades t\u00eam aumentado.  Os primeiros a fazerem o exorcismo em seus pr\u00f3prios equipamentos ainda ganham uma linda imagem do GNU, como tela de fundo para o GRUB, inclu\u00eddo no LibreBoot.  Os \u00faltimos, tamb\u00e9m :-)",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "exorcismo-de-bios-privativas",
+  "speakers": [
+    "Alexandre Oliva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Cultura, Filosofia, e Pol\u00edtica"
+  ],
+  "title": "Exorcismo de BIOS Privativas",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41a/sala_41a-high-201507081757.ogv"
+    }
+  ]
+}

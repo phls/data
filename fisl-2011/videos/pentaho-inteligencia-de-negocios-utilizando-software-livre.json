@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "pentaho-inteligencia-de-negocios-utilizando-software-livre",
+  "speakers": [
+    "Caio Moreno de Souza"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "Pentaho: intelig\u00eancia de neg\u00f3cios utilizando Software Livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41c/sala41c-high-201107021302.ogv"
+    }
+  ]
+}

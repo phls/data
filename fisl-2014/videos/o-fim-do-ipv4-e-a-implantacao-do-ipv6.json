@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "o-fim-do-ipv4-e-a-implantacao-do-ipv6",
+  "speakers": [
+    "Edwin Cordeiro"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Administra\u00e7\u00e3o de Sistemas e VoIP"
+  ],
+  "title": "O fim do IPv4 e a implanta\u00e7\u00e3o do IPv6",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41c/sala41c-high-201405071500.ogv"
+    }
+  ]
+}

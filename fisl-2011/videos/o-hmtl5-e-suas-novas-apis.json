@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "o-hmtl5-e-suas-novas-apis",
+  "speakers": [
+    "David William"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Outras linguagens"
+  ],
+  "title": "O HMTL5 e suas novas API's",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201107021159.ogv"
+    }
+  ]
+}

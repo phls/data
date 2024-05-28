@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "o-que-e-verdade-e-o-que-e-mentira-quando-voce-trabalha-com-linux",
+  "speakers": [
+    "Vitor Zanoni"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ecossistema / Cultura"
+  ],
+  "title": "O que \u00e9 verdade e o que \u00e9 mentira quando voc\u00ea trabalha com Linux",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41c/sala41c-high-201207261757.ogg"
+    }
+  ]
+}

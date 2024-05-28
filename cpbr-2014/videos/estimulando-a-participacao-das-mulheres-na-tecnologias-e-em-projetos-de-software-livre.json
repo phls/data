@@ -1,0 +1,50 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Mulheres envolvidas com tecnologia falam sobre os projetos criados/liderados por elas ou que tenham participa\u00e7\u00e3o das mesmas, e abordam a compet\u00eancia t\u00e9cnica feminina no mundo tecnol\u00f3gico. Atrav\u00e9s de exemplos concretos, vamos estimular que mais mulheres se envolvam em projetos de Software Livre atrav\u00e9s das diversas formas de colabora\u00e7\u00e3o como desenvolvimento, tradu\u00e7\u00e3o, design gr\u00e1fico, transmiss\u00e3o do conhecimento, etc.",
+  "duration": 4457,
+  "id": 111,
+  "language": "por",
+  "recorded": "2014-01-31",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/painel-estimulando-a-participacao-das-mulheres-na-tecnologia-e-em-projetos-de-software-livre",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-estimulando-a-participacao-das-mulheres-na-tecnologia-e-em-projetos-de-software-livre"
+  ],
+  "slug": "estimulando-a-participacao-das-mulheres-na-tecnologias-e-em-projetos-de-software-livre",
+  "speakers": [
+    "Adriana C\u00e1ssia da Costa",
+    "Claudia Maria da Costa Archer",
+    "Eliane Domingos de Sousa",
+    "Haydee Svab",
+    "Salete Farias Almeida"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "Mulheres",
+    "Feminismo",
+    "Inclus\u00e3o",
+    "LibreOffice",
+    "PoliGen"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/estimulando-a-participacao-das-mulheres-na-tecnologias-e-em-projetos-de-software-livre.jpg",
+  "title": "Painel: Estimulando a participa\u00e7\u00e3o das mulheres na tecnologia e em projetos de software livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=JQmOBfdZxXQ"
+    },
+    {
+      "size": 668626190,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-estimulando-a-participacao-das-mulheres-na-tecnologias-e-em-projetos-de-software-livre.ogv"
+    },
+    {
+      "size": 229761513,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-estimulando-a-participacao-das-mulheres-na-tecnologias-e-em-projetos-de-software-livre.webm"
+    }
+  ]
+}

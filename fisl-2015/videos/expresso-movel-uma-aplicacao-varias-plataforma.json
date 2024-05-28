@@ -1,0 +1,23 @@
+{
+  "description": "J\u00e1 pensou em construir uma aplica\u00e7\u00e3o que, com um \u00fanico c\u00f3digo, rode em desktop, tablet e celular, tanto no navegador como uma app pr\u00f3pria? O Expresso M\u00f3vel \u00e9 assim. Nesta palestra voc\u00ea vai ver como ele combina HTML5, design responsivo e uma arquitetura bem planejada para proporcionar a melhor experi\u00eancia de usu\u00e1rio poss\u00edvel independente da plataforma.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "expresso-movel-uma-aplicacao-varias-plataforma",
+  "speakers": [
+    "Charles Wust"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Expresso M\u00f3vel - Uma aplica\u00e7\u00e3o, v\u00e1rias plataforma",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41b/sala_41b-high-201507081501.ogv"
+    }
+  ]
+}

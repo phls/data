@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "rodando-qualquer-coisa-na-nuvem-com-openshift-o-paas-open-source-da-red-hat",
+  "speakers": [
+    "Fabiano Franz"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "PHP e Java"
+  ],
+  "title": "Rodando *qualquer coisa* na nuvem com OpenShift, o PaaS open source da Red Hat",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41f/sala41f-high-201207271559.ogg"
+    }
+  ]
+}

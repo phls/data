@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-25",
+  "slug": "intervencoes-inovadoras-na-cidade",
+  "speakers": [
+    "Liane Bayard",
+    "Deborah Pilla Villela"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Interven\u00e7\u00f5es inovadoras na cidade",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41c/sala41c-high-201207251604.ogg"
+    }
+  ]
+}

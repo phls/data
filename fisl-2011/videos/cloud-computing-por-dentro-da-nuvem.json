@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "cloud-computing-por-dentro-da-nuvem",
+  "speakers": [
+    "Fulvio Longhi",
+    "Lucio Camilo Oliva Pereira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Cloud Computing - Por Dentro da Nuvem",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41c/sala41c-high-201106291357.ogv"
+    }
+  ]
+}

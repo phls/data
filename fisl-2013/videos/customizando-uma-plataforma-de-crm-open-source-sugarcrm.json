@@ -1,0 +1,28 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "customizando-uma-plataforma-de-crm-open-source-sugarcrm",
+  "speakers": [
+    "Rafaela Raganham",
+    "Marcio Junior Vieira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Customizando uma plataforma de CRM Open Source - SugarCRM. ",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307061658.ogg"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307061659.ogg"
+    }
+  ]
+}

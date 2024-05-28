@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A revista LibreOffice Magazine \u00e9 um projeto internacional da The Document Foundation, mantenedora do LibreOffice. Feita de forma colaborativa e volunt\u00e1ria pela comunidade brasileira, com edi\u00e7\u00f5es online e bimestrais. A palestra vai contar como a comunidade brasileira do LibreOffice, se organizou, colocou a m\u00e3o na massa e est\u00e1 mantendo o projeto que est\u00e1 completando dois anos. Como \u00e9 feita, quais s\u00e3o os objetivos, qual seu foco, conte\u00fado apresentado, p\u00fablico-alvo, aplicativos utilizados, como colaborar s\u00e3o assuntos abordados durante a palestra.",
+  "duration": 2882,
+  "id": 128,
+  "language": "por",
+  "recorded": "2015-02-06",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-criando-uma-revista-eletronica-com-o-libreoffice.",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/criando-uma-revista-eletronica-com-o-libreoffice-cpbr8"
+  ],
+  "slug": "criando-uma-revista-eletronica-com-libreoffice",
+  "speakers": [
+    "Vera Cavalcante"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "The Document Foundation",
+    "LibreOffice",
+    "LibreOffice Magazine"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/criando-uma-revista-eletronica-com-libreoffice.jpg",
+  "title": "Criando uma revista eletr\u00f4nica com o LibreOffice",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=If7W9EKByuI"
+    },
+    {
+      "size": 299271803,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-criando-uma-revista-eletronica-com-libreoffice.ogv"
+    },
+    {
+      "size": 115066745,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-criando-uma-revista-eletronica-com-libreoffice.webm"
+    }
+  ]
+}

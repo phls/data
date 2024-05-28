@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "realidade-aumentada-na-plataforma-linux",
+  "speakers": [
+    "Alessandro de Oliveria Faria - Cabelo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Realidade Aumentada  na plataforma Linux. ",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41c/sala41c-high-201106301101.ogv"
+    }
+  ]
+}

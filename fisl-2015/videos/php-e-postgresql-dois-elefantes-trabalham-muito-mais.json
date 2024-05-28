@@ -1,0 +1,23 @@
+{
+  "description": "Atualmente o PHP ainda \u00e9 muito associado ao MySQL. \u00c9 dif\u00edcil encontrar programadores PHP que utilizem, ou que conhe\u00e7am, outros SGBDS. \nAinda \u00e9 comum escutar frases do tipo \"minha aplica\u00e7\u00e3o \u00e9 pequena por isso resolvi usar o MySQL, quando crescer penso em outro banco\".\nA finalidade desta palestra \u00e9 mostrar que o PostgreSQL \"n\u00e3o morde\", n\u00e3o \u00e9 dif\u00edcil e pode sim ser utilizado em aplica\u00e7\u00f5es pequenas, m\u00e9dias e grandes. \nPara quebrar o gelo iremos come\u00e7ar mostrando as principais ferramentas que um programador precisa conhecer para trabalhar com o PostgreSQL no seu dia-a-dia.\nAtrav\u00e9s de exemplos simples mostraremos suas principais vantagens e caracter\u00edsticas que o fazem ser considerado \"O banco de dados open source mais avan\u00e7ado do mundo\".",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "php-e-postgresql-dois-elefantes-trabalham-muito-mais",
+  "speakers": [
+    "William Felipe Welter"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "PHP e PostgreSQL, Dois Elefantes Trabalham muito mais!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507091357.ogv"
+    }
+  ]
+}

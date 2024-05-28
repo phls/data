@@ -1,0 +1,38 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Tenho 11 anos e programo um pouco em Logo, Python e Scratch. Gostaria que mais crian\u00e7as tivessem essa oportunidade, mas quando falo de computa\u00e7\u00e3o com meus colegas, percebo que eles t\u00eam muito medo de programar. Pensam que \u00e9 um bicho de sete cabe\u00e7as! Suspeito que alguns adultos acham isso tamb\u00e9m! Vou contar como perdi meu medo e fiquei com vontade de aprender cada vez mais; onde precisei de ajuda e onde a curiosidade me conduziu sozinha; limites que me levaram a outras linguagens e mais dicas para quem quiser ajudar crian\u00e7as a descobrirem que seus computadores obedecem! Gritar, brigar, chorar, implorar, nada disso adianta! \u00c9 s\u00f3 aprender a l\u00edngua deles! :-)",
+  "duration": 1128,
+  "id": 220,
+  "language": "por",
+  "recorded": "2016-01-29",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2016/talk/descobri-que-o-computador-me-obedece-"
+  ],
+  "slug": "olha-so-professora-descobri-que-o-computador-me-obedece",
+  "speakers": [
+    "Larissa Garcia Oliva"
+  ],
+  "tags": [
+    "CPBR9",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Crian\u00e7a",
+    "Logo",
+    "Python",
+    "Scratch"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/olha-so-professora-descobri-que-o-computador-me-obedece.jpg",
+  "title": "Olha s\u00f3, professora! Descobri que o computador me obedece! :-)",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/cb8VQeFF9OU?t=4h15m"
+    },
+    {
+      "size": 304097275,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr9-2016/cpbr9-2016-olha-so-professora-descobri-que-o-computador-me-obedece.ogv"
+    }
+  ]
+}

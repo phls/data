@@ -1,0 +1,23 @@
+{
+  "description": "Tecnologias como o Secure Boot e TPMs podem ser usadas para restringir os direitos dos usu\u00e1rios, controlar o software que eles est\u00e3o autorizados a rodar em seus sistemas.\nMas as mesmas tecnologias podem ser utilizadas para proteger\nusu\u00e1rios, tornando mais dif\u00edcil para os atacantes (e at\u00e9 mesmo governos) comprometer sistemas importantes, roubar dados pessoais ou espionar as pessoas. Como podemos n\u00f3s conceber sistemas operacionais em Software Livre que  aproveitem estas caracter\u00edsticas para proteger os usu\u00e1rios a proteger, sem restringir os seus direitos no processo?",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "using-drm-technologies-to-protect-users",
+  "speakers": [
+    "Matthew Garrett"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Seguran\u00e7a"
+  ],
+  "title": "Using DRM technologies to protect users",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507101505.ogv"
+    }
+  ]
+}

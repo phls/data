@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "seguranca-em-servidores-linux",
+  "speakers": [
+    "Alessandro de Souza e Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Seguran\u00e7a"
+  ],
+  "title": "Seguran\u00e7a em Servidores Linux",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307041856.ogg"
+    }
+  ]
+}

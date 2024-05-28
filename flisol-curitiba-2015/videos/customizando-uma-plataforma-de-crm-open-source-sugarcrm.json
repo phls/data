@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "O SugarCRM e uma ferramenta completa para Administra\u00e7\u00e3o de relacionamento com o Clientes, lider mundial em CRM open Source. O software tem funcionalidades para todas as fases antes da venda durante e p\u00f3s-venda. Traremos uma abordagem de como customizar a ferramenta atrav\u00e9s de recursos tecnol\u00f3gicos pr\u00f3prios ou com m\u00f3dulos e plugins externos buscando maior ader\u00eancia aos processos exigidos por uma plataforma de CRM.",
+  "duration": 3305,
+  "id": 240,
+  "language": "por",
+  "recorded": "2015-04-25",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2015-curitiba"
+  ],
+  "slug": "customizando-uma-plataforma-de-crm-open-source-sugarcrm",
+  "speakers": [
+    "Rafaela Raganham"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2015",
+    "Curitiba",
+    "Software Livre",
+    "CRM Open Source",
+    "CRM",
+    "SugarCRM"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2015-customizando-uma-plataforma-de-crm-open-source-sugarcrm.jpg",
+  "title": "Customizando uma plataforma de CRM Open Source - SugarCRM",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=e13_F0lWtkY"
+    },
+    {
+      "size": 397299296,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-customizando-uma-plataforma-de-crm-open-source-sugarcrm.ogv"
+    },
+    {
+      "size": 147842921,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-customizando-uma-plataforma-de-crm-open-source-sugarcrm.webm"
+    }
+  ]
+}

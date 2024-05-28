@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "html5-gaming-for-dummies",
+  "speakers": [
+    "Lucas Rodrigues M. dos Santos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Jogos"
+  ],
+  "title": "HTML5 Gaming for Dummies",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307041001.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "real-time-linux-da-teoria-ao-sched_deadline",
+  "speakers": [
+    "Daniel Bristot de Oliveira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Kernel, Sistemas de Arquivos e Sistemas Operacionais"
+  ],
+  "title": "Real-Time Linux: Da Teoria ao SCHED_DEADLINE",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405091658.ogv"
+    }
+  ]
+}

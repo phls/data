@@ -1,0 +1,46 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A palestra mostrar\u00e1 como um colaborador do Debian poder\u00e1 se tornar um Debian Maintainer (DM) ou um Debian Developer (DD). Ser\u00e3o abordados assuntos como a assinatura de chaves GPG, as declara\u00e7\u00f5es necess\u00e1rias e as provas a serem realizadas, dentre outros passos essenciais. O principal objetivo ser\u00e1 desmistificar os processos e encorajar as pessoas que queiram participar mais a fundo no projeto. Complementarmente, ser\u00e3o apresentadas outras formas de colabora\u00e7\u00e3o para quem quer iniciar e relizar os primeiros trabalhos, visando se tornar membro oficial um dia.",
+  "duration": 3153,
+  "id": 253,
+  "language": "por",
+  "recorded": "2017-09-29",
+  "related_urls": [
+    "http://www.eriberto.pro.br/palestras/debian-dd.pdf",
+    "https://ftsl.websiteseguro.com/ftsl9/grade/detail.html?t=1505353768056&id=f426c77164f7052f97fdde247f54e2ea&type=1&pid=307&day=3"
+  ],
+  "slug": "como-se-tornar-um-membro-oficial-do-debian-dd-ou-dm",
+  "speakers": [
+    "Jo\u00e3o Eriberto Mota Filho"
+  ],
+  "tags": [
+    "Debian",
+    "Debian Developer",
+    "Debian Maintainer",
+    "DD",
+    "DM",
+    "FTSL",
+    "FTSL2017",
+    "Universidade Tecnol\u00f3gica Federal do Paran\u00e1",
+    "UTFPR",
+    "Curitiba"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/como-se-tornar-um-membro-oficial-do-debian-dd-ou-dm.jpg",
+  "title": "Como se tornar um membro oficial do Debian (DD ou DM)",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=UGuv-PZYr3w"
+    },
+    {
+      "size": 501055077,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/ftsl-2017/ftsl-2017-joao-eriberto-como-se-tornar-um-membro-oficial-do-debian-dd-ou-dm.ogv"
+    },
+    {
+      "size": 618658287,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/ftsl-2017/ftsl-2017-joao-eriberto-como-se-tornar-um-membro-oficial-do-debian-dd-ou-dm.webm"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "boot-para-a-web-com-gecko-desktop-dispositivos-moveis-tvs-e-mais",
+  "speakers": [
+    "Marcio dos Santos Galli"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Boot para a Web com Gecko: Desktop, dispositivos m\u00f3veis, TVs e mais",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41a/sala41a-high-201405091602.ogv"
+    }
+  ]
+}

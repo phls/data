@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "qt-5-kde-frameworks-5-e-vivaldi-o-que-esperar-disso-tudo",
+  "speakers": [
+    "Sandro Santos Andrade"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Desktop e Distribui\u00e7\u00f5es"
+  ],
+  "title": "Qt 5, KDE Frameworks 5 e Vivaldi: o que esperar disso tudo ?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41d/sala41d-high-201207271357.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Cerim\u00f4nia de abertura do F\u00f3rum Internacional Software Livre - FISL16",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-08",
+  "slug": "abertura-oficial-do-fisl16",
+  "speakers": [
+    "Sady Jacques"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Principal"
+  ],
+  "title": "Abertura oficial do FISL16",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41b/sala_41b-high-201507081832.ogv"
+    }
+  ]
+}

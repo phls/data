@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "criando-aplicacoes-php-poderosas-com-zend-framework-2",
+  "speakers": [
+    "Fl\u00e1vio Gomes da Silva Lisboa"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "PHP e Java"
+  ],
+  "title": "Criando aplica\u00e7\u00f5es PHP poderosas com Zend Framework 2",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307031004.ogg"
+    }
+  ]
+}

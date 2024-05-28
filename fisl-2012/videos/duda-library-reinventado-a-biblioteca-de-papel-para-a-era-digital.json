@@ -1,0 +1,27 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-25",
+  "slug": "duda-library-reinventado-a-biblioteca-de-papel-para-a-era-digital",
+  "speakers": [
+    "Duda Nogueira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Educa\u00e7\u00e3o e Inclus\u00e3o Digital"
+  ],
+  "title": "Duda Library: Reinventado a Biblioteca de Papel para a Era Digital",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41b/sala41b-high-201207251346.ogg"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41b/sala41b-high-201207251402.ogg"
+    }
+  ]
+}

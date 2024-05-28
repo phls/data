@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "desenvolvimento-de-aplicativos-para-firefox-os",
+  "speakers": [
+    "Andre Alves Garzia"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Outras linguagens"
+  ],
+  "title": "Desenvolvimento de aplicativos para Firefox OS",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41f/sala41f-high-201405071705.ogv"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Se voc\u00ea tem interesse na cria\u00e7\u00e3o de jogos eletr\u00f4nicos, este painel \u00e9 uma oportunidade de ouvir experi\u00eancias de pessoas que trabalham com pr\u00e1ticas de gerenciamento de equipes e projetos de games e aprender sobre processos de elabora\u00e7\u00e3o criativa de jogos, al\u00e9m de conhecer as atuais ferramentas de desenvolvimento utilizadas na \u00e1rea.",
+  "duration": 3710,
+  "id": 107,
+  "language": "por",
+  "recorded": "2014-01-28",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/painel-desenvolvimento-de-games-com-software-livre",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-desenvolvimento-de-games-com-software-livre"
+  ],
+  "slug": "desenvolvimento-de-games-com-software-livre",
+  "speakers": [
+    "Fernando Masanori Ashikaga",
+    "Salete Farias Almeida",
+    "Vin\u00edcius Daros",
+    "Wilson Kazuo Mizutani"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "Games",
+    "Jogos"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/desenvolvimento-de-games-com-software-livre.jpg",
+  "title": "Painel: Desenvolvimento de games com software livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=RezaiEY2na4"
+    },
+    {
+      "size": 526605836,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-desenvolvimento-de-games-com-software-livre.ogv"
+    },
+    {
+      "size": 223371947,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-desenvolvimento-de-games-com-software-livre.webm"
+    }
+  ]
+}

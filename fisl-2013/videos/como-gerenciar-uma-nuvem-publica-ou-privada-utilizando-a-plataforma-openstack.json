@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "como-gerenciar-uma-nuvem-publica-ou-privada-utilizando-a-plataforma-openstack",
+  "speakers": [
+    "Marcelo Dieder"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Administra\u00e7\u00e3o de Sistemas e VoIP"
+  ],
+  "title": "Como gerenciar uma nuvem p\u00fablica ou privada utilizando a plataforma Openstack",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307041301.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "the-dirty-details-about-python",
+  "speakers": [
+    "Lincoln de Sousa Primo Clarete"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Python, Ruby e Perl"
+  ],
+  "title": "The dirty details about python",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307031701.ogg"
+    }
+  ]
+}

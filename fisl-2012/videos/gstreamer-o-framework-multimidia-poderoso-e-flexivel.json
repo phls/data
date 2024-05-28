@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "gstreamer-o-framework-multimidia-poderoso-e-flexivel",
+  "speakers": [
+    "Thiago Sousa Santos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "GStreamer - O framework multim\u00eddia poderoso e flex\u00edvel",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41b/sala41b-high-201207271402.ogg"
+    }
+  ]
+}

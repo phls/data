@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "python-e-lego-mindstorms-programando-robos",
+  "speakers": [
+    "Tatiana Al-Chueyr"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Python, Ruby e Perl"
+  ],
+  "title": "Python e Lego Mindstorms - programando rob\u00f4s",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41e/sala41e-201106300902.ogv"
+    }
+  ]
+}

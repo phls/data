@@ -1,0 +1,23 @@
+{
+  "description": "Encontro de ativistas e grupos trabalhando pelo ideal da liberdade de software, divulgando e contribuindo com o software livre. Programa\u00e7\u00e3o: Apresenta\u00e7\u00e3o do projeto Libre Planet, incentivo \u00e0 cria\u00e7\u00e3o de novos grupos regionais, discuss\u00e3o sobre formas de levar o software livre aonde ele n\u00e3o tem ido antes.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "encontro-de-libreplanets",
+  "speakers": [
+    "Thadeu Lima de Souza Cascardo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Principal"
+  ],
+  "title": "Encontro de LibrePlanets",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507111004.ogv"
+    }
+  ]
+}

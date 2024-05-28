@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "conhecendo-javafx-a-nova-biblioteca-grafica-da-plataforma-java",
+  "speakers": [
+    "William Ant\u00f4nio Siqueira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Conhecendo JavaFX: A nova biblioteca gr\u00e1fica da plataforma Java",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307031759.ogg"
+    }
+  ]
+}

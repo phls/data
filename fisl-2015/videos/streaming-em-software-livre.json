@@ -1,0 +1,23 @@
+{
+  "description": "Atualmente \u00e9 comum e popular tocar \u00e1udio e v\u00eddeo diretamente da internet e transmiti-los ao vivo, para isso existem diferentes tecnologias e novas continuam aparecendo. Falarei um pouco sobre tecnologias que podem ser usadas para streaming e as vantagens e desvantagens para cada caso, qual o estado das implementa\u00e7\u00f5es em software livre, e apresentarei o b\u00e1sico de como desenvolver aplica\u00e7\u00f5es de streaming com GStreamer.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "streaming-em-software-livre",
+  "speakers": [
+    "Luciana Fujii Pontello"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Multim\u00eddia"
+  ],
+  "title": "Streaming em software livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41b/sala_41b-high-201507111201.ogv"
+    }
+  ]
+}

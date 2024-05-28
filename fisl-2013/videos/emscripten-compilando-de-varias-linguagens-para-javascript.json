@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "emscripten-compilando-de-varias-linguagens-para-javascript",
+  "speakers": [
+    "Ricardo Panaggio"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Openweb"
+  ],
+  "title": "Emscripten: compilando de v\u00e1rias linguagens para JavaScript",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307031201.ogg"
+    }
+  ]
+}

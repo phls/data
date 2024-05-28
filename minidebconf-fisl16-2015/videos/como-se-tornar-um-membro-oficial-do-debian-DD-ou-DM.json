@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A palestra mostrar\u00e1 como um colaborador do Debian poder\u00e1 se tornar um Debian Maintainer (DM) ou um Debian Developer (DD). Ser\u00e3o abordados assuntos como a assinatura de chaves GPG, as declara\u00e7\u00f5es necess\u00e1rias e as provas a serem realizadas, dentre outros passos essenciais. O principal objetivo ser\u00e1 desmistificar os processos e encorajar as pessoas que queiram participar mais a fundo no projeto. Complementarmente, ser\u00e3o apresentadas outras formas de colabora\u00e7\u00e3o para quem quer iniciar e relizar os primeiros trabalhos, visando se tornar membro oficial um dia.",
+  "duration": 3076,
+  "id": 85,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "related_urls": [
+    "http://softwarelivre.org/fisl16",
+    "https://wiki.debian.org/Brasil/Eventos/MiniDebConfFISL2015"
+  ],
+  "slug": "como-se-tornar-um-membro-oficial-do-debian-DD-ou-DM",
+  "speakers": [
+    "Jo\u00e3o Eriberto Mota Filho"
+  ],
+  "tags": [
+    "Debian",
+    "MiniDebConf",
+    "MiniDebConf FISL16",
+    "MiniDebConf FISL16 2015",
+    "PUCRS",
+    "FISL16",
+    "F\u00f3rum Internacional Software Livre",
+    "Porto Alegre",
+    "Debian Maintainer",
+    "Debian Developer"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/minidebconf_fisl16_2015_como_se_tornar_um_membro_oficial_do_debian_DD_ou_DM.jpg",
+  "title": "Como se tornar um membro oficial do Debian (DD ou DM)",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=sAheZirzK7U"
+    },
+    {
+      "size": 116412564,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/minidebconf-fisl16-2015/minidebconf_fisl16_2015_como_se_tornar_um_membro_oficial_do_debian_DD_ou_DM.ogv"
+    }
+  ]
+}

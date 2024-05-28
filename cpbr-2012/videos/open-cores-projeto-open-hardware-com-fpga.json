@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Um conceito n\u00e3o t\u00e3o conhecido mas que tem um pot\u00eancial muito grande, o Open Core \u00e9 um desenvolvimento de Hardware Livre com FPGA. FPGA \u00e9 um sistema acima de um microprocessador, onde voc\u00ea pode criar um programa que rode em tempo real e sem atrasos totalmente dedicado. Quer saber mais de como isso \u00e9 poss\u00edvel? Esta palestra mostrar\u00e1 o que s\u00e3o OpenCores.",
+  "duration": 2786,
+  "id": 11,
+  "language": "por",
+  "recorded": "2012-02-12",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/opencores-projeto-openhardware-com-fpga"
+  ],
+  "slug": "open-cores-projeto-open-hardware-com-fpga",
+  "speakers": [
+    "Lucas Teske"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Open core",
+    "Open hardware",
+    "FPGA"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/open-cores-projeto-open-hardware-com-fpga.jpg",
+  "title": "Open cores: projeto open hardware com FPGA",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=FQFl4qxC1Y4"
+    },
+    {
+      "size": 469893775,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-open-cores-projeto-open-hardware-com-fpga.ogv"
+    },
+    {
+      "size": 149353246,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-open-cores-projeto-open-hardware-com-fpga.webm"
+    }
+  ]
+}

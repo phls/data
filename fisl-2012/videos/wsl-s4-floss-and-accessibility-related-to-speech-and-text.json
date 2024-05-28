@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "wsl-s4-floss-and-accessibility-related-to-speech-and-text",
+  "speakers": [
+    "Pedro dos Santos Batista",
+    "Isabel Dillmann Nunes",
+    "Ericson Sarmento Costa",
+    "Ana Cristina Fricke Matte"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "WSL"
+  ],
+  "title": "WSL (S4): FLOSS and accessibility related to speech and text",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40a/sala40a-high-201207271402.ogg"
+    }
+  ]
+}

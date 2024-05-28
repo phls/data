@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "o-ubuntu-como-desktop-no-exercito-brasileiro",
+  "speakers": [
+    "Bruno Montenegro Santana",
+    "Paulo Fernando Lamellas"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Desktop e Distribui\u00e7\u00f5es"
+  ],
+  "title": "O Ubuntu como desktop no Ex\u00e9rcito Brasileiro",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41b/sala41b-high-201106301600.ogv"
+    }
+  ]
+}

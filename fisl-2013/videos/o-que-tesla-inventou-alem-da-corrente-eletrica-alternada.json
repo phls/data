@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "o-que-tesla-inventou-alem-da-corrente-eletrica-alternada",
+  "speakers": [
+    "Thomas Soares"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Rob\u00f3tica livre"
+  ],
+  "title": "O que Tesla inventou al\u00e9m da corrente el\u00e9trica alternada ?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307061453.ogg"
+    }
+  ]
+}

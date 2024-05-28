@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "rede-escambo-plataforma-para-mediacao-de-trocas-online-baseado-em-noosfero",
+  "speakers": [
+    "Br\u00e1ulio Barros de Oliveira",
+    "Alan Tygel",
+    "Calu\u00e3 de Lacerda Pataca",
+    "Pedro Henrique Jatob\u00e1"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Python, Ruby e Perl"
+  ],
+  "title": "Rede ESCAMBO: Plataforma para media\u00e7\u00e3o de trocas online baseado em NOOSFERO",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41f/sala41f-high-201307061300.ogg"
+    }
+  ]
+}

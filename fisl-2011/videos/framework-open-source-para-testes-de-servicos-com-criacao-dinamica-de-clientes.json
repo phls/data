@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "framework-open-source-para-testes-de-servicos-com-criacao-dinamica-de-clientes",
+  "speakers": [
+    "Guilherme de Maio Nogueira",
+    "Felipe Meneses Besson",
+    "Leonardo Alexandre Ferreira Leite"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Framework Open-Source para testes de servicos  com cria\u00e7\u00e3o din\u00e2mica de clientes",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201107020859.ogv"
+    }
+  ]
+}

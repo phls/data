@@ -1,0 +1,40 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Conhe\u00e7a a tecnologia que torna poss\u00edvel controlar o computador, trocar canais da televis\u00e3o e manipular dispositivos com a mente. Apresenta\u00e7\u00e3o de diversos equipamentos dispon\u00edvel no mercado, diferen\u00e7as entre os produtos, tend\u00eancias de tecnologia de c\u00f3digo aberto e propriet\u00e1rio. Aconselho para todos que desejam ingressar no mundo da tradu\u00e7\u00e3o de sinais neurais, detectando atividades cerebrais de forma n\u00e3o invasiva atrav\u00e9s da eletrencefalogr\u00e1fica.",
+  "duration": 3142,
+  "id": 101,
+  "language": "por",
+  "recorded": "2014-01-28",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-sua-mente-no-controle-na-plataforma-linux",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-neurotecnologia-sua-mente-no-controle-na-plataforma-linux"
+  ],
+  "slug": "neurotecnologia-sua-mente-no-controle-na-plataforma-linux",
+  "speakers": [
+    "Alessandro de Oliveira Faria - Cabelo"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/neurotecnologia-sua-mente-no-controle-na-plataforma-linux.jpg",
+  "title": "Neurotecnologia - sua mente no controle na plataforma Linux",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Ssrb5tVrCzM"
+    },
+    {
+      "size": 639056062,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-neurotecnologia-sua-mente-no-controle-na-plataforma-linux.ogv"
+    },
+    {
+      "size": 161298414,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-neurotecnologia-sua-mente-no-controle-na-plataforma-linux.webm"
+    }
+  ]
+}

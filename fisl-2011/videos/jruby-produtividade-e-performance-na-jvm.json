@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "jruby-produtividade-e-performance-na-jvm",
+  "speakers": [
+    "Douglas Campos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Outras linguagens"
+  ],
+  "title": "JRuby - Produtividade e Performance na JVM",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201106291159.ogv"
+    }
+  ]
+}

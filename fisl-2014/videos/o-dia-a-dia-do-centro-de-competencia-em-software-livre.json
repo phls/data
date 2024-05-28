@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "o-dia-a-dia-do-centro-de-competencia-em-software-livre",
+  "speakers": [
+    "Alfredo Goldman"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ecossistema / Cultura"
+  ],
+  "title": "O dia a dia do centro de compet\u00eancia em software livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/40t/sala40t-high-201405091204.ogv"
+    }
+  ]
+}

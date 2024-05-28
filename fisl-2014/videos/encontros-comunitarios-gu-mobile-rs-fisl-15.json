@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "encontros-comunitarios-gu-mobile-rs-fisl-15",
+  "speakers": [
+    "Luiz Henrique Rauber Rodrigues"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Eventos Comunit\u00e1rios"
+  ],
+  "title": "Encontros Comunit\u00e1rios GU Mobile-RS - FISL 15",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41f/sala41f-high-201405090915.ogv"
+    }
+  ]
+}

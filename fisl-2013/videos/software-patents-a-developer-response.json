@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "software-patents-a-developer-response",
+  "speakers": [
+    "Deborah Anne Nicholson",
+    "Simon Phipps"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Buzzwords"
+  ],
+  "title": "Software Patents - a developer response",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40t/sala40t-high-201307051900.ogg"
+    }
+  ]
+}

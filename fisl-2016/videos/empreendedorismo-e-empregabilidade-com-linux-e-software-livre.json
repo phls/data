@@ -1,0 +1,23 @@
+{
+  "description": "\u00c9 poss\u00edvel ter um emprego ou montar uma empresa com base em softwares que podem ser baixados da Internet, legalmente, sem se pagar nada por eles? Nesta palestra, ministrada pelo diretor de desenvolvimento regional do Linux Professional Institute, Cesar Brod, voc\u00ea conhecer\u00e1 a hist\u00f3ria de v\u00e1rios casos de sucesso e ter\u00e1 uma s\u00e9rie de dicas para ter uma vida profissional que respeita a livre distribui\u00e7\u00e3o de qualquer tipo de conhecimento.\n\nO palestrante garantir\u00e1 um bom tempo para a intera\u00e7\u00e3o com a plateia. Traga suas perguntas!",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "empreendedorismo-e-empregabilidade-com-linux-e-software-livre",
+  "speakers": [
+    "Cesar Brod"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Neg\u00f3cios, Migra\u00e7\u00f5es e Casos"
+  ],
+  "title": "Empreendedorismo e Empregabilidade com Linux e Software Livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41c/sala41c-high-201607141259.ogv"
+    }
+  ]
+}

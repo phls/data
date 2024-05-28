@@ -1,0 +1,23 @@
+{
+  "description": "Season of KDE - SoK \u00e9 um programa de sensibiliza\u00e7\u00e3o da comunidade de Software Livre, que vem sendo realizado pela comundade KDE por oito anos. O programa consiste em uma temporada de 4 meses desenvolvendo algum projeto da comunidade KDE, sendo orientado por um ou mais mentores que te auxiliar\u00e3o durante este tempo.\nEle \u00e9 destinado as pessoas que n\u00e3o puderam, por diversos motivos, entrar no Google Summer of Code ou, simplesmente para pessoas que preferem um programa estruturado de maneira diferente e um pouco menos restrita. Season of KDE \u00e9 gerido pela mesma equipe de administradores e mentores que cuidam dos programas Google Summer of Code e Google Code-in na comunidade do KDE.\nNesta palestra, saiba sobre como funciona o programa e principalmente, conhe\u00e7a o meu relato sobre como \u00e9 foi contribuir nessa \"Temporada do KDE\".",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "sok-uma-temporada-no-kde",
+  "speakers": [
+    "Fernando C\u00e9sar Teles Alves"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Engrenagem"
+  ],
+  "title": "SoK - Uma temporada no KDE",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607131640.ogv"
+    }
+  ]
+}

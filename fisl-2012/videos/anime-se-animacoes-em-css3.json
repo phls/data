@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "anime-se-animacoes-em-css3",
+  "speakers": [
+    "Felipe Nascimento de Moura"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Outras linguagens"
+  ],
+  "title": "Anime-se! Anima\u00e7\u00f5es em CSS3",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41f/sala41f-high-201207281058.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "This talk will introduce Outreachy (formerly the Outreach Program for Women), outline how the program works and update you on what\u2019s happened recently. Tired of people talking about how there isn\u2019t diversity in free software? Come to this talk and find out how you can help actually\nchange things.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "bringing-more-women-to-free-and-open-source-software",
+  "speakers": [
+    "Karen Sandler"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Cultura, Filosofia, e Pol\u00edtica"
+  ],
+  "title": "Bringing More Women to Free and Open Source Software",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507101600.ogv"
+    }
+  ]
+}

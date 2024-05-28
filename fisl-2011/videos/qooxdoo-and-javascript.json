@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "qooxdoo-and-javascript",
+  "speakers": [
+    "Tobias Oetiker"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Outras linguagens"
+  ],
+  "title": "qooxdoo and javascript",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40t/sala40t-high-201106301708.ogv"
+    }
+  ]
+}

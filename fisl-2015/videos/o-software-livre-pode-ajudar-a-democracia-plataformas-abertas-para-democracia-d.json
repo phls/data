@@ -1,0 +1,28 @@
+{
+  "description": "A proposta do painel \u00e9 apresentar diferentes plataformas utilizadas em diferentes espa\u00e7os de governo e da sociedade civil, que tem como o objetivo melhorar o engajamento civil, propiciar meios de participa\u00e7\u00e3o pol\u00edtica dos cidad\u00e3os com os governos e facilitar a tomada de decis\u00f5es. O painel pretende demonstrar os avan\u00e7os dessas plataformas para a democracia participativa e direta, abordando experi\u00eancias concretas de como o desenvolvimento colaborativo do software livre pode envolver os cidad\u00e3os de forma participativa nos projetos.\nNeste painel ser\u00e3o apresentados apenas projetos que possuem o c\u00f3digo aberto.\n\nParticipa.br - Plataforma utilizada pela Presid\u00eancia da Rep\u00fablica para participa\u00e7\u00e3o social\nRicardo Poppi - Graduado em Ci\u00eancia Pol\u00edtica pela UnB, respons\u00e1vel pelo Participa.br, ambiente online de participa\u00e7\u00e3o social do Governo Federal. \u00c9 entusiasta de webcidadania e software livre para Participa\u00e7\u00e3o Social.\n\nE-Democracia (Laborat\u00f3rio Hacker da C\u00e2mara dos Deputados)\nCristiano Ferri - Diretor do Laborat\u00f3rio Hacker da C\u00e2mara dos Deputados, respons\u00e1vel pelo ambiente de participa\u00e7\u00e3o social da Camara dos Deputados, o E-democracia \n\nCidade Democr\u00e1tica\nRodrigo Bandeira - fundador e diretor-executivo do Instituto Cidade Democr\u00e1tica e mestre em Administra\u00e7\u00e3o P\u00fablica e Governo e graduado em Administra\u00e7\u00e3o de Empresas pela FGV-SP. Escreve artigos e oferece cursos e palestras sobre o Futuro Digital da Democracia, Articula\u00e7\u00e3o Intersetorial e Colaboratividade.\n\nAgora Delibera (Pensando o Direito/MJ)\nMarco Konopacki - Mestre em Ci\u00eancia Pol\u00edtica pela Universidade Federal do Paran\u00e1, desenvolve e pesquisa tecnologias para participa\u00e7\u00e3o desde 2010. Desde 2014 \u00e9 Assessor para Novas Tecnologias e Participa\u00e7\u00e3o na Secretaria de Assuntos Legislativos do Minist\u00e9rio da Justi\u00e7a.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "o-software-livre-pode-ajudar-a-democracia-plataformas-abertas-para-democracia-d",
+  "speakers": [
+    "Fabricio Solagna",
+    "Marco Antonio Konopacki (Marco Amarelo)",
+    "Ricardo Poppi",
+    "Henrique Parra",
+    "Rosane Maria Ludtke Leite",
+    "Livia Ascava"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Governan\u00e7a da Internet"
+  ],
+  "title": "O software livre pode ajudar a democracia? Plataformas abertas para democracia d",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507091608.ogv"
+    }
+  ]
+}

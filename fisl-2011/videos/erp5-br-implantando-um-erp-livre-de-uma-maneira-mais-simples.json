@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "erp5-br-implantando-um-erp-livre-de-uma-maneira-mais-simples",
+  "speakers": [
+    "Rafael Manhaes Monnerat"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "ERP5 Br: Implantando um ERP Livre de uma maneira mais simples",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201107011159.ogv"
+    }
+  ]
+}

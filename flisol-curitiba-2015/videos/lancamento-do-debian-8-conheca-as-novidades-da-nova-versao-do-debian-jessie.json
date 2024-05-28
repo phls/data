@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "No dia 25 de abril ser\u00e1 lan\u00e7ada oficialmente a nova vers\u00e3o do Debian. Para celebrar esta data, vou falar sobre o que \u00e9 e como funciona o Debian; Novidades do Debian 8 (Jessie); como colaborar com o Debian.",
+  "duration": 1897,
+  "id": 244,
+  "language": "por",
+  "recorded": "2015-04-25",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2015-curitiba"
+  ],
+  "slug": "lancamento-do-debian-8-conheca-as-novidades-da-nova-versao-do-debian-jessie",
+  "speakers": [
+    "Antonio Terceiro"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2015",
+    "Curitiba",
+    "Software Livre",
+    "Debian",
+    "Distribui\u00e7\u00e3o",
+    "Jessie"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2015-lancamento-do-debian-8-conheca-as-novidades-da-nova-versao-do-debian-jessie.jpg",
+  "title": "Lan\u00e7amento do Debian 8 - conhe\u00e7a as novidades da nova vers\u00e3o do Debian (Jessie)",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=DdF7HvJ-pGk"
+    },
+    {
+      "size": 288442631,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-lancamento-do-debian-8-conheca-as-novidades-da-nova-versao-do-debian-jessie.ogv"
+    },
+    {
+      "size": 159314834,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2015/flisol-curitiba-2015-lancamento-do-debian-8-conheca-as-novidades-da-nova-versao-do-debian-jessie.webm"
+    }
+  ]
+}

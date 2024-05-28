@@ -1,0 +1,23 @@
+{
+  "description": "Ap\u00f3s anos tentando ser levado a s\u00e9rio trabalhando com programa\u00e7\u00e3o, ele desistiu e aproveitou o software livre para criar humor e descontra\u00e7\u00e3o para a vida de programador. Como consequ\u00eancia, nunca foi levado t\u00e3o a s\u00e9rio (\u00e0s vezes at\u00e9 demais ). Nesta palestra ele conta hist\u00f3rias vividas antes de depois de criar o Vida de Programador, assim como situa\u00e7\u00f5es inusitadas que surgiram justamente por causa das tirinhas. Tamb\u00e9m d\u00e1 dicas de publica\u00e7\u00e3o de conte\u00fado on-line, discute os limites do humor, da programa\u00e7\u00e3o e do software livre, apresenta hist\u00f3rias secretas, compartilha sua experi\u00eancia como vlogger. S\u00f3 n\u00e3o distribui dinheiro.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "humor-programacao-e-software-livre",
+  "speakers": [
+    "Andre Noel"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Neg\u00f3cios, Migra\u00e7\u00f5es e Casos"
+  ],
+  "title": "Humor, Programa\u00e7\u00e3o e Software Livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507101301.ogv"
+    }
+  ]
+}

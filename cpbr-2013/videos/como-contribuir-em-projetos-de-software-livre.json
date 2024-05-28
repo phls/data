@@ -1,0 +1,51 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Este painel reunir\u00e1 alguns membros da comunidade que contribuem com projetos de Software Livre com o objetivo de mostrar como eles come\u00e7aram, o que fazem agora e como voc\u00ea tamb\u00e9m pode ajudar. Existem v\u00e1rias formas de contribuir para os projetos existente como: Desenvolvendo c\u00f3digo; Relatando bugs; Traduzindo documenta\u00e7\u00e3o, manuais, sites, interfaces dos softwares; Elaborando artes gr\u00e1ficas que ser\u00e3o usadas nos materiais ou nos softwares, etc. Venha ouvir as experi\u00eancias dos participantes e tirar suas d\u00favidas.",
+  "duration": 1221,
+  "id": 20,
+  "language": "por",
+  "recorded": "2013-02-01",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/como-contribuir-em-projetos-de-software-livre",
+    "http://slcampusparty.com.br/blog/como-contribuir-em-projetos-de-software-livre"
+  ],
+  "slug": "como-contribuir-em-projetos-de-software-livre",
+  "speakers": [
+    "Filipe Saraiva",
+    "Paulo Henrique de Lima Santana",
+    "Rog\u00e9rio Costa",
+    "\u00darsula Junque",
+    "Val\u00e9ssio Soares de Brito"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "KDE",
+    "Debian",
+    "Joomla",
+    "Ubuntu",
+    "Inkscape",
+    "Canonical"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/como-contribuir-em-projetos-de-software-livre.jpg",
+  "title": "Painel: como contribuir em projetos de Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=K6OLIYU5sOI"
+    },
+    {
+      "size": 61253615,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-como-contribuir-em-projetos-de-software-livre.ogv"
+    },
+    {
+      "size": 55161216,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-como-contribuir-em-projetos-de-software-livre.webm"
+    }
+  ]
+}

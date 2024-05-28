@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "o-papel-do-hardware-livre-no-cenario-atual-de-tic",
+  "speakers": [
+    "Antonio Augusto Fr\u00f6hlich"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "WSL"
+  ],
+  "title": "O Papel do Hardware Livre no Cen\u00e1rio Atual de TIC. ",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala40a/sala40a-high-201107021655.ogv"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Depois das den\u00fancias do Snowden sobre o sistema de espionagem global criado e mantido pelo governo dos estados unidos via NSA e as principais empresas de TI (Google, Microsoft, Cisco e Facebook), n\u00e3o h\u00e1 mais como fazer cara de paisagem e usar o benef\u00edcio da d\u00favida em seu favor. Quando se monitora? Onde? Porque? Quais as consequ\u00eancias?",
+  "duration": 2679,
+  "id": 98,
+  "language": "por",
+  "recorded": "2014-01-30",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-jogaram-prism-no-ventilador-e-agora",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-jogaram-prism-no-ventilador-e-agora"
+  ],
+  "slug": "jogaram-prism-no-ventilador-e-agora",
+  "speakers": [
+    "Anhauac de Paula Gil"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "NSA",
+    "PRISM",
+    "Espionagem",
+    "Privacidade"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/jogaram-prism-no-ventilador-e-agora.jpg",
+  "title": "Jogaram PRISM no ventilador, e agora?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=yY6L4hZwttA"
+    },
+    {
+      "size": 264322757,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-jogaram-prism-no-ventilador-e-agora.ogv"
+    },
+    {
+      "size": 89812709,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-jogaram-prism-no-ventilador-e-agora.webm"
+    }
+  ]
+}

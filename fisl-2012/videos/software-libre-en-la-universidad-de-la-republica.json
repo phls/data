@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "software-libre-en-la-universidad-de-la-republica",
+  "speakers": [
+    "Daniel Vi\u00f1ar Ulriksen"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Educa\u00e7\u00e3o e Inclus\u00e3o Digital"
+  ],
+  "title": "Software libre en la Universidad de la Rep\u00fablica",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41a/sala41a-high-201207281411.ogg"
+    }
+  ]
+}

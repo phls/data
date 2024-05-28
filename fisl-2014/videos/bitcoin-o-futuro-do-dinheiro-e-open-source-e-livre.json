@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "bitcoin-o-futuro-do-dinheiro-e-open-source-e-livre",
+  "speakers": [
+    "Kemel Zaidan"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Bitcoin: o futuro do dinheiro \u00e9 open source (e livre)",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41c/sala41c-high-201405071604.ogv"
+    }
+  ]
+}

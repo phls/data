@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A tecnologia Realidade Aumentada al\u00e9m de fascinar qualquer ser humano, \u00e9 um assunto emergente. Nesta apresenta\u00e7\u00e3o veremos princ\u00edpios b\u00e1sicos desta tecnologia, como tamb\u00e9m conheceremos algumas op\u00e7\u00f5es com a ARToolKit , uma biblioteca criada para facilitar o desenvolvimento de aplicativos com o recurso de realidade aumentada. Ou seja, a sobreposi\u00e7\u00e3o de objetos virtuais em 3 dimens\u00f5es projetadas no mundo real diante a tela do seu computador.",
+  "duration": 1326,
+  "id": 36,
+  "language": "por",
+  "recorded": "2013-01-30",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/realidade-aumentada-com-software-livre",
+    "http://slcampusparty.com.br/blog/realidade-aumentada-com-software-livre"
+  ],
+  "slug": "realidade-aumentada-com-software-livre",
+  "speakers": [
+    "Alessandro de Oliveira Faria - Cabelo"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "ARToolKit"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/realidade-aumentada-com-software-livre.jpg",
+  "title": "Realidade Aumentada com Software Livre",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=yPoZjZIFcn4"
+    },
+    {
+      "size": 126951387,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-realidade-aumentada-com-software-livre.ogv"
+    },
+    {
+      "size": 46531339,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-realidade-aumentada-com-software-livre.webm"
+    }
+  ]
+}

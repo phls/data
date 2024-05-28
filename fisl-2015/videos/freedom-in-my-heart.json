@@ -1,0 +1,23 @@
+{
+  "description": "When Karen discovered she had a life threatening heart condition, the last thing she expected was to have to worry about software. Now, with a heart device implanted in her body, she has come to understand not only how vulnerable medical devices are but how as a society we are making critical choices about all of our software. Karen will talk about how essential free and open source software is and will discuss her professional and personal view of the issues as a patient and as a cyborg lawyer.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "freedom-in-my-heart",
+  "speakers": [
+    "Karen Sandler"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Cultura, Filosofia, e Pol\u00edtica"
+  ],
+  "title": "Freedom in My Heart",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/40t/sala_40t-high-201507111100.ogv"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Essa palestra explora alguns modelos de hackerspaces, as particularidades de seus processos embrion\u00e1rios, al\u00e9m de apresentar solu\u00e7\u00f5es simples para a resolu\u00e7\u00e3o de problemas recorrentes na cria\u00e7\u00e3o e manuten\u00e7\u00e3o desses espa\u00e7os - as Hackerspace Design Patterns, com foco nas experi\u00eancias do Garoa Hacker Clube. Esperamos que o relato de nossa experi\u00eancia sirva de inspira\u00e7\u00e3o para a cria\u00e7\u00e3o de espa\u00e7os similares no Brasil e na Am\u00e9rica Latina.",
+  "duration": 1773,
+  "id": 9,
+  "language": "por",
+  "recorded": "2012-02-09",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/hackerspaces-e-a-cultura-hacker"
+  ],
+  "slug": "hackerspaces-e-a-cultura-hacker",
+  "speakers": [
+    "Rodrigo Rodrigues da Silva",
+    "Felipe Corr\u00eaa da Silva Sanches"
+  ],
+  "tags": [
+    "CPBR5",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Hackerspace",
+    "Hacker",
+    "Garoa",
+    "Garoa Hacker Clube"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/hackerspaces-e-a-cultura-hacker.jpg",
+  "title": "Hackerspaces e a cultura hacker",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=ds58orZJRL0"
+    },
+    {
+      "size": 265504246,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-hackerspaces-e-a-cultura-hacker.ogv"
+    },
+    {
+      "size": 133433347,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr5-2012/cpbr5-2012-hackerspaces-e-a-cultura-hacker.webm"
+    }
+  ]
+}

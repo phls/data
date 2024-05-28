@@ -1,0 +1,43 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A palestra tem como prop\u00f3sito apresentar op\u00e7\u00f5es de plataformas livres, formatos, codecs, e modelos de licenciamento de conte\u00fado para implanta\u00e7\u00e3o de uma WebTV livre. Como exemplo pr\u00e1tico, descreve o processo de planejamento e implanta\u00e7\u00e3o da TV Esp\u00edrito Livre, as dificuldades enfrentadas no percurso e tecnologias utilizadas, e estabelece compara\u00e7\u00f5es e reflex\u00f5es das solu\u00e7\u00f5es utilizadas na TV EL com outras experi\u00eancias e alternativas consagradas para cria\u00e7\u00e3o de WebTVs.",
+  "duration": 2977,
+  "id": 201,
+  "language": "por",
+  "recorded": "2015-02-04",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-webtv-livre-como-fazer",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/webtv-livre-como-fazer-cpbr8"
+  ],
+  "slug": "webtv-livre-como-fazer",
+  "speakers": [
+    "Eduardo Lucas"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "WebTV",
+    "TV",
+    "TV Esp\u00edrito Livre"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/webtv-livre-como-fazer.jpg",
+  "title": "WebTV Livre: como fazer",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=uc95Z--ZrOk"
+    },
+    {
+      "size": 336538002,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-webtv-livre-como-fazer.ogv"
+    },
+    {
+      "size": 128206563,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-webtv-livre-como-fazer.webm"
+    }
+  ]
+}

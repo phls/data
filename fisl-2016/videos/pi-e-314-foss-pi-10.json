@@ -1,0 +1,23 @@
+{
+  "description": "Utilizando FOSS monte um poderoso equipamento para compartilhar arquivos, fazer download autom\u00e1ticos dos seus conte\u00fados favoritos, atuar como Media Center, automatizar ambientes e simplificar v\u00e1rias a\u00e7\u00f5es do seu dia a dia. \n\nDurante esta apresenta\u00e7\u00e3o, faremos uma demonstra\u00e7\u00e3o dos recursos que um simples device PI (Rapberry/Banana) pode trazer e como isso pode ajudar no seu dia a dia.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "pi-e-314-foss-pi-10",
+  "speakers": [
+    "Diego Guimar\u00e3es Ramos"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Multim\u00eddia"
+  ],
+  "title": "Pi \u00e9 3,14; FOSS + PI = 10",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41b/sala41b-high-201607130902.ogv"
+    }
+  ]
+}

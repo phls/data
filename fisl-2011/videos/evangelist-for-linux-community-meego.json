@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "evangelist-for-linux-community-meego",
+  "speakers": [
+    "Rodrigo Vivi"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "MeeGo Day"
+  ],
+  "title": "Evangelist for Linux Community MeeGo",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201106291701.ogv"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "etica-hacker-e-o-desenvolvimento-da-ciencia-e-tecnologia",
+  "speakers": [
+    "Claudio Manoel Duarte de Souza",
+    "Sergio Amadeu da Silveira",
+    "Alexandre Oliva",
+    "Nelson De Luca Pretto"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Etica hacker e o desenvolvimento da ci\u00eancia e tecnologia",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41b/sala41b-high-201106301704.ogv"
+    }
+  ]
+}

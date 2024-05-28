@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "debate-cidades-copyleft",
+  "speakers": [
+    "VJ Pixel",
+    "Aron Krouse",
+    "Bernardo Guti\u00e9rrez",
+    "Giselle Beiguelman"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Debate Cidades Copyleft",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41a/sala41a-high-201207261405.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Ap\u00f3s um ataque a um computador/servidor quais os passos corretos a se tomar para descobrir (tentar) a causa atrav\u00e9s de uma an\u00e1lise forense. Al\u00e9m de dicas e recomenda\u00e7\u00f5es de seguran\u00e7a da informa\u00e7\u00e3o para previnir este tipo de acontecimento no entorno GNU/Linux. Esta palestra \u00e9 indicada para estudantes e profissionais de seguran\u00e7a que est\u00e3o come\u00e7ando no mundo forense e trabalham com GNU/Linux no dia a dia. A palestra contempla tamb\u00e9m alguns detalhes importantes na mudan\u00e7a do SystemV (sysvinit) para o SystemD (systemd) na administra\u00e7\u00e3o do sistema em uma tomada de dados forense.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "analise-forense-a-sistemas-operacionais-gnulinux",
+  "speakers": [
+    "Thiago Branco Meurer"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Seguran\u00e7a"
+  ],
+  "title": "An\u00e1lise Forense a Sistemas Operacionais GNU/Linux",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41c/sala41c-high-201607141202.ogv"
+    }
+  ]
+}

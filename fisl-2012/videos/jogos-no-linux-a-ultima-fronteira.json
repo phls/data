@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-25",
+  "slug": "jogos-no-linux-a-ultima-fronteira",
+  "speakers": [
+    "Mauro Aguiar Duarte"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Jogos no Linux - a ultima fronteira.",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41d/sala41d-high-201207251503.ogg"
+    }
+  ]
+}

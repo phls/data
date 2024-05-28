@@ -1,0 +1,46 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A ideia de Recursos Educacionais Abertos (REA), crescente no ambiente acad\u00eamico, aborda al\u00e9m da utiliza\u00e7\u00e3o de cursos e conte\u00fados de forma livre e aberta, tornar os mesmos dispon\u00edveis a todos. Conhecidos como OpenCourseWare (OCW) ou OER (Open Educational Resources) s\u00e3o recursos voltados para o ensino, aprendizagem e pesquisa. A abrang\u00eancia vai de conte\u00fados digitais de aprendizagem a ferramentas de apoio, do desenvolvimento dos recursos \u00e0s melhores pr\u00e1ticas de uso dos conte\u00fados, entre outras caracter\u00edsticas. O foco \u00e9 criar bens educacionais para a humanidade. Venha saber mais sobre dom\u00ednio p\u00fablico, licen\u00e7a de propriedade intelectual, o uso dos REA e como eles podem fazer diferen\u00e7a no acesso democr\u00e1tico \u00e0 educa\u00e7\u00e3o.",
+  "duration": 1661,
+  "id": 32,
+  "language": "por",
+  "recorded": "2013-01-31",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/politicas-publicas-para-rea-e-software-livre-na-educacao",
+    "http://slcampusparty.com.br/blog/politicas-publicas-para-rea-e-software-livre-na-educacao"
+  ],
+  "slug": "politicas-publicas-para-rea-e-software-livre-na-educacao",
+  "speakers": [
+    "Bianca Santana",
+    "D\u00e9bora Cristina da Silva Sebriam",
+    "Salete Farias Almeida",
+    "Val\u00e9ssio Soares de Brito"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "REA",
+    "Recursos educacionais abertos"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/politicas-publicas-para-rea-e-software-livre-na-educacao.jpg",
+  "title": "Painel: politicas p\u00fablicas para REA e Software Livre na educa\u00e7\u00e3o",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=JRNyYZ0BvPM"
+    },
+    {
+      "size": 216187299,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-politicas-publicas-para-rea-e-software-livre-na-educacao.ogv"
+    },
+    {
+      "size": 63014340,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-politicas-publicas-para-rea-e-software-livre-na-educacao.webm"
+    }
+  ]
+}

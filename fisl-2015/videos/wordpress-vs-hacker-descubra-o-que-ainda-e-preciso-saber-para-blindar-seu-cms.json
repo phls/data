@@ -1,0 +1,24 @@
+{
+  "description": "Segundo dados, 21% dos sites no mundo hoje rodam o wordpress, por essa crescente, hackers est\u00e3o se especializando em t\u00e9cnicas e falhas voltadas para o wordpress, pois probabilidade de conseguirem uma quantidade maior de alvos com menor esfor\u00e7o \u00e9 muito grande.\n\nPerguntar que n\u00e3o quer calar, o WordPress \u00e9 seguro ? Avalie nossas considera\u00e7\u00f5es e tire suas pr\u00f3prias conclus\u00f5es. De qualquer maneira apresentaremos as principais vulnerabilidades encontradas. Tamb\u00e9m mostraremos quais as etapas para alcan\u00e7ar um \u00f3timo n\u00edvel de seguran\u00e7a em seu CMS.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "wordpress-vs-hacker-descubra-o-que-ainda-e-preciso-saber-para-blindar-seu-cms",
+  "speakers": [
+    "Thiago Dieb",
+    "Lenon Mazzarelo Furtado Leite"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ger\u00eancia de Conte\u00fado / CMS"
+  ],
+  "title": "WordPress vs Hacker - Descubra o que ainda \u00e9 preciso saber para blindar seu CMS",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41c/sala_41c-high-201507091800.ogv"
+    }
+  ]
+}

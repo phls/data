@@ -1,0 +1,23 @@
+{
+  "description": "Quantas vezes voc\u00ea j\u00e1 precisou repetir as mesmas configura\u00e7\u00f5es manuais para criar ou configurar uma infraestrutura? J\u00e1 imaginou sua infraestrutura sendo versionada e automatizada da mesma forma que acontece com o desenvolvimento de softwares? Com o surgimento da filosofia DEVOPS tudo isso se tornou realidade. \n\nO DevOps surgiu da necessidade de melhorar a agilidade das entregas no setor de TI focando no aperfei\u00e7oamento da comunica\u00e7\u00e3o, colabora\u00e7\u00e3o e integra\u00e7\u00e3o entre desenvolvedores de software e administradores da infra de TI. \n\n\nEssa palestra tem o objetivo de mostrar como tratar sua infraestrutura como c\u00f3digo, usando ferramenta de Ger\u00eancia de configura\u00e7\u00e3o como o Puppet, versionamento com Git, e monitora\u00e7\u00e3o e controle com Zabbix.\n\nO p\u00fablico ter\u00e1 a oportunidade de ver uma demonstra\u00e7\u00e3o pr\u00e1tica de uma infraestrutura de Servidor de Aplica\u00e7\u00e3o sendo criada de forma totalmente automatizada via Puppet, monitorada pelo Zabbix e tudo com controle de vers\u00e3o atrav\u00e9s do Git.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "infraestrutura-agil-com-git-puppet-e-zabbix",
+  "speakers": [
+    "Gabriela Dias"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Administra\u00e7\u00e3o de Sistemas"
+  ],
+  "title": "Infraestrutura \u00c1gil com Git, Puppet e Zabbix",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507091255.ogv"
+    }
+  ]
+}

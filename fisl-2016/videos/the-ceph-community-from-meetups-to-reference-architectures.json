@@ -1,0 +1,24 @@
+{
+  "description": "Ceph is a distributed object store and file system designed to provide excellent performance, reliability, and scalability; made possible by a global community of passionate storage engineers and researchers. This developer community has helped Ceph become the leading storage solution for OpenStack and continues to accelerate development and adoption. This talk will give a brief overview of the Ceph community, the state of Ceph development, and available reference architectures.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "the-ceph-community-from-meetups-to-reference-architectures",
+  "speakers": [
+    "Patrick McGarry",
+    "Dan Ferber"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Administra\u00e7\u00e3o de Sistemas"
+  ],
+  "title": "The Ceph Community: from meetups to reference architectures",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41e/sala41e-high-201607131500.ogv"
+    }
+  ]
+}

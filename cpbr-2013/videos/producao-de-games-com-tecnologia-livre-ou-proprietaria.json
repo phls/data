@@ -1,0 +1,44 @@
+{
+  "copyright_text": "CC BY",
+  "description": "No presente trabalho ser\u00e1 discutido o uso de tecnologias livre comparada com tecnologias propriet\u00e1rias para a cria\u00e7\u00e3o de jogos eletr\u00f4nicos com \u00eanfase em 2D e 3D. Ser\u00e3o abordados cria\u00e7\u00e3o de texturas, cria\u00e7\u00e3o de modelos 3D, est\u00e1ticos e din\u00e2micos, exporta\u00e7\u00e3o e portabiliza\u00e7\u00e3o para engines como UDK e Unity3D e a diferen\u00e7a entre estes e o Blender game Engine. Tamb\u00e9m ser\u00e3o abortados os diferentes frameworks, como o PlayN do Google, para a cria\u00e7\u00e3o de games. Ser\u00e3o abordadas as compara\u00e7\u00f5es entre : Photoshop e gimp, Blender 3d, Autodesk 3D max e GMax, integra\u00e7\u00e3o com UDK e Unity 3D e as principais caracter\u00edsticas destes comparados como Blender Game Engine, e os frameworks PlayN e XNA. Por ultimo as conclus\u00f5es de qual \u00e9 a melhor escolha para o melhor desenvolvimento.",
+  "duration": 2507,
+  "id": 34,
+  "language": "por",
+  "recorded": "2013-02-01",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/producao-de-games-com-tecnologia-livre-ou-proprietaria-qual-usar",
+    "http://slcampusparty.com.br/blog/producao-de-games-com-tecnologia-livre-ou-proprietaria-qual-usar"
+  ],
+  "slug": "producao-de-games-com-tecnologia-livre-ou-proprietaria",
+  "speakers": [
+    "Renan Guilherme Nespolo"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "UDK",
+    "Unity3D",
+    "Blender",
+    "Gimp"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/producao-de-games-com-tecnologia-livre-ou-proprietaria.jpg",
+  "title": "Produ\u00e7\u00e3o de games com tecnologia livre ou propriet\u00e1ria, qual usar?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=8y9F1PTi5ss"
+    },
+    {
+      "size": 186914490,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-producao-de-games-com-tecnologia-livre-ou-proprietaria.ogv"
+    },
+    {
+      "size": 60343836,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-producao-de-games-com-tecnologia-livre-ou-proprietaria.webm"
+    }
+  ]
+}

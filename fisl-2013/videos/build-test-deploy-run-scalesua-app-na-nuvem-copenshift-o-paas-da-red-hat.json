@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "build-test-deploy-run-scalesua-app-na-nuvem-copenshift-o-paas-da-red-hat",
+  "speakers": [
+    "Fabiano Franz"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Casos de sucesso"
+  ],
+  "title": "Build, Test, Deploy, Run, Scale!Sua App na Nuvem c/OpenShift, o PaaS da Red Hat",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41e/sala41e-high-201307031759.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "como-podemos-e-devemos-monitorar-nosso-codigo-fonte",
+  "speakers": [
+    "Rafael Reggiani Manzo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Como podemos e devemos monitorar nosso c\u00f3digo fonte?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41b/sala41b-high-201405101301.ogv"
+    }
+  ]
+}

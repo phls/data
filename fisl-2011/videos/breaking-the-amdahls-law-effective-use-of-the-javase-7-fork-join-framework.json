@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "breaking-the-amdahls-law-effective-use-of-the-javase-7-fork-join-framework",
+  "speakers": [
+    "Simon Ritter"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Breaking the [Amdahl's] law!  Effective Use of the JavaSE 7 Fork-Join Framework",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201107011400.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "php-na-tela-escura-aplicacoes-poderosas-em-linha-de-comando",
+  "speakers": [
+    "Rafael Jaques"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "PHP e Java"
+  ],
+  "title": "PHP na Tela Escura: Aplica\u00e7\u00f5es Poderosas em Linha de Comando",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41b/sala41b-high-201405090904.ogv"
+    }
+  ]
+}

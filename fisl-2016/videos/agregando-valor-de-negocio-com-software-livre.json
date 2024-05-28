@@ -1,0 +1,26 @@
+{
+  "description": "Nesta palestra ser\u00e1 apresentado o case de uso de software livre no ambiente Banrisul e como utilizar software livre para agregar valor \u00e0s solu\u00e7\u00f5es de neg\u00f3cio no setor banc\u00e1rio.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "agregando-valor-de-negocio-com-software-livre",
+  "speakers": [
+    "Miguel Angelo Chagas Neumann",
+    "Roberto Schaedler Borges",
+    "Gustavo Menezes Oliveira",
+    "Carlos Eduardo M. Morais"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Neg\u00f3cios, Migra\u00e7\u00f5es e Casos"
+  ],
+  "title": "Agregando valor de neg\u00f3cio com software livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41d/sala41d-high-201607141801.ogv"
+    }
+  ]
+}

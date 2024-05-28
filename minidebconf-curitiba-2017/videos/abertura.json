@@ -1,0 +1,38 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Abertura da MiniDebConf Curitiba 2017 realizada de 17 a 19 de mar\u00e7o de 2017 no miniaudit\u00f3rio do campus central da Universidade Tecnol\u00f3gica Federal do Paran\u00e1 (UTFPR).",
+  "duration": 1655,
+  "id": 66,
+  "language": "por",
+  "recorded": "2017-03-17",
+  "related_urls": [
+    "http://br2017.mini.debconf.org"
+  ],
+  "slug": "abertura-minidebconf-curitiba-2017",
+  "speakers": [
+    "Antonio Terceiro",
+    "Paulo Henrique de Lima Santana"
+  ],
+  "tags": [
+    "Debian",
+    "MiniDebConf",
+    "MiniDebConf Curitiba",
+    "MiniDebConf Curitiba 2017",
+    "Universidade Tecnol\u00f3gica Federal do Paran\u00e1",
+    "UTFPR",
+    "Curitiba"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/minidebconf_curitiba_2017_abertura.jpg",
+  "title": "Abertura da MiniDebConf Curitiba 2017",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=48jVIX6sgOo"
+    },
+    {
+      "size": 253039601,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/minidebconf-curitiba-2017/minidebconf_curitiba_2017_abertura.webm"
+    }
+  ]
+}

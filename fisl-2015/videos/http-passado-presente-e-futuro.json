@@ -1,0 +1,23 @@
+{
+  "description": "A proposta \u00e9 sobre o principal protocolo para desenvolvedores web, que foi projeto h\u00e1 18 anos e praticamente n\u00e3o foi atualizado nesse meio-tempo.\n\nA web evoluiu. E muito. Desenvolvedores tiveram que se adaptar e criar pr\u00e1ticas para melhorar a performance de aplica\u00e7\u00f5es web. Em 2015 ela finalmente ganha uma nova vers\u00e3o de seu principal protocolo, popularmente conhecido como HTTP/2.\n\nColaborativamente criado com a ajuda da comunidade, o HTTP/2 tem grandes mudan\u00e7as, principalmente tratando-se de performance. Mas isso ser\u00e1 bom para os servidores antigos? Como ficam as aplica\u00e7\u00f5es que j\u00e1 est\u00e3o em produ\u00e7\u00e3o? E os browsers, j\u00e1 suportam?\n\nNessa apresenta\u00e7\u00e3o ser\u00e1 apresentado o passado, presente e futuro do HTTP. Precisamos saber como ele foi criado, o que fazemos para contornar os problemas atuais e como ser\u00e1 o seu futuro.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-11",
+  "slug": "http-passado-presente-e-futuro",
+  "speakers": [
+    "Luiz Fernando Rodrigues"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "HTTP: passado, presente e futuro",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507111357.ogv"
+    }
+  ]
+}

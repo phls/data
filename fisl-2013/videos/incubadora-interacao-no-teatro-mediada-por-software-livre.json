@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "incubadora-interacao-no-teatro-mediada-por-software-livre",
+  "speakers": [
+    "VJ Pixel",
+    "Guilherme Guerra",
+    "Marcelo Jorge Vieira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Usos educacionais de softwares livres"
+  ],
+  "title": "Incubadora \u2013 Intera\u00e7\u00e3o no teatro mediada por Software Livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41e/sala41e-high-201307051702.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "desenvolvimento-de-apps-multiplataforma-com-html5",
+  "speakers": [
+    "Jomar Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Outras linguagens"
+  ],
+  "title": "Desenvolvimento de Apps multiplataforma com HTML5",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405101402.ogv"
+    }
+  ]
+}

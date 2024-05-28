@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-09",
+  "slug": "seguranca-oportunistica-e-perfect-forward-secrecy",
+  "speakers": [
+    "Daniel Kahn Gillmor"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "criptoparty"
+  ],
+  "title": "Seguran\u00e7a oportun\u00edstica e Perfect Forward Secrecy",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/40t/sala40t-high-201405091355.ogv"
+    }
+  ]
+}

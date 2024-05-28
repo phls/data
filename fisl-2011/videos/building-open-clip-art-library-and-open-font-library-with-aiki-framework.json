@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "building-open-clip-art-library-and-open-font-library-with-aiki-framework",
+  "speakers": [
+    "Jon Phillips"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Building Open Clip Art Library and Open Font Library with Aiki Framework",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201107021704.ogv"
+    }
+  ]
+}

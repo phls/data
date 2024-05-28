@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "hackeando-bancos-e-a-receita-federal",
+  "speakers": [
+    "Thadeu Lima de Souza Cascardo",
+    "Alexandre Oliva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Neutralidade"
+  ],
+  "title": "Hackeando Bancos e a Receita Federal",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307031502.ogg"
+    }
+  ]
+}

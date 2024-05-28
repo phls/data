@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "usando-e-abusando-roteadores-com-openwrt",
+  "speakers": [
+    "Marcelo Mallmann Dias"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Hardware, Sistemas Embarcados e Rob\u00f3tica"
+  ],
+  "title": "Usando e abusando roteadores com OpenWRT",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405101256.ogv"
+    }
+  ]
+}

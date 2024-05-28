@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "nodejs-and-the-challenges-of-the-real-time-web",
+  "speakers": [
+    "Bryan Cantrill"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Outras linguagens"
+  ],
+  "title": "node.js and the Challenges of the Real-time Web",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41a/sala41a-high-201207271001.ogg"
+    }
+  ]
+}

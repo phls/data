@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "desenvolvimento-de-jogos-em-padroes-abertos",
+  "speakers": [
+    "Henrique Lopes Barone"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Jogos"
+  ],
+  "title": "Desenvolvimento de jogos em padr\u00f5es abertos (*)",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307031200.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "free-software-and-higher-education-experiences-in-creating-floss-experts",
+  "speakers": [
+    "Gregorio Robles"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "WSL"
+  ],
+  "title": "Free software and Higher Education: Experiences in Creating FLOSS Experts",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40a/sala40a-high-201207261712.ogg"
+    }
+  ]
+}

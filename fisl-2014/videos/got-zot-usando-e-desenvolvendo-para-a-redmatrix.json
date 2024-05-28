@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "got-zot-usando-e-desenvolvendo-para-a-redmatrix",
+  "speakers": [
+    "Alexandre Hannud Abdo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "Got Zot? Usando e desenvolvendo para a RedMatrix",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41c/sala41c-high-201405071201.ogv"
+    }
+  ]
+}

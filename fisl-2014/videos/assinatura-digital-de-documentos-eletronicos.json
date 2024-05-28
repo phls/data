@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "assinatura-digital-de-documentos-eletronicos",
+  "speakers": [
+    "Dhiego Tosatti"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "PHP e Java"
+  ],
+  "title": "Assinatura digital de documentos eletr\u00f4nicos",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41f/sala41f-high-201405071556.ogv"
+    }
+  ]
+}

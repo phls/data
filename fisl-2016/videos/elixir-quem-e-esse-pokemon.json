@@ -1,0 +1,23 @@
+{
+  "description": "A Ideia da atividade, \u00e9 apresentar aos interessados, de forma simples e r\u00e1pida um pouco mais sobre o Elixir, uma linguagem de programa\u00e7\u00e3o que apesar do pouco tempo de exist\u00eancia, foi muito bem aceito pela comunidade e j\u00e1 est\u00e1 com uma base s\u00f3lida! Contar sobre a sua hist\u00f3ria, objetivo, e mostrar um pouco das a\u00e7\u00f5es da comunidade, al\u00e9m de cases onde ela j\u00e1 est\u00e1 em produ\u00e7\u00e3o!",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "elixir-quem-e-esse-pokemon",
+  "speakers": [
+    "Bruno Loureiro Volcov"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "Elixir, quem \u00e9 esse pokemon?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607150900.ogv"
+    }
+  ]
+}

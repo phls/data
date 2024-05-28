@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "boas-praticas-de-seguranca",
+  "speakers": [
+    "Luiz Eduardo Roncato Cordeiro"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Seguran\u00e7a"
+  ],
+  "title": "Boas Pr\u00e1ticas de Seguran\u00e7a",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41d/sala41d-high-201106301001.ogv"
+    }
+  ]
+}

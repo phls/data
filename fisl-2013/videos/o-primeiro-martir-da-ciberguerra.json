@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-05",
+  "slug": "o-primeiro-martir-da-ciberguerra",
+  "speakers": [
+    "Pedro Antonio Dourado de Rezende"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Neutralidade"
+  ],
+  "title": "O primeiro m\u00e1rtir da ciberguerra",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41a/sala41a-high-201307051912.ogg"
+    }
+  ]
+}

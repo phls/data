@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "reflexoes-sobre-uma-carreira-em-software-livre",
+  "speakers": [
+    "Lucas Rocha"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "BoF"
+  ],
+  "title": "Reflex\u00f5es sobre uma carreira em Software Livre ",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307041801.ogg"
+    }
+  ]
+}

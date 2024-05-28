@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "software-libre-en-las-administraciones-publicas-en-espana",
+  "speakers": [
+    "R\u00e1mon R\u00e1mon S\u00e1nchez"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Software Libre en las Administraciones P\u00fablicas en Espa\u00f1a",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40t/sala40t-high-201207271805.ogg"
+    }
+  ]
+}

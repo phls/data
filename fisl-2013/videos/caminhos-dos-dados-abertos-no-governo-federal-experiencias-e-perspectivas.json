@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "caminhos-dos-dados-abertos-no-governo-federal-experiencias-e-perspectivas",
+  "speakers": [
+    "Danilo Marasca Bertazzi",
+    "Nitai Bezerra da Silva",
+    "Rafael Gon\u00e7alez Carneiro"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Casos de sucesso"
+  ],
+  "title": " \u201cCaminhos dos dados abertos no Governo Federal: Experi\u00eancias e perspectivas\u201d",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307041702.ogg"
+    }
+  ]
+}

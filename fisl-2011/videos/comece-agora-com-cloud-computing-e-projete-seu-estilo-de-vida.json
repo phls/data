@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "comece-agora-com-cloud-computing-e-projete-seu-estilo-de-vida",
+  "speakers": [
+    "Bruno Souza"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "PHP e Java"
+  ],
+  "title": "Comece agora com Cloud Computing e Projete seu Estilo de Vida",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41e/sala41e-201106291607.ogv"
+    }
+  ]
+}

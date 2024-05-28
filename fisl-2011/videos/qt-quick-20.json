@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-29",
+  "slug": "qt-quick-20",
+  "speakers": [
+    "Leonardo Sobral Cunha"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "MeeGo Day"
+  ],
+  "title": "Qt Quick 2.0",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41b/sala41b-high-201106291501.ogv"
+    }
+  ]
+}

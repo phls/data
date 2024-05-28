@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "software-livre-na-infraestrutura-de-seguranca-do-governo-brasileiro",
+  "speakers": [
+    "Fabiano Castro Pereira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Neg\u00f3cios, Implementa\u00e7\u00f5es e Casos"
+  ],
+  "title": "Software Livre na Infraestrutura de Seguran\u00e7a do Governo Brasileiro",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41d/sala41d-high-201106301300.ogv"
+    }
+  ]
+}

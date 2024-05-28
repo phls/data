@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "testes-automatizados-de-software-ferramentas-e-padroes-utilizados-no-noosfero",
+  "speakers": [
+    "Daniela Soares Feitosa",
+    "Rodrigo Nunes Souto"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Testes automatizados de software: ferramentas e padr\u00f5es utilizados no Noosfero",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307061301.ogg"
+    }
+  ]
+}

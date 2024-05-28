@@ -1,0 +1,45 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Sabe o que \u00e9 um hackerspace? Como funciona? E onde pode ser montado um? Neste painel com integrantes de outros hackerspaces responderemos ao menos estas perguntas. Traga suas d\u00favidas, curiosidades e vamos bater um papo. Aprenda e compartilhe!",
+  "duration": 2783,
+  "id": 134,
+  "language": "por",
+  "recorded": "2015-02-06",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/palestra-hackerspace-o-que-como-onde",
+    "http://campuse.ro/events/campus-party-brasil-2015/talk/hackerspace-o-que-como-onde-cpbr8"
+  ],
+  "slug": "hackerspace-o-que-como-onde",
+  "speakers": [
+    "Anchises M. G. de Paula",
+    "Claudio Olmedo",
+    "Igor Brand\u00e3o",
+    "Luiz Henrique Rauber Rodrigues"
+  ],
+  "tags": [
+    "CPBR8",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "Hackerspace"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/hackerspace-o-que-como-onde.jpg",
+  "title": "Painel: Hackerspace, o que? Como? Onde?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=1x8NnF57usM"
+    },
+    {
+      "size": 733760369,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-hackerspace-o-que-como-onde.ogv"
+    },
+    {
+      "size": 234239073,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr8-2015/cpbr8-2015-hackerspace-o-que-como-onde.webm"
+    }
+  ]
+}

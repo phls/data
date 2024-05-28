@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "fotografia-panoramica-imersiva-360x180o-com-software-livre",
+  "speakers": [
+    "Carlos Cartola"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Jogos, Multim\u00eddia e Streaming"
+  ],
+  "title": "Fotografia Panor\u00e2mica Imersiva 360x180\u00ba com Software Livre",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41e/sala41e-high-201405071510.ogv"
+    }
+  ]
+}

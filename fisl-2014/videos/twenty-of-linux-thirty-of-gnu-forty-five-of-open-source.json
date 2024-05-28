@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "twenty-of-linux-thirty-of-gnu-forty-five-of-open-source",
+  "speakers": [
+    "Jon \"Maddog\" Hall"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Twenty of Linux, Thirty of GNU, Forty-five of Open Source",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/40t/sala40t-high-201405101605.ogv"
+    }
+  ]
+}

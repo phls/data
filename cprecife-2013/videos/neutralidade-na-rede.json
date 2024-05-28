@@ -1,0 +1,45 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A neutralidade da rede \u00e9 um tema que tem sido muito debatido nos \u00faltimos tempos, mas \u00e9 essencial que a discuss\u00e3o continue. Que impacto tem em nossa vida como usu\u00e1rios da internet? Por que se diz que a neutralidade da rede se tornou o tema de liberdade de express\u00e3o deste s\u00e9culo?",
+  "duration": 5119,
+  "id": 43,
+  "language": "por",
+  "recorded": "2013-07-20",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/neutralidade-na-rede-cprecife2"
+  ],
+  "slug": "neutralidade-na-rede",
+  "speakers": [
+    "Isaac Fernando Ferreira Filho",
+    "Paulo Henrique de Lima Santana",
+    "Ricardo Ruiz Freire",
+    "S\u00e9rgio Amadeu da Silveira"
+  ],
+  "tags": [
+    "CPRecife2",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "Painel",
+    "Liberdade de express\u00e3o",
+    "Neutralidade na rede"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/neutralidade-na-rede.jpg",
+  "title": "Painel: neutralidade na rede",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=EV4LiFA2ras"
+    },
+    {
+      "size": 680611686,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife2-2013/cprecife2-2013-neutralidade-na-rede.ogv"
+    },
+    {
+      "size": 233499034,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife2-2013/cprecife2-2013-neutralidade-na-rede.webm"
+    }
+  ]
+}

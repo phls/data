@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "a-utilizacao-do-software-livre-como-recurso-estatistico",
+  "speakers": [
+    "Alex F. R. Lima",
+    "Felipe F. Mendes"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Matem\u00e1tica"
+  ],
+  "title": "A Utiliza\u00e7\u00e3o do Software Livre Como Recurso Estat\u00edstico",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40a/sala40a-high-201307061010.ogg"
+    }
+  ]
+}

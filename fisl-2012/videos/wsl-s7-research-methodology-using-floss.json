@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-27",
+  "slug": "wsl-s7-research-methodology-using-floss",
+  "speakers": [
+    "Jorge Luiz Corr\u00eaa",
+    "V\u00edctor L. Orozco",
+    "Inessa Diniz Luerce",
+    "Paulo Meirelles"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "WSL"
+  ],
+  "title": "WSL (S7): Research methodology using FLOSS",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/40a/sala40a-high-201207271701.ogg"
+    }
+  ]
+}

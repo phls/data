@@ -1,0 +1,23 @@
+{
+  "description": "O que \u00e9 o Debian? Quem pode participar? Como EU posso participar? Qual a diferen\u00e7a entre unstable, testing e stable? Pra que serve o reposit\u00f3rio backports? Como o Debian responde a incidentes de seguran\u00e7a? Como \u00e9 poss\u00edvel desenvolver o maior e melhor sistema operecional que existe sem uma empresa central dando as ordens? Se voc\u00ea est\u00e1 interessado nas respostas para estas e outras perguntas, esta palestra \u00e9 pra voc\u00ea.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "debian-o-que-e-e-como-funciona",
+  "speakers": [
+    "Antonio Terceiro"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "miniDebConf"
+  ],
+  "title": "Debian: o que \u00e9, e como funciona",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507101000.ogv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "A id\u00e9ia da palestra \u00e9 falar sobre a parte eletr\u00f4nica do Ardu\u00edno. Existem muitos c\u00f3digos e muitos esquemas na internet  e isso faz com que os estudantes fa\u00e7am projetos sem saber como as coisas funcionam.\nAbordar temas sobre as portas l\u00f3gicas e as portas digitais, explicar sobre o c\u00f3digo para ardu\u00edno citando como se faz read e write, explicar porque usamos um resistor em um led, c\u00e1lculos de resist\u00eancia ( lei de Ohm), aprender que podemos usar o microcontrolador stand alone tornando os projetos mais baratos.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "mais-eletronica-no-arduino",
+  "speakers": [
+    "Rafael Schneider da Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Hardware Aberto"
+  ],
+  "title": "Mais Eletr\u00f4nica no Ardu\u00edno",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41f/sala41f-high-201607130904.ogv"
+    }
+  ]
+}

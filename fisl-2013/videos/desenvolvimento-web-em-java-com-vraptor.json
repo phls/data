@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "desenvolvimento-web-em-java-com-vraptor",
+  "speakers": [
+    "Cristiano Agosti"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "PHP e Java"
+  ],
+  "title": "Desenvolvimento Web em Java com Vraptor",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41e/sala41e-high-201307061259.ogg"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Debian unstable j\u00e1 tem inst\u00e1vel no nome; por qu\u00ea algu\u00e9m escolheria usar um sistema desse? Nesta palestra vamos ver por qu\u00ea usar Debian unstable, e tamb\u00e9m em que situa\u00e7\u00f5es n\u00e3o se deve usar. Vamos discutir quest\u00f5es relacionadas ao processo de desenvolvimento do Debian, vantagens e desvantagens de usar unstable, e como fazer isso do Jeito Certo.",
+  "duration": 2480,
+  "id": 84,
+  "language": "por",
+  "recorded": "2017-03-18",
+  "related_urls": [
+    "http://br2017.mini.debconf.org"
+  ],
+  "slug": "vivendo-perigosamente-usando-debian-unstable-no-dia-a-dia",
+  "speakers": [
+    "Antonio Terceiro"
+  ],
+  "tags": [
+    "Debian",
+    "MiniDebConf",
+    "MiniDebConf Curitiba",
+    "MiniDebConf Curitiba 2017",
+    "Universidade Tecnol\u00f3gica Federal do Paran\u00e1",
+    "UTFPR",
+    "Curitiba",
+    "Debian unstable"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/minidebconf_curitiba_2017_vivendo_perigosamente_usando_debian_unstable_no_dia_a_dia.jpg",
+  "title": "Vivendo perigosamente!? Usando Debian unstable no dia a dia",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=DKYCGSw9s_8"
+    },
+    {
+      "size": 384791583,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/minidebconf-curitiba-2017/minidebconf_curitiba_2017_vivendo_perigosamente_usando_debian_unstable_no_dia-a-dia.webm"
+    }
+  ]
+}

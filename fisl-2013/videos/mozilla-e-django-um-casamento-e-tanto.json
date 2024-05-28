@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "mozilla-e-django-um-casamento-e-tanto",
+  "speakers": [
+    "S\u00e9rgio Oliveira Campos",
+    "Armando Biagioni Neto"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Python, Ruby e Perl"
+  ],
+  "title": "Mozilla e Django: um casamento e tanto!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307031103.ogg"
+    }
+  ]
+}

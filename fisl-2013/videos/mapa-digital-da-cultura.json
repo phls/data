@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "mapa-digital-da-cultura",
+  "speakers": [
+    "Denise Pereira",
+    "J\u00e9ferson Assum\u00e7\u00e3o"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Casos de sucesso"
+  ],
+  "title": "MAPA DIGITAL DA CULTURA (*)",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307031108.ogg"
+    }
+  ]
+}

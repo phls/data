@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "mysql-55-and-56-the-latest-updates-on-the-worlds-most-popular-floss-database",
+  "speakers": [
+    "Davi Arnaut"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ger\u00eancia de Conte\u00fado"
+  ],
+  "title": "MySQL 5.5 and 5.6, the latest updates on the World's Most Popular FLOSS Database",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41b/sala41b-high-201106301009.ogv"
+    }
+  ]
+}

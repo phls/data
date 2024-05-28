@@ -1,0 +1,41 @@
+{
+  "copyright_text": "CC BY",
+  "description": "A grande gama de possibilidades de acesso a conte\u00fado em suporte digital levanta muitas quest\u00f5es sobre como produzir material adequado e de forma eficiente. A palestra procura introduzir o software livre Managana como uma alternativa para que pessoas sem experi\u00eancia em programa\u00e7\u00e3o sejam capazes de produzir e divulgar seu conte\u00fado em m\u00eddia digital, de forma individual ou coletiva, tanto para ambientes tradicionais da web, como para dispositivos m\u00f3veis e apresenta\u00e7\u00f5es p\u00fablicas.",
+  "duration": 1793,
+  "id": 35,
+  "language": "por",
+  "recorded": "2013-01-29",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/publicacao-digital-na-era-dos-tablets",
+    "http://slcampusparty.com.br/blog/publicacao-digital-na-era-dos-tablets"
+  ],
+  "slug": "publicacao-digital-na-era-dos-tablets",
+  "speakers": [
+    "Lucas Santos Junqueira"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Tablet"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/publicacao-digital-na-era-dos-tablets.jpg",
+  "title": "Publica\u00e7\u00e3o digital na era dos tablets",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=LZ4HDQNv0vU"
+    },
+    {
+      "size": 295787714,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-publicacao-digital-na-era-dos-tablets.ogv"
+    },
+    {
+      "size": 112921356,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-publicacao-digital-na-era-dos-tablets.webm"
+    }
+  ]
+}

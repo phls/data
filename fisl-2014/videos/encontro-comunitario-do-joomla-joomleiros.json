@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-07",
+  "slug": "encontro-comunitario-do-joomla-joomleiros",
+  "speakers": [
+    "J\u00f4natas Medeiros"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Eventos Comunit\u00e1rios"
+  ],
+  "title": "Encontro Comunit\u00e1rio do Joomla (Joomleiros)",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41c/sala41c-high-201405070921.ogv"
+    }
+  ]
+}

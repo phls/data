@@ -1,0 +1,23 @@
+{
+  "description": "A palestra visa tentar identificar as raz\u00f5es que apesar de temos j\u00e1 mais de 30 anos projeto GNU e 20 de gnu/Linux n\u00e3o produzimos uma efetiva transforma\u00e7\u00e3o na  educa\u00e7\u00e3o. Quais foram nossos acertos, nossos erros na caminhada que tivemos pela educa\u00e7\u00e3o e o SL nos \u00faltimos 15 anos. O que fazer para n\u00e3o ficarmos falando  para n\u00f3s mesmo nos F\u00f3runs, Listas e Redes Sociais.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-14",
+  "slug": "educacao-e-software-livre-o-passo-em-descompasso",
+  "speakers": [
+    "Antonio C C Marques"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Educa\u00e7\u00e3o"
+  ],
+  "title": "Educa\u00e7\u00e3o e Software Livre: O passo em Descompasso",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41c/sala41c-high-201607141101.ogv"
+    }
+  ]
+}

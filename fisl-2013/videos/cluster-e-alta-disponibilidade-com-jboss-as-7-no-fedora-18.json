@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "cluster-e-alta-disponibilidade-com-jboss-as-7-no-fedora-18",
+  "speakers": [
+    "Mauricio Magnani Jr"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "PHP e Java"
+  ],
+  "title": "Cluster e Alta Disponibilidade  com JBoss AS 7 no Fedora 18",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40a/sala40a-high-201307040959.ogg"
+    }
+  ]
+}

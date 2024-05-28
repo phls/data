@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "debian-inovacoes-e-revolucoes",
+  "speakers": [
+    "Felipe Augusto van de Wiel"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Desktop e Distribui\u00e7\u00f5es"
+  ],
+  "title": "Debian: inova\u00e7\u00f5es e revolu\u00e7\u00f5es",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201107011004.ogv"
+    }
+  ]
+}

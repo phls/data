@@ -1,0 +1,23 @@
+{
+  "description": "Quando se trata de sistemas operacionais mobile, se fala de android, que \u00e9 parcialmente livre. Um projeto 100% livre que utiliza como base o android \u00e9 o projeto Replicant. A palestra tem como objetivo mostrar o Replicant em um smartphone S3 (i9300), como fazer root utilizando Debian e como instal\u00e1-lo, a vers\u00e3o est\u00e1vel 4.2 e a vers\u00e3o em desenvolvimento 6.0.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "android-livre-na-pratica-instalando-o-replicant",
+  "speakers": [
+    "Wellton Costa de Oliveira"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Sistemas operacionais"
+  ],
+  "title": "Android livre na Pr\u00e1tica: instalando o Replicant",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41b/sala41b-high-201607151100.ogv"
+    }
+  ]
+}

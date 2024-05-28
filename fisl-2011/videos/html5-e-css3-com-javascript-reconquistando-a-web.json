@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-06-30",
+  "slug": "html5-e-css3-com-javascript-reconquistando-a-web",
+  "speakers": [
+    "Felipe Nascimento de Moura"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "T\u00f3picos Emergentes"
+  ],
+  "title": "HTML5 e CSS3 com Javascript, reconquistando a web!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201106301159.ogv"
+    }
+  ]
+}

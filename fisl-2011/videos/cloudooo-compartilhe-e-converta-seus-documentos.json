@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "cloudooo-compartilhe-e-converta-seus-documentos",
+  "speakers": [
+    "Gabriel Manhaes Monnerat"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Python, Ruby e Perl"
+  ],
+  "title": "Cloudooo: Compartilhe e Converta seus Documentos!",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41f/sala41f-high-201107011259.ogv"
+    }
+  ]
+}

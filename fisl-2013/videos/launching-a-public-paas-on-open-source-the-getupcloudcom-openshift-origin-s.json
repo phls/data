@@ -1,0 +1,28 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "launching-a-public-paas-on-open-source-the-getupcloudcom-openshift-origin-s",
+  "speakers": [
+    "Mateus Caruccio",
+    "Diane Mueller-Klingspor"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Launching a Public PaaS on Open Source: The GetUpCloud.com & OpenShift Origin S",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40t/sala40t-high-201307041256.ogg"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/40t/sala40t-high-201307041310.ogg"
+    }
+  ]
+}

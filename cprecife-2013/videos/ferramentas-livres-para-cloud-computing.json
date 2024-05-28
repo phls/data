@@ -1,0 +1,46 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Computa\u00e7\u00e3o em nuvem (Cloud Computing) \u00e9 uma tend\u00eancia recente de tecnologia cujo objetivo \u00e9 proporcionar servi\u00e7os computacionais sob demanda com custo baseado no uso.  Nesta Palestra vamos abordar algumas ferramentas livres relacionados aos conceitos de Infraestrutura (IaaS), Plataforma (PaaS), Software (SaaS) e Banco de dados(DaaS).",
+  "duration": 3172,
+  "id": 42,
+  "language": "por",
+  "recorded": "2013-07-18",
+  "related_urls": [
+    "https://campuse.ro/events/campus-party-recife-2013/talk/ferramentas-livres-para-cloud-computing-infraestrutura-plataforma-software-e-banco-de-dados-cprecife2",
+    "http://slcampusparty.com.br/blog/ferramentas-livres-para-cloud-computing-infraestrutura-plataforma-software-e-banco-de-dados"
+  ],
+  "slug": "ferramentas-livres-para-cloud-computing",
+  "speakers": [
+    "Andr\u00eaza Leite de Alencar"
+  ],
+  "tags": [
+    "CPRecife2",
+    "Campus Party Recife",
+    "Software Livre",
+    "Recife",
+    "Cloud Computing",
+    "Computa\u00e7\u00e3o em nuvem",
+    "IaaS",
+    "PaaS",
+    "Saas",
+    "Daas"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/ferramentas-livres-para-cloud-computing.jpg",
+  "title": "Ferramentas Livres para Cloud Computing: infraestrutura, plataforma, software e banco de dados",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=cLN2FDOpL-Q"
+    },
+    {
+      "size": 375502143,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife2-2013/cprecife2-2013-ferramentas-livres-para-cloud-computing.ogv"
+    },
+    {
+      "size": 118294393,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cprecife2-2013/cprecife2-2013-ferramentas-livres-para-cloud-computing.webm"
+    }
+  ]
+}

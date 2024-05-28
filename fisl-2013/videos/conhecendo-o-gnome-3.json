@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "conhecendo-o-gnome-3",
+  "speakers": [
+    "Felipe Garcia"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Desktop GUI"
+  ],
+  "title": "Conhecendo o Gnome 3",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307061459.ogg"
+    }
+  ]
+}

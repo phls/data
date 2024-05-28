@@ -1,0 +1,26 @@
+{
+  "description": "Virtualiza\u00e7\u00e3o de servidores, servi\u00e7os e desktops utilizando o xenserver. Na institui\u00e7\u00e3o a solu\u00e7\u00e3o xenserver com o intuito de centralizar os servidores, diminuir o consumo de energia, melhorar o aproveitamento de recursos do servidor e ampliar o portif\u00f3lio de servi\u00e7os ofertados. Tamb\u00e9m \u00e9 utilizado como ferramenta para os professores do Curso Superior em Tecnologia em An\u00e1lise e Desenvolvimento de Sistema do Campus para aux\u00edlio nas atividades dos professores.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-13",
+  "slug": "virtualizacao-em-uma-instituicao-de-ensino-com-o-xen",
+  "speakers": [
+    "Leonardo Silva Moraes",
+    "Thiago Redighieri",
+    "Antonio Roberto Bulian",
+    "Carlos Alexandre Volpi"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Administra\u00e7\u00e3o de Sistemas"
+  ],
+  "title": "Virtualiza\u00e7\u00e3o em uma institui\u00e7\u00e3o de ensino com o Xen",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41e/sala41e-high-201607131700.ogv"
+    }
+  ]
+}

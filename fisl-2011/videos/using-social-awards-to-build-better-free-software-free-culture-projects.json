@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-01",
+  "slug": "using-social-awards-to-build-better-free-software-free-culture-projects",
+  "speakers": [
+    "Benjamin Mako Hill",
+    "Aaron Shaw"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Using Social Awards To Build Better Free Software & Free Culture Projects",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41a/sala41a-high-201107011002.ogv"
+    }
+  ]
+}

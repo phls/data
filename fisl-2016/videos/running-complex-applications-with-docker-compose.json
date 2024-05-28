@@ -1,0 +1,23 @@
+{
+  "description": "How to define a multi-container application in a single file, then spin your application up in a single command which does everything that needs to be done to get it running.\n- Docker and Docker Compose Concepts\n- Docker Images\n- Communication Between Docker Images\n-  Learning Docker Compose Commands\n-  Accessing the Docker Container Filesystem\n-  Build an entire complex application with Docker Compose",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-16",
+  "slug": "running-complex-applications-with-docker-compose",
+  "speakers": [
+    "Eduardo Echeverria"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Ferramentas, Metodologias e Padr\u00f5es"
+  ],
+  "title": "Running complex applications with Docker Compose",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41d/sala41d-high-201607161459.ogv"
+    }
+  ]
+}

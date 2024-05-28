@@ -1,0 +1,23 @@
+{
+  "description": "Todos os dias, diversas de pessoas ao redor do mundo come\u00e7am a programar em PHP. \u00c9 uma linguagem f\u00e1cil de ser aprendida e, por isso, pode fazer com que desenvolvedores despreparados criem sistemas vulner\u00e1veis. O objetivo dessa palestra \u00e9 apresentar as principais vulnerabilidades de aplica\u00e7\u00f5es PHP e a maneira de contorn\u00e1-las. Ser\u00e3o mostradas tamb\u00e9m t\u00e9cnicas de programa\u00e7\u00e3o defensiva, resposta a incidentes, preven\u00e7\u00e3o de perdas e outros t\u00f3picos relevantes \u00e0 seguran\u00e7a da informa\u00e7\u00e3o. Princ\u00edpios de seguran\u00e7a, t\u00e9cnicas de invas\u00e3o e defesa, identifica\u00e7\u00e3o e preven\u00e7\u00e3o de ataques, boas pr\u00e1ticas e prote\u00e7\u00e3o do usu\u00e1rio fazem parte dos assuntos abordados nessa palestra.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "php-no-campo-de-batalha-seguranca-avancada-e-programacao-defensiva",
+  "speakers": [
+    "Rafael Jaques"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Linguagens de programa\u00e7\u00e3o"
+  ],
+  "title": "PHP no Campo de Batalha: Seguran\u00e7a Avan\u00e7ada e Programa\u00e7\u00e3o Defensiva",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41f/sala_41f-high-201507091303.ogv"
+    }
+  ]
+}

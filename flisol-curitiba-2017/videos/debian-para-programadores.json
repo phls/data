@@ -1,0 +1,38 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Uma apresenta\u00e7\u00e3o dos principais conceitos de sistemas operacionais que todo programador deveria conhecer para fazer o seu trabalho de uma melhor forma. O foco ser\u00e1 no Debian, porque este \u00e9 o sistema com o qual o palestrante trabalha, mas a id\u00e9ias apresentadas se aplicam a qualquer outro sistema operacional. T\u00f3picos: o shell, processos, entrade/sa\u00edda, concorr\u00eancia, gest\u00e3o de depend\u00eancias, empacotamento, deployment.",
+  "duration": 3386,
+  "id": 233,
+  "language": "por",
+  "recorded": "2017-04-08",
+  "related_urls": [
+    "http://softwarelivre.org/flisol2017-curitiba"
+  ],
+  "slug": "debian-para-programadores",
+  "speakers": [
+    "Antonio Terceiro"
+  ],
+  "tags": [
+    "FLISOL",
+    "FLISOL2017",
+    "Curitiba",
+    "Software Livre",
+    "Debian",
+    "Shell",
+    "Linguagem de programa\u00e7\u00e3o",
+    "Desenvolvimento"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/flisol-curitiba-2017-debian-para-programadores.jpg",
+  "title": "Debian para programadores",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=b4Bsogdndok"
+    },
+    {
+      "size": 707881746,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/flisol/flisol-curitiba-2017/flisol-curitiba-2017-debian-para-programadores.ogv"
+    }
+  ]
+}

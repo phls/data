@@ -1,0 +1,48 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Os participantes do painel ir\u00e3o discutir os v\u00e1rios m\u00e9todos para hackear dados p\u00fablicos do governo federal, estadual e municipal para melhorar a vida das pessoas, usando estrat\u00e9gias para tornar as informa\u00e7\u00f5es mais transparentes e legiveis para qualquer pessoa.",
+  "duration": 4077,
+  "id": 113,
+  "language": "por",
+  "recorded": "2014-01-30",
+  "related_urls": [
+    "http://slcampusparty.com.br/blog/painel-hackeando-o-governo-com-dados-abertos",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-hackeando-o-governo-com-dados-abertos"
+  ],
+  "slug": "hackeando-o-governo-com-dados-abertos",
+  "speakers": [
+    "Deivi Lopes Kuhn",
+    "Luciano Santa Brigida",
+    "Thiago Xavier Ribeiro",
+    "Yasodara Cordova"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Painel",
+    "Hacker",
+    "SERPRO",
+    "PoA Digital",
+    "W3C"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/hackeando-o-governo-com-dados-abertos.jpg",
+  "title": "Painel: Hackeando o Governo com dados abertos",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=BK91SDbKsxc"
+    },
+    {
+      "size": 492326902,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-hackeando-o-governo-com-dados-abertos.ogv"
+    },
+    {
+      "size": 209621765,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-hackeando-o-governo-com-dados-abertos.webm"
+    }
+  ]
+}

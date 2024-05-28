@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-04",
+  "slug": "openstreetmap-mapeando-o-mundo-com-liberdade-e-autonomia",
+  "speakers": [
+    "Wille Marcel Lima Malheiro",
+    "Frederico Gon\u00e7alves Guimar\u00e3es"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Aplica\u00e7\u00f5es educacionais"
+  ],
+  "title": "OpenStreetMap - Mapeando o mundo com liberdade e autonomia",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41d/sala41d-high-201307041604.ogg"
+    }
+  ]
+}

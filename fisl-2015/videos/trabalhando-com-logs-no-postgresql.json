@@ -1,0 +1,23 @@
+{
+  "description": "Parece incr\u00edvel mas existe um n\u00famero grande de pessoas que n\u00e3o configura corretamente os logs no PostgreSQL. Muitos nem sabem onde ele fica e nunca foram olhar o que tem l\u00e1. \u00c9 verdade que muitas aplica\u00e7\u00f5es que levam o PostgreSQL embarcado funcionam por anos sem nenhum problema. Mas um dia o problema vai surgir, e adivinha qual o primeiro lugar em que vamos olhar? Os logs claro. No entanto \u00e9 bem frustrante chegar no cliente e ver que os logs n\u00e3o est\u00e3o configurados, \u00e0s vezes, sequer habilitados. Isto significa que a capacidade de verificar um problema ocorrido no passado \u00e9 quase nula.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-09",
+  "slug": "trabalhando-com-logs-no-postgresql",
+  "speakers": [
+    "F\u00e1bio Telles Rodriguez"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Bancos de Dados"
+  ],
+  "title": "Trabalhando com logs no PostgreSQL",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41a/sala_41a-high-201507091159.ogv"
+    }
+  ]
+}

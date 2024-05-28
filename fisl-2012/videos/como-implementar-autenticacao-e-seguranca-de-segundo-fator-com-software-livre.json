@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-26",
+  "slug": "como-implementar-autenticacao-e-seguranca-de-segundo-fator-com-software-livre",
+  "speakers": [
+    "Jos\u00e9 Damico"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Seguran\u00e7a"
+  ],
+  "title": "Como implementar autentica\u00e7\u00e3o e seguran\u00e7a de segundo fator com Software Livre?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41e/sala41e-high-201207261400.ogg"
+    }
+  ]
+}

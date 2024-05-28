@@ -1,0 +1,42 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Voc\u00ea j\u00e1 ouviu falar no Postgres? Sabia que ele re\u00fane uma comunidade que cresce rapidamente ano \u00e0 ano? Saiba o que atrai tantos profissionais respeitados no mundo todo e por que ele ainda n\u00e3o \u00e9 o Banco de Dados mais famoso do planeta.",
+  "duration": 2160,
+  "id": 33,
+  "language": "por",
+  "recorded": "2013-01-31",
+  "related_urls": [
+    "http://campuse.ro/events/campus-party-brasil-2013/talk/postgres-wonderland",
+    "http://slcampusparty.com.br/blog/postgres-wonderland"
+  ],
+  "slug": "postgrees-wonderland",
+  "speakers": [
+    "F\u00e1bio Telles Rodriguez"
+  ],
+  "tags": [
+    "CPBR6",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Postgres",
+    "SQL"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/postgrees-wonderland.jpg",
+  "title": "Postgres Wonderland",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=jTI6oPUUZuQ"
+    },
+    {
+      "size": 282834615,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-postgrees-wonderland.ogv"
+    },
+    {
+      "size": 72486560,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr6-2013/cpbr6-2013-postgrees-wonderland.webm"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Um resumo sobre o projeto Debile e um pequeno relato sobre a minha experi\u00eancia no Google Summer of Code.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "projeto-debile-experiencia-no-gsoc",
+  "speakers": [
+    "Lucas Kanashiro"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "miniDebConf"
+  ],
+  "title": "Projeto Debile + Experi\u00eancia no GSoC",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507101706.ogv"
+    },
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41d/sala_41d-high-201507101728.ogv"
+    }
+  ]
+}

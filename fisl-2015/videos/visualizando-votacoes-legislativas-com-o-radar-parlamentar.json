@@ -1,0 +1,25 @@
+{
+  "description": "O Radar Parlamentar \u00e9 um aplicativo que ilustra as semelhan\u00e7as entre parlamentares com base na an\u00e1lise matem\u00e1tica dos dados de vota\u00e7\u00f5es que ocorrem numa casa legislativa. As semelhan\u00e7as s\u00e3o apresentadas em um gr\u00e1fico bidimensional, em que c\u00edrculos representam partidos ou parlamentares, e a dist\u00e2ncia entre esses c\u00edrculos representa o qu\u00e3o parecido os mesmos votam. Dessa forma, o cidad\u00e3o pode compreender melhor a conjuntura pol\u00edtica da casa legislativa, verificando quais parlamentares e partidos possuem mais afinidades entre si. Todas essas an\u00e1lises s\u00e3o constru\u00eddas com dados abertos disponibilizados pelas pr\u00f3prias casas legislativas (C\u00e2mara dos Deputados, Senado e C\u00e2mara Municipal de S\u00e3o Paulo).\n\nNessa palestra iremos apresentar: \n* As funcionalidades do Radar e interpreta\u00e7\u00f5es de seus gr\u00e1ficos;\n* Alguns detalhes internos de implementa\u00e7\u00e3o, como os m\u00e9todos matem\u00e1ticos empregados;\n* A din\u00e2mica da comunidade de contribuidores do Radar;\n* Problemas e desafios encontrados no caminho;\n* Planos para o futuro.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "slug": "visualizando-votacoes-legislativas-com-o-radar-parlamentar",
+  "speakers": [
+    "Leonardo Alexandre Ferreira Leite",
+    "Diego Rabatone Oliveira",
+    "Haydee Svab"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL16",
+    "Dados Abertos"
+  ],
+  "title": "Visualizando vota\u00e7\u00f5es legislativas com o Radar Parlamentar",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl16/high/41a/sala_41a-high-201507101803.ogv"
+    }
+  ]
+}

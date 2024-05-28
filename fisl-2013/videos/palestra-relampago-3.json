@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-06",
+  "slug": "palestra-relampago-3",
+  "speakers": [
+    "V\u00e1rios"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "Outras linguagens"
+  ],
+  "title": "Palestra Rel\u00e2mpago 3",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41c/sala41c-high-201307061702.ogg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "mapas-de-acessibilidade-reabilitarte",
+  "speakers": [
+    "Jos\u00e9 Ot\u00e1vio Pompeu e Silva"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Ecossistema / Cultura"
+  ],
+  "title": "Mapas de Acessibilidade ReAbilitArte",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41d/sala41d-high-201405101158.ogv"
+    }
+  ]
+}

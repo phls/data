@@ -1,0 +1,46 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Tudo que voc\u00ea queria (ou n\u00e3o) saber sobre o Debian, mas n\u00e3o tinha pra quem perguntar.",
+  "duration": 5852,
+  "id": 91,
+  "language": "por",
+  "recorded": "2015-07-10",
+  "related_urls": [
+    "http://softwarelivre.org/fisl16",
+    "https://wiki.debian.org/Brasil/Eventos/MiniDebConfFISL2015"
+  ],
+  "slug": "perguntas-e-repostas-sobre-o-debian",
+  "speakers": [
+    "Andr\u00e9 Felipe Machado",
+    "Giovani Augusto Ferreira",
+    "Lucas Kanashiro",
+    "Jo\u00e3o Eriberto Mota Filho",
+    "Antonio Terceiro",
+    "Marcelo Jorge Vieira",
+    "Adriano Rafael Gomes",
+    "Thadeu Lima de Souza Cascardo"
+  ],
+  "tags": [
+    "Debian",
+    "MiniDebConf",
+    "MiniDebConf FISL16",
+    "MiniDebConf FISL16 2015",
+    "PUCRS",
+    "FISL16",
+    "F\u00f3rum Internacional Software Livre",
+    "Porto Alegre"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/minidebconf_fisl16_2015_perguntas_e_repostas_sobre_o_debian.jpg",
+  "title": "Perguntas e Repostas sobre o Debian",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=s5ZwR45e2cI"
+    },
+    {
+      "size": 350809341,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/debian/minidebconf-fisl16-2015/minidebconf_fisl16_2015_perguntas_e_repostas_sobre_o_debian.ogv"
+    }
+  ]
+}

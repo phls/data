@@ -1,0 +1,46 @@
+{
+  "copyright_text": "CC BY",
+  "description": "Software Livre \u00e9 um fen\u00f4meno com a cara do s\u00e9culo XXI. Nasceu e cresceu com a Internet. \u00c9 tanto atividade economica quanto movimento social. Sua popula\u00e7\u00e3o de usu\u00e1rios e desenvolvedores cresce de forma vertiginosa. E, de maneira similar \u00e0 revolu\u00e7\u00e3o da m\u00eddia digital, \u00e9 um desafio para os processos econ\u00f4micos e comerciais atuais. H\u00e1 mais de 15 anos empresas tentam aproveitar esse novo paradigma para criar modelos de neg\u00f3cio vi\u00e1veis. Nesta palestra vamos estudar alguns casos importantes, e vou compartilhar minha experi\u00eancia de uma d\u00e9cada tentando vender produtos e servi\u00e7os baseados em software livre no Brasil e no mundo.",
+  "duration": 3610,
+  "id": 103,
+  "language": "por",
+  "recorded": "2014-01-28",
+  "related_urls": [
+    "http://slcampusparty.com.br/palestra-porque-vender-software-livre-e-ainda-mais-dificil-do-que-parece",
+    "http://campuse.ro/events/campus-party-brasil-2014/talk/cpbr7-porque-vender-software-livre-e-ainda-mais-dificil-do-que-parece"
+  ],
+  "slug": "porque-vender-software-livre-eh-ainda-mais-dificil-do-que-parece",
+  "speakers": [
+    "Christian \"kiko\" Reis"
+  ],
+  "tags": [
+    "CPBR7",
+    "Campus Party Brasil",
+    "Software Livre",
+    "S\u00e3o Paulo",
+    "Neg\u00f3cios",
+    "Venda",
+    "Async",
+    "Stoq",
+    "Canonical",
+    "Red Hat Enterprise Linux"
+  ],
+  "thumbnail_url": "http://hemingway.softwarelivre.org/capturas/porque-vender-software-livre-eh-ainda-mais-dificil-do-que-parece.jpg",
+  "title": "Porque vender software livre \u00e9 ainda mais dif\u00edcil do que parece",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=mcUuiL3gAb8"
+    },
+    {
+      "size": 258309904,
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-porque-vender-software-livre-eh-ainda-mais-dificil-do-que-parece.ogv"
+    },
+    {
+      "size": 110703288,
+      "type": "webm",
+      "url": "http://hemingway.softwarelivre.org/videos-diversos/campus-party/cpbr7-2014/cpbr7-2014-porque-vender-software-livre-eh-ainda-mais-dificil-do-que-parece.webm"
+    }
+  ]
+}

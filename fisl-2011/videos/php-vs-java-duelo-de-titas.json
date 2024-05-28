@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2011-07-02",
+  "slug": "php-vs-java-duelo-de-titas",
+  "speakers": [
+    "Klaus Silveira",
+    "Thiago Alvarenga Lechuga"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL12",
+    "PHP e Java"
+  ],
+  "title": "PHP vs Java: Duelo de Tit\u00e3s",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl12/high/sala41d/sala41d-high-201107020900.ogv"
+    }
+  ]
+}

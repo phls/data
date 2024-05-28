@@ -1,0 +1,23 @@
+{
+  "description": "Inspirada no trabalho do Bradley Kuhn e da Free Software Conservancy, a palestra vai mostrar porque o copyleft \u00e9 importante para o ecossistema do software livre e um mundo onde as pessoas possam exercer a liberdade de software.\n\nA palestra explica os princ\u00edpios do copyleft, desmistifica algumas inverdades espalhadas por a\u00ed, apresenta a realidade de um mundo com muito software livre sendo produzido, mas pouco chegando \u00e0s m\u00e3os do usu\u00e1rio, e mostra o trabalho realizado pela Free Software Conservancy para garantir que o copyleft tenha seu efeito devidamente aplicado.",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2016-07-15",
+  "slug": "copyleft-e-eu-com-isso",
+  "speakers": [
+    "Thadeu Lima de Souza Cascardo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL17",
+    "Cultura, Filosofia, e Pol\u00edtica"
+  ],
+  "title": "Copyleft - e eu com isso?",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl17/41a/sala41a-high-201607151003.ogv"
+    }
+  ]
+}

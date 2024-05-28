@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2014-05-10",
+  "slug": "yocto-project-reduzindo-time-to-market-do-seu-proximo-produto",
+  "speakers": [
+    "Otavio Salvador"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL15",
+    "Hardware, Sistemas Embarcados e Rob\u00f3tica"
+  ],
+  "title": "Yocto Project: reduzindo \"time to market\" do seu pr\u00f3ximo produto",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl15/high/41b/sala41b-high-201405101109.ogv"
+    }
+  ]
+}

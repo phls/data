@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2012-07-28",
+  "slug": "deploy-de-aplicacoes-python-na-nuvem",
+  "speakers": [
+    "Leonardo Santagada"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL13",
+    "Python, Ruby e Perl"
+  ],
+  "title": "Deploy de aplica\u00e7\u00f5es Python na nuvem ",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl13/high/41f/sala41f-high-201207281559.ogg"
+    }
+  ]
+}

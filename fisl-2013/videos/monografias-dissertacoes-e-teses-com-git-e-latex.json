@@ -1,0 +1,24 @@
+{
+  "description": "",
+  "duration": 0,
+  "language": "por",
+  "recorded": "2013-07-03",
+  "slug": "monografias-dissertacoes-e-teses-com-git-e-latex",
+  "speakers": [
+    "Raniere Gaia Costa da SIlva",
+    "Tiago Macedo"
+  ],
+  "tags": [
+    "Software Livre",
+    "FISL",
+    "FISL14",
+    "LaTeX"
+  ],
+  "title": "Monografias, Disserta\u00e7\u00f5es e Teses com Git e LaTeX",
+  "videos": [
+    {
+      "type": "ogg",
+      "url": "http://hemingway.softwarelivre.org/fisl14/high/41b/sala41b-high-201307031800.ogg"
+    }
+  ]
+}
